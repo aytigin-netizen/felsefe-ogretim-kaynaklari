@@ -8,9 +8,8 @@
 |-------|-------|
 | **Sınıf Seviyesi** | [Örn.: 10. Sınıf] |
 | **Ders Saati** | [Örn.: 10 saat] |
-| **2024 Müfredatta Oranı** | [Örn.: %11] `[doğrulama gerekli]` |
-| **2026 Revizyonunda Oranı** | [Örn.: %15] `[doğrulama gerekli]` |
-| **Ünite Kodu** | [Örn.: 10.3] `[doğrulama gerekli]` |
+| **Resmî programdaki oran** | [Örn.: %11] `[doğrulama gerekli]` |
+| **Ünite Kodu** | [Örn.: FEL.10.3] `[doğrulama gerekli]` |
 | **Alan** | [Örn.: Ontoloji] |
 
 ---
@@ -19,13 +18,14 @@
 
 Öğrenciler bu ünite sonunda:
 
-### FEL.[10/11].[Ü].[1] — [Kazanım adı ve fiili]
-- [Gözlemlenebilir davranış göstergesi; fiille biten ifade]
-- [Gözlemlenebilir davranış göstergesi]
+### FEL.[10/11].[Ü].[1] — [Resmî programdaki çıktı adı ve fiili]
+- [Resmî süreç bileşeni veya gözlemlenebilir davranış göstergesi]
+- [Resmî süreç bileşeni veya gözlemlenebilir davranış göstergesi]
 
-### FEL.[10/11].[Ü].[2] — [Kazanım adı ve fiili]
-- [Gözlemlenebilir davranış göstergesi]
-- [Gözlemlenebilir davranış göstergesi]
+> **Kural:** Çıktı kodu ve tam açıklaması resmî programdan birebir alınır. Programda ikinci çıktı yoksa ikinci kod oluşturmayın. Bir çıktının alt süreçlerini ayrı çıktı kodu gibi yazmayın.
+
+### [Gerektiğinde] FEL.[10/11].[Ü].[2] — [Yalnız resmî programda varsa]
+- [Resmî süreç bileşeni veya gözlemlenebilir davranış göstergesi]
 
 ---
 
@@ -77,6 +77,8 @@
 ## Sınıf Etkinlikleri
 
 ### Etkinlik 1: [Etkinlik adı]
+**İlişkili resmî çıktı:** `FEL.[10/11].[Ü].[x]` — [İlgili süreç bileşeni]
+
 **Amaç:** [Hedef]
 
 **Süre:** [Örn.: 20 dk]
@@ -90,9 +92,13 @@
 
 **Ürün (Öğrenme kanıtı):** [Örn.: Kavram haritası, tartışma notları]
 
+**Değerlendirme kanıtı:** [Hangi gözlenebilir davranış veya rubrik ölçütü kullanılacak?]
+
 ---
 
 ### Etkinlik 2: [Etkinlik adı]
+**İlişkili resmî çıktı:** `FEL.[10/11].[Ü].[x]` — [İlgili süreç bileşeni]
+
 **Amaç:** [Hedef]
 
 **Süre:** [Süre]
@@ -109,6 +115,15 @@
 ---
 
 ## Değerlendirme
+
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtmelidir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik / başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.[10/11].[Ü].[x]` — [Süreç bileşeni] | [Etkinlik adı] | [Somut ürün] | [Araç] | [Gözlenebilir ölçüt] | [0–…] |
+| `FEL.[10/11].[Ü].[x]` — [Süreç bileşeni] | [Etkinlik adı] | [Somut ürün] | [Araç] | [Gözlenebilir ölçüt] | [0–…] |
 
 ### Ölçme Araçları
 
@@ -174,5 +189,5 @@
 
 ## Kaynaklar
 
-- MEB Felsefe Öğretim Programı `[doğrulama gerekli]`
+- [MEB Felsefe Dersi Öğretim Programı](https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf)
 - [Eser ve yazar doğru eşleştirilmiş kaynak listesi]

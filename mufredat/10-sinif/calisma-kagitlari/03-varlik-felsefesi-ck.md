@@ -1,109 +1,187 @@
 # Çalışma Kâğıdı — 3. Ünite: Varlık Felsefesi
 
-Bu çalışma kâğıdı, MEB onaylı programın 3. ünite "Öğrenme-Öğretme Uygulamaları" (FEL.10.3.1) bölümünde öngörülen çalışma kâğıdını ve **anlam çözümleme tablosunu** somutlaştırır. Programda geçen sekiz felsefi akım (nihilizm, realizm, idealizm, materyalizm, düalizm, oluş felsefesi, fenomenoloji, varoluşçuluk) esastır.
+**Resmî öğrenme çıktısı:** `FEL.10.3.1` — Varlık felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme.[1]
 
-**Öğrencinin Adı Soyadı:** ____________________  **Tarih:** ____________
+Bu çalışma kâğıdında amaç, bir görüşü ezberlemek ya da benimsetmek değildir. Varlık felsefesinin kavramlarını, temel problemlerini, görüşlerini ve argümanlarını gerekçeleriyle incelemektir.
 
----
+**Adı Soyadı:** ____________________
 
-## Bölüm A: Felsefi Akımlar Çalışma Kâğıdı
+**Tarih:** ____________
 
-Her akım için verilen kısaltılmış açıklamayı okuyun; ardından akımı kendi cümlelerinizle özetleyin ve açık uçlu soruyu yanıtlayın.
-
-### Akım 1 — Realizm (Gerçekçilik)
-Dış dünyanın, zihnimizden bağımsız olarak var olduğunu savunan görüştür. Bilgi, var olan gerçekliğin doğru yansımasıdır.
-
-**Özet (kendi cümlelerinle):** ____________________________________________
-
-**Soru:** "Gözlerimi kapattığımda arkamdaki duvar hâlâ var olur mu?" realist bu soruya nasıl yanıt verir?
-____________________________________________
-
-### Akım 2 — İdealizm
-Gerçekliğin temelinin zihin, düşünce veya idea olduğunu savunan görüştür. Platon'un idealar öğretisi bu geleneğin kaynağıdır.
-
-**Özet:** ____________________________________________
-
-**Soru:** İdealizme göre bir ağacın gerçekliği nedir?
-____________________________________________
-
-### Akım 3 — Materyalizm
-Varlığın temelini madde olarak gören görüştür. Her şey maddesel süreçlerle açıklanabilir.
-
-**Özet:** ____________________________________________
-
-**Soru:** Materyalizm ile idealizmin temel farkı tek bir cümleyle nedir?
-____________________________________________
-
-### Akım 4 — Düalizm
-Varlığın ve insanın iki temel ilke (madde ve zihin / beden ve ruh) üzerine kurulu olduğunu savunan görüştür. Descartes bu geleneğin temsilcisidir.
-
-**Özet:** ____________________________________________
-
-**Soru:** Düalist birine göre "ben" kimdir: beden mi, zihin mi?
-____________________________________________
-
-### Akım 5 — Nihilizm
-Varlığa, bilgiye veya değere ilişkin olumlu temelleri reddeden, "hiçlik" anlayışına dayanan görüştür.
-
-**Özet:** ____________________________________________
-
-**Soru:** Nihilizm yalnızca kötümser bir görüş müdür? Bir gerekçe yaz.
-____________________________________________
-
-### Akım 6 — Oluş Felsefesi
-Varlığın durağan bir özden çok sürekli değişme ve oluş hâlinde olduğunu savunan görüştür. Herakleitos'un "her şey akar" anlayışı bu geleneğin köküdür.
-
-**Özet:** ____________________________________________
-
-**Soru:** Theseus'un gemisi örneği oluş felsefesini nasıl destekler?
-____________________________________________
-
-### Akım 7 — Fenomenoloji
-Bilinçte görünen olguları (fenomenleri) yargısızca betimlemeyi hedefleyen, Edmund Husserl tarafından kurulan akımdır.
-
-**Özet:** ____________________________________________
-
-**Soru:** Fenomenoloji deneylerle ölçülemeyen deneyimleri nasıl inceler?
-____________________________________________
-
-### Akım 8 — Varoluşçuluk
-"Varoluş özden önce gelir" ilkesini savunan; insanın kendi seçimleriyle kendini yarattığını vurgulayan görüştür. Sartre ve Heidegger bu akımın temsilcileridir.
-
-**Özet:** ____________________________________________
-
-**Soru:** "Öz-önce-varoluş" ve "varoluş-önce-öz" görüşleri insanı nasıl farklı tanımlar?
-____________________________________________
+**Grup / Sıra No:** ____________
 
 ---
 
-## Bölüm B: Anlam Çözümleme Tablosu (Grup Çalışması)
+## Bölüm A: Konu ve Kavram Haritası
 
-Aşağıdaki tabloyu iş birlikli olarak doldurun. Her akım için soru, kavram, problem, argüman ve temsilci belirtin.
+### A1. Varlık felsefesi neyi inceler?
 
-| Akım | Ele Aldığı Temel Soru | Ana Kavram(lar) | Çözmeye Çalıştığı Problem | Savunduğu Argüman | Temsilci(ler) |
-|------|------------------------|------------------|---------------------------|--------------------|----------------|
+Aşağıdaki cümleyi kendi sözcüklerinizle tamamlayın.
+
+> Varlık felsefesi, ________________________________________________
+> _________________________________________________________________
+
+### A2. Kavramları ilişkilendirme
+
+Aşağıdaki kavramlardan en az altısını kullanarak bir kavram haritası oluşturun. Oklarla kurduğunuz her ilişkinin yanına kısa bir gerekçe yazın.
+
+**Kavramlar:** varlık, ontoloji, töz, öz, varoluş, madde, idea, fenomen, oluş
+
+| Kavram | Kendi cümlenizle açıklama | İlişkilendirdiğiniz başka kavram | Gerekçe |
+|---|---|---|---|
+| Varlık | | | |
+| Ontoloji | | | |
+| Töz | | | |
+| Öz | | | |
+| Varoluş | | | |
+| Oluş | | | |
+
+### A3. Ön değerlendirme
+
+Aşağıdaki örneklerden ikisini seçin. Her biri için “hangi anlamda var sayılabilir?” sorusuna birer gerekçeli cümle yazın. Tek bir doğru cevap aranmaz; önemli olan kavramı ve gerekçeyi açık kurmaktır.
+
+- Bir taş
+- Bir sayı
+- Bir rüya
+- Adalet fikri
+- Dijital avatar
+
+1. Seçtiğim örnek: ____________________  Gerekçem: __________________________
+
+________________________________________________________________________
+
+2. Seçtiğim örnek: ____________________  Gerekçem: __________________________
+
+________________________________________________________________________
+
+---
+
+## Bölüm B: Varlık Var mıdır? Problem–Görüş–Gerekçe
+
+Varlık felsefesinin iki temel problemi şunlardır:
+
+1. **Varlık var mıdır?**
+2. **Varlık varsa nedir?**
+
+### B1. Problemleri ayırt etme
+
+| Soru | Hangi temel problemle daha çok ilişkilidir? | Neden? |
+|---|---|---|
+| “Düşünemediğimiz bir şeyden söz edebilir miyiz?” | | |
+| “Varlığın temelinde madde mi, düşünce mi vardır?” | | |
+| “Değişen bir şey aynı şey olarak kalabilir mi?” | | |
+| “Dış dünya zihinden bağımsız mıdır?” | | |
+
+### B2. Parmenides–Gorgias karşılaştırması
+
+Öğretmenin verdiği kısa ve kaynak bilgili metin kartlarını kullanın. Aşağıdaki tabloyu, metnin sözlerini kopyalamadan kendi cümlelerinizle doldurun.
+
+| Düşünür | Ele aldığı temel problem | Temel iddia | İddianın gerekçesi ya da dayanağı | Tartışmaya açık soru |
+|---|---|---|---|---|
+| Parmenides | | | | |
+| Gorgias | | | | |
+
+### B3. Gerekçeli karşılaştırma
+
+Parmenides ve Gorgias’ın görüşleri arasında bir fark yazın. Ardından bu farkın “varlığın var olup olmadığı” problemine nasıl etki ettiğini iki veya üç cümleyle açıklayın.
+
+________________________________________________________________________
+
+________________________________________________________________________
+
+---
+
+## Bölüm C: Varlığın Ne Olduğuna İlişkin Akımlar
+
+Her akım için öğretmenin verdiği bilgi kartından yararlanın. Akım adını ezberlemek yerine hangi soruya yanıt verdiğini, hangi kavramı kullandığını ve hangi gerekçeyi sunduğunu belirleyin.
+
+| Akım | Temel soru | Ana kavram(lar) | Görüş / iddia | Gerekçe ya da örnek | Temsilci / metin |
+|---|---|---|---|---|---|
+| Nihilizm | | | | | |
 | Realizm | | | | | |
 | İdealizm | | | | | |
 | Materyalizm | | | | | |
 | Düalizm | | | | | |
-| Nihilizm | | | | | |
-| Oluş Felsefesi | | | | | |
+| Oluş felsefesi | | | | | |
 | Fenomenoloji | | | | | |
 | Varoluşçuluk | | | | | |
 
+### C2. Akım karşılaştırması
+
+Tablodan iki akım seçin. Aşağıdaki cümle iskeletini kullanarak benzerlik ve farklarını yazın.
+
+> ____________________ ile ____________________ akımları, ____________________ problemi bakımından benzer / farklıdır. Çünkü ________________________________________________.
+
+> İlk akımın güçlü görünen yönü ____________________; tartışmaya açık yönü ise ____________________ olabilir.
+
 ---
 
-## Bölüm C: Karşılaştırma ve Akran Denetimi
+## Bölüm D: Görüş, Gerekçe ve Karşı Görüş
 
-1. Tablodaki akımlardan birbirine en çok benzeyen ve en çok farklılaşan iki ikili yazın; nedenlerini gerekçelendirin.
+Öğretmenin verdiği iddia kartlarından birini seçin. Karttaki görüşü savunmanız istenmemektedir; yalnızca argümanın yapısını incelemeniz beklenmektedir.
 
-   En benzeyen ikili: ____________________ — Çünkü: ______________
-   En farklılaşan ikili: ____________________ — Çünkü: ______________
+**Seçtiğim iddia kartı:** ______________________________________________
 
-2. Grup arkadaşının doldurduğu satırı inceleyin; cevaplarını saygı ve nezaket çerçevesinde doğrulayın veya düzeltin (D14.1). Düzeltme yaptıysanız gerekçenizi yazın.
+| Argümanın öğesi | Yanıtınız |
+|---|---|
+| İddia | |
+| İddiayı destekleyen gerekçe | |
+| Kullanılan kavram | |
+| Olası karşı görüş | |
+| Karşı görüşe verilebilecek yanıt | |
 
-   ______________________________________________________________________
+### D2. Akran dönütü
 
-3. Kendi inancına en yakın akımı seç ve bunun nedenini üç cümleyle açıkla.
+Eşinizin çalışmasında bir güçlü yön ve geliştirilmesi gereken bir yön yazın. Kişiyi değil, metindeki görüş ve gerekçeyi değerlendirin.
 
-   ______________________________________________________________________
+**Güçlü yön:** _________________________________________________________
+
+**Geliştirilmesi gereken yön:** _________________________________________
+
+**Gerekçem:** _________________________________________________________
+
+---
+
+## Bölüm E: Metin İnceleme Provası
+
+Öğretmenin verdiği kısa felsefi metni inceleyin. Metnin kaynak ve bağlam bilgisini başa yazın.
+
+**Metnin kaynağı / bağlamı:** __________________________________________
+
+| İnceleme adımı | Metinden bulgum | Metne dayalı kanıt / açıklama |
+|---|---|---|
+| Temel kavram | | |
+| Ele alınan problem | | |
+| Savunulan görüş / iddia | | |
+| Gerekçe veya öncül | | |
+| Sonuç | | |
+| Güçlü ya da tartışmaya açık yön | | |
+
+### E2. Performans görevi planı
+
+Metin inceleme formuna geçmeden önce aşağıdaki planı tamamlayın.
+
+- İnceleyeceğim metnin temel problemi: __________________________________
+- Kullanacağım iki kavram: ______________________________________________
+- Argümanın öncül ve sonucu: ___________________________________________
+- Değerlendirmemde ele alacağım güçlü ya da tartışmaya açık yön: ___________
+
+---
+
+## Öğretmen Notu ve Kısa Cevap Anahtarı
+
+Bu çalışma kâğıdında bazı sorular açık uçludur; tek bir kalıp yanıt aranmaz. Değerlendirme, öğrencinin kavramı doğru ve bağlamına uygun kullanmasına, problemi ayırt etmesine, görüş ile gerekçeyi birbirinden ayırmasına ve metne dayalı kanıt sunmasına göre yapılır.
+
+| Bölüm | Beklenen kanıt | Puanlama / dönüt ölçütü |
+|---|---|---|
+| A | Varlık felsefesinin konusu ile en az dört temel kavram arasında doğru ilişki | Kavram doğruluğu, ilişki kurma, gerekçe |
+| B | İki temel problemi ayırt etme; Parmenides–Gorgias görüşlerini iddia ve gerekçe bakımından karşılaştırma | Problem–görüş–gerekçe ayrımı |
+| C | En az iki akımı soru, kavram ve argüman bakımından karşılaştırma | Kavramsal doğruluk, karşılaştırma, kanıt |
+| D | İddia, gerekçe, karşı görüş ve yanıtı ayırma | Argüman yapısı, adil karşı görüş temsili |
+| E | Metindeki kavram, problem, argüman, öncül ve sonucu belirleme | Metne dayalılık, felsefi çözümleme |
+
+> **Erişilebilirlik seçeneği:** Öğrenci, uzun yazılı yanıt yerine kavram kartı, sesli açıklama, görsel şema veya öğretmenle kısa sözlü açıklama kullanabilir. Değerlendirmede felsefi hedef korunur; yalnızca sunum/tepki biçimi uyarlanır.
+
+## Kaynaklar
+
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"

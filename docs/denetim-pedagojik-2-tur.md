@@ -100,6 +100,19 @@ Matris, puanları yapay biçimde çıktılara eşitlemek için değil; her çık
 | P2 | Kısa pilot uygulama geribildirimi toplamak | Süre, yönerge, öğrenci ürünü ve farklılaştırma gözlem kaydı |
 | P2 | Kaynak güncelliği ve telif/bağlam denetimini ayrı turda yürütmek | Kaynak envanteri ve doğrulanmış bakım listesi |
 
+## 7. Bakım Güncellemesi — 14 Ağustos 2026
+
+Bu raporda **P0** olarak işaretlenen 10. sınıf 3. ünite için düzeltme tamamlanmıştır. Ünite artık yalnız resmî `FEL.10.3.1` kodunu ve programdaki tam çıktı metnini kullanmaktadır. Varlığın var olup olmadığı ile varlığın ne olduğu problemleri, Parmenides–Gorgias karşılaştırması, sekiz felsefi akımın argüman çözümlemesi ve kaynak bilgili metin incelemesi; etkinlik, çalışma kâğıdı, ölçme ve rubrikte birlikte görünür hâle getirilmiştir.[1]
+
+Aynı gün, `mufredat/template.md` dosyasına ortak **izlenebilirlik matrisi** eklenmiş; 3. ünite bu matrisin pilot uygulaması olarak tamamlanmıştır. Matris, her resmî süreç bileşenini ilgili etkinlik, somut öğrenci ürünü, ölçme aracı, gözlenebilir rubrik ölçütü ve puanla ilişkilendirir. Sonraki bakım döngüsünde bu yapı, kalan 14 üniteye uygulanacaktır.
+
+| Güncel durum | Sonuç |
+|---|---:|
+| Resmî çıktı metniyle eşleşen ünite | 15/15 |
+| Pilot izlenebilirlik matrisi bulunan ünite | 1/15 |
+| Ortak şablonda izlenebilirlik matrisi | Mevcut |
+| Kalan yaygınlaştırma kapsamı | 14 ünite |
+
 ## Kaynakça
 
 [1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"

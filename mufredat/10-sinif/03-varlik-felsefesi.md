@@ -1,15 +1,15 @@
-# 3. Varlık Felsefesi
+# 3. Ünite: Varlık Felsefesi
 
 ## Ünite Bilgileri
 
 | Bilgi | Değer |
-|-------|-------|
+|---|---|
 | **Sınıf Seviyesi** | 10. Sınıf |
 | **Ders Saati** | 8 saat |
-| **2024 Müfredatta Oranı** | %11 `[doğrulama gerekli]` |
-| **2026 Revizyonunda Oranı** | %15 `[doğrulama gerekli]` |
-| **Ünite Kodu** | FEL.10.3 `[doğrulama gerekli]` |
-| **Alan** | Ontoloji (Metafiziğin temel dalı) |
+| **Öğrenme Çıktısı Sayısı** | 1 |
+| **Ünite Kodu** | FEL.10.3 |
+| **Alan** | Varlık Felsefesi |
+| **Ünite Amacı** | Öğrencilerin varlık felsefesinin konu, kavram ve problemlerini; felsefi görüş ve argümanlarla ilişkilendirerek muhakeme etmesi. |
 
 ---
 
@@ -17,399 +17,250 @@
 
 Öğrenciler bu ünite sonunda:
 
-### FEL.10.3.1 — Varlık sorununu ve varlık kategorilerini sorgulayabilme
-- "Varlık nedir?" ve "Var olmak ne demektir?" sorularını felsefi bir soru olarak formüle eder
-- Varlığın ortak bir tanımının mümkün olup olmadığına dair farklı görüşleri (Elealar, Aristoteles, İbn Sina, Descartes) karşılaştırır
-- Varlık kategorilerini (cevher, nitelik, nicelik vb.) ayırt ederek günlük nesneleri kategorilere yerleştirir
-- Maddi ve manevi (zihinsel) varoluş ayrımını farklı metafizik görüşlerle (monizm, düalizm) tartışır
+### FEL.10.3.1 — Varlık felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme
 
-### FEL.10.3.2 — Varlıkların özellikleri, ilişkileri ve değişimlerini analiz edebilme
-- Kimlik (özdeşlik) ve farklılık ilkesini örnekle açıklar
-- Değişimle kalıcılık arasındaki gerilimi Heraclitus–Parmenides karşıtlığı üzerinden analiz eder
-- Özü-varolması ayrımını Aristoteles ve Sartre arasındaki görüş farkıyla tartışır
-- Nedensellik ilkesinin varlık kavrayışındaki rolünü Hume, Kant ve Spinoza'ya dayalı olarak sorgular
+- Varlık felsefesinin konusunu ve temel kavramlarını açıklar.
+- Varlık felsefesinin temel problemlerini açıklar.
+- Varlık felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.
+- Varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler.
+
+> **Kapsam notu:** Bu maddeler tek bir resmî öğrenme çıktısının süreç bileşenleridir; ayrı öğrenme çıktısı kodları değildir.[1]
 
 ---
 
-## Alan Becerileri ve Kavramsal Beceriler
+## Felsefi Çekirdek
 
-### Alan Becerileri
-- **Ontolojik metin okuma:** Aristoteles, İbn Sina, Descartes, Sartre gibi düşünürlerin varlık görüşlerini metinden ayırt etme
-- **Kavram çözümleme:** "Varlık", "öz", "cevher", "nedensellik" gibi kavramların anlamlarını günlük ve felsefi kullanımları arasında ayırt ederek tanımlama
-- **Karşılaştırmalı analiz:** Doğu (Hint, Çin, İslam) ve Batı felsefesindeki varlık anlayışlarını yan yana değerlendirme
+**Temel problem:** “Varlık var mıdır; varsa ne demektir ve nasıl açıklanabilir?”
 
-### Kavramsal Beceriler
-- **Kavram oluşturma:** Soyut varlık kavramlarını somut örneklerle biçimlendirme
-- **İlişkilendirme:** Varlık görüşlerini tarihsel, kültürel ve bilimsel bağlamlarla ilişkilendirme
-- **Değerlendirme:** Farklı ontolojik konumları gerekçeleriyle değerlendirme ve kendi gerekçeli duruşunu geliştirme
+Öğrenciler bu problem üzerinden varlık felsefesinin yalnızca “nesneler nelerdir?” sorusuna değil, var olmanın anlamına, varlığın temel yapısına ve farklı felsefi açıklamaların gerekçelerine yöneldiğini fark eder. Öğretmen, tartışmayı tek bir doğruya yönlendirmez; öğrencilerin kavram, görüş, gerekçe ve karşı görüşü birbirinden ayırmasını kolaylaştırır.
 
----
-
-## Anahtar Kavramlar
-
-| Kavram | Tanım |
-|--------|-------|
-| **Varlık** | "Var olan" anlamına gelen, felsefenin en genel konusu olan kavram; ontolojinin temel nesnesi |
-| **Ontoloji** | Varlığı varlık olarak inceleyen felsefe dalı; "varlık bilgisi" (varlık + bilim) |
-| **Cevher (Ousia)** | Aristoteles'in kategoriler sisteminde temel taşıyıcı; diğer kategorilerin (nitelik, nicelik vb.) üzerine bindiği şey |
-| **Kategori** | Varlıkları sınıflandırmak için kullanılan en genel varlık türleri |
-| **Öz (Cevher-öz)** | Bir şeyi o şey yapan, olmadan o şeyin var olamayacağı temel nitelik |
-| **Maddi varlık** | Duyularla algılanabilen, uzay-zamanda yer alan varlık türü |
-| **Manevi (zihinsel) varlık** | Duyularla algılanamayan, düşünce, duygu, bilinç gibi zihinsel alanlara ait varlık türü |
-| **Monizm** | Varlığın tek bir türden (yalnız madde veya yalnız tin) oluştuğunu savunan görüş |
-| **Düalizm** | Varlığın madde ve tin olmak üzere iki ayrı tözden oluştuğunu savunan görüş (Descartes) |
-| **Kimlik (özdeşlik)** | Bir varlığın zaman içinde ve karşı karşılaştırmalarda kendisiyle aynı kalma durumu |
-| **Nedensellik** | Bir olayın (neden) başka bir olayı (sonuç) doğurduğunu ileri süren ilke |
-| **Belirlenimcilik** | Her olayın önceki koşullar tarafından zorunlu olarak belirlendiği görüşü |
+| Kavram | Öğrenci düzeyinde açıklama | Öğrenme çıktısındaki işlevi |
+|---|---|---|
+| **Varlık** | Var olan ya da var olma bakımından düşünülen şey | Konu ve temel problem |
+| **Varlık felsefesi / ontoloji** | Varlığı, var olmayı ve varlık türlerini sorgulayan felsefe alanı | Alanı tanıma |
+| **Töz** | Bir şeyin taşıyıcı ya da temel sayılan varlık yönü | Kavram çözümleme |
+| **Öz** | Bir şeyi o şey yapan temel nitelik olarak düşünülen yön | Görüş karşılaştırma |
+| **Varoluş** | Bir şeyin fiilen var olması | Öz–varoluş ilişkisi |
+| **Madde** | Yer kaplayan, duyularla ilişkilendirilebilen varlık yönü | Görüş ve argüman çözümleme |
+| **Idea** | Düşüncede kavranan, ideal ya da zihinsel varlık olarak ele alınan yön | Görüş ve argüman çözümleme |
+| **Fenomen** | Bilince ya da deneyime görünen olgu | Görüş ve metin inceleme |
+| **Oluş** | Değişme ve meydana gelme süreci | Varlık problemi |
 
 ---
 
 ## İçerik Çerçevesi
 
-### 1. Varlığın Anlamı ve Sorusu (1 saat)
+### 1. Varlık Felsefesinin Konusu ve Temel Kavramları (1,5 saat)
 
-Felsefenin en temel sorusu şudur: **Varlık nedir ve var olmak ne demektir?** Soru basit görünür; ancak yanıtı binlerce yıldır filozofların üzerinde tartıştığı en zorlu sorulardan biridir. Varlığı tanımlamak zordur çünkü her tanımın kendisi de "var olan" bir şeydir; tanımlayacak bir şeyden kaçış yoktur. Bu yüzden felsefeciler varlığın tek bir ortak tanımının mümkün olmadığını, varlığın ancak kendi türleri üzerinden anlaşılabileceğini savunmuşlardır.
+Varlık felsefesi, varlığın ne olduğu, nasıl sınıflandırılabileceği ve var olanların hangi anlamda “var” sayılabileceği sorularını ele alır. Ontoloji ile metafizik kavramları ilişkilidir; bu ünitede öğrencilerin ikisini eş anlamlı ezberlemesi değil, varlıkla ilgili felsefi soruların kavramsal yönünü fark etmesi beklenir.
 
-**Temel Varlık Soruları:**
+Öğrenciler “taş”, “sayı”, “rüya”, “hatıra”, “adalet” ve “dijital avatar” gibi örnekleri varlık bakımından tartışırken günlük adlandırma ile felsefi problem kurma arasındaki farkı görür. Öğretmen, bir örneğin zor olması ya da farklı görüşlere açık bulunmasının onu “yanlış” yapmadığını vurgular.
 
-1. Her şeyin ortak olarak sahip olduğu "varlık" tek midir, yoksa varlıklar farklı türlerden mi oluşur?
-2. Var olanı neyle belirleriz: duyularla mı, akılla mı?
-3. Hiçlik de bir şey midir; varlık ve hiçlik arasındaki ilişki nedir?
+### 2. Varlık Felsefesinin Temel Problemleri (2 saat)
 
-**Tarihsel Görünüm:**
+Varlık felsefesinin temel problemlerinden ikisi şunlardır: **Varlık var mıdır?** ve **Varlık varsa nedir?** Bir problem üzerinde düşünürken öğrenciler, bir görüşün yalnız sonucunu değil; hangi öncüllere, kavramlara ve gerekçelere dayandığını da inceler.
 
-| Dönem | Temsilci | Varlık Anlayışı |
-|-------|----------|-----------------|
-| Antik Yunan (Elea Okulu) | Parmenides | Varlık birdir, bölünmez ve değişmez; değişim yanılsamadır |
-| Antik Yunan (Efes Okulu) | Heraclitus | Her şey akar; varlık sürekli değişim halindedir |
-| Klasik Antik | Aristoteles | Varlık çok türlüdür; cevher + 9 kategori ile sınıflandırılır |
-| Orta Çağ (İslam) | İbn Sina, Farabi | Varlığın özünün varoluşundan ayırt edilmesi; zorunlu ve mümkün varlık |
-| Orta Çağ (Hristiyan) | Thomas Aquinas | Varlık ve öz ayrımı; varlığı zorunlu olan Tanrı |
-| Modern Dönem | Descartes | Madde (uzantılı) ve tin (düşünen) olmak üzere iki töz |
-| Modern Dönem | Kant | Varlık bir gerçeklik yüklemi değildir; bilgi alanı deneyimle sınırlıdır |
-| 20. Yüzyıl | Heidegger, Sartre | Varlığın anlamının zamansal ve insana ait oluşu; varoluşçuluk |
+Parmenides, varlığın bir, değişmez ve düşünülebilir olduğunu savunur. Gorgias’a atfedilen üçlü sav ise varlık, bilme ve aktarma arasındaki ilişkiyi radikal biçimde sorgular. Bu iki yaklaşım, öğrencilerin “varlığın var olup olmadığı” problemini, görüşler arasındaki farkı basitleştirmeden ele almasına imkân verir. Tartışmada amaç bir filozofu “kazandırmak” değil; iddia, gerekçe ve sonuç arasındaki ilişkiyi görünür kılmaktır.
 
-**Doğu Geleneği:** Budizm'de "benliksizlik" (*anatta*) ve geçicilik (*anicca*) görüşü, kalıcı bir varlık özünün reddine dayanır. Taoizm'de "Tao", adlandırılamayan ama her şeyin kaynağı olan varlık ilkesidir. Bu görüşler, Batı'nın cevher-merkezli ontolojisiyle karşılaştırıldığında varlık sorusunun kültürel olarak da değişebildiğini gösterir.
+### 3. Varlığın Ne Olduğuna Yönelik Görüş ve Argümanlar (3 saat)
 
----
+Öğrenciler, varlık felsefesinin temel problemlerine verilen yanıtları sekiz felsefi akım üzerinden karşılaştırır: nihilizm, realizm, idealizm, materyalizm, düalizm, oluş felsefesi, fenomenoloji ve varoluşçuluk. Akımlar, tek cümlelik etiketler olarak değil; temel soru, kavram, sav, gerekçe ve tartışmaya açık yön bakımından incelenir.
 
-### 2. Varlık Kategorileri (2 saat)
+| Yaklaşım | Varlığa ilişkin odak sorusu | İncelenecek kavramsal yön |
+|---|---|---|
+| Nihilizm | Varlık veya değer hakkında olumlu bir temel kurulabilir mi? | Hiçlik, anlam, reddiye |
+| Realizm | Dış dünya zihinden bağımsız mıdır? | Gerçeklik, nesne, bağımsız varlık |
+| İdealizm | Varlığın temelinde düşünce ya da idea bulunur mu? | Idea, zihin, görünüş |
+| Materyalizm | Varlık maddi süreçlerle açıklanabilir mi? | Madde, doğa, açıklama |
+| Düalizm | Zihin ve madde ayrı varlık ilkeleri midir? | Töz, zihin, beden |
+| Oluş felsefesi | Varlık değişmez mi, oluş hâlinde mi? | Oluş, değişim, kalıcılık |
+| Fenomenoloji | Varlık bilince nasıl görünür? | Fenomen, deneyim, betimleme |
+| Varoluşçuluk | İnsan varoluşu nasıl anlam kazanır? | Varoluş, öz, seçim |
 
-**Aristoteles'in Kategoriler Sistemi**
+### 4. Felsefi Metin İnceleme (1,5 saat)
 
-Aristoteles, *Metafizik* ve *Kategoriler* adlı eserlerinde varlığı on kategoriye ayırır. Onun sınıflandırmasında en temel kategori **cevher**dir (ousia); öteki dokuz kategori cevherin üzerinde söylenen şeylerdir:
+Öğrenciler, varlık felsefesiyle ilgili kısa ve kaynak bilgili metinlerde kavram, problem, yargı, argüman, öncül ve sonuçları ayırır. Metni yalnız özetlemek yerine şu sorulara yanıt ararlar: “Metnin temel problemi nedir?”, “Hangi kavramlar bu problemi kuruyor?”, “Yazar hangi görüşü savunuyor?”, “Gerekçeleri ve tartışmaya açık yönü nedir?”
 
-| Kategori | Örnek |
-|----------|-------|
-| Cevher | İnsan, at |
-| Nicelik | İki metre, üç kilo |
-| Nitelik | Beyaz, bilgi |
-| İlgi | Yarı, iki kat |
-| Yer | Okulda, şehirde |
-| Zaman | Dün, yarın |
-| Durum | Ayakkabılı, silahlı |
-| İyelik | Ailesinde, ülkesinde |
-| Etme | Kesiyor, yakıyor |
-| Erteme | Kesiliyor, yanıyor |
-
-**Sınıf içi uygulama örneği:** "Kırmızı elma" dendiğinde "elma" cevherdir; "kırmızı" nitelik, "bir tane" nicelik, "masada" yer belirtir. Öğrenciler bu ayrımı kendi seçtikleri nesneler üzerinde uygulayarak kategorilerin işlevini görürler.
-
-**Karşılaştırmalı Görünüm:**
-
-| Düşünür | Kategori Yaklaşımı | Farkı |
-|---------|--------------------|-------|
-| Aristoteles | 10 kategori; cevher merkezli | Kategoriler dilin ve varlığın yapısını birlikte yansıtır |
-| İbn Sina | Öz–varoluş ayrımı; zorunlu-mümkün varlık | Varlığın kendisi bir "kaza" gibi eklenen şeydir; öz ondan önce gelir |
-| Kant | Kategoriler düşüncenin biçimleridir; nesnelerin kendisini bilemeyiz | Kategoriler varlığın değil, aklın yapısıdır |
+Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözetilerek Platon’un *Timaios*, Aristoteles’in *Metafizik*, Thales, Anaksimandros ve Anaksimenes fragmanları, İbn Sina’nın metafizik metinleri, Descartes’ın *Metafizik Üzerine Düşünceler*, Sartre’ın *Varoluşçuluk Bir Humanizmdir* ve Hilmi Ziya Ülken’in *Varlık ve Oluş* eserlerinden kısa, bağlam bilgili parçalar arasından dengeli seçilir.[1]
 
 ---
 
-### 3. Maddi ve Manevi Varoluş (1,5 saat)
+## Öğrenme-Öğretme Yaşantıları
 
-Varlık tartışmasının modern çağda en bilinen biçimi **madde-zihin problemi**dir. Descartes, 17. yüzyılda varlığı iki ayrı töz olarak ayırmıştır: uzayda yer kaplayan madde (*res extensa*) ve düşünen tin (*res cogitans*). Ünlü "Düşünüyorum, öyleyse varım" (*Cogito, ergo sum*) önermesi, Descartes'ın bilincin varlığını kesinlik temelinden çıkarma girişimidir.
+**Temel kabuller:** Öğrencilerin felsefenin anlamını, özelliklerini ve temel alanlarını; ayrıca bilim ile felsefenin varlığı farklı biçimlerde konu edinebileceğini genel düzeyde bildiği kabul edilir.
 
-**Üç Ana Konum:**
+**Ön değerlendirme:** Öğrencilerden “Bir rüya, bir sayı ve bir taş aynı anlamda mı vardır?” sorusuna kısa gerekçeli yanıt vermeleri istenir. Yanıtlar notlandırılmaz; kavram yanılgıları ve soru üretme biçimleri için öğretmene başlangıç verisi sağlar.
 
-| Konum | İddia | Temsilciler |
-|-------|-------|-------------|
-| **Düalizm** | Madde ve tin ayrı iki tözdür | Descartes |
-| **Materyalist monizm** | Yalnız madde vardır; zihin maddenin ürünüdür | Democritus (antik), günümüz fizikalizmi |
-| **İdealist monizm** | Yalnız tin/ide vardır; madde zihnin görünümüdür | Berkeley, bazı Vedanta yorumları |
-
-**Öğrenci örneği:** "Arkadaşımın öfkesini görebilir miyim?" Sorusu üzerinden: yüz ifadesi ve ses tonu duyulur (maddi belirtiler); öfkenin kendisi ise yalnızca arkadaşa aittir (zihinsel durum). Bu ayrım, maddi ve manevi varlık ayrımının neden hâlâ tartışmalı olduğunu gösterir.
-
----
-
-### 4. Değişim, Kimlik ve Öz (2 saat)
-
-**Heraclitus ve Parmenides Karşıtlığı**
-
-Efesli Heraclitus "Her şey akar" (*panta rhei*) der; aynı nehir sularına iki kez giremeyiz çünkü nehir sürekli değişir. Parmenides ise değişimin yanılsama olduğunu, varlığın bir ve değişmez olduğunu savunur. Bu karşıtlık, felsefe tarihinin en verimli tartışmalarından birinin başlangıcıdır.
-
-**Theseus'un Gemisi (özdeşlik paradoksu):**
-
-Athenalıların Theseus'un gemisini korumak için çürüyen tahtaları tek tek değiştirdiğini düşünelim. Tüm tahtalar değiştiğinde gemi hâlâ "aynı gemi" midir? Çıkarılan eski tahtalarla ikinci bir gemi kurulursa hangisi Theseus'un gemisidir? Bu düşünce deneyi, **bir varlığın ne zaman aynı, ne zaman farklı sayılacağını** sorgulatır ve öğrenciler için güçlü bir tartışma zemini sağlar.
-
-**Öz ve Varoluş:**
-
-Aristoteles'e göre her varlığın bir **özü** vardır: bir bıçağın özü kesmek, bir gözün özü görmek işlevindedir; öz varoluşuna (fiilen var oluşuna) kavramsal olarak öncedir. 20. yüzyılın önde gelen varoluşçu filozofu **Jean-Paul Sartre**, *Varlık ve Hiçlik* (1943) adlı başyapıtında bu sıralamayı tersine çevirir: insan için "varoluş özden önce gelir". Bir insan önceden tanımlanmış bir öze sahip olarak doğmaz; önce vardır, sonra kendi eylemleriyle kendini tanımlar. (Not: Sartre'ın öteki büyük eseri *Varoluşçuluk Bir Humanizmdir*'dir; Heidegger'ın başyapıtı ise *Varlık ve Zaman*'dır. İki filozofun eserleri birbirine karıştırılmamalıdır.)
-
-| Yaklaşım | Önce ne gelir? | İnsana bakış |
-|----------|----------------|--------------|
-| Aristoteles (öz-merkezli) | Öz | İnsan işlevine ve doğasına göre tanımlanır |
-| Sartre (varoluşçu) | Varoluş | İnsan kendini tanımlar; "insan kendi kendini yarattığı şeydir" |
-
----
-
-### 5. Nedensellik ve Varlık (2 saat)
-
-Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmaksızın sonuç olmaz." Ancak bu ilkenin kendisi de sorgulanabilir.
-
-**Üç Eleştirel Konum:**
-
-- **Hume:** Nedenselliği deneyimde asla gözlemleyemeyiz; yalnızca olayların art arda geldiğini görürüz. Nedensellik zihnimizin ürettiği bir alışkanlıktır, evrende zorunlu bir bağ değil.
-- **Kant:** Nedensellik deneyimin mümkün olmasını sağlayan zihinsel bir kategoridir; olgular dünyasında geçerlidir ama "nesnelerin kendisi" için geçerli olduğundan emin olamayız.
-- **Spinoza:** Her şey zorunlu bir zincir içinde belirlenmiştir; özgür irade yanılsamadır. Bu belirlenimci görüş, özgür irade tartışmasına doğrudan bağlanır.
-
-**Günlük hayatta nedensellik:** "Çaydanlık fokurduyor çünkü su kaynıyor" ile "Su kaynadığı için çaydanlık fokurduyor" ifadeleri arasındaki fark, nedenselliğin dilde nasıl kurulduğunu gösterir. Günlük nedensellik anlatımı ile felsefi nedensellik ilkesi arasındaki fark öğrencilere bu örnekle açılabilir.
-
-**Bağlantı sorusu:** Eğer belirlenimcilik doğruysa, öğrencilerin sınavda verdikleri "tercihler" gerçekten tercih midir? Bu soru, 5. ünite (Ahlak Felsefesi)ndeki özgür irade tartışmasına köprü kurar.
+**Köprü kurma:** Öğretmen kısa bir şiir, hikâye kesiti, film karesi veya görsel sunar. Öğrenciler uyarandan hareketle “Bu örnekte var olmak ne anlama geliyor?” sorusunu üretir. Örnek, öğrencinin kişisel deneyimini açıklamasını zorunlu kılmayacak biçimde seçilir.
 
 ---
 
 ## Sınıf Etkinlikleri
 
-### Etkinlik 1: "Varlık Nedir?" Soru Fırtınası ve Kavram Haritası
-**Amaç:** Varlık sorusunun felsefi bir soru olduğunu yaşayarak fark ettirmek; öğrencilerin ön kavramlarını açığa çıkarmak.
+### Etkinlik 1: Varlık, Ontoloji ve Kavram Haritası
 
-**Süre:** 40 dk
-
-**Adımlar:**
-1. Öğretmen tahtaya "VARLIK" yazar ve sorar: "Var olan her şeyi saymaya kalkışsak, hangi ortak özellikleri olurdu?"
-2. Öğrenciler tek tek örnek verir (taş, duygu, rüya, sayı, arkadaşlık); öğretmen her örneği "maddi mi, manevi mi?" sorusuyla etiketler
-3. "Rüyadaki yılan var mıdır?" gibi sınır durumlar tartışılır
-4. Öğrenciler, sınıfça üretilen örnekleri bir kavram haritasında sınıflandırır
-
-**Materyal:** Tahta/kâğıt, kavram haritası şablonu
-
-**Ürün:** Sınıfın ortak varlık kavram haritası (öğrenme kanıtı: öğrencinin maddi-manevi ayrımını yapabilmesi)
-
----
-
-### Etkinlik 2: Kategoriler Sınıflandırma Oyunu
-**Amaç:** Aristoteles'in 10 kategorisini somutlaştırıp öğrencilerin ayırt edici kullanımını sağlamak.
-
-**Süre:** 40 dk
-
-**Adımlar:**
-1. Öğretmen 10 kategori kartını gruplara dağıtır
-2. Gruplara günlük nesneler ve ifadeler verilir ("mavi kalem", "yarın", "okulda olmak", "kesmek")
-3. Her grup ifadeleri doğru kategoriye yerleştirir ve gerekçesini söyler
-4. Tartışma: "Sınıfta olmak" durumu mu, ilgisidir mi? Neden?
-
-**Materyal:** Kategori kartları, ifade kartları
-
-**Ürün:** Doğrulanmış sınıflandırma tablosu ve gerekçeler
-
----
-
-### Etkinlik 3: Theseus'un Gemisi Mahkemesi
-**Amaç:** Değişim ve kimlik sorununu tartışarak yaşamak.
-
-**Süre:** 60 dk
-
-**Adımlar:**
-1. Theseus'un gemisi hikâyesi anlatılır; geminin tahtaları tek tek değiştirilir
-2. Sınıf ikiye bölünür: "Aynı gemidir" ve "Aynı gemi değildir" tarafları
-3. Her taraf iki gerekçeli argüman sunar
-4. Oylama yapılır; taraflar sonuç üzerine yazar: "Kimlik neye bağlıdır: parçalara mı, biçime mi, işleve mi, hafızaya mı?"
-
-**Tartışma Soruları:**
-- İnsan hücresi de yıllar içinde yenileniyor; o hâlde sen hâlâ aynı insan mısın?
-- Bir bilgisayarın parçaları tek tek değiştirilirse aynı bilgisayar sayılır mı?
-
-**Ürün:** Gerekçeli konum yazısı (yarım sayfa)
-
----
-
-### Etkinlik 4: Madde-Zihin Duruşma Simülasyonu
-**Amaç:** Monizm ve düalizm görüşlerini taraflı rol alarak savunmak.
-
-**Süre:** 60 dk
-
-**Adımlar:**
-1. Üç grup kurulur: Descartes (düalizm), materyalist, idealist
-2. Her grup "bilincin varlığı ve doğası" konusunda kendi konumunu 3 dakikada savunur
-3. Diğer gruplar karşı soru sorar
-4. Değerlendirici öğrenciler hangi argümanın gerekçesi daha güçlü olduğunu oylar
-
-**Tartışma Sonrası:** Hiçbir taraf kesin kanıt sunamadı; felsefede "kanıt" ile "gerekçe" arasındaki fark nedir?
-
-**Ürün:** Grup savunma notları ve oylama sonucu
-
----
-
-### Etkinlik 5: Önce Öz mü, Önce Varoluş mu?
-**Amaç:** Aristoteles ve Sartre karşıtlığını öğrencilerin kendi yaşantısına bağlamak.
+**Amaç:** Varlık felsefesinin konusunu; varlık, töz, öz, varoluş, madde, idea, fenomen ve oluş kavramlarıyla açıklamak.
 
 **Süre:** 50 dk
 
-**Adımlar:**
-1. İki nesne gösterilir: bıçak (üretmeden önce amacı bellidir) ve yeni doğan bir bebek
-2. Soru: "Bıçağın ve bebeğin özü, üretiminden önce var mıydı?"
-3. Öğrenciler bireysel düşünür, sonra ikili çalışır
-4. Sartre'ın "insan kendini tanımlar" görüşü okunur; öğrenciler kendi geleceğine dair bir cümle yazar: "Beni tanımlayacak olan şey nedir: başkaları mı, seçimlerim mi?"
+**Öğretmen eylemi:** Öğretmen kavram kartlarını ve “taş–sayı–rüya–adalet–dijital avatar” örnek kartlarını verir. Kartların tek bir doğru sınıflandırmaya zorlanmadığını; her sınıflandırmanın gerekçelendirilmesi gerektiğini hatırlatır.
 
-**Ürün:** Kişisel duruş cümlesi ve gerekçesi
+**Öğrenci eylemi:** Öğrenciler kavramları kendi cümleleriyle açıklar, örnek kartlarıyla ilişkilendirir ve “varlık felsefesi hangi sorularla ilgilenir?” başlıklı kavram haritası oluşturur.
+
+**Öğrenme kanıtı:** Kavram haritası ve gerekçeli eşleştirme notu.
 
 ---
 
-### Etkinlik 6: Nedensellik Dedektifleri
-**Amaç:** Nedensellik ilkesini günlük örneklerle sorgulatmak ve Hume'un eleştirisini sezdirmek.
+### Etkinlik 2: Varlık Var mıdır? Parmenides–Gorgias Soru Çemberi
 
-**Süre:** 40 dk
+**Amaç:** Varlığın var olup olmadığı problemini açıklamak; Parmenides ile Gorgias’a atfedilen görüşlerde iddia, gerekçe ve sonucu ayırt etmek.
 
-**Adımlar:**
-1. Kısa videolar/görseller gösterilir: şimşek çakar ve gök gürler; top masaya çarpar ve kupa devrilir
-2. Soru: "Nedensel bağı gerçekten gördün mü, yoksa art ardalığı mı?"
-3. Öğrenciler "gördüğüm şey" ve "yorumladığım şey" sütunlu bir tablo doldurur
-4. Hume'un "alışkanlık" açıklaması sunulur; öğrenciler kendi yaşantısından bir "neden olduğuna emin olduğum ama aslında yalnızca hep birlikte gördüğüm" örnek bulur
+**Süre:** 60 dk
 
-**Ürün:** İki sütunlu gözlem tablosu ve bir kişisel örnek
+**Öğretmen eylemi:** Öğretmen iki kısa, kaynak ve bağlam bilgili metin kartı sunar. “Bir görüşü anlamak, onu kabul etmek değildir” ilkesini açıklar ve konuşma sırası/karşı görüş özeti için kontrol listesi kullanır.
+
+**Öğrenci eylemi:** Öğrenciler metinlerdeki temel soruyu, iddiayı ve gerekçeyi belirler. Küçük gruplar “Varlık var mıdır?” sorusuna bir görüşü savunmak yerine, iki görüşün hangi noktada ayrıldığını gerekçeleriyle gösteren karşılaştırma tablosu hazırlar.
+
+**Öğrenme kanıtı:** Problem–görüş–gerekçe karşılaştırma tablosu ve kısa sözlü açıklama.
 
 ---
 
-### Etkinlik 7: Akım Karşılaştırması ve Metin İnceleme Provası
+### Etkinlik 3: Akımların Soru, Kavram ve Argüman Haritası
 
-**Amaç:** Varlık felsefesinin temel problemlerine yönelik akımları karşılaştırmak ve performans görevi için kavram–problem–argüman inceleme ölçütlerini uygulamak.
+**Amaç:** Varlığın ne olduğuna ilişkin farklı felsefi akımların sorularını, kavramlarını, görüşlerini ve argümanlarını değerlendirmek.
+
+**Süre:** 80 dk
+
+**Öğretmen eylemi:** Öğretmen sekiz akım için kısa, kaynak bilgili bilgi kartları ve çalışma kâğıdını dağıtır. Akım adının tek başına yeterli yanıt olmadığını; argüman ve gerekçenin görünür olması gerektiğini modelleyerek açıklar.
+
+**Öğrenci eylemi:** Gruplar bir akımı çalışma kâğıdındaki anlam çözümleme tablosuna işler; ardından iki akımın benzerlik ve farkını problem, kavram ve argüman bakımından karşılaştırır. Gruplar birbirlerinin tablolarına açıklayıcı soru ve gerekçeli akran dönütü verir.
+
+**Öğrenme kanıtı:** Doldurulmuş anlam çözümleme tablosu, karşılaştırma notu ve akran dönütü.
+
+---
+
+### Etkinlik 4: Görüş–Gerekçe–Karşı Görüş Atölyesi
+
+**Amaç:** Varlık felsefesinin temel problemlerine yönelik bir görüşü, gerekçesi ve karşı görüşüyle değerlendirmek.
+
+**Süre:** 50 dk
+
+**Öğretmen eylemi:** Öğretmen “Varlık değişmezdir”, “Varlık oluş hâlindedir” ve “Varlığın temelini madde açıklar” gibi iddia kartları verir. Öğrencilerin kişisel inanç açıklaması yapması istenmez; karttaki görüş üzerinden çalışma yapılır.
+
+**Öğrenci eylemi:** Öğrenciler karttaki iddiayı destekleyen bir gerekçe, olası bir karşı görüş ve karşı görüşe verilebilecek yanıt yazar. Eşler, argümanda kavramların doğru kullanılıp kullanılmadığını kontrol listesiyle değerlendirir.
+
+**Öğrenme kanıtı:** Görüş–gerekçe–karşı görüş kartı ve akran kontrol listesi.
+
+---
+
+### Etkinlik 5: Varlık Felsefesi Metin İnceleme Laboratuvarı
+
+**Amaç:** Bir felsefi metinde kavram, problem, yargı ve argümanı; öncül–sonuç ilişkisini gözeterek incelemek.
+
+**Süre:** 50 dk
+
+**Öğretmen eylemi:** Öğretmen, kısa ve bağlam bilgili bir metin üzerinde kavramın, problemin ve argümanın nasıl ayrıştırıldığını modelleyerek gösterir. Doğrudan alıntıların kaynak künyesi olmadan kullanılmayacağını açıklar.
+
+**Öğrenci eylemi:** Öğrenciler seçilen kısa metinde temel kavramları işaretler, problemi formüle eder, yargıları ve argümanı ayırır; argümanın bir güçlü ve bir tartışmaya açık yönünü metne dayalı olarak not eder.
+
+**Öğrenme kanıtı:** Metin inceleme taslağı.
+
+---
+
+### Etkinlik 6: Performans Görevi Provası ve Akran Dönütü
+
+**Amaç:** Performans görevi için öğrenci ürününü, kavram–problem–argüman–değerlendirme ölçütleri bakımından planlamak.
 
 **Süre:** 30 dk
 
-1. Gruplar, realizm, idealizm, materyalizm, düalizm, oluş felsefesi, fenomenoloji, nihilizm veya varoluşçuluktan birini; soru, temel kavram, problem ve argüman bakımından `calisma-kagitlari/03-varlik-felsefesi-ck.md` ile çözümler.
-2. Her grup iki akımın benzer ve farklı yönlerini sınıfa sunar; dinleyenler en az bir açıklayıcı soru yöneltir.
-3. Öğretmen kısa bir felsefi metinden kavram, problem ve argüman ayırma modellemesi yapar; öğrenciler metin inceleme formuna yazacakları ilk bulguyu taslaklaştırır.
+**Öğretmen eylemi:** Öğretmen performans görevi rubriğini açıklar; öğrencilere metin inceleme formu, kontrol listesi ve kabul edilebilir alternatif ürün biçimlerini tanıtır.
 
-**Ürün:** Akım karşılaştırma notu ve metin inceleme taslağı.
+**Öğrenci eylemi:** Öğrenciler seçilen metin için ilk problem cümlesini, iki kavramı ve argüman taslağını yazar. Eşler, rubrikteki kavramsal doğruluk, problem çözümleme ve gerekçelendirme ölçütlerine göre dönüt verir.
+
+**Öğrenme kanıtı:** Performans görevi planı ve akran dönütü.
 
 ---
 
 ## Değerlendirme
 
+### Öğrenme Kanıtları
+
+Bu ünitede kavram haritası, problem–görüş–gerekçe tablosu, akım anlam çözümleme tablosu, görüş–gerekçe–karşı görüş kartı, akran değerlendirme formu, metin inceleme formu ve performans görevi birlikte kullanılır. Değerlendirme, öğrencinin belirli bir metafizik görüşe katılmasını değil; kavramı doğru kullanmasını, felsefi problemi açık kurmasını, görüş ve gerekçeyi ayırt etmesini, karşı görüşü adil temsil etmesini ve metne dayalı inceleme yapmasını ölçer.
+
+### İzlenebilirlik Matrisi
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.3.1` — Konu ve temel kavramları açıklar | Etkinlik 1 | Kavram haritası | Çalışma kâğıdı ve kısa yanıt | Varlık felsefesinin konusunu ve en az dört temel kavramı doğru ilişkilendirir. | 25 |
+| `FEL.10.3.1` — Temel problemleri açıklar | Etkinlik 2 | Problem–görüş–gerekçe tablosu | Yapılandırılmış karşılaştırma görevi | “Varlık var mıdır?” ve “Varlık nedir?” problemlerini ayırır; Parmenides–Gorgias farkını açıklar. | 20 |
+| `FEL.10.3.1` — Düşünce ve argümanları değerlendirir | Etkinlik 3 ve 4 | Akım tablosu, karşılaştırma notu, görüş–gerekçe kartı | Grup ürünü ve akran dönütü | Görüşü gerekçeyle ilişkilendirir; karşı görüşü çarpıtmadan değerlendirir. | 25 |
+| `FEL.10.3.1` — Metindeki kavram, problem ve argümanları inceler | Etkinlik 5 ve 6 | Metin inceleme formu | Performans görevi | Kavram, problem, iddia, gerekçe, öncül ve sonucu metne dayalı ayırt eder. | 30 |
+
 ### Ölçme Araçları
 
-#### 1. Yazılı Sınav (20 puan)
+#### 1. Çalışma Kâğıdı ve Kavram Haritası (25 puan)
 
-**Konu A: Varlık Sorusu ve Tarihsel Görünüm (5 puan)**
-- "Varlık nedir?" sorusunun neden felsefi bir soru olduğu
-- Parmenides ve Heraclitus'un karşıt görüşleri
+Öğrenciler varlık felsefesinin konusunu açıklar; varlık, töz, öz, varoluş, madde, idea, fenomen ve oluş kavramlarından en az dördünü örnek ve ilişkiyle kullanır. Kavram haritasında kavramlar arasındaki ilişkiyi gerekçelendirir.
 
-**Konu B: Varlık Kategorileri ve Maddi-Manevi Ayrımı (5 puan)**
-- Aristoteles'in kategoriler sisteminin açıklanması ve örnek verilmesi
-- Monizm, düalizm ve idealizm ayrımı
+#### 2. Problem–Görüş–Gerekçe Karşılaştırması (20 puan)
 
-**Konu C: Değişim, Öz ve Nedensellik (10 puan)**
-- Theseus'un gemisi üzerinden kimlik sorununa gerekçeli yanıt
-- Hume'un nedensellik eleştirisinin özeti
+Öğrenciler “Varlık var mıdır?” ve “Varlık nedir?” problemlerini ayırır. Parmenides ile Gorgias’a atfedilen görüşlerin iddia ve gerekçelerini karşılaştırır; bir benzerlik veya farkı açıklar.
 
-#### 2. Kısa Cevap Soruları (20 puan)
+#### 3. Akım Karşılaştırması ve Akran Dönütü (25 puan)
 
-1. "Rüyadaki nesneler var mıdır?" sorusuna kendi gerekçenle felsefi yanıt ver (5 puan)
-2. Aristoteles ve Sartre'ın "öz-varoluş" sıralamasını karşılaştır (5 puan)
-3. Bir nesne seç; Aristoteles'in dört kategorisine göre analiz et (5 puan)
-4. Nedenselliği asla gözlemleyemeyiz demek ne anlama gelir? Günlük bir örnek ver (5 puan)
+Öğrenciler iki felsefi akımın temel sorusunu, kavramlarını, görüşünü ve argümanını karşılaştırır. Akran dönütünde, görüşü kişiden ayırır; en az bir açıklayıcı soru ve metne/karta dayalı bir gerekçe sunar.
 
-#### 3. Pratik Etkinlikler (30 puan)
+#### 4. Performans Görevi: Varlık Felsefesi Metin İncelemesi (30 puan)
 
-- **Etkinlik Katılımı:** Tartışma ve sınıflandırma oyunlarına aktif katılım, argüman kalitesi (10 puan)
-- **Grup Çalışmaları:** "Mahkeme", "Duruşma" ve akım çözümleme çalışmalarında savunma ve karşı soru becerisi (10 puan)
-- **Yazılı Ürünler:** Kimlik yazısı ve kişisel duruş cümlesi (10 puan)
-
-#### 4. Performans Görevi (30 puan)
-
-**Metin İnceleme (resmî performans görevi):** Öğrenciler, varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek [metin inceleme formunu](../ortak-materyaller/metin-inceleme-formu.md) doldurur; çalışmalarını paylaşır ve [akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md) ile birbirlerini değerlendirir (D3.3, D16.3).
-
-**Resmî Metin Havuzu:**
-
-| Yazar | Eser | Odak |
-|-------|------|------|
-| Platon | *Timaios* | Kosmos, dünya ruhu ve oluş |
-| Aristoteles | *Metafizik* | Cevher, ilk felsefe |
-| Thales, Anaksimandros, Anaksimenes | *Fragmanlar* | İlk neden; arche |
-| İbni Sina | *Metafizik* (Kitâbu'ş-Şifa) | Öz-varoluş ayrımı |
-| R. Descartes | *Metafizik Üzerine Düşünceler* | Cogito; düşünce tözü |
-| J. P. Sartre | *Varoluşçuluk, Bir Humanizmdir* | Varoluş önce özdür |
-| Hilmi Ziya Ülken | *Varlık ve Oluş* | Türk düşüncesinde varlık |
-
-Alternatif ek ürünler (10 puanlık ek görev olarak değerlendirilebilir): kavram haritası projesi, "Theseus'un Gemisi: Modern Uyarlaması" veya Parmenides, Descartes ya da Sartre'dan birinin varlık görüşünü özgeçmişi ve bağlamıyla tanıtan filozof dosyası.
-
----
+Öğrenciler kaynak ve bağlam bilgisi verilen kısa bir felsefi metinde kavram, problem, iddia, gerekçe, öncül ve sonucu belirler. Metnin savunduğu görüşün bir güçlü ya da tartışmaya açık yönünü metinden kanıt göstererek değerlendirir. Metin inceleme formu ve akran değerlendirme formu kullanılır.
 
 ### Dereceli Puanlama Anahtarı
 
-| Kriter | 4 (Mükemmel) | 3 (İyi) | 2 (Orta) | 1 (Yetersiz) |
-|--------|-------------|--------|---------|--------------|
-| **Kavramsal Anlama** | Kavramları doğru tanımlar, kategorileri örnekle ayırt eder, tarihsel bağlamı kurar | Kavramları doğru açıklar, temel örnekler verir | Kavramlarda kısmi doğruluk, örnekler zayıf | Kavramlar karışık veya hatalı |
-| **Analitik Düşünme** | Paradoksu farklı perspektiflerden inceler, karşı argüman geliştirir | Birden fazla perspektif inceler, zayıflıkları gösterir | Tek perspektiften sığ analiz | Yalnız tanımlama, analiz yok |
-| **Tartışmaya Katılım** | Gerekçeli argüman sunar, başkasının görüşünü dinleyip sorgular | Katılır, temel argüman üretir | Kısmi katılım, argümanlar zayıf | Katılmaz, argüman vermez |
-| **Yazılı İfade** | Kesin ve açık cümleler, doğru terminoloji, mantıksal akış | Çoğunlukla açık, terminoloji doğru | Belirsiz ifadeler, terminoloji karışıklığı | Okunması zor, terminoloji yok |
+| Ölçüt | 4 — Çok güçlü | 3 — Yeterli | 2 — Gelişmekte | 1 — Başlangıç düzeyi |
+|---|---|---|---|---|
+| **Kavramsal doğruluk** | Varlık felsefesinin konusu ile temel kavramları doğru ve ilişkili açıklar; örnekleri yerindedir. | Temel kavramların çoğunu doğru açıklar. | Kavramlar kısmen doğru, ilişki zayıftır. | Kavramlar belirsiz ya da hatalıdır. |
+| **Problem çözümleme** | İki temel problemi açıkça ayırır; görüşlerin probleme verdiği yanıtı doğru kurar. | Problemleri ve en az bir görüşü büyük ölçüde doğru açıklar. | Problem veya görüş ilişkisi kısmen kurulmuştur. | Felsefi problem belirgin değildir. |
+| **Argüman ve karşı görüş** | İddia, gerekçe, öncül ve sonucu ayırır; karşı görüşü adil ve tutarlı değerlendirir. | Görüş ve gerekçe sunar; karşı görüşe yer verir. | Görüş vardır; gerekçe ya da karşı görüş sınırlıdır. | Gerekçeli değerlendirme yoktur. |
+| **Metin inceleme ve ifade** | Metindeki kavram, problem ve argümanı metne dayalı çözümler; açık ve tutarlı yazar. | Metni büyük ölçüde doğru çözümler; ifade anlaşılırdır. | Çözümleme veya ifade eksikleri vardır. | Metne dayalı kanıt sunmaz ya da ürün tamamlanmamıştır. |
 
 ---
 
 ## Farklılaştırma
 
-### Zenginleştirme (İleri Öğrenme)
+### Zenginleştirme
 
-**Derinlik:**
-- Heidegger'in *Varlık ve Zaman* (1927) adlı eserinden seçilmiş kısa pasajların okunması
-- Sartre'ın *Varlık ve Hiçlik* (1943) ve *Varoluşçuluk Bir Humanizmdir* eserlerinin karşılaştırılması
-- Modern ontolojinin alt dallarından mereoloji (bütün-parça ilişkisi) üzerine kısa araştırma
+- Parmenides ile Gorgias’ın varlık ve bilme ilişkisine dair görüşlerini kısa, kaynak bilgili metinlerle karşılaştırma.
+- Theseus’un Gemisi düşünce deneyini “değişim ve kimlik” problemi için genişletme çalışması. Bu etkinlik, ünite çekirdek çıktısının yerine geçmez; görüş–argüman değerlendirme için zenginleştirme olarak kullanılır.
+- Fenomenoloji ile bilimsel gözlem arasındaki farkı, günlük bir olguyu iki farklı dille betimleyerek tartışma.
 
-**Genişlik:**
-- Doğu felsefesinde ontoloji: Vedanta'da *Brahman*, Budizm'de *anatta* (benliksizlik) ve Taoizm'de Tao kavramı
-- Bilim-kurgu üzerinden kimlik sorusu: kopyalanan bilinç, tele-ulaşım (transporter) paradoksu
-- Yapay zekâ varlığı: bir yapay zekânın "varlığı" maddi mi, manevi mi yoksa yeni bir tür mü?
+### Destekleme
 
-**Sorgu:**
-- "Sayılar var mıdır? Evetse, nerede var olurlar?"
-- "Hiçlik hakkında düşünmek, hiçliğin var olduğunu ima eder mi?"
-
-### Destekleme (Farklı Öğrenme İhtiyaçları)
-
-**Anlamada Zorluk Yaşanıyorsa:**
-- Somut nesnelerle kategori alıştırmaları (gerçek kalem, defter, saat üzerinde çalışma)
-- Kavramların görsel temsili: infografik ve kavram haritası şablonları
-- "Var olan her şey" listesiyle başlayıp soyuta doğru kademeli ilerleme
-
-**Tartışmaya Katılımda Zorluk Yaşanıyorsa:**
-- Küçük grup (3-4 kişilik) tartışmalar; büyük sınıfa açılmadan önce
-- Önceden hazırlanmış argüman kartları ("Bence aynı gemidir çünkü...", "Bence farklıdır çünkü...")
-- Yazılı düşündürme sorularıyla sözlü katılıma köprü
-
-**Yazı Yazmasında Zorluk Yaşanıyorsa:**
-- Sözlü sunum veya ses kaydıyla değerlendirme imkânı
-- Şablonlu cümle iskeletleri: "___'e göre varlık ___'tür, çünkü ___."
-- Görsel kavram haritası ile yazılı metnin eşdeğer kabul edilmesi
+- Kavramları simge, kısa tanım ve somut örnek içeren kartlarla sunma.
+- Problem–görüş–gerekçe tablosunda cümle başlatıcıları kullanma: “Bu problem şunu sorar…”, “Bu görüşe göre…”, “Gerekçe olarak…”, “Buna karşı…”.
+- Uzun metin yerine kaynak bilgili, sadeleştirilmiş kısa parçalardan hareket etme; öğrenciye ek süre veya sözlü/şematik yanıt seçeneği sunma.
 
 ---
 
-## Tartışma Soruları (Ek)
+## Tartışma Soruları
 
-1. "Hiç var olmamış şeyler hakkında konuşabilir miyiz? Konuşabiliyorsak, onlar bir anlamda var sayılır mı?"
-2. Rüyada acı çekmek gerçek midir? Acının "yeri" neresidir?
-3. Bir video oyunundaki karakter "var" mıdır? Hangi anlamda?
-4. Evrenin başlangıcından önce "hiçlik" mi vardı? Bu soru anlamlı bir soru mudur?
-5. İnsan yalnızca maddi bir varlık mıdır? Cevabın ahlak ve hukuk için sonuçları nelerdir?
+1. “Varlık var mıdır?” sorusu ile “Varlık nedir?” sorusu neden aynı soru değildir?
+2. Parmenides ve Gorgias’ın görüşleri hangi varsayımlarda ayrışır?
+3. Bir felsefi görüşün güçlü olması, tartışmaya açık yönü olmadığı anlamına gelir mi?
+4. Bir dijital avatarın, bir sayının ve bir taşın varlığını aynı kavramlarla açıklamak mümkün müdür?
+5. Bir metinde iddiayı, gerekçeyi ve sonucu ayırmak görüşleri daha adil değerlendirmemize nasıl yardım eder?
 
 ---
 
 ## Kaynaklar
 
-- MEB Felsefe Öğretim Programı `[doğrulama gerekli]`
-- Aristoteles. *Metafizik* (Çev. Ahmet Arslan, Sosyal Yayınları)
-- Aristoteles. *Kategoriler*
-- İbn Sina. *el-İşarat ve't-Tenbihat*; *Kitabu'ş-Şifa* (Metafizik bölümü)
-- Descartes, R. *Meditationes de Prima Philosophia* (Metafizik Üzerine Meditasyonlar)
-- Heidegger, M. (1927). *Sein und Zeit* (Varlık ve Zaman)
-- Sartre, J.-P. (1943). *L'Être et le Néant* (Varlık ve Hiçlik)
-- Sartre, J.-P. (1946). *L'Existentialisme est un humanisme* (Varoluşçuluk Bir Humanizmdir)
-- Blackburn, S. (1999). *Think: A Compelling Introduction to Philosophy*. Oxford University Press
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+
+[2]: Aristoteles, *Metafizik* ve *Kategoriler*.
+
+[3]: Platon, *Timaios*.
+
+[4]: R. Descartes, *Metafizik Üzerine Düşünceler*.
+
+[5]: J.-P. Sartre, *Varoluşçuluk Bir Humanizmdir*.
+
+[6]: Hilmi Ziya Ülken, *Varlık ve Oluş*.
