@@ -44,9 +44,22 @@ Felsefe, Mantık ve Argümantasyon ünitesi; **FEL.10.2.1** öğrenme çıktıs�
 
 Bu eksikler giderildi. Etkinlik süreleri **320 dakika / 8 ders saati** olarak düzenlendi. İki açık uçlu ön değerlendirme sorusu eklendi; düşünme–dil ilişkisi farklı yaklaşımlara açık ve gerekçeli yorum odaklı biçimde düzenlendi; çalışma kâğıdına standart form cevap anahtarı ile değerlendirme notu eklendi; ortak öz ve akran değerlendirme formunda 2. ünite yönlendirmesi görünür hâle getirildi. Ayrıntılı kanıtlar [müfredat denetim raporunda](denetim-raporu.md) yer alır.
 
+## 11. Sınıf Üretim Durumu
+
+11. sınıf materyal üretimi, **1. Ünite: Çevre Sorunları ve Felsefe** ile başlatılmıştır. Bu ünite için öğretmen materyali, öğrenci çalışma kâğıdı, veri çözümleme etkinliği, çevre etiği argüman çalışması, felsefi metin performans görevi ve resmî gereklilik–materyal eşleştirmesi hazırlanmıştır. Ayrıntılı denetim kaydı [`denetim-raporu-11-sinif.md`](denetim-raporu-11-sinif.md) dosyasında yer alır.
+
+| Ünite | Başlık | Süre | Durum |
+|---:|---|---:|---|
+| 1 | Çevre Sorunları ve Felsefe | 12 saat | Tamamlandı ve denetlendi |
+| 2 | Teknoloji ve Hayat | 12 saat | Henüz hazırlanmadı |
+| 3 | Akıl ve İnanç | 10 saat | Henüz hazırlanmadı |
+| 4 | Edebiyat ve Felsefe | 12 saat | Henüz hazırlanmadı |
+| 5 | Hayatın Anlamı | 12 saat | Henüz hazırlanmadı |
+| 6 | Hukuk ve Felsefe | 10 saat | Henüz hazırlanmadı |
+
 ## Sonraki Bakım Önceliği
 
-10. sınıf materyal seti tamamlanmıştır. Yeni çalışma talebinde öncelik; yeni öğretim yılı için resmî program güncellemelerinin kontrol edilmesi, öğretmen geri bildirimleri doğrultusunda örneklerin iyileştirilmesi veya 11. sınıf materyallerinin aynı doğrulama yöntemiyle hazırlanması olabilir.
+10. sınıf materyal seti tamamlanmıştır. 11. sınıf için sıradaki çalışma, resmî program verileriyle **2. Ünite: Teknoloji ve Hayat** materyallerinin aynı doğrulama yöntemiyle hazırlanmasıdır. Bunun yanında yeni öğretim yılı için resmî program güncellemeleri ve öğretmen geri bildirimleri izlenebilir.
 
 ## Kaynak
 

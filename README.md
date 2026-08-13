@@ -30,6 +30,8 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   │   ├── 09-bilim-felsefesi.md
 │   │   └── calisma-kagitlari/                   # Birim bazlı çalışma kâğıtları
 │   └── 11-sinif/
+│       ├── 01-cevre-sorunlari-felsefe.md
+│       └── calisma-kagitlari/                   # 11. sınıf çalışma kâğıtları
 ├── materyaller/
 │   ├── tartisma-sorulari/
 │   ├── ders-planlari/
@@ -57,6 +59,21 @@ MEB onaylı programda 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur:
 | 8 | Din Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
 | 9 | Bilim Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
 
+## 11. Sınıf Üniteleri
+
+MEB onaylı programda 11. sınıf altı üniteden oluşur. İlk ünite için resmî programla hizalı materyal ve çalışma kâğıdı tamamlanmıştır.
+
+| Ünite | Başlık | Saat | Durum |
+|-------:|---|---:|---|
+| 1 | Çevre Sorunları ve Felsefe | 12 | Tamamlandı (resmî program doğrulamalı) |
+| 2 | Teknoloji ve Hayat | 12 | Henüz hazırlanmadı |
+| 3 | Akıl ve İnanç | 10 | Henüz hazırlanmadı |
+| 4 | Edebiyat ve Felsefe | 12 | Henüz hazırlanmadı |
+| 5 | Hayatın Anlamı | 12 | Henüz hazırlanmadı |
+| 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
+
+11. sınıf ünite denetim kayıtları için [`docs/denetim-raporu-11-sinif.md`](docs/denetim-raporu-11-sinif.md) dosyasına bakınız.
+
 ## Katkıda Bulunma
 
-Yeni ünite eklerken `mufredat/template.md` dosyasındaki ortak şablonu kullanın. Kazanım kodları (FEL.10.x.x) ve süreç bileşenleri [MEB Felsefe Dersi Öğretim Programı](https://tymm.meb.gov.tr/ogretim-programlari/ders/felsefe-dersi) ile birebir uyumlu olmalıdır.
+Yeni ünite eklerken `mufredat/template.md` dosyasındaki ortak şablonu kullanın. Kazanım kodları (FEL.10.x.x veya FEL.11.x.x) ve süreç bileşenleri [MEB Felsefe Dersi Öğretim Programı](https://tymm.meb.gov.tr/ogretim-programlari/ders/felsefe-dersi) ile birebir uyumlu olmalıdır.
