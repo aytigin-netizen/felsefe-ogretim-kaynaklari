@@ -223,9 +223,9 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 **Süre:** 30 dk
 
 **Adımlar:**
-1. Hayret etme, merak etme, şüphe duyma, sorgulama, yığılımlı ilerleme ve rasyonel, tutarlı, refleksif, eleştirel, sistematik, evrensel olma özelliklerini içeren çalışma kâğıdı verilir
+1. Çalışma kâğıdı (`calisma-kagitlari/01-felsefenin-dogasi-ck.md`) dağıtılır; kelime ilişkilendirme testi (Bölüm A) sınıfça çözülür, ardından felsefi düşüncenin özellikleri tablosu (Bölüm B) doldurulur
 2. Öğrenciler her özelliği kendi cümleleriyle ve günlük hayattan bir örnekle açıklar
-3. Dijital araçlarla bireysel veya grup kavram haritası oluşturulur (eksik verilmiş harita tamamlama alternatifi)
+3. Bölüm C açık uçlu soruları bireysel yazım için kullanılır; dijital araçlarla bireysel veya grup kavram haritası oluşturulur (eksik verilmiş harita tamamlama alternatifi)
 4. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir
 
 **Ürün:** Çalışma kâğıdı ve kavram haritası (OB1)
@@ -289,7 +289,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 
 ### Öğrenme Kanıtları
 
-Bu ünitede açık uçlu sorular, kelime ilişkilendirme testi, çalışma kâğıdı, kavram haritası, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği, kontrol listesi, grup değerlendirme formu, dereceli puanlama anahtarı ve performans görevi kullanılabilir.
+Bu ünitede açık uçlu sorular, kelime ilişkilendirme testi, çalışma kâğıdı, kavram haritası, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği, kontrol listesi, grup değerlendirme formu, dereceli puanlama anahtarı ve performans görevi kullanılabilir. Kelime ilişkilendirme testi ve çalışma kâğıdı `calisma-kagitlari/01-felsefenin-dogasi-ck.md` dosyasında; öz ve akran değerlendirme formları ile kontrol listeleri `ortak-materyaller/degerlendirme-formlari.md` dosyasında hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 

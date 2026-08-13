@@ -78,7 +78,7 @@ Bilim felsefesi, bilimin ne olduğunu, nasıl ilerlediğini ve bilimsel bilginin
 | Michelson-Morley deneyi | Işık hızının sabitliği; fizik kuramlarının dönüştürülmesi |
 | Milgram'ın Otorite ve İtaat deneyi | Sosyal bilimlerde deneysel etik ve yöntem tartışması |
 
-Temel kavramlar öğrenciler tarafından tanımlanır: **gözlem, hipotez, kuram, yasa, deney, bilimsel yöntem** (KB2.7). Süreçte eşleştirme testi veya boşluk doldurma çalışması yapılabilir.
+Temel kavramlar öğrenciler tarafından tanımlanır: **gözlem, hipotez, kuram, yasa, deney, bilimsel yöntem** (KB2.7). Eşleştirme testi ve boşluk doldurma çalışması `calisma-kagitlari/09-bilim-felsefesi-ck.md` dosyasından dağıtılır.
 
 | Kavram | Ayrım İpucu |
 |--------|-------------|
@@ -201,7 +201,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 
 ### Öğrenme Kanıtları
 
-Bu ünitede eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, sunum, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir.
+Bu ünitede eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, sunum, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme testi, boşluk doldurma ve kavram bulmacası `calisma-kagitlari/09-bilim-felsefesi-ck.md` dosyasında; metin inceleme formu, öz ve akran değerlendirme formları `ortak-materyaller/` klasöründe hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 

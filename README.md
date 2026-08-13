@@ -14,7 +14,10 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 
 ```
 ├── mufredat/
-│   ├── template.md                    # Ortak ünite şablonu
+│   ├── template.md                              # Ortak ünite şablonu
+│   ├── ortak-materyaller/                       # Üniteler arası ortak formlar
+│   │   ├── metin-inceleme-formu.md              # Performans görevi metin inceleme formu
+│   │   └── degerlendirme-formlari.md            # Öz ve akran değerlendirme şablonları
 │   ├── 10-sinif/
 │   │   ├── 01-felsefenin-dogasi.md
 │   │   ├── 02-felsefe-mantik-argumantasyon.md
@@ -24,7 +27,8 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   │   ├── 06-estetik-sanat-felsefesi.md
 │   │   ├── 07-siyaset-felsefesi.md
 │   │   ├── 08-din-felsefesi.md
-│   │   └── 09-bilim-felsefesi.md
+│   │   ├── 09-bilim-felsefesi.md
+│   │   └── calisma-kagitlari/                   # Birim bazlı çalışma kâğıtları
 │   └── 11-sinif/
 ├── materyaller/
 │   ├── tartisma-sorulari/
@@ -32,6 +36,8 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   └── etkinlikler/
 ├── web/
 │   └── (Web sitesi dosyaları)
+├── docs/
+│   └── denetim-raporu.md                        # Resmî program uyum denetim raporu
 └── README.md
 ```
 

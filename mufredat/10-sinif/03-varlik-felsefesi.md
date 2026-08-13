@@ -307,16 +307,26 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 #### 3. Pratik Etkinlikler (30 puan)
 
 - **Etkinlik Katılımı:** Tartışma ve sınıflandırma oyunlarına aktif katılım, argüman kalitesi (10 puan)
-- **Grup Çalışmaları:** "Mahkeme" ve "Duruşma" etkinliklerinde savunma ve karşı soru becerisi (10 puan)
+- **Grup Çalışmaları:** "Mahkeme", "Duruşma" ve akım çözümleme çalışmalarında savunma ve karşı soru becerisi (10 puan)
 - **Yazılı Ürünler:** Kimlik yazısı ve kişisel duruş cümlesi (10 puan)
 
-#### 4. Ödev / Proje (20 puan)
+#### 4. Performans Görevi (30 puan)
 
-**Seçenek A:** Kavram haritası projesi — Varlık kategorilerini ve maddi-manevi ayrımı görselleştiren harita
+**Metin İnceleme (resmî performans görevi):** Öğrenciler, varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek `ortak-materyaller/metin-inceleme-formu.md` formunu doldurur; çalışmalarını paylaşır ve akran değerlendirme formu ile birbirlerini değerlendirir (D3.3, D16.3).
 
-**Seçenek B:** "Theseus'un Gemisi: Modern Uyarlaması" — Aynı paradoksu güncel bir örnekle (telefon, oyun karakteri, şehir) yeniden kurma yazısı
+**Resmî Metin Havuzu:**
 
-**Seçenek C:** Filozof tanıtım dosyası — Parmenides, Descartes veya Sartre'dan birinin varlık görüşünü özgeçmişi ve bağlamıyla tanıtma
+| Yazar | Eser | Odak |
+|-------|------|------|
+| Platon | *Timaios* | Kosmos, dünya ruhu ve oluş |
+| Aristoteles | *Metafizik* | Cevher, ilk felsefe |
+| Thales, Anaksimandros, Anaksimenes | *Fragmanlar* | İlk neden; arche |
+| İbni Sina | *Metafizik* (Kitâbu'ş-Şifa) | Öz-varoluş ayrımı |
+| R. Descartes | *Metafizik Üzerine Düşünceler* | Cogito; düşünce tözü |
+| J. P. Sartre | *Varoluşçuluk, Bir Humanizmdir* | Varoluş önce özdür |
+| Hilmi Ziya Ülken | *Varlık ve Oluş* | Türk düşüncesinde varlık |
+
+Alternatif ek ürünler (10 puanlık ek görev olarak değerlendirilebilir): kavram haritası projesi, "Theseus'un Gemisi: Modern Uyarlaması" veya Parmenides, Descartes ya da Sartre'dan birinin varlık görüşünü özgeçmişi ve bağlamıyla tanıtan filozof dosyası.
 
 ---
 

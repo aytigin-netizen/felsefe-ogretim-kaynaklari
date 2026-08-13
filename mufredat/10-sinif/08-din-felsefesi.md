@@ -165,7 +165,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 
 ---
 
-### Etkinlik 3: Tanrı'nın Varlığı Kart Düellosu
+### Etkinlik 3: Tanrı'nın Varlığı Kart Düellosu (Eşleştirme Kartları Materyali: `calisma-kagitlari/08-din-felsefesi-ck.md`)
 **Amaç:** Beş görüşü ve dört argümanı karşılaştırmak (FEL.10.8.1-b, c).
 
 **Süre:** 40 dk
@@ -220,7 +220,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 
 ### Öğrenme Kanıtları
 
-Bu ünitede kavram haritası, eşleştirme kartları, boşluk doldurma, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir.
+Bu ünitede kavram haritası, eşleştirme kartları, boşluk doldurma, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme kartları ve boşluk doldurma çalışması `calisma-kagitlari/08-din-felsefesi-ck.md` dosyasında; metin inceleme formu, öz ve akran değerlendirme formları `ortak-materyaller/` klasöründe hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 
