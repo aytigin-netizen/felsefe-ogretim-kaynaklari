@@ -1,573 +1,327 @@
+# 6. Estetik ve Sanat Felsefesi
 
-# 6. Ünite: Estetik ve Sanat Felsefesi
+Bu ünite, öğrencilerin estetik ve sanat felsefesinin konu, kavram ve problemlerini **felsefi muhakeme** yoluyla incelemelerini amaçlar. Öğrenciler sanat eserleriyle karşılaştıklarında yalnızca “beğendim” veya “beğenmedim” demekle yetinmez; sanat, sanat eseri, güzellik, estetik haz, taklit, yaratım ve oyun kavramlarını ayırt ederek düşünce ve argüman geliştirir. Öğrenme-öğretme süreci, farklı sanat dallarından örneklerle başlayan duygu ve düşünce paylaşımından; sanat kuramları, güzellik ve ortak estetik yargıların imkânı problemine ilerler. Ünite verileri ve öğrenme-öğretme yaşantıları MEB Felsefe Dersi Öğretim Programı’na göre düzenlenmiştir. [1]
 
 ## Ünite Bilgileri
 
 | Bilgi | Değer |
-|-------|-------|
+|---|---|
 | **Sınıf Seviyesi** | 10. Sınıf |
-| **Ders Saati** | 10 saat |
-| **2024 Müfredatta Oranı** | %13.9 |
-| **2026 Revizyonunda Oranı** | %13.9 |
-| **Ünite Kodu** | 10.6 |
-| **Alan** | Değer Felsefesi / Sanat-Kültür Felsefesi |
+| **Ders Saati** | 6 saat |
+| **Öğretim programındaki oranı** | %8 |
+| **Ünite Kodu** | FEL.10.6 |
+| **Alan** | Estetik ve Sanat Felsefesi |
+| **Temel problem** | Güzellik ve ortak estetik yargıların imkânı |
 
 ---
 
 ## Öğrenme Çıktıları
 
+### FEL.10.6.1 — Estetik ve sanat felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme
+
 Öğrenciler bu ünite sonunda:
 
-### 10.6.1 — Estetik Disiplinini Tanımlar ve Tarihsel Gelişimini Açıklar
-- Estetik felsefesinin tanımını yapabilir ve diğer disiplinlerden ayrımını ifade edebilir
-- Eski Yunan'dan günümüze estetik düşüncesinin gelişim süreci üzerinde tartışabilir
-- Platon, Aristoteles, Kant, Hegel gibi önemli estetikçilerin temel görüşlerini kıyaslayabilir
-- Estetik teriminin etimolojisini (aesthesis = duyarlılık) anlamlandırabilir
-
-### 10.6.2 — Güzelin Doğası Hakkında Farklı Felsefi Görüşleri Analiz Eder
-- "Güzel" kavramının objektif mi yoksa sübjektif mi olduğu sorusuna felsefi yaklaşabilir
-- Platoncu güzel anlayışını idealar teorisiyle ilişkilendirebilir
-- Kant'ın estetik yargıdan matematik ve kategorik yargıları ayırabilir
-- Nietzsche ve postmodern yaklaşımların güzel tanımına karşı argümanlar sunabilir
-
-### 10.6.3 — Sanat Tanımına Yönelik Farklı Yaklaşımları Karşılaştırır
-- Sanatın tanımına yönelik imi teorisini, biçimci teorisini ve içerikçi teorisini ayırt edebilir
-- "Sanat nedir?" sorusunun nedenini felsefi çerçevede anlamlandırabilir
-- Çeşitli sanat eserleri (resim, heykel, müzik, edebiyat) üzerinden teorileri test edebilir
-- Duchamp'ın çeşmesi gibi sorgulayıcı sanat işlerini felsefi açıdan değerlendirebilir
-
-### 10.6.4 — Estetik Yargının Özellikleriyle İlgili Tartışmalara Katılır
-- Estetik yargının evrenselliği ve tekil olması arasındaki paradoksu kavrayabilir
-- "İçki tadı tartışılmaz" (de gustibus non est disputandum) ilkesine felsefi karşı argümanlar geliştirebilir
-- Kant'ın "disinterested pleasure" (çıkarsız hoşlanma) kavramını kritik edebilir
-- Estetik yargı ile ilmi/teknolojik yargının farkını belirtebilir
-
-### 10.6.5 — Sanat ve Kültür Arasındaki İlişkiyi Felsefi Açıdan Değerlendirir
-- Sanatın toplumsal işlevini (katarsis, bilinç, direniş) felsefi olarak tartabilir
-- Kültürelcilik ve evrensellik arasındaki gerilimi Türk ve batı sanatı örnekleriyle irdeleyebilir
-- Sanatın "otonom" mu yoksa "toplumsal bağlantılı" mı olduğu sorusunda düşünebilir
-- Sanat sansürü, sanatçı özgürlüğü ve ahlak sınırlarında kendi duruşunu savunabilir
+- estetik ve sanat felsefesinin konusunu ve temel kavramlarını açıklar;
+- güzellik ile ortak estetik yargıların imkânı problemini açıklar;
+- bu problemlere ilişkin düşünce ve argümanları gerekçeleriyle değerlendirir;
+- estetik ve sanat felsefesiyle ilgili bir metindeki kavram, problem ve argümanları inceler. [1]
 
 ---
 
-## Alan Becerileri ve Kavramsal Beceriler
+## Alan Becerileri ve Süreç Bileşenleri
 
-### Alan Becerileri
-- **Yapılan analitik okuma:** Estetik metinleri kavramsal açıdan ayırt edebilme
-- **Karşılaştırmalı düşünme:** Farklı sanat felsefesi yaklaşımlarını mutsallaştırma
-- **Sanat eseri üzerinde yorum:** Bir ressam, heykeltıraş veya şairin işini felsefi gözle değerlendirebilme
-- **Kültürel sensitivite:** Farklı kültürlerin estetik değerlerini tanıyarak özgül değerleme yapma
+| Bileşen | Ünite içindeki kullanım |
+|---|---|
+| **Alan becerisi** | **SBAB14. Felsefi Muhakeme:** Felsefi problemleri anlama, düşünce ve argümanları değerlendirme, felsefi metin inceleme |
+| **Eğilimler** | E3.5 Açık Fikirlilik, E3.10 Eleştirel Bakma |
+| **Sosyal-duygusal öğrenme** | SDB2.1 İletişim |
+| **Değerler** | D3 Çalışkanlık, D7 Estetik, D11 Özgürlük, D14 Saygı, D16 Sorumluluk |
+| **Okuryazarlık becerileri** | OB1 Bilgi, OB4 Görsel, OB9 Sanat Okuryazarlığı |
+| **Disiplinler arası ilişkiler** | Görsel Sanatlar, Türk Dili ve Edebiyatı |
+| **Beceriler arası ilişkiler** | KB2.7 Karşılaştırma, KB2.10 Çıkarım Yapma, KB2.13 Yapılandırma, KB2.18 Tartışma, KB3.1 Karar Verme, KB3.3 Eleştirel Düşünme |
 
-### Kavramsal Beceriler
-- **Felsefe sorulamak:** Sanatla karşılaştığında "Bu neden sanat?" diye sorabilme
-- **Düşünme ve sorgulamacılık:** Öznellik-nesnellik, ifade ve aldanış, kurguculuk-yaratıcılık gibi temel kavramları felsefeleştirme
-- **Kültürleştirme:** Günlük estetik tercihlerini felsefi bir çerçeveye yerleştirme
-- **Yaratıcı tasarım:** Felsefi bilgiyi yeni sanat ve tasarım fikirlerine dönüştürme
+Bu bileşenler, öğrencinin tek bir beğeni ölçütünü doğru kabul etmesinden çok; bir sanat eseri veya estetik yargı karşısında kavramları ayırmasını, argümanın gerekçesini incelemesini, farklı estetik görüşleri adil biçimde temsil etmesini ve saygılı iletişim kurmasını hedefler.
 
 ---
 
 ## Anahtar Kavramlar
 
-| Kavram | Tanım |
-|--------|-------|
-| **Estetik** | Güzel, çirkin, sanat gibi değer yargılarıyla ilgili felsefi düşünce dalı |
-| **Güzel (Beauty)** | Bir nesnenin görüntüsü veya yaşantısı sonucu aldığı hoşlanma hissi; objektif-subjektif tartışmasının merkezinde |
-| **Sanat (Art)** | İnsan tarafından yaratılan, ifade ve estetik amaç taşıyan yapıt |
-| **Estetik Yargı** | "Bu güzel" gibi kişisel tercih ile evrensel iddia arasında kalan hüküm |
-| **Katarsis** | Antik dramada, seyirci tarafından duyulan korku ve acımadan kurtulma |
-| **Mimetizm (Taklit)** | Sanatın doğayı veya gerçeği taklit etme işlevi |
-| **Sembolik Anlatım** | Sanat nesnesinin simgeler aracılığıyla anlam taşıması |
-| **Formalizm** | Sanatın içeriğinden ziyade biçimini (form) vurgulayan yaklaşım |
-| **Duyu** | Estetik deneyimin temelinde yatan algısal/duygusal etkinlik |
-| **Kültür** | Bir toplumun sanat, değer, norm ve geleneklerinin bütünü |
+| Kavram | Açıklama |
+|---|---|
+| **Estetik** | Güzel, estetik deneyim ve estetik yargı ile ilgili felsefi sorgulama alanı |
+| **Güzellik** | Bir nesne, eser veya deneyime ilişkin estetik değer; öznel veya nesnel olup olmadığı tartışılan kavram |
+| **Sanat** | Sanat felsefesinde tanımı, amacı ve sınırları sorgulanan insan etkinliği ve ürünleri alanı |
+| **Sanat eseri** | Sanat olarak değerlendirilen ürün, icra veya yaratım; hangi koşullarda sanat sayılacağı felsefi tartışma konusudur |
+| **Estetik haz** | Bir sanat eseri veya estetik nesne karşısında duyulan hoşlanma ve deneyim biçimi |
+| **Taklit** | Sanatın doğayı, nesneyi veya gerçekliği yansıtma/taklit etme yönünü öne çıkaran yaklaşım |
+| **Yaratım** | Sanatta sanatçının hayal gücü ve özgün kurma etkinliğini öne çıkaran yaklaşım |
+| **Oyun** | Sanatla haz ve özgürlük duyguları bakımından ilişkilendirilen yaklaşım |
+| **Estetik yargı** | “Bu güzeldir.” gibi bir nesne veya eser hakkındaki estetik değerlendirme |
+
+> **Kavram ayrımı:** Bir kişinin bir eseri beğenmemesi, eserin sanat olup olmadığı sorusuna tek başına yanıt vermez. Estetik yargı, sanat eseri ve sanatın tanımı soruları birbirleriyle ilişkili fakat farklı felsefi sorulardır.
 
 ---
 
-## İçerik Çerçevesi
+## İçerik Çerçevesi ve Altı Ders Saati Akışı
 
-### 1. Estetik Felsefesi Nedir? (2 saat)
+| Ders saati | Odak | Öğrenciden beklenen öğrenme kanıtı |
+|---|---|---|
+| 1 | Doğru/yanlış ön değerlendirme; sanat eserleriyle köprü kurma | Ön değerlendirme formu, duygu–düşünce notu |
+| 2 | Estetik ve sanat felsefesinin konusu; temel kavramlar | Kavram tablosu, kolaj çözümleme notu |
+| 3 | Sanat kuramları: taklit, yaratım ve oyun | Çizim karşılaştırması, görüş–gerekçe tablosu |
+| 4 | Sanat kuramlarını değerlendirme; haz ve özgürlük; Sokratik tartışma | Kuram eşleştirmesi, gerekçeli sözlü değerlendirme |
+| 5 | Güzellik, içsel–dışsal nitelikler ve ortak estetik yargılar | Nitelik gruplama tablosu, akran değerlendirme |
+| 6 | Filozof görüşleri ve metin inceleme performans görevi hazırlığı | Argüman çözümleme, metin inceleme planı |
 
-Estetik sözcüğü Yunanca *aesthesis* (duyarlılık, algı) kökünden gelmektedir. 18. yüzyılda Alman filozof Alexander Baumgarten estetik felsefesini bağımsız bir disiplin olarak kurmuştur. Estetik felsefesi; güzel, çirkin, sanat, estetik yargı, tadı gibi kavramları felsefi olarak sorgulayan disiplindir.
+### 1. Estetik ve Sanat Felsefesinin Konusu ve Temel Kavramları (2 saat)
 
-Estetik felsefesi diğer disiplinlerden nasıl ayrılır?
-- **Fizyoloji ve psikoloji** güzelliğin sinir sistemi tabanını incelerken, estetik güzelliğin *anlamını* inceler
-- **Sanat tarihi** sanat yapıtlarının tarihçesini kaydederken, estetik sanat ve güzelin *doğasını* soruşturur
-- **Antropoloji** farklı kültürlerin estetik tercihlerini belgelerken, estetik bu tercihlerin *neden* mümkün olduğunu sorar
+Estetik ve sanat felsefesi; güzellik, sanat, sanat eseri, estetik haz ve estetik yargı gibi kavramları felsefi olarak inceler. Öğrenciler için başlangıç noktası, bir resim, heykel, minyatür, müzik, ebru, roman veya hikâye karşısında oluşan duygu ve düşüncelerdir. Ancak derste amaç öğrencilerin duygularını “doğru” veya “yanlış” diye sınıflandırmak değildir. Öğrenciler, bir eserin kendilerine ne düşündürdüğünü ve hissettirdiğini ifade eder; ardından bu ifadelerin kültürel, estetik, etik ve sanatsal değerlerle nasıl ilişkilendirilebileceğini gerekçeleriyle sorgular. [1]
 
-**Tarihsel Gelişim:**
-- **Antik Çağ (Platon, Aristoteles):** Güzelin evrensel oranlarla (ratio) ilişkili olduğu görüşü
-- **Orta Çağ:** Güzelin Tanrı'ya dönüş aracı olarak görülmesi
-- **Modern Dönem (Descartes, Hume):** Güzelin nesnenin değil, gözlemcinin kararına bağlı olduğu
-- **Aydınlanma (Kant, Hegel):** Estetik yargının tekil ve evrensel olması paradoksu
-- **19. Yüzyıl (Nietzsche, Schopenhauer):** Güzelin yaşam ve erk üstüne ilişkisi
-- **20. Yüzyıl (Adorno, Gadamer, Derrida):** İdeoloji, toplumsal bağlam, metin-ötesi yaklaşımlar
+Öğretmen, sanatla ilgili özlü sözler ve çeşitli sanat eserlerinden oluşan, telif ve yaş düzeyi gözetilmiş bir kolaj kullanır. Öğrenciler sanat, sanat eseri, güzellik, estetik ve estetik haz kavramlarını önce kendi cümleleriyle açıklar; daha sonra verilen bilgi görseliyle kavramlarını gözden geçirir. Bu yaklaşım, öğrencinin sanatın ne olduğuna farklı açılardan ve ön yargısız bakmasını destekler. [1]
 
-### 2. Güzelin Doğası: Nesnel mi, Öznel mi? (2 saat)
+| İnceleme sorusu | Öğrencinin dikkat edeceği ayrım |
+|---|---|
+| “Bu eser bana ne hissettiriyor?” | Kişisel deneyim ile esere dair gerekçeli değerlendirme |
+| “Bu eseri sanat eseri olarak değerlendirmek için hangi nedenleri sunabilirim?” | Beğeni ile sanat tanımı arasındaki fark |
+| “Güzel dediğim şeyin hangi özellikleri var?” | İçsel/dışsal nitelikler ve estetik yargı |
+| “Farklı bir kişi neden başka türlü düşünebilir?” | Açık fikirlilik ve görüş çeşitliliği |
 
-Bu bölüm estetik felsefesinin en eski ve en temel sorusuna değinir.
+### 2. Sanat Kuramları: Taklit, Yaratım ve Oyun (2 saat)
 
-**Platoncu Görüş (Güzelin Nesnelliği):**
-Platon güzeli, maddi dünyada gözlenen özel bir tür ölçülülük (symmetria) ve uyum (harmonia) olarak tanımlar. Güzel nesneler içinde, güzelin ideası yansır. Bu nedenle güzel evrenseldir — tüm insanlar aynı matematik oranlarını güzel bulurlar.
-- *Eleştiri:* Farklı kültürlerde güzellik standartları farklıdır. Müzik akorları matematiktir ancak tadı kültürel olarak değişir.
+Sanat kuramları, “Sanat nedir?” sorusuna farklı yanıtlar verir. Program kapsamında taklit olarak sanat, yaratım olarak sanat ve oyun olarak sanat kuramları incelenir. Öğrenciler bu kuramları ezberlenmesi gereken etiketler olarak değil; bir sanat eserine ilişkin farklı açıklama denemeleri olarak ele alır. [1]
 
-**Hume ve İngiltere Deneycilikçileri (Güzelin Öznel Temeli):**
-David Hume, güzelin sadece gözlemcinin zevkine bağlı olduğunu, nesnede herhangi bir şey olmadığını iddia eder. "Hiçbir nesne içinde güzellik var değildir; sadece zihinde ve bu şeyleri gözlemleyen tasama bağlıdır."
-- *Eleştiri:* Eğer tamamen öznel ise, neden bazı eserleri "çoğu insan" güzel sayar? Neden tadı tartışırız, kanıtlamaya çalışırız?
+Taklit olarak sanat yaklaşımı, sanatın bir nesneyi, doğayı veya gerçekliği yansıtma yönünü vurgular. Yaratım olarak sanat yaklaşımı, sanatçının hayal gücüyle kurduğu özgün biçimi öne çıkarır. Oyun olarak sanat yaklaşımı ise sanat ile haz ve özgürlük duyguları arasındaki ilişki üzerinde düşünmeye imkân verir. Bir kuramın bir eseri açıklama gücü, o kuramın her eser için tek ve kesin açıklama olduğu anlamına gelmez.
 
-**Kant'ın Sentezi (Tekil ve Evrensel):**
-Immanuel Kant estetik yargıyı başka tüm yargılardan ayırır. Estetik yargı öznel (benim zevkime ait) ama evrensel taleplidir (sen de bunu güzel bulmalısın). Bu paradoks "çıkarsız hoşlanma" (disinterested pleasure) kavramı ile çözülür. Güzeli beğenirken çıkarımız (menfaatimiz) devrede değildir; bu nedenle evrenseldir.
+| Kuram | Temel vurgu | Öğrencinin inceleme sorusu |
+|---|---|---|
+| **Taklit olarak sanat** | Nesneyi, doğayı veya gerçekliği yansıtma | Eser, neyi ve hangi yönüyle yansıtıyor? |
+| **Yaratım olarak sanat** | Hayal gücü, özgün kurma ve sanatçının dönüştürücü etkinliği | Eserde taklitten farklı olarak ne kuruluyor veya dönüştürülüyor? |
+| **Oyun olarak sanat** | Haz, özgürlük ve oyuna benzer estetik etkinlik | Sanat etkinliği ile oyun arasında hangi benzerlik veya farklar var? |
 
-*Örnek:* Bir çiçeği güzel bulduğumda, onu almak istemediğim için (çıkarsız), başkasının da aynı güzellikteki karşılaşmayı yaşayacağını umabilirim.
+Öğrenciler bir objeyi önce gördükleri biçimiyle çizer, ardından aynı objeyi zihinlerinde hayal ettikleri biçimiyle kâğıda yansıtır. İki çizim arasındaki farklar, taklit ve yaratım kuramlarıyla ilişkilendirilir. Sanat–oyun ilişkisini incelemek için ise öğrenciler haz ve özgürlük duygularını tanımlayan örnekler üretir; insanın gerçek özgürlüğe sanatsal girişimde bulunarak ulaşıp ulaşamayacağını açık uçlu biçimde tartışır. [1]
 
-- *Eleştiri:* Çıkarsız hoşlanma ideali hayali midir? Tüm estetik deneyimlerde çıkar işlemez mi (statü, cinsel cazibelik, aile anısı)?
+### 3. Güzellik ve Ortak Estetik Yargıların İmkânı (2 saat)
 
-**Nietzsche'nin Ufuk Açıcı Eleştirisi:**
-Friedrich Nietzsche güzelliğin yaşam gücü, güç arzusu ve yaratıcılık ile ilgili olduğunu iddia eder. Güzel denediğimiz şey, yaşamı güçlendiren şeydir; çirkin, yaşamı zayıflatan şeydir. Dolayısıyla güzellik tamamen biyolojik ve ahlaki değildir — güç ve sağlıkla ilgilidir.
+Güzellik ve ortak estetik yargıların imkânı problemi, bir nesneyi veya eseri güzel bulmanın yalnızca kişisel bir tercih mi; yoksa başkalarıyla paylaşılabilir bazı gerekçelere dayanan bir yargı mı olduğunu sorar. Öğrenciler, “Güzel öznel midir, nesnel midir?” sorusunu tek doğruya yönelmeyen biçimde tartışır. Bir varlığı güzel kılan özellikleri belirler; bunları içsel ve dışsal nitelikler olarak gruplar. [1]
 
-*Güncel Örnek:* Sosyal medyada "güzellik standartları" hızla değişir; bu, güzelliğin sosyal güç dinamikleriyle (kim modelle, ünlü olmak istiyor) ilgili olduğunu gösterir.
+| Nitelik türü | Örnek inceleme sorusu |
+|---|---|
+| **Dışsal nitelikler** | Biçim, renk, çizgi, ritim, simetri veya düzen değerlendirmeyi nasıl etkiler? |
+| **İçsel nitelikler** | Anlam, çağrışım, duygu, bağlam veya eserle kurulan ilişki değerlendirmeyi nasıl etkiler? |
 
-### 3. Sanat Nedir? Sanat Teorileri (2 saat)
+Güzelliğin hakikat, iyilik ve yüceyle ilişkisi; öğrencilerin farklı görüşleri karşılaştırabilmesi için bir tartışma zemini sağlar. Öğrenciler, güzel algısının evrensel olup olamayacağına ilişkin görüşlerini örnek ve gerekçeyle sunar; birbirlerinin sözünü kesmeden dinler ve akran dönütü verir. [1]
 
-"Sanat nedir?" sorusu 20. yüzyıldan beri pek yanıtlanmayı bekleyen sorular arasında yer almıştır. Çeşitli teoriler vardır:
+Programda Platon, Alexander Baumgarten, Immanuel Kant ve Benedetto Croce’nin güzelliğin tanımı ve ortak estetik yargıların imkânına ilişkin düşünce ile argümanlarının değerlendirilmesi öngörülür. Öğretmen, bu görüşleri kısa ve bağlamlandırılmış bilgi kartlarıyla sunar. Öğrenciler, filozof adını gerekçenin yerine koymadan; karttaki kavram, iddia, gerekçe ve sonucu ayırır. [1]
 
-#### 3.1 Taklit Teorisi (Mimesis)
-**Temel İdea:** Sanat, gerçekliği yansıtmak veya taklit etmektir.
+### 4. Estetik ve Sanat Felsefesinde Metin İnceleme (Süreç boyunca)
 
-Platon ve Aristoteles'ten bu yana, sanatın işlevi gerçeklik üzerinden bir kopya yaratmaktır. Ressam tabiat manzarasını tuval üzerine aktarır; şair insansal durumları sözcükler kanalıyla sunar.
+Ünite sonunda öğrenciler, seçilen bir estetik veya sanat felsefesi metninde yer alan kavram, problem ve argümanları inceler. Çalışma, metni özetlemekten ibaret değildir. Öğrencinin metindeki temel kavramı tanımlaması, yazarın yanıt aradığı problemi ifade etmesi, argümanın gerekçe ve sonucunu ayırması ve gerekçeli bir değerlendirme sunması beklenir.
 
-*Avantaj:* Eski sanat (mağara resmi, antik heykeller) ile modern sanat arasında kesintisizlik sağlar.
-*Sorun:* Fotoğraf ve video tanımı tamamıyla geçersiz kılar. "Sanat yapan" nedir, sadece taklit mi?
+Resmî performans görevi için öğrenciler, görüşleri de alınarak dengeli biçimde dağıtılan metin havuzundan yararlanır. Çalışma, `mufredat/ortak-materyaller/metin-inceleme-formu.md` aracılığıyla yürütülür ve akran değerlendirme formu ile desteklenir. [1]
 
-#### 3.2 Sembolik Anlatım Teorisi (Symbolism / Formalism)
-**Temel İdea:** Sanat, semboller ve biçim aracılığıyla anlam iletir; taklit etmez.
-
-Bir soyut ressam saf renk ve şekil kullanarak, sözlü olmayan bir söylem yaratır. Müzik hiçbir şeyi "taklit etmez" ama düşünce ve duygu iletir.
-
-*Avantaj:* Müzik, dans, soyut sanat gibi taklit teorisinin açıklayamadığı sanatları kapsar.
-*Sorun:* Anlam tamamen alıcıya bağlıysa, neden kimisi sanat, kimisi değildir?
-
-#### 3.3 Ekspresif Teorisi (Hegel, Tolstoy)
-**Temel İdea:** Sanat, sanatçının içsel duygu ve düşüncesini dışa çıkarmasıdır.
-
-Sanat yapıtı, yaratıcının ruh halinin ve yaşam deneyiminin özgül biçimdeki anlatımıdır. Sanat tarihçi hegel sanatı, "mutlak ruhu" kendini aydınlanma yoluyla ifade etme süreci olarak görür.
-
-*Örnek:* Frida Kahlo'nun kendine bakış resimleri, onun acı ve kimlik arayışını doğrudan ifade eder.
-
-*Sorun:* Bazı sanatçı bilinçli olarak duygularını bastırır (Donald Judd minimal art'ı); bazı akademik sanat, "samimi duygu" olmadan yüksek sanata yükseltilir.
-
-#### 3.4 İnstitüsyonel Teorisi (Dickie, Danto)
-**Temel İdea:** Bir şey sanat olmaktan sanatçı, kurator, sanat dünyası (müzeler, galeri, eleştirmen vb.) tarafından onaylandığında sanat olur.
-
-Marcel Duchamp'ın bir ürinal alsıp "Çeşme" adıyla sergi salonuna koyması bu teoriyi tetikledi. O ürinal kendisi değil, sanat kurumunun onu sanat olarak kabulüdür.
-
-*Avantaj:* Çoğu çağdaş sanatı (performans, yükleme, konseptüel sanat) açıklar.
-*Sorun:* Sanatın özünün olmadığını; sadece sosyal kabul olduğunu ima eder. Yalnız bir malı sanat yapabiliyor muyuz?
-
-#### 3.5 Özünde Sanat Yoktur: Anti-Esansiyalizm
-**Temel İdea:** "Sanat nedir?" sorusunun hiçbir son cevabı yoktur; tanım daima dönemine göre değişir.
-
-Ludwig Wittgenstein "aile benzerliği" (family resemblance) ile bazı şeylerin tanımlı bir ortak özü olmadığını gösterir. Sanat da budur — oyunlar gibi, paylaşmak için bir ağırlık merkezi vardır ama kesin sınır yok.
-
-### 4. Estetik Yargı ve Tadı (2 saat)
-
-Estetik yargı, "Bu güzel" veya "Bu çirkini" gibi hükümlerimiztir. Ilginç olan, bu yargıların tekil (kişisel tercih) olup da evrensel olması beklentidir.
-
-**Karakteristikleri:**
-
-1. **Tekil ve Öznel:** "Bana göre bu güzel" — kişisel bir duygudur
-2. **Evrensel Talepli:** "Ama sen de bunu güzel bulmalısın" — diğerlerine uygulanması beklenir
-3. **İlgisizlik (Disinterest):** Estetik hoşlanma, çıkarla ilgili değildir. Güzel bir tabloyu satıp para kazanma arzusu yok; güzellikteki katılımı tadından ayırırız
-4. **Tartışmaya Açıklık:** Estetik yargılar tartışılır; ancak nihai kanıt yoktur ("İçki tadı tartışılmaz" — *de gustibus non est disputandum*)
-
-**Estetik Yargı vs. Diğer Yargılar:**
-
-| Yargı Türü | Temel Özellik | Örnek |
-|-----------|---------------|--------|
-| **Bilimsel** | Nesnel ve kanıtlanabilir | "Su 100°C'de kaynama noktasına ulaşır" |
-| **Estetik** | Öznel talepli/evrensel beklentili | "Bu ressam çalışması güzeldir" |
-| **Ahlaki** | Evrensel ve normatif | "Yalan söylemek yanlıştır" |
-| **Teknolojik** | İşlevsel ve amaca dayalı | "Bu çekiç ağır ama etkilidir" |
-
-**Kant'ın Estetik Yargı Analizi:**
-
-Kant, estetik yargının diğer yargılardan farklı bir türü olduğunu gösterir:
-- Mantıksal kanıt gerektirmez (sanatla konuşturmak yeterli)
-- Ancak diğerine "karşıdaş" (şu an dinleyeni) çağırır
-- Bu çağrı, ortak bir "sağduyunun duyu" (sensus communis) tarafındandır
-
-Yani estetik hoşlanmanın evrenselliği, "herkese aynı şeyi güzel bulmasını emretmemiz" değil; "bu güzellikteki deneyimini seninle paylaşabilir miyim?" diye sorabilmemizdir.
-
-**Güncel Kriz: Zevk Demokrasyası**
-
-Sosyal medya çağında estetik yargılar polarize olmaktadır. Her kişi kendi estetik kümesini oluşturur ve başkasının zevkini sorgulamadan sonra yargılanmaz. Bu, Kant'ın "evrensel talepli" fikrini zayıflatmışsa da, veri algoritmaları neyin görüneceğini belirlemesi nedeniyle yeni bir tür "estetik iktidar" ortaya çıkmıştır.
-
-### 5. Kültür, Toplum ve Sanat (2 saat)
-
-Sanat ve estetik asla boşlukta meydana gelmez; kültürel bağlamda düşünülmesi gerekir.
-
-#### 5.1 Sanatın Toplumsal İşlevleri
-
-**Katarsis (Tasfiyeleme):** Antik Yunan draması seyirciye korku ve acımayı yaşama fırsat verir; sonunda temizlenme (kathársis) meydana gelir. Aeschylus'un bir trajedisini izlemek psikolojik rahatlama yaratır.
-
-*Güncel:* Ağır konulu filmler (holocost öyküsü, sivil kayıplar) neden izleriz? Çünkü güvenli ortamda duygusal katarsis yaşanır.
-
-**Bilinçlendirme:** Sanat, sosyal gerçeklikleri açığa çıkarabilir. Goya'nın "Savaşın Felaketleri", savaşın barbarlığını gösterir. Theaster Gates'in Afroamerikan tarihiyle çalışması sömürüyü aydınlatır.
-
-**Direniş ve İtiraflama:** Totaliter rejimlerde, sanat iktidarın dile getirmediği gerçeklikleri konuşturur. Sovyet sanırında soyut resim yasaklanırken, yeraltı sanatçıları direniş ifadesi haline getirdi.
-
-**Eğlence ve Estetik Zevk:** Sanat basitçe hoşlanma ve güzellik sunabilir. Bunda "yüksek sanat vs. popüler kültür" ayrımı yapan elit bakış yanlış; eğlence de estetik bir işlevdir.
-
-#### 5.2 Kültürlecilik vs. Evrensellik Tartışması
-
-**Kültürelci Perspektif:** Güzellik ve sanat tamamen kültüre görelidir. Batı felsefesinin estetik kategorileri, batı olmayan kültürlerde sanatı yanlış okur. Örneğin, Afrika heykelleri "sanat" olarak değil, dinsel nesne veya sosyal işlev taşıdığında daha anlaşılır.
-
-*Sorun:* Eğer tamamen göreliysek, Türk sanatını Japon perspektifinden de, Rus perspektifinden de aynı geçerlilikte okuyabilir miriz? Yok.
-
-**Evrenselci Perspektif:** Belirli estetik kategorilar insan biyolojisine veya benzer sosyal yapıların karşılaştığı sorunlara köklenmiştir. Tüm toplumlar güzelliği, üzüntüyü, heyecanı dışa vurmak istedi; sanat bu evrensel insani ihtiyaçtan doğar.
-
-*Sorun:* İnsan "evrenselinin" belirlenmesi kimin yapacağına dair güç sorunu vardır.
-
-**Denge Yaklaşımı:** Sanat her zaman iki kutuplu yaşanır — kültürel özüne (Türk müzik geleneği) ve insani evrenselliğe (melankoli, coşku hissi). Bir besteci, geleneksel Türk makamını (kültürel öz) evrensel insan duygusuyla anlatabilir.
-
-#### 5.3 Sanat Özerkliği (Autonomy) ve Toplumsal Bağlantı
-
-**Sanatın Özerkliği Tezi:** 18.-19. yüzyılda, sanat "sanat için sanat" (art for art's sake) felsefesini benimsedi. Oscar Wilde "Hiçbir şey sanatı doğrudan etkileyemez" demişti. Sanat, toplumsal amaca hizmet etmemeli; kendi güzellik yasalarına itaat etmelidir.
-
-*Yöneticiler:* Dekadent (çözülümcü) sanat sosyal değerleri bozar; örneğin, Naziler "dejenere sanat" olarak modern sanatı yasakladı.
-
-*Savunucular:* Sanatı propaganda aracı yapan rejimler (Stalin'in sosyalist realizmi) sanatı ölüp kuruttu.
-
-**Toplumsal Bağlı Tezi:** Dada, Sürrealizm, Sanat ve Zanaat hareketi vs. sanatı toplumsal değişime katılaştırmaya çalıştı. Konseptüel sanatçı Joseph Kosuth "Biçim sanat değildir; fikir sanat ve ifadesinin yolu sanat değildir" dedi.
-
-*Örnek:* Ai Weiwei'nin hasarlı çatı kiremitleri çöken okuldan şehitler için protest yapısıdır; saf estetik değildir, siyaselidir.
-
-**Çok Ufuklu Yaklaşım:** Sanat hem özerk hem de ilişkilidir. Sanatçı bir sosyal bağlamda yaşar (bundan kaçamaz), ama sanatın tasarlanmış propagandaya indirgenemeyeceğinin de bilinci vardır.
-
-#### 5.4 Sanat Sansürü, Özgürlük ve Ahlak Sınırı
-
-Sanatçı özgürlüğü ve toplumsal ahlak kuralları çatışırken, felsefe nerede sınır çizer?
-
-**İfade Özgürlüğü Argümanı:** Bir sanatçının ne söyleyeceği, oluşturacağı, göstereceği kendi kararıdır. Başkasının ahlak değerleri, beni kısıtlamamalıdır.
-
-*Sorun:* Sınır yok mu? Çocuk pornografisini "sanat olarak" sunabilir miyiz? Çoğu biliriz: hayır.
-
-**Toplumsal Ahlak Argümanı:** Belirli değerler (çocuk koruması, özel yaşamın gizliliği) sanatçı özgürlüğünün üstündedir. Sanat, yasal ve ahlaki sınırlar içinde yapılmalıdır.
-
-*Sorun:* Kim sınırı çizer? Baskıcı rejimler, sansürü meşrulaştırmak için "ahlak" kullanırlar.
-
-**Diyalektik Çözüm:** Sanatçının karelili yüksek, ama ağır sosyal zararlar (çocuk istismarı) söz konusuysa, toplum müdahale edebilir — ancak bu müdahale devlet baskısından ziyade sosyal diyalog ve tartışma olmalıdır. Tepkileme, protesto, karşı sanat — bunlar sansür değil; sosyal konuşmadır.
+| Yazar | Eser | İnceleme odağı |
+|---|---|---|
+| Aristoteles | *Poetika* | Taklit, sanat ve tragedya tartışmaları |
+| Friedrich Schiller | *İnsanın Estetik Eğitimi Üzerine* | Estetik eğitim, oyun ve özgürlük |
+| Benedetto Croce | *Estetik* | Sanat, ifade ve estetik deneyim |
+| İsmail Tunalı | *Estetik* | Estetik ve sanat felsefesi kavramları |
+| John Berger | *Görme Biçimleri* | Görme, yorum ve sanat eseriyle ilişki |
 
 ---
 
-## Öğrenme-Öğretme Uygulamaları
+## Sınıf Etkinlikleri
 
-### Etkinlik 1: Estetik Kavramlarının Keşfi (Ön Hazırlık)
-**Amaç:** Öğrencilerin kendi estetik deneyimlerini fark etmesi.
+### Etkinlik 1: Doğru/Yanlış Ön Değerlendirme ve Sanat Kolajı
+
+**Amaç:** Öğrencilerin sanatın insana ve topluma etkisine ilişkin ön bilgilerini belirlemek; farklı sanat eserleriyle estetik bağ kurmalarını sağlamak.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Öğrencilere çeşitli nesneler (doğal taş, makine parçası, mimar Sinan'ın Süleymaniye Camii fotoğrafı, çağdaş soyut resim) gösterilir
-2. Her bir nesne için şu sorular sorulur:
-   - "Bu nesne neden güzel veya çirkin?"
-   - "Güzelliğin nerede olduğunu düşünüyorsun: nesnede mi yoksa sen mi görmede?"
-   - "Bu nesneyi 'sanat' olarak görür müsün?"
-3. Tartışma sonucu, öğrencilerin taşıdığı öncül değerler açılır: "Güzelin nerede?" sorusu tarihsel hale gelir
 
-**Materyal:** Fotoğraflar, doğal ve yapay nesneler
+1. Öğrenciler çalışma kâğıdındaki doğru/yanlış ön değerlendirme maddelerini gerekçesiz olarak işaretler.
+2. Öğretmen resim, heykel, minyatür, müzik, ebru, roman veya hikâyeden yaş düzeyine uygun örnekler içeren bir kolaj sunar.
+3. Öğrenciler seçtikleri bir örnek için “Bu eser bana ne düşündürüyor ve hissettiriyor?” sorusuna kısa yanıt yazar.
+4. Gönüllü öğrenciler yanıtlarını paylaşır; sınıf farklı yorumların aynı eser karşısında mümkün olup olmadığını tartışır.
 
----
+**Materyal:** `06-estetik-sanat-felsefesi-ck.md` Bölüm A; telif ve yaş düzeyi gözetilmiş kolaj.
 
-### Etkinlik 2: Büyük Estetikçilerin "Düellosu"
-**Amaç:** Tarihsel estetik teorileri öğrenci perspektifinden yaşatmak.
-
-**Adımlar:**
-1. Sınıf 5 gruba bölünür; her gruba bir estetikçi atanır:
-   - Grup 1: Platon (güzel = evrensel oranlar)
-   - Grup 2: Hume (güzel = subjektif haz)
-   - Grup 3: Kant (güzel = tekil ve evrensel)
-   - Grup 4: Nietzsche (güzel = yaşam gücü)
-   - Grup 5: Postmodern (güzel = yapılandırılmış)
-
-2. Her grup kendi estetikçinin tanımını "Çağdaş Sanat" (örn. Banksy'nin grafitisi) lens'ten açıklar
-3. Gruplar birbirlerine karşı argümanlar sunar
-
-**Ürün:** Tartışma notları, temel argüman özeti
+**Ürün (öğrenme kanıtı):** Ön değerlendirme formu ve duygu–düşünce notu.
 
 ---
 
-### Etkinlik 3: Sanat Tanımı Laboratuvarı
-**Amaç:** Çeşitli sanat türlerini tanım teorileriyle sınaması.
+### Etkinlik 2: Kavram Kolajı ve Sanatın Konusu
+
+**Amaç:** Sanat, sanat eseri, güzellik, estetik ve estetik haz kavramlarını ayırt ederek estetik ve sanat felsefesinin konusuna ilişkin çıkarım yapmak.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Öğrencilere farklı sanat eserleri gösterilir:
-   - Bir ressam tablosu (Turan Sepetçi)
-   - Müzik parçası (Bülent Gökdeniz)
-   - Soyut heykel (Henry Moore)
-   - Performans sanat (Marina Abramović video)
-   - Grafiti/sokak sanatı
-   - Bir reklamın görüntülenmesi
 
-2. Her eseri sırayla değerlendirirler:
-   - **Mimesis açısından:** Taklit ediyor mu?
-   - **Ekspresyon açısından:** Yaratıcının duygusunu taşıyor mu?
-   - **Sembolik açısından:** Anlamı semboller tarafından taşınıyor mu?
-   - **İnstitüsyonel açısından:** Sanat dünyası bunu sanat olarak kabul ediyor mu?
+1. Gruplar kolajdaki örneklerden birini seçer ve hangi kavramların bu örnekle ilişkilendirilebileceğini tartışır.
+2. Öğrenciler verilen kavram kartlarını kendi tanımlarıyla eşleştirir.
+3. Öğretmen, temel kavramlara ilişkin kısa bilgi görselini sunar; öğrenciler ilk tanımlarını gözden geçirir.
+4. Her grup, “Estetik ve sanat felsefesi neyi sorgular?” sorusuna gerekçeli bir cümle yazar.
 
-3. Sonuç: Bir sanat eseri birden fazla teoriye girişebilir; "en doğru" tanım yoktur
+**Materyal:** `06-estetik-sanat-felsefesi-ck.md` Bölüm B; kavram kartları, bilgi görseli.
 
-**Ürün:** Karşılaştırmalı tablo
+**Ürün:** Kavram tablosu, grup çıkarımı ve öğretmen dönüt notu.
 
 ---
 
-### Etkinlik 4: Kültürel Estetik Haritalaması
-**Amaç:** Türk, İslam ve Batı sanat geleneğinin estetik değerlerini karşılaştırmak.
+### Etkinlik 3: Aynı Obje, İki Çizim — Taklit ve Yaratım
+
+**Amaç:** Taklit ve yaratım olarak sanat kuramlarını çizim deneyimi üzerinden karşılaştırmak.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Üç kültürden birer sanat eseri seçilir:
-   - **Batı:** Rönesans resmi (Leonardo da Vinci)
-   - **İslam/Osmanlı:** Minyatür (Matrakçı Nasuh) veya Cami mimarisi
-   - **Türk Halk Sanatı:** Çini, halı, Karagöz oyunu
 
-2. Her eseri soran sorularla incelenir:
-   - Ne amaçla yapıldı? (dini, estetik, sosyal)
-   - Hangi değerler taşıyor? (birlik, karmaşıklık, gizlilik)
-   - Bir sanatçı adı vardı mı yoksa toplumsal ortak ürün mü?
-   - "Güzellik" tanımı ne?
+1. Her öğrenci basit bir objeyi gördüğü biçimiyle çizer.
+2. Öğrenci aynı objeyi, hayalinde dönüştürdüğü biçimiyle ikinci kez çizer.
+3. İkili gruplar çizimler arasındaki farkları belirler ve her çizimin hangi kuramla daha çok ilişkilendirilebileceğini gerekçelendirir.
+4. Öğrenciler, “İkinci çizim ilkinden daha mı az gerçektir, yoksa başka bir tür gerçeklik mi kurar?” sorusunu tartışır.
 
-3. Tartışma: Farklılıklar kültürelilikten mi yoksa tarihsel koşullardan mı?
+**Materyal:** Çizim kâğıdı, kalemler, `06-estetik-sanat-felsefesi-ck.md` Bölüm C.
 
-**Ürün:** Karşılaştırmalı harita, gruplar arası tartışma
+**Ürün:** İki çizim, karşılaştırma notu ve görüş–gerekçe tablosu.
 
 ---
 
-### Etkinlik 5: Duchamp'ın Mirası — İnstitüsyonel Satır Testi
-**Amaç:** Çağdaş sanat ve sanat tanımının sınırlarını problem etmek.
+### Etkinlik 4: Sanat Kuramları Sokratik Tartışması
+
+**Amaç:** Taklit, yaratım ve oyun olarak sanat kuramlarının düşünce ve argümanlarını değerlendirmek; haz ve özgürlük ilişkisini sorgulamak.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Duchamp'ın "Çeşme" (1917, ürinal) yaklaşımı açıklanır
-2. Öğrencilerden gayrı sanat nesneleri seçmeleri istenir (plastik fırça, yazıcı mürekkep kutusı, dönem çiçekleri)
-3. Seçilen nesne için bir sundu yazarlar: "Neden bunun sanat olmasına izin verilmelidir?"
-4. Bir "sanat enstitüsü" kurulur (öğretmen + 3 elitist seçici); nesnelerin sanat statüsü oylanır
 
-**Tartışma Soruları:**
-- Kim karar verme hakkına sahip? Sadece "uzmanlar" mı?
-- İnstitüsyon yoksa bir obje sanat mı?
-- Sanatçının niyeti yeterli mi?
+1. Öğretmen üç sanat kuramına ilişkin kısa, yapılandırılmış yargı kartları dağıtır.
+2. Öğrenciler her yargıyı ilgili kuramla eşleştirir ve eşleştirmesi için gerekçe yazar.
+3. Küçük gruplar, sanat ile oyun arasındaki benzerlik ve farkları haz ile özgürlük duyguları bakımından listeler.
+4. Sokratik tartışmada öğrenciler “Sanatsal girişim özgürlüğe ulaşmayı sağlayabilir mi?” sorusuna gerekçeli yanıt verir; karşı görüşü adil biçimde özetler.
 
-**Ürün:** Sudu yazıları, oylanmış kararlar
+**Materyal:** `06-estetik-sanat-felsefesi-ck.md` Bölüm C; sanat kuramı yargı kartları.
+
+**Ürün:** Kuram eşleştirmesi, sözlü gerekçe ve akran dönütü.
 
 ---
 
-### Etkinlik 6: Sanat Sansürü Davası — Simülasyon
-**Amaç:** Sanat özgürlüğü ve toplumsal ahlak dengesini tartışmak.
+### Etkinlik 5: Güzelin Ölçütleri ve Ortak Estetik Yargı
+
+**Amaç:** Güzelliğin öznel veya nesnel oluşuna ilişkin düşünce ve argümanları değerlendirmek; içsel ve dışsal nitelikleri ayırt etmek.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Varsayımsal durum: Çağdaş sanatçı, dinsel sembol kullanarak eleştirici bir enstalasyon yapmıştır; bir grup vatandaş sergiyi kapatması için dava açtı
 
-2. Sınıf iki tarafa bölünür:
-   - **Avukatlar:** Sanatçı özgürlüğünü savun
-   - **Savcılar:** Toplumsal ahlak / dini hassasiyet ihlalini savun
+1. Öğretmen telif ve yaş düzeyi gözetilmiş aynı sanat örneğini veya doğal nesne görselini sınıfa sunar.
+2. Öğrenciler, örneği güzel bulmalarına veya bulmamalarına ilişkin nitelikleri listeler.
+3. Gruplar nitelikleri içsel ve dışsal olarak sınıflandırır; her sınıflandırma için gerekçe yazar.
+4. Öğrenciler “Güzel algısı evrensel olabilir mi?” sorusuna örnekli görüş sunar ve akran değerlendirme formu ile dönüt verir.
 
-3. Argümanlar karşılıklı sunulur
-4. Hakim (öğretmen) karar verir
+**Materyal:** `06-estetik-sanat-felsefesi-ck.md` Bölüm D; seçilmiş görsel; `mufredat/ortak-materyaller/degerlendirme-formlari.md`.
 
-**Tartışma Sonrası:**
-- Sınır gerçekten var mı, yoksa her toplum kendisi belirlemeli mi?
-- "Değer kültürle değişir" ise, insani haklar neden evrensel?
+**Ürün:** Nitelik gruplama tablosu, gerekçeli görüş ve akran dönütü.
+
+---
+
+### Etkinlik 6: Güzellik Görüşleri ve Metin İnceleme Planı
+
+**Amaç:** Platon, Baumgarten, Kant ve Croce’ye ilişkin yapılandırılmış bilgi kartlarındaki düşünce ve argümanları değerlendirmek; performans görevi için metin inceleme planı oluşturmak.
+
+**Süre:** 40 dakika
+
+**Adımlar:**
+
+1. Öğretmen filozofların güzellik ve ortak estetik yargılarla ilgili kısa bilgi kartlarını dağıtır.
+2. Gruplar her kartta geçen kavram, temel iddia, gerekçe ve sonucu çözümleme tablosuna yazar.
+3. Gruplar, iki görüş arasındaki bir benzerliği ve bir farkı gerekçeleriyle paylaşır.
+4. Öğrenciler, çalışma kâğıdının Bölüm E’sini kullanarak resmî metin havuzundan bir metin seçer; kavram–problem–argüman odaklı inceleme planını oluşturur.
+
+**Materyal:** `06-estetik-sanat-felsefesi-ck.md` Bölüm D ve E; yapılandırılmış bilgi kartları; `mufredat/ortak-materyaller/metin-inceleme-formu.md`.
+
+**Ürün:** Argüman çözümleme tablosu ve metin inceleme planı.
 
 ---
 
 ## Değerlendirme
 
-### Ölçme Araçları
+### Öğrenme Kanıtları
 
-#### 1. Yazılı Sınav (30 puan)
+Bu ünitede resmî programda belirtilen kontrol listesi, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi birlikte kullanılır. Öğrencinin belirli bir eseri beğenmesi veya belirli bir estetik görüşü benimsemesi puanlanmaz. Değerlendirme; kavramı doğru kullanma, gerekçe sunma, karşı görüşü adil temsil etme, argümanı değerlendirme ve iletişim becerisine dayanır. [1]
 
-**Konu A: Estetik Kavramları ve Tarihçe (10 puan)**
-- Estetik felsefesinin tanımı ve diğer disiplinlerden farkı
-- Tarihsel dönemler boyunca güzelin anlayışı
+### 100 Puanlık Ölçme Araçları
 
-**Konu B: Güzelin Doğası Teorileri (10 puan)**
-- Platon, Kant, Nietzsche'nin güzel tanımları
-- Her teorinin güçlü ve zayıf yönleri
+| Araç | Puan | Ölçülen kanıt |
+|---|---:|---|
+| **1. Çalışma kâğıdı ve kuram/argüman tabloları** | 25 | Temel kavramlar, sanat kuramları, güzelin nitelikleri ve görüş çözümlemesi |
+| **2. Kısa yanıtlı yazılı görev** | 20 | Sanat–sanat eseri–estetik yargı ayrımı, kuram karşılaştırması ve gerekçeli değerlendirme |
+| **3. Sokratik tartışma ve akran dönütü** | 25 | Karşı görüşü doğru temsil etme, gerekçeli konuşma, saygılı iletişim ve dönüt verme |
+| **4. Performans görevi: metin inceleme** | 30 | Metindeki kavram, problem ve argümanları form aracılığıyla inceleme |
+| **Toplam** | **100** | |
 
-**Konu C: Sanat Tanımları (10 puan)**
-- En az üç sanat teorisini açıklama ve mukayese
-- Çağdaş sanat örneklerine uygulama
+#### 1. Çalışma Kâğıdı ve Kuram/Argüman Tabloları (25 puan)
 
-#### 2. Kısa Cevap Soruları (20 puan)
+Çalışma kâğıdındaki Bölüm A–D; doğru/yanlış ön değerlendirmesi, kavram çözümlemesi, sanat kuramları, güzellik ve ortak estetik yargılara ilişkin kanıt sunar. Ön değerlendirme maddeleri yalnızca gelişimi izlemek için kullanılır; öğrencinin açıklama ve gerekçe ürettiği bölümler değerlendirilir.
 
-1. "Güzel olmayan bir resim hâlâ sanat mı?" sorusuna felsefi yanıt ver (5 puan)
-2. Estetik yargı neden evrensel talep taşıyor; teknolojik yargı ise taşımıyor? (5 puan)
-3. Bir Türk geleneksel sanat (halı, çini, minyatür) seç; estetik değerlerini analiz et (5 puan)
-4. Sanat sansürü hangi durumda meşru olabilir? (5 puan)
+#### 2. Kısa Yanıtlı Yazılı Görev (20 puan)
 
-#### 3. Pratik Etkinlikler (30 puan)
+1. Sanat eseri ile estetik yargı arasındaki farkı kendi örneğinizle açıklayınız. **(5 puan)**
+2. Taklit ve yaratım olarak sanat kuramlarını bir ortak nokta ve bir fark üzerinden karşılaştırınız. **(5 puan)**
+3. Bir eseri güzel bulmanızda etkili olan bir dışsal ve bir içsel niteliği açıklayınız. **(5 puan)**
+4. Ortak estetik yargıların mümkün olup olmadığına ilişkin kendi görüşünüzü en az bir gerekçeyle yazınız. **(5 puan)**
 
-- **Etkinlik Katılımı:** Tartışmalara aktif katılım, argument kalitesi (10 puan)
-- **Grup Çalışmaları:** "Estetikçi Düellosu" ve "Sanat Tanımı Laboratuvarı" sırasında ürün ve sunum (10 puan)
-- **Yaratıcı Değerlendirme:** "Duchamp Mirası" veya "Sansür Davası" etkinliğinde kendi konumlandırılması (10 puan)
+#### 3. Sokratik Tartışma ve Akran Dönütü (25 puan)
 
-#### 4. Ödev / Proje (20 puan)
+Öğrenci, sanat kuramı veya güzellik–ortak estetik yargı tartışmasında bir iddia ortaya koyar; en az bir gerekçe sunar; farklı görüşü doğru biçimde özetler ve akranının görüşüne somut, saygılı dönüt verir. Değerlendirme `mufredat/ortak-materyaller/degerlendirme-formlari.md` içindeki ortak formla desteklenir.
 
-**Seçenek A:** Bir sanat eseri analizi (resim, müzik, heykul, edebiyat)
-- Eser hakkında bilgi (sanatçı, tarih, bağlam)
-- Estetik yargı: Neden güzel?
-- Sanat tanımından hangisi en uygun?
-- Kültürel ve evrensel boyutlar
+#### 4. Performans Görevi: Estetik ve Sanat Felsefesi Metin İncelemesi (30 puan)
 
-**Seçenek B:** "Benim Sanat Manifestomu"
-- Senin için sanat nedir?
-- Güzeli neye bağlıyorsun?
-- Sanat özerk mi, toplumsal bağlantılı mı?
-- Sanat sansürü hakkındaki duruşun
-
-**Seçenek C:** Estetikçi biyografisi
-- Seçtiğin bir estetikçiyi (Platon, Kant, Nietzsche, Adorno vs.) tanıt
-- Teorisinin arka planı nedir?
-- Modern sanatla ilişkisi
-
----
+Öğrenciler, seçilen bir estetik veya sanat felsefesi metninde yer alan kavram, problem ve argümanları `mufredat/ortak-materyaller/metin-inceleme-formu.md` aracılığıyla inceler. Metinler öğrencilerin görüşleri alınarak dengeli dağıtılır; çalışmalar paylaşılır ve akran değerlendirmesiyle desteklenir. [1]
 
 ### Dereceli Puanlama Anahtarı
 
-| Kriter | 4 (Mükemmel) | 3 (İyi) | 2 (Orta) | 1 (Yetersiz) | 0 (Yapılmamış) |
-|--------|-------------|--------|---------|------------|----------------|
-| **Kavramsal Anlama** | Estetik teorileri ve güzel/sanat tanımlarını derinlemesine anlar; tarihsel bağlamı bağlantı kurar | Teorileri doğru açıklar; temel bağlantılar kurar | Teorileri yüzeysel açıklar; bazı yanlışlıklar var | Teoriler hakkında belirsiz ve çelişkili ifadeler | Hiç cevap veya tamamen hatalı |
-| **Analitik Düşünme** | Eserleri/teorileri farklı perspektiflerden soruşturur; paradoksları fark eder; karşı argümanlar geliştirir | Eserleri çoklu teoriden inceleyebilir; temel zayıflıkları gösterir | Bir perspektiften inceleyebilir; sığ analiz | Sadece tanımlamalar; analiz yok | Hiç analiz |
-| **Tartışmaya Katılım** | Yapıcı argümanlar sunar; başkasının görüşüne resp gösterip sorgular; fikrinden savunabilir | Tartışmaya katılır; temel argümanlar sunabilir | Tartışmaya kısmi katılı; argümanlar zayıf | Söz hakkı almakta zorlanır; argümanlar belirsiz | Katılmaz |
-| **Yazılı İfade** | Felsefece kesin ve açık; doğru terminoloji; mantıksal akış | Çoğunlukla açık; terminolojiyi iyi kullanır | Belli belirsiz yazılı; terminoloji karışıklığı | Okuması zor; terminoloji yok | Yazılı yok |
-| **Yaratıcılık / Özgüllük** | Orijinal bakış açısı; bağlamsal örnekler; kişisel duruşlama | Talimatları yapıcı yaklaşımla yerine getirir | Talimatları mekanik takip eder | Eksik veya yüzeysel çalışma | Yapılmamış |
+| Kriter | 4 — Çok güçlü | 3 — Yeterli | 2 — Gelişmekte | 1 — Başlangıç düzeyi |
+|---|---|---|---|---|
+| **Kavramsal anlama** | Estetik, güzellik, sanat, sanat eseri ve estetik haz kavramlarını doğru ayırt eder; uygun örnek verir. | Temel kavramları doğru açıklar; örnekleri çoğunlukla uygundur. | Kavramların bir bölümünü doğru açıklar; örnek veya ayrımda eksik vardır. | Kavramları karıştırır ya da açıklama sunmaz. |
+| **Argüman çözümleme** | İddia, gerekçe ve sonucu doğru ayırır; güçlü karşı argümanı da tartışır. | Argümanın temel yapısını doğru belirler; sınırlı karşılaştırma yapar. | İddia veya gerekçeyi kısmen ayırır; çıkarım eksikleri vardır. | Argüman yapısını belirleyemez. |
+| **Gerekçeli tartışma** | Açık, tutarlı ve saygılı biçimde görüş geliştirir; karşı görüşe yapıcı yanıt verir. | Görüşünü gerekçelendirir ve tartışma kurallarına uyar. | Görüş bildirir; gerekçe veya karşı görüşe yanıt sınırlıdır. | Gerekçe sunmaz ya da tartışma kurallarına uymaz. |
+| **Metin inceleme ve yazılı ifade** | Metindeki kavram, problem ve argümanı bağlamıyla çözümler; yazısı açık ve düzenlidir. | Metnin temel unsurlarını doğru belirtir; yazısı anlaşılırdır. | Metin unsurlarını kısmen belirler; yazılı anlatımda belirsizlik vardır. | Metni özetlemek veya çözümlemek için yeterli kanıt sunmaz. |
 
 ---
 
 ## Farklılaştırma
 
-### Zenginleştirme (İleri Öğrenme)
+### Zenginleştirme
 
-**Derinlik:**
-- Kant'ın "Critique of Judgment" (Yargının Kritiki) orijinal metinlerinden pasajlar okumak
-- Fotoğraf teknolojisinin estetik yargıya ne etkisi olduğunu araştırmak
-- Yapay zeka sanatsal oluşturması (Midjourney, Dall-E) estetik teorilerin sınırlarını nasıl bozduğunu tartışmak
+- Güzelliğin ölçütlerinden simetri, altın oran, ahenk ve zıtlık kavramları; farklı sanat veya tasarım örnekleri üzerinden gerekçeli biçimde tartışılır.
+- Tartışma yaratan sanat eserleri, Arthur Danto’nun kurumsal sanat anlayışı bağlamında değerlendirilir. Öğrenci, eserin sanat sayılmasına ilişkin iddiayı, gerekçeyi ve olası itirazı ayırır.
+- Lev Tolstoy’un *Sanat Nedir?* eserinden seçilen kısa bir metin aracılığıyla sanat–ahlak ilişkisi analiz edilir. [1]
 
-**Genişlik:**
-- Video estetikçi: Derek Bok veya Arthur Danto hakkında video inceleme
-- Müze ziyareti: Ankara'daki Cumhuriyet Müzesi veya İstanbul Modern'de estetik bakış uygulaması
-- Bir çağdaş sanatçıyı tanıtım projesi (Zehra Doğan, Gülsün Karamustafa gibi Türk sanatçılar)
+### Destekleme
 
-**Sorgu:**
-- "Porno estetik olabilir mi?" sorusuna felsefi yanıt
-- Yapay zeka tarafından üretilen sanat, "orijinal" sanat tanımını yıkıyor mu?
-- Dijital sanat / NFT sanat: Soyutluk ve veri çağında güzelin anlamı nedir?
+- Sanat kuramları görsel veya görsel-işitsel araçlarla sadeleştirilerek açıklanır.
+- Estetik ve sanat felsefesinin temel problemlerini açıklayan yapılandırılmış kısa metinler kullanılır.
+- Sadeleştirilmiş bir metindeki sanat felsefesi düşünce ve argümanları, kavram–iddia–gerekçe şeması yardımıyla küçük gruplarda değerlendirilir. [1]
+
+Bu uyarlamalar, öğrencinin hedef becerisini azaltmadan; dil, sunum, süre, tepki ve destek ihtiyacına göre erişim sağlar.
 
 ---
 
-### Destekleme (Farklı Öğrenme Ihtiyaçları)
+## Tartışma Soruları
 
-**Anlamada Zorluk Yaşanıyorsa:**
-- Estetik terimler için tanım kartları ve görsel örnekler
-- "Güzel" kavramını tangible örneklerle başlatmak (doğa, yüz, müzik sesi)
-- Teorileri sade dilden örnek dramatizasyonlarla açmak
-
-**Tartışmaya Katılımda Zorluk Yaşanıyorsa:**
-- Yüz yüze küçük grup tartışmaları (büyük sınıf açı verene)
-- Yazılı geri bildirim ilk adım olarak izlemek
-- Önceden hazırlanmış argüman kartları sunmak
-
-**Yazı Yazmasında Zorluk Yaşanıyorsa:**
-- Sözlü sunumlar veya podcast formatı
-- Görsel eserleri inceleyerek açıklamalar (resim, diyagram, harita)
-- Grup projelerine öncelik
+1. Bir eserin sanat sayılması için güzel olması gerekli midir?
+2. Aynı eseri iki kişinin çok farklı değerlendirmesi, estetik yargılar hakkında ne gösterir?
+3. Bir eser hem taklit hem yaratım olarak açıklanabilir mi? Neden?
+4. Sanat ile oyun arasındaki benzerlikler, sanatın değerini azaltır mı?
+5. Bir eserin biçimi mi, anlamı mı, yoksa izleyende uyandırdığı duygu mu daha önemlidir?
+6. Ortak estetik yargıların mümkün olduğunu düşünüyorsanız, bu yargılar hangi gerekçeye dayanabilir?
 
 ---
 
 ## Kaynaklar
 
-### Birincil Metinler (Orijinal Metinler)
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
 
-1. **Platon, "Devlet"** — Güzelin ideası üzerine (özellikle 6. kitap)
-2. **Aristoteles, "Poetika"** — Mimetizm ve katarsis tanımı
-3. **Immanuel Kant, "Yargının Kritiki"** (Critique of Judgment) — Estetik yargı ve güzelin analizi (özellikle Analytic of the Beautiful bölümü)
-4. **Georg W. F. Hegel, "Estetik Dersler"** — Sanat tarihçesi ve ruh gelişimi
-5. **Friedrich Nietzsche, "Ötesi ve Ötesinde İyi ve Kötü"** — Güzellik ve yaşam güçleri
-6. **Arthur Danto, "Sanat Dünyası"** — İnstitüsyonel sanat teorisi
-
-### Türkçe Kaynak Kitaplar
-
-1. **Mustafa Tahsin Uluç, "Estetik Felsefesi"** (Ankara: Eğiten Yayınları, 2020)
-   - Kapsamlı, tarihsel gelişimi ve teorileri açıklar
-
-2. **Yamaç Uyar, "Sanat Nedir?"** (İstanbul: Metis Yayınları, 2019)
-   - Güncel sanat örnekleri ve doygun tartışmalar
-
-3. **İsmail Doğan, "Estetik ve Sanat Felsefesi"** (Ankara: Pegem, 2021)
-   - Lise seviyesinde okunabilir, pratik örnekli
-
-4. **Cemal Yılmaz, "Türk Sanatında Estetik Değerler"** (Ankara: METU Press, 2018)
-   - Kültürel özü vurgulayan yaklaşım
-
-### Akademik Makaleler (Okul Kütüphanesinde Aranması)
-
-- "Estetik Yargı ve Demokrasi" — Zeitschrift für Ästhetik und Allgemeine Kunstwissenschaft
-- "Türk Islami Sanatında Güzellik Anlayışı" — İstanbul Üniversitesi İlahiyat Fakültesi Dergisi
-- "Yapay Zeka ve Sanat: İnstitüsyonel Sınırlar" — Leonardo Journal
-
-### Video ve Podcast Kaynakları
-
-1. **YouTube: "Crash Course Philosophy" — Episod: "Aesthetics"**
-   - Sade, İngilizce ama alt yazılı, 10 dk
-
-2. **Podcast: "Philosophy Now"** — Episodes on Kant's Aesthetics
-   - Derinlemesine ama erişilebilir
-
-3. **TED Talks: "The Power of Art"** — Various speakers
-   - Çağdaş sanatçılar ve estetikçiler tarafından
-
-### Müze ve Sanat Kurumları (Ziyaret)
-
-1. **Ankara Cumhuriyet Müzesi** — Türk modern sanatı
-2. **İstanbul Modern** — Çağdaş sanat ve estetik tartışmalar
-3. **Ankara Resim Müzesi** — Türk klasik sanatı
-4. **Pera Müzesi** — Osmanlı ve batı sanattan kültürleşme
-
-### Sanat Eserleri İnceleme Listesi (Önerilen)
-
-| Sanatçı | Eser | Estetik Soru |
-|---------|------|-------------|
-| Turan Sepetçi | "Şehir Portresi" | Taklit ve soyutlama arasında sanat nerede? |
-| Bülent Gökdeniz | Müzik Komposisyonları | Müzik güzeli nasıl ifade eder? |
-| Henry Moore | "Recumbent Figure" | Soyut heykel nedir? |
-| Banksy | Grafitiler | Sokak sanatı sanat mı? |
-| Ai Weiwei | "Sunflower Seeds" | Konseptüel sanat yapıtı mı? |
-| Frida Kahlo | Kendine Bakış | Ekspresyon ve yaşam otobiyografisi |
-| Zehra Doğan | Grafitili ve Siyasetle Sanat | Sanat ve sansür |
-
----
-
-## Ek: Tartışma Soruları ve Derinleştirme
-
-### Zorlayıcı Sorular (Sınıf Tartışması İçin)
-
-1. **Güzellik Paradoksu:** "Güzel tamamen öznel ise, neden hepimiz aynı şeyleri güzel buluruz? (Güneş batışı, bebekler, belirli nesne oranları) Neden tamamen dilediğimizi seçmiyoruz?"
-
-2. **Yapay Zeka Sanatı:** "Bir yapay zeka, insan-yapı temelli güzel bir resim üretirse, bu sanat mı? Sanat olmasının şartı insan niyeti midir, yoksa ürün midir?"
-
-3. **Sansürün Sınırı:** "Aşırı şiddet, işkence veya çocuk istismarı içeren bir sanat eseri, 'tasarladığı provokasyon' bahsesiyle sunulabilir mi?"
-
-4. **Fiyat Paradoksu:** "Aynı ressam tarafından çizilen iki resim aynı. Biri 10 milyon liraya satılıyor, diğeri müze deposu içinde kalıyor. Birincisi daha güzel midir? Yoksa kurumsal statüsü mü bunu yapar?"
-
-5. **Popüler vs. Elit:** "Marvel filminin dekoratif müziği 'yüksek sanat' mı değil? Neden Brahms'ın senfonisi 'daha sanat' sayılır?"
-
----
-
-## Referans Kaynakları (Öğretmen İçin)
-
-- Baumgarten, A. (2007). *Esthetics* (açıklamalı çeviri). Dover.
-- Carroll, N. (1999). *Philosophy of Art: A Contemporary Introduction*. Routledge.
-- Gadamer, H.-G. (1975). *Truth and Method*. Seabury Press.
-- Wittgenstein, L. (1977). *Lectures and Conversations on Aesthetics*. Blackwell.
-
----
-
-**Ünite Tasarımcısı:** Aytekin | Türkiye Maarif Modeli, 10. Sınıf Felsefe  
-**Son Güncelleme:** 30 Temmuz 2026  
-**Lisans:** CC BY-SA 4.0
+> **Not:** Üniteye ilişkin öğrenme çıktısı, temel problem, öğrenme-öğretme yaşantıları, metin havuzu ve farklılaştırma önerilerinin bağlayıcı müfredat dayanağı MEB öğretim programıdır. Sanat eserleri, görseller ve metin alıntıları seçilirken telif, erişim, yaş düzeyi ve sınıf iklimi gözetilmelidir.
