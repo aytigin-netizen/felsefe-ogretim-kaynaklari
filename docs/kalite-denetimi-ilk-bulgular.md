@@ -46,9 +46,9 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 
 | Ünite | Güncel bağlantı standardı | Durum |
 |---:|---|---|
-| 10.1 Felsefenin Doğası | `[Ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
-| 10.2 Felsefe, Mantık ve Argümantasyon | `[Ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
-| 10.3 Varlık Felsefesi | `[Metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md)` ve `[akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.1 Felsefenin Doğası | `[Ortak değerlendirme formları](../mufredat/ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.2 Felsefe, Mantık ve Argümantasyon | `[Ortak değerlendirme formları](../mufredat/ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.3 Varlık Felsefesi | `[Metin inceleme formu](../mufredat/ortak-materyaller/metin-inceleme-formu.md)` ve `[akran değerlendirme formu](../mufredat/ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
 | 10.8 Din Felsefesi | Metin inceleme ile ortak değerlendirme formlarına doğrudan bağlantılar | Tamamlandı |
 | 10.9 Bilim Felsefesi | Metin inceleme ile ortak değerlendirme formlarına doğrudan bağlantılar | Tamamlandı |
 

@@ -1,0 +1,28 @@
+name: Yapısal kalite denetimi
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  denetle:
+    name: Materyal yapısını doğrula
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Yapısal kalite denetimini çalıştır
+        run: python tools/denetle_yapisal_kalite.py

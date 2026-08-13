@@ -31,6 +31,7 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   │   └── calisma-kagitlari/                   # Birim bazlı çalışma kâğıtları
 │   └── 11-sinif/
 │       ├── 01-cevre-sorunlari-felsefe.md
+│       ├── …                                    # Altı ünite materyali
 │       └── calisma-kagitlari/                   # 11. sınıf çalışma kâğıtları
 ├── materyaller/
 │   ├── tartisma-sorulari/
@@ -38,8 +39,11 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   └── etkinlikler/
 ├── web/
 │   └── (Web sitesi dosyaları)
-├── docs/
-│   └── denetim-raporu.md                        # Resmî program uyum denetim raporu
+├── docs/                                       # Durum ve denetim kayıtları
+├── tools/
+│   └── denetle_yapisal_kalite.py                # Tekrarlanabilir yapısal denetim
+├── .github/workflows/
+│   └── yapisal-kalite-denetimi.yml              # Ana dal kalite kontrolü
 └── README.md
 ```
 
@@ -61,7 +65,7 @@ MEB onaylı programda 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur:
 
 ## 11. Sınıf Üniteleri
 
-MEB onaylı programda 11. sınıf altı üniteden oluşur. İlk ünite için resmî programla hizalı materyal ve çalışma kâğıdı tamamlanmıştır.
+MEB onaylı programda 11. sınıf altı üniteden oluşur. Altı ünitenin tamamı için resmî programla hizalı materyal ve çalışma kâğıdı hazırlanmıştır.
 
 | Ünite | Başlık | Saat | Durum |
 |-------:|---|---:|---|
@@ -73,6 +77,16 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. İlk ünite için res
 | 6 | Hukuk ve Felsefe | 10 | Tamamlandı (resmî program doğrulamalı) |
 
 11. sınıf ünite denetim kayıtları için [`docs/denetim-raporu-11-sinif.md`](docs/denetim-raporu-11-sinif.md) dosyasına bakınız.
+
+## Yapısal Kalite Denetimi
+
+Depodaki her değişiklikte ünite ve çalışma kâğıdı sayısı, ders saati ve öğrenme çıktısı üst verileri, 100 puanlık ölçme yapısı ile yerel Markdown bağlantıları denetlenir. Kontrolü yerelde çalıştırmak için aşağıdaki komut kullanılır:
+
+```bash
+python tools/denetle_yapisal_kalite.py
+```
+
+Ana dala gönderilen değişiklikler ve ana dala açılan birleştirme istekleri için aynı kontrol otomatik olarak çalışır. Bu denetim yalnızca yapısal tutarlılığı doğrular; program uyumu, felsefi doğruluk, telif, kaynak güncelliği ve sınıf içi uygulanabilirlik ayrıca pedagojik inceleme gerektirir.
 
 ## Katkıda Bulunma
 
