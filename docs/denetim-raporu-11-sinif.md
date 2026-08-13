@@ -39,13 +39,29 @@ Resmî program; doğru/yanlış ön değerlendirmesi, teknoloji görselleriyle a
 | Öz/akran değerlendirme, metin inceleme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm D–F; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
 | Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: Çin odası, Cahit Arf, teknopoli; görsel/dijital materyal, akran desteği ve yazma şeması işlendi |
 
+## 3. Ünite — Akıl ve İnanç
+
+Resmî program; kısa cevaplı ön değerlendirme, felsefe ve din hakkında örnek metinlerle köprü kurma, inancın temellendirilmesinde aklın rolüne ilişkin bilgi görseli, tarihî–kültürel–düşünsel bağlam çıkarımı, filozof eserlerinden kaynak bilgili en fazla yüz sözcüklük metinlerin çözümlenmesi, rasyonellik/irrasyonellik ile akıl–inanç–gönül ilişkisi karşılaştırması, saygılı tartışma, felsefi paragrafı yeniden yazma ve akran değerlendirmeli felsefi metin performans görevini öngörür. [1]
+
+| Gereklilik | Materyal karşılığı | Durum |
+|---|---|---|
+| Ünite bilgileri, öğrenme çıktıları ve süreç bileşenleri | `mufredat/11-sinif/03-akil-ve-inanc.md` başlangıç bölümleri | Karşılandı: 10 saat, FEL.11.3.1, FEL.11.3.2, SBAB14 ve SBAB15 resmî programa göre işlendi |
+| Kısa cevaplı ön değerlendirme ve metin köprüsü | Çalışma kâğıdı Bölüm A; ünite Etkinlik 1 | Karşılandı: dört kısa cevap sorusu ve kaynak bilgili metinler için benzerlik–fark tablosu |
+| Akıl–inanç ilişkisine yönelik temel soru ve bağlam | Çalışma kâğıdı Bölüm B; ünite Etkinlik 2 | Karşılandı: yardımcı soru–kavram eşleştirmesi, bilgi görseli notu, kurgusal yaşantı örneği |
+| Filozof metinlerinde kavram, soru ve argüman | Çalışma kâğıdı Bölüm C; ünite Etkinlik 3 | Karşılandı: kaynak/çeviri bilgisi, yüz sözcük üst sınırı, kavram–soru–iddia–gerekçe–sonuç–bağlam tablosu |
+| Rasyonellik, irrasyonellik ve akıl–inanç–gönül ilişkisi | Çalışma kâğıdı Bölüm C–D; ünite Etkinlik 4 | Karşılandı: metne dayalı karşılaştırma, görüş–gerekçe–karşı görüş ve açık soru |
+| Saygılı açık oturum, rulman veya akvaryum tartışması | Çalışma kâğıdı Bölüm D; ünite Etkinlik 5 | Karşılandı: kişi yerine görüşü eleştirme, söz kesmeme, doğru özetleme ve akran dönütü ilkeleri |
+| Felsefi paragrafı yeniden yazma ve performans görevi | Çalışma kâğıdı Bölüm E; ünite Etkinlik 6 | Karşılandı: cümle/paragraf tamamlama, alıntı–özet–yorum ayrımı, kaynak ve metin kontrol listesi |
+| Eşleştirme, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm C–E; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
+| Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: Gazali–meşşai ekolü, İbni Rüşd–Kant, Kierkegaard; sadeleştirilmiş metin, akran desteği ve yazma şeması işlendi |
+
 ## 11. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Resmî ders saati | Materyal durumu |
 |---:|---|---:|---|
 | 1 | Çevre Sorunları ve Felsefe | 12 | Tamamlandı ve denetlendi |
 | 2 | Teknoloji ve Hayat | 12 | Tamamlandı ve denetlendi |
-| 3 | Akıl ve İnanç | 10 | Henüz hazırlanmadı |
+| 3 | Akıl ve İnanç | 10 | Tamamlandı ve denetlendi |
 | 4 | Edebiyat ve Felsefe | 12 | Henüz hazırlanmadı |
 | 5 | Hayatın Anlamı | 12 | Henüz hazırlanmadı |
 | 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
