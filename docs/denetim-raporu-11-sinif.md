@@ -72,6 +72,25 @@ Resmî program; açık uçlu ön değerlendirme, okunan/izlenen eserlerden felse
 | Çalışma kâğıdı, kontrol listesi, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm B–G; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
 | Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: eser–film karşılaştırması, Gadamer, Platon; görsel/işitsel materyal, iş birlikli öğrenme ve yazma şeması işlendi |
 
+## 5. Ünite — Hayatın Anlamı
+
+Resmî program; açık uçlu ön değerlendirme, görsel/görsel-işitsel materyalle felsefi soru kurma, kısa hikâye veya örnek olay üzerinden anlam sorunları, mutluluk–hayat ilişkisine dair filozof görüşleri, varoluş ve kendi olma için akış diyagramı, varoluşçu filozoflarda kavram–argüman karşılaştırması, görüş/karşı görüş, örnek olay ve metafor içeren felsefi metin ve akran değerlendirmeli performans görevini öngörür. [1]
+
+| Gereklilik | Materyal karşılığı | Durum |
+|---|---|---|
+| Ünite bilgileri, öğrenme çıktıları ve süreç bileşenleri | `mufredat/11-sinif/05-hayatin-anlami.md` başlangıç bölümleri | Karşılandı: 12 saat, FEL.11.5.1, FEL.11.5.2, SBAB14 ve SBAB15 resmî programa göre işlendi |
+| Açık uçlu ön değerlendirme ve güvenli çalışma yolu | Çalışma kâğıdı Bölüm A; ünite Etkinlik 1 | Karşılandı: dört açık uçlu soru, kurgusal/esere dayalı çalışma tercihi ve alternatif örnek yolu |
+| Görsel/görsel-işitsel materyal ve felsefi soru | Çalışma kâğıdı Bölüm B; ünite Etkinlik 2 | Karşılandı: bilgi–yorum ayrımı, hayatın anlamı/amacı/kimlik için soru–kavram tablosu |
+| Örnek olay, durum ve metafor | Çalışma kâğıdı Bölüm C; ünite Etkinlik 3 | Karşılandı: kişisel veri içermeyen kurgusal örnek olay, metafor ve kısa yansıtma/hikâye taslağı |
+| Mutluluk–hayat ilişkisi ve filozof görüşleri | Çalışma kâğıdı Bölüm D; ünite Etkinlik 4 | Karşılandı: mutluluk, erdem, haz, güç, özgürlük, acı ve çile için kavram–problem–argüman çözümlemesi |
+| Varoluş ve kendi olma için koşul–problem bağlantısı | Çalışma kâğıdı Bölüm E; ünite Etkinlik 5 | Karşılandı: tarihsel/sosyal/kültürel/bilimsel/teknolojik koşul ile felsefi problem akış diyagramı |
+| Varoluşçu filozoflarda kavram ve argüman | Çalışma kâğıdı Bölüm F; ünite Etkinlik 6 | Karşılandı: Kierkegaard, Nietzsche, Heidegger, Camus ve Sartre ile ilişkilendirilmiş metinlerde kavram–gerekçe–sonuç karşılaştırması |
+| Görüş, argüman ve saygılı diyalog | Çalışma kâğıdı Bölüm G; ünite Etkinlik 7 | Karşılandı: görüş–gerekçe–karşı görüş, kişi yerine görüşü eleştirme ve akran dönütü |
+| Örnek olay/metafor içeren felsefi metin ve performans görevi | Çalışma kâğıdı Bölüm H; ünite Etkinlik 8 | Karşılandı: kurgusal örnek olay/metafor, kaynak/metin bağlantısı, metin kontrol listesi ve akran dönütü |
+| Açık uçlu soru, kontrol listesi, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm B–H; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
+| Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: Gülşehrî, Nietzsche, sosyal medya; akran desteği, sadeleştirilmiş metin ve iş birlikli yazma işlendi |
+| Güvenli öğrenme ortamı | Ünite sınıf iklimi bölümü; çalışma kâğıdı öğrenci/öğretmen notları | Karşılandı: kişisel paylaşım zorunlu değildir; alternatif kurgusal örnek ve destek yönlendirmesi belirtilmiştir |
+
 ## 11. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Resmî ders saati | Materyal durumu |
@@ -80,7 +99,7 @@ Resmî program; açık uçlu ön değerlendirme, okunan/izlenen eserlerden felse
 | 2 | Teknoloji ve Hayat | 12 | Tamamlandı ve denetlendi |
 | 3 | Akıl ve İnanç | 10 | Tamamlandı ve denetlendi |
 | 4 | Edebiyat ve Felsefe | 12 | Tamamlandı ve denetlendi |
-| 5 | Hayatın Anlamı | 12 | Henüz hazırlanmadı |
+| 5 | Hayatın Anlamı | 12 | Tamamlandı ve denetlendi |
 | 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
 
 ## Kaynak
