@@ -21,24 +21,24 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 | 100 puanlık ölçme yapısı | 15/15 | Puan bileşenleri toplamı 100 |
 | Yerel Markdown bağlantıları | 15/15 | İlk taramada bozuk yerel bağlantı bulunmadı |
 | Satır sonu boşlukları | 15/15 | İlk taramada biçim sorunu bulunmadı |
-| Süresi açıkça resmî toplamla eşleşen ünite | 11/15 | 10. sınıf 4–7 ile 11. sınıf 1–6 doğrudan doğrulandı; 10. sınıf 2’nin manuel süre toplamı da 320 dakikadır |
-| Süre planı öncelikli inceleme gerektiren ünite | 4/15 | 10. sınıf 1, 3, 8 ve 9 |
+| Süresi açıkça resmî toplamla eşleşen ünite | 15/15 | Dört eski ünite düzeltildikten sonra tüm ünitelerin ders içi süreleri resmî toplamla eşleşmektedir |
+| Süre planı öncelikli inceleme gerektiren ünite | 0/15 | İlk turda saptanan dört süre planı eksikliği giderildi |
 | Ortak form linki standardizasyonu gereken ünite | 5/15 | 10. sınıf 1, 2, 3, 8 ve 9 |
 
 ## 3. Doğrulanmış İlk Bulgular
 
-### 3.1. Öncelik 1 — Dört Eski Ünitede Ders Süresi Planı Tam Değil
+### 3.1. Öncelik 1 — Dört Eski Ünitenin Ders Süresi Planı Giderildi
 
-10. sınıf 1, 3, 8 ve 9. ünitelerde etkinlik süreleri veya performans görevi süresi, resmî ders saatiyle eşitlenecek açık bir ders içi zaman planı oluşturmak için yeterli değildir. Bu bulgu, kalite protokolünde **önemli** hata düzeyindedir; çünkü süre planı öğrenme–öğretme uygulamasının sınıf içinde uygulanabilir olup olmadığını doğrudan etkiler. [2]
+İlk taramada 10. sınıf 1, 3, 8 ve 9. ünitelerinde sınıf içi etkinlik süreleri, resmî ders saatiyle eşitlenecek açıklıkta değildi. Bu bulgu kalite protokolündeki **önemli** hata düzeyinde ele alındı. Her üniteye öğrenci ürünü, öğretmen modellemesi veya akran dönütü içeren ders içi uygulama aşamaları eklenerek süre akışı resmî toplamla eşitlendi. [2]
 
-| Ünite | Resmî süre | Dosyada açıkça yazılmış ders içi süre | İlk bulgu | Öncelikli düzeltme |
-|---:|---:|---:|---|---|
-| 10.1 Felsefenin Doğası | 400 dk / 10 saat | 190 dk | 210 dakikalık ders içi zaman açıkça dağıtılmamış | Etkinlik akışını 400 dakikaya tamamla; öğretmen hamlesi ve öğrenci ürünü ekle |
-| 10.3 Varlık Felsefesi | 400 dk / 10 saat | 160 dk | 240 dakikalık ders içi zaman açıkça dağıtılmamış | Akım karşılaştırma, metin inceleme ve performans görevi için ders içi aşamalar ekle |
-| 10.8 Din Felsefesi | 240 dk / 6 saat | 110 dk + “ev ödevi olarak 1 hafta” | Ev ödevi, ders saati yerine geçmediği için sınıf içi toplam doğrulanamıyor | 130 dakikalık ders içi süreç ekle; ev ödevini ek/isteğe bağlı kanıt olarak ayır |
-| 10.9 Bilim Felsefesi | 240 dk / 6 saat | 100 dk + “ev ödevi olarak 1 hafta” | Ev ödevi, ders saati yerine geçmediği için sınıf içi toplam doğrulanamıyor | 140 dakikalık ders içi süreç ekle; ev ödevini ek/isteğe bağlı kanıt olarak ayır |
+| Ünite | Resmî süre | İlk taramadaki ders içi süre | Giderilen eksiklik | Güncel ders içi süre |
+|---:|---:|---:|---|---:|
+| 10.1 Felsefenin Doğası | 400 dk / 10 saat | 190 dk | Etkinlik süreleri genişletildi; röportaj sorusu tasarlama ve akran provası eklendi | 400 dk |
+| 10.3 Varlık Felsefesi | 320 dk / 8 saat | 160 dk | Resmî ders saati 10 saatten 8 saate düzeltildi; akım karşılaştırması ve metin inceleme provası eklendi | 320 dk |
+| 10.8 Din Felsefesi | 240 dk / 6 saat | 110 dk + “ev ödevi olarak 1 hafta” | Metin inceleme laboratuvarı eklendi; ev ödevi ders içi süre dışında tutuldu | 240 dk |
+| 10.9 Bilim Felsefesi | 240 dk / 6 saat | 100 dk + “ev ödevi olarak 1 hafta” | Metin inceleme laboratuvarı ve kanıt–yorum ayrımı eklendi; ev ödevi ders içi süre dışında tutuldu | 240 dk |
 
-10. sınıf 2. ünite için ilk betik `dk` kısaltmasını ayrıştıramadığı için başlangıçta uyarı üretmiştir. Manuel doğrulamada açık sürelerin toplamı **320 dakika / 8 ders saati** olduğundan bu ünite için süre uyumsuzluğu bulgusu kapatılmıştır. Bu durum, toplu denetim aracının `dk` ve `dakika` biçimlerini birlikte destekleyecek şekilde güncellenmesi gerektiğini gösterir.
+10. sınıf 2. ünite için ilk betik `dk` kısaltmasını ayrıştıramadığı için başlangıçta uyarı üretmiştir. Manuel doğrulamada açık sürelerin toplamı **320 dakika / 8 ders saati** olduğundan bu ünite için süre uyumsuzluğu bulgusu kapatılmıştır. Toplu denetim aracı `dk` ve `dakika` biçimlerini birlikte destekleyecek şekilde güncellenmiştir.
 
 ### 3.2. Öncelik 2 — Ortak Değerlendirme Formlarına Açık Bağlantı Standardı Eski Beş Ünitede Farklı
 
@@ -58,7 +58,7 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 
 ## 4. Sonraki Denetim Döngüsü
 
-Bir sonraki uygulama turu önce 10. sınıf 1, 3, 8 ve 9. ünitelerin süre planını resmî ders saatiyle eşitlemelidir. Aynı değişiklik setinde, eski beş ünitedeki ortak form yönlendirmeleri yeni ünitelerin bağlantı standardına getirilmelidir. Düzeltmelerden sonra bütün üniteler için süre, puan, yerel bağlantı ve çalışma kâğıdı kontrolleri yeniden çalıştırılmalıdır.
+Süre planı düzeltmeleri tamamlandığından sonraki uygulama turu, eski beş ünitedeki ortak form yönlendirmelerini yeni ünitelerin bağlantı standardına getirmeye odaklanmalıdır. Ardından bütün üniteler için süre, puan, yerel bağlantı ve çalışma kâğıdı kontrolleri yeniden çalıştırılmalıdır.
 
 Ardından dış bağlantıların erişilebilirliği, kaynakların güncelliği, etkinlik–öğrenme çıktısı–ölçme hizası, felsefi kavramların doğruluğu ve öğretmen kullanım gerçekçiliği için ikinci bir pedagojik denetim turu yapılmalıdır. Bu ilk rapor, ikinci turu başlatacak teknik ve içerik önceliklerini tanımlar; tam kalite denetiminin nihai sonucu değildir.
 

@@ -5,7 +5,7 @@
 | Bilgi | Değer |
 |-------|-------|
 | **Sınıf Seviyesi** | 10. Sınıf |
-| **Ders Saati** | 10 saat |
+| **Ders Saati** | 8 saat |
 | **2024 Müfredatta Oranı** | %11 `[doğrulama gerekli]` |
 | **2026 Revizyonunda Oranı** | %15 `[doğrulama gerekli]` |
 | **Ünite Kodu** | FEL.10.3 `[doğrulama gerekli]` |
@@ -182,7 +182,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 1: "Varlık Nedir?" Soru Fırtınası ve Kavram Haritası
 **Amaç:** Varlık sorusunun felsefi bir soru olduğunu yaşayarak fark ettirmek; öğrencilerin ön kavramlarını açığa çıkarmak.
 
-**Süre:** 20 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Öğretmen tahtaya "VARLIK" yazar ve sorar: "Var olan her şeyi saymaya kalkışsak, hangi ortak özellikleri olurdu?"
@@ -199,7 +199,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 2: Kategoriler Sınıflandırma Oyunu
 **Amaç:** Aristoteles'in 10 kategorisini somutlaştırıp öğrencilerin ayırt edici kullanımını sağlamak.
 
-**Süre:** 25 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Öğretmen 10 kategori kartını gruplara dağıtır
@@ -216,7 +216,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 3: Theseus'un Gemisi Mahkemesi
 **Amaç:** Değişim ve kimlik sorununu tartışarak yaşamak.
 
-**Süre:** 35 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. Theseus'un gemisi hikâyesi anlatılır; geminin tahtaları tek tek değiştirilir
@@ -235,7 +235,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 4: Madde-Zihin Duruşma Simülasyonu
 **Amaç:** Monizm ve düalizm görüşlerini taraflı rol alarak savunmak.
 
-**Süre:** 30 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. Üç grup kurulur: Descartes (düalizm), materyalist, idealist
@@ -252,7 +252,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 5: Önce Öz mü, Önce Varoluş mu?
 **Amaç:** Aristoteles ve Sartre karşıtlığını öğrencilerin kendi yaşantısına bağlamak.
 
-**Süre:** 25 dk
+**Süre:** 50 dk
 
 **Adımlar:**
 1. İki nesne gösterilir: bıçak (üretmeden önce amacı bellidir) ve yeni doğan bir bebek
@@ -267,7 +267,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 ### Etkinlik 6: Nedensellik Dedektifleri
 **Amaç:** Nedensellik ilkesini günlük örneklerle sorgulatmak ve Hume'un eleştirisini sezdirmek.
 
-**Süre:** 25 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Kısa videolar/görseller gösterilir: şimşek çakar ve gök gürler; top masaya çarpar ve kupa devrilir
@@ -276,6 +276,20 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 4. Hume'un "alışkanlık" açıklaması sunulur; öğrenciler kendi yaşantısından bir "neden olduğuna emin olduğum ama aslında yalnızca hep birlikte gördüğüm" örnek bulur
 
 **Ürün:** İki sütunlu gözlem tablosu ve bir kişisel örnek
+
+---
+
+### Etkinlik 7: Akım Karşılaştırması ve Metin İnceleme Provası
+
+**Amaç:** Varlık felsefesinin temel problemlerine yönelik akımları karşılaştırmak ve performans görevi için kavram–problem–argüman inceleme ölçütlerini uygulamak.
+
+**Süre:** 30 dk
+
+1. Gruplar, realizm, idealizm, materyalizm, düalizm, oluş felsefesi, fenomenoloji, nihilizm veya varoluşçuluktan birini; soru, temel kavram, problem ve argüman bakımından `calisma-kagitlari/03-varlik-felsefesi-ck.md` ile çözümler.
+2. Her grup iki akımın benzer ve farklı yönlerini sınıfa sunar; dinleyenler en az bir açıklayıcı soru yöneltir.
+3. Öğretmen kısa bir felsefi metinden kavram, problem ve argüman ayırma modellemesi yapar; öğrenciler metin inceleme formuna yazacakları ilk bulguyu taslaklaştırır.
+
+**Ürün:** Akım karşılaştırma notu ve metin inceleme taslağı.
 
 ---
 

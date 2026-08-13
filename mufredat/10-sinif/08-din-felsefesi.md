@@ -140,7 +140,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 ### Etkinlik 1: Köprü Kurma — "Din mi, Felsefe mi?"
 **Amaç:** Felsefe ile din arasındaki konu ortaklığını keşfettirmek.
 
-**Süre:** 15 dk
+**Süre:** 20 dk
 
 **Adımlar:**
 1. "Dinin uğraştığı soruları listeleyin" sorusu sorulur (bireysel yazım)
@@ -154,7 +154,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 ### Etkinlik 2: Din Felsefesi–Teoloji Karşılaştırma Tablosu
 **Amaç:** Din felsefesi ve teoloji ayrımını somutlaştırmak (FEL.10.8.1-a).
 
-**Süre:** 25 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Yapılandırılmış bir metin üzerinden din felsefesi ve teolojinin benzerlik ve farklılıkları belirlenir (KB2.7)
@@ -168,7 +168,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 ### Etkinlik 3: Tanrı'nın Varlığı Kart Düellosu (Eşleştirme Kartları Materyali: `calisma-kagitlari/08-din-felsefesi-ck.md`)
 **Amaç:** Beş görüşü ve dört argümanı karşılaştırmak (FEL.10.8.1-b, c).
 
-**Süre:** 40 dk
+**Süre:** 70 dk
 
 **Adımlar:**
 1. Teizm, deizm, panteizm, panenteizm ve ateizm görüşlerini açıklayan bilgi görseli dağıtılır
@@ -184,7 +184,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 ### Etkinlik 4: Sonluluk/Sonsuzluk ve Ölümsüzlük Tartışma Çemberi
 **Amaç:** Evrenin sonluluğu-sonsuzluğu ve ruhun ölümsüzlüğü problemlerini değerlendirmek (FEL.10.8.1-c).
 
-**Süre:** 30 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. İki probleme ilişkin bilgi görseli incelenir
@@ -193,6 +193,20 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 4. Öz veya akran değerlendirme formu kullanılır (E3.5)
 
 **Ürün:** Yazılı değerlendirme + yaratıcı yazma/boşluk doldurma çalışması
+
+---
+
+### Etkinlik 5: Metin İnceleme Laboratuvarı ve Akran Dönütü
+
+**Amaç:** Din felsefesi metninde kavram, problem ve argümanları birbirinden ayırmak; performans görevinin inceleme ölçütlerini sınıf içinde uygulamak.
+
+**Süre:** 50 dk
+
+1. Öğretmen kaynak, çeviri/uyarlama ve bağlam bilgisi verilen kısa bir metin parçası üzerinden kavram, problem ve argümanı nasıl ayırt ettiğini modeller.
+2. Öğrenciler seçtikleri veya öğretmenin dengeli biçimde dağıttığı kısa metinde en az bir kavram, bir problem ve bir argüman belirler; metnin hangi görüşü savunduğunu değil, gerekçesinin nasıl kurulduğunu yazar.
+3. İkili gruplar, inceleme formundaki ilk taslakları akran dönütüyle gözden geçirir; görüşlere saygı, kişisel inanç beyanını zorunlu kılmama ve metne dayalı gerekçe ilkelerini kontrol eder.
+
+**Ürün:** Metin inceleme taslağı ve akran dönütü.
 
 ---
 

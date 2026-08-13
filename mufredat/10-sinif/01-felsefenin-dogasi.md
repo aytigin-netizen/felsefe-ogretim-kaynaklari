@@ -167,7 +167,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 1: "Felsefe Nedir?" Köprü Kurma Tartışması
 **Amaç:** Öğrencilerin felsefeye ilişkin ön kavram ve duygularını açığa çıkarmak.
 
-**Süre:** 20 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Öğrencilere felsefeyle ilişkilendirilebilen kısa bir yazılı, görsel veya işitsel materyal (ör. bir tablo, kısa bir şiir, alıntı) gösterilir
@@ -184,7 +184,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 2: Filozof Tanımları Düellosu
 **Amaç:** Felsefenin ortak bir tanımının mümkün olup olmadığını tartışmak (FEL.10.1.1-b).
 
-**Süre:** 30 dk
+**Süre:** 50 dk
 
 **Adımlar:**
 1. Platon, Aristoteles, Descartes ve Kant'ın felsefe tanımlarını içeren kısa liste dağıtılır
@@ -203,7 +203,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 3: Felsefe Tarih Şeridi ve Medeniyet Haritası
 **Amaç:** Felsefi düşüncenin ortaya çıkışını, tarihsel koşullarla ilişkisini ve dünya geleneklerini görselleştirmek (FEL.10.1.1-ç).
 
-**Süre:** 35 dk
+**Süre:** 80 dk
 
 **Adımlar:**
 1. Felsefi düşüncenin ortaya çıkışı ve tarihsel dönemlerin genel özelliklerini içeren bilgi görseli (infografik/tarih şeridi) verilir
@@ -220,7 +220,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 4: Felsefi Düşüncenin Özellikleri Çalışma Kâğıdı
 **Amaç:** Felsefi düşüncenin özelliklerini öğrencilerin kendi cümleleriyle ifade etmesi (FEL.10.1.2-a).
 
-**Süre:** 30 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. Çalışma kâğıdı (`calisma-kagitlari/01-felsefenin-dogasi-ck.md`) dağıtılır; kelime ilişkilendirme testi (Bölüm A) sınıfça çözülür, ardından felsefi düşüncenin özellikleri tablosu (Bölüm B) doldurulur
@@ -235,7 +235,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 5: Felsefi Soru Atölyesi
 **Amaç:** Felsefi sorunun özelliklerini ifade edip kendi felsefi sorularını üretmek (FEL.10.1.2-b).
 
-**Süre:** 25 dk
+**Süre:** 50 dk
 
 **Adımlar:**
 1. Akademik yayınlardan felsefi sorunun özelliklerine ilişkin kısa metinler verilir; çıkarım yaptırılır (KB2.10)
@@ -250,7 +250,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 6: Üç Alan Karşılaştırma Grid'i — Bilim, Din, Sanat
 **Amaç:** Felsefenin bilim, din ve sanatla ilişkisine eleştirel yaklaşmak (FEL.10.1.2-c).
 
-**Süre:** 25 dk
+**Süre:** 50 dk
 
 **Adımlar:**
 1. Öğrencilere felsefenin bilim, din ve sanat alanlarıyla ilişkisine ilişkin sorular yöneltilir
@@ -264,7 +264,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ### Etkinlik 7: Felsefenin İşlevleri Savunma Paneli
 **Amaç:** Felsefenin bireysel ve toplumsal işlevlerini tartışmak (FEL.10.1.2-ç).
 
-**Süre:** 25 dk
+**Süre:** 50 dk
 
 **Adımlar:**
 1. "Felsefe hayatta ne işe yarar?" sorusu sorulur; öğrenciler bireysel ya da grup hâlinde mantıksal temellendirme yapar (KB2.8)
@@ -273,6 +273,20 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 4. Konuşma halkası veya akvaryum tekniği uygulanır; öz veya akran değerlendirme formu kullanılır (E3.5)
 
 **Ürün:** Felsefe işlevleri listesi + gerekçeli kabul/red metni
+
+---
+
+### Etkinlik 8: Röportaj Sorusu Tasarlama ve Akran Provası
+
+**Amaç:** Performans görevi için felsefi ve açık uçlu röportaj soruları hazırlamak; görüşme etiği, kaynak belirtme ve dijital/yazılı sunum ölçütlerini uygulamak.
+
+**Süre:** 20 dk
+
+1. Öğrenciler performans görevindeki beş sorudan en az ikisini seçer ve soru ifadesinin açık, yargılamayan ve felsefi sorgulamayı destekleyen yönünü kontrol eder.
+2. İkili gruplar, biri görüşmeci biri katılımcı olacak biçimde iki dakikalık prova yapar; katılımcının sözünü kesmeme, kişisel veriyi yayımlamama ve görüşü doğru aktarma ilkelerini uygular.
+3. Öğrenciler, röportaj ürününde kaynak/katılımcı bilgisini nasıl anonimleştireceğini ve ürünün hangi ölçütle değerlendirileceğini akran dönütüyle planlar.
+
+**Ürün:** Röportaj soru taslağı, akran dönütü ve teslim planı.
 
 ---
 

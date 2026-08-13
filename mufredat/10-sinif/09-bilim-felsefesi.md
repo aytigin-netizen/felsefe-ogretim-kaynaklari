@@ -136,7 +136,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 ### Etkinlik 1: Tarihten Deneyler — Bilimin Doğasına Yolculuk
 **Amaç:** Bilimin konusunu, amacını ve yöntemini bilim tarihinden örneklerle keşfettirmek (FEL.10.9.1-a).
 
-**Süre:** 25 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. İbni Heysem'in Karanlık Oda deneyi, Takiyüddin'in optik çalışmaları, Michelson-Morley veya Milgram deneylerinden seçilen görsel/anlatı sunulur (E1.1)
@@ -150,7 +150,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 ### Etkinlik 2: Klasik mi, Çağdaş mı? — İki Bilim Anlayışı Karşılaştırması
 **Amaç:** Bilimin ne olduğu problemini klasik ve çağdaş anlayış karşılaştırmasıyla işlemek (FEL.10.9.1-b, c).
 
-**Süre:** 40 dk
+**Süre:** 80 dk
 
 **Adımlar:**
 1. Farklı bilim anlayışlarını açıklayan yapılandırılmış metin dağıtılır
@@ -165,7 +165,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 ### Etkinlik 3: Bilim mi, Sözde Bilim mi? — Sınıflama Tartışması
 **Amaç:** Bilimin yöntem problemini deneyimlemek (FEL.10.9.1-b, c).
 
-**Süre:** 35 dk
+**Süre:** 60 dk
 
 **Adımlar:**
 1. Bilim olan ve olmayan bilgi alanları karışık liste olarak verilir (ör. fizik, astroloji, psikoloji, numeroloji, biyoloji, fal, sosyoloji, evrim kuramı, UFO iddiaları vb.)
@@ -175,6 +175,20 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 5. Karşılaştırma tablosu hazırlanır veya soru-cevap tekniği kullanılır
 
 **Ürün:** Sınıflama tablosu + üç filozof karşılaştırma tablosu
+
+---
+
+### Etkinlik 4: Metin İnceleme Laboratuvarı ve Kanıt–Yorum Ayrımı
+
+**Amaç:** Bilim felsefesi metninde kavram, problem ve argümanları ayırt etmek; performans görevinin metne dayalı gerekçe ölçütlerini sınıf içinde uygulamak.
+
+**Süre:** 40 dk
+
+1. Öğretmen kaynak, çeviri/uyarlama ve bağlam bilgisi verilen kısa bir metin parçasında kavram, problem ve argümanı işaretleyerek düşünme sürecini modeller.
+2. Öğrenciler seçilen metinde en az bir bilim felsefesi kavramı, bir problem ve bir argüman belirler; metindeki bilgi ile yorumun ayrımını kısa notlarla gösterir.
+3. İkili gruplar taslaklarını akran dönütüyle gözden geçirir; iddianın kaynağa dayalı olup olmadığını ve karşı görüşün adil temsil edilip edilmediğini kontrol eder.
+
+**Ürün:** Metin inceleme taslağı ve kanıt–yorum kontrol notu.
 
 ---
 
