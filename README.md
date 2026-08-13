@@ -48,7 +48,7 @@ MEB onaylı programda 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur:
 | Ünite | Başlık | Saat | Oran | Durum |
 |-------|--------|------|------|-------|
 | 1 | Felsefenin Doğası | 10 | %15 | Tamamlandı (resmî program doğrulamalı) |
-| 2 | Felsefe, Mantık ve Argümantasyon | 8 | %11 | Şablon düzeyinde |
+| 2 | Felsefe, Mantık ve Argümantasyon | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 3 | Varlık Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 4 | Bilgi Felsefesi | 8 | %11 | Şablon düzeyinde |
 | 5 | Ahlak Felsefesi | 8 | %11 | Şablon düzeyinde |
