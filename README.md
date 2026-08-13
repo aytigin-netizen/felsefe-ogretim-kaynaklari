@@ -70,7 +70,7 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. İlk ünite için res
 | 3 | Akıl ve İnanç | 10 | Tamamlandı (resmî program doğrulamalı) |
 | 4 | Edebiyat ve Felsefe | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 5 | Hayatın Anlamı | 12 | Tamamlandı (resmî program doğrulamalı) |
-| 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
+| 6 | Hukuk ve Felsefe | 10 | Tamamlandı (resmî program doğrulamalı) |
 
 11. sınıf ünite denetim kayıtları için [`docs/denetim-raporu-11-sinif.md`](docs/denetim-raporu-11-sinif.md) dosyasına bakınız.
 

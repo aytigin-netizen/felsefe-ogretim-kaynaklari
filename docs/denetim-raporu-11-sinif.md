@@ -91,6 +91,24 @@ Resmî program; açık uçlu ön değerlendirme, görsel/görsel-işitsel matery
 | Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: Gülşehrî, Nietzsche, sosyal medya; akran desteği, sadeleştirilmiş metin ve iş birlikli yazma işlendi |
 | Güvenli öğrenme ortamı | Ünite sınıf iklimi bölümü; çalışma kâğıdı öğrenci/öğretmen notları | Karşılandı: kişisel paylaşım zorunlu değildir; alternatif kurgusal örnek ve destek yönlendirmesi belirtilmiştir |
 
+## 6. Ünite — Hukuk ve Felsefe
+
+Resmî program; eşleştirme testi, okul/günlük hayat kurallarından köprü kurma, hukukun gereği ile özgürlük ve mahremiyetin görsel/örnek olay üzerinden çözümlemesi, doğal–pozitif hukuk bilgi kartları, suç–ceza–hakkaniyet tartışması, insan hakları materyali, ahlak–hukuk Venn şeması ve güncel hukuk sorunu üzerine felsefi metin performans görevini öngörür. [1]
+
+| Gereklilik | Materyal karşılığı | Durum |
+|---|---|---|
+| Ünite bilgileri, öğrenme çıktıları ve süreç bileşenleri | `mufredat/11-sinif/06-hukuk-ve-felsefe.md` başlangıç bölümleri | Karşılandı: 10 saat, FEL.11.6.1, FEL.11.6.2, SBAB14 ve SBAB15 resmî programa göre işlendi |
+| Eşleştirme testi ve kural–sonuç köprüsü | Çalışma kâğıdı Bölüm A; ünite Etkinlik 1 | Karşılandı: hukuk, yasa, suç, ceza, hakkaniyet eşleştirmesi ve kural–değer çözümlemesi |
+| Hukukun gereği, özgürlük ve mahremiyet | Çalışma kâğıdı Bölüm B; ünite Etkinlik 2 | Karşılandı: kaynak bilgili örnek olay, bilgi–yorum–ilke ayrımı, forum gözlem formu |
+| Doğal hukuk ve pozitif hukuk | Çalışma kâğıdı Bölüm C; ünite Etkinlik 3 | Karşılandı: kaynak, meşruiyet, geçerlilik, adalet ve hakkaniyet karşılaştırması |
+| Suç, ceza, orantı, caydırıcılık ve hakkaniyet | Çalışma kâğıdı Bölüm D; ünite Etkinlik 4 | Karşılandı: tamamen kurgusal örnek olay, ilke–gerekçe tablosu ve yazılı çıkarım |
+| İnsan hakları, eşitlik ve özgürlükler | Çalışma kâğıdı Bölüm E; ünite Etkinlik 5 | Karşılandı: hak–kavram–sorun tablosu, ayrımcılık karşıtı kurgusal çözüm ve OHCHR kamusal kaynağı |
+| Ahlak–hukuk ilişkisi ve adalet | Çalışma kâğıdı Bölüm F; ünite Etkinlik 6 | Karşılandı: Venn şeması, görüş–gerekçe–karşı görüş ve kontrol listesi |
+| Güncel hukuk sorunu felsefi metni | Çalışma kâğıdı Bölüm G; ünite Etkinlik 7 | Karşılandı: güvenilir kamusal kaynak/tarih, bilgi–yorum ayrımı, felsefi soru ve akran dönütü |
+| Gözlem formu, eşleştirme, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm A–G; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
+| Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: E. Said, yasal–ahlaki ilişki, yapay zekâ; görsel bilgi kartı, akran desteği ve yazma şeması işlendi |
+| Hukuki güvenlik ve mahremiyet | Ünite eğitsel sınır bölümü; çalışma kâğıdı öğrenci/öğretmen notları | Karşılandı: kişisel veri, hedef gösterme, somut dava hükmü ve hukuki danışmanlık sınırları belirtilmiştir |
+
 ## 11. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Resmî ders saati | Materyal durumu |
@@ -100,7 +118,7 @@ Resmî program; açık uçlu ön değerlendirme, görsel/görsel-işitsel matery
 | 3 | Akıl ve İnanç | 10 | Tamamlandı ve denetlendi |
 | 4 | Edebiyat ve Felsefe | 12 | Tamamlandı ve denetlendi |
 | 5 | Hayatın Anlamı | 12 | Tamamlandı ve denetlendi |
-| 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
+| 6 | Hukuk ve Felsefe | 10 | Tamamlandı ve denetlendi |
 
 ## Kaynak
 
