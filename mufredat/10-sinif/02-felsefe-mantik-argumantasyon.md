@@ -248,7 +248,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 
 ### Öğrenme Kanıtları
 
-Bu ünitede açık uçlu sorular, bulmaca, doğru/yanlış testi, eşleştirme testi, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği ve performans görevi kullanılabilir. Doğru/yanlış testi ve eşleştirme testi `calisma-kagitlari/02-mantik-argumantasyon-ck.md` dosyasında; öz ve akran değerlendirme formları `ortak-materyaller/degerlendirme-formlari.md` dosyasında hazır olarak sunulmuştur.
+Bu ünitede açık uçlu sorular, bulmaca, doğru/yanlış testi, eşleştirme testi, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği ve performans görevi kullanılabilir. Doğru/yanlış testi ve eşleştirme testi `calisma-kagitlari/02-mantik-argumantasyon-ck.md` dosyasında; öz ve akran değerlendirme formları [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
 **Resmî performans görevi:** Öğrenciler safsataların kullanımına örnek verir ve bunu görsellerle destekleyerek bir afişe dönüştürür.
 

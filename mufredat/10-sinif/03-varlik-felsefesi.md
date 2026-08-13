@@ -326,7 +326,7 @@ Nedensellik, varlıkların birbirini doğurduğunu savunan ilkedir: "Neden olmak
 
 #### 4. Performans Görevi (30 puan)
 
-**Metin İnceleme (resmî performans görevi):** Öğrenciler, varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek `ortak-materyaller/metin-inceleme-formu.md` formunu doldurur; çalışmalarını paylaşır ve akran değerlendirme formu ile birbirlerini değerlendirir (D3.3, D16.3).
+**Metin İnceleme (resmî performans görevi):** Öğrenciler, varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek [metin inceleme formunu](../ortak-materyaller/metin-inceleme-formu.md) doldurur; çalışmalarını paylaşır ve [akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md) ile birbirlerini değerlendirir (D3.3, D16.3).
 
 **Resmî Metin Havuzu:**
 

@@ -213,7 +213,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 ### Performans Görevi: Din Felsefesi Metin İnceleme Formu
 **Süre:** Ev ödevi olarak 1 hafta
 
-**Görev:** Aşağıdaki eserlerden kısaltılan veya alıntılanan metinler, öğrencilerin görüşleri alınarak dengeli biçimde dağıtılır. Öğrenciler seçtikleri metindeki kavram, problem ve argümanları inceleyerek **metin inceleme formunu** doldurur ve çalışmalarını paylaşır; akran değerlendirme formu ile birbirlerini değerlendirir.
+**Görev:** Aşağıdaki eserlerden kısaltılan veya alıntılanan metinler, öğrencilerin görüşleri alınarak dengeli biçimde dağıtılır. Öğrenciler seçtikleri metindeki kavram, problem ve argümanları inceleyerek [metin inceleme formunu](../ortak-materyaller/metin-inceleme-formu.md) doldurur ve çalışmalarını paylaşır; [akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md) ile birbirlerini değerlendirir.
 
 **Metin Havuzu (resmî program):**
 
@@ -226,7 +226,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 | G. W. F. Hegel | *Din Felsefesi Üzerine Dersler* | Dinin kavramsal yorumu |
 | Alvin Plantinga | *Tanrı, Özgürlük ve Kötülük* | Kötülük problemi ve özgür irade savunusu |
 
-**Değerlendirme:** Metin inceleme formu, dereceli puanlama anahtarı veya dereceleme ölçeği ile (D3.3, D16.3).
+**Değerlendirme:** [Metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md), dereceli puanlama anahtarı veya dereceleme ölçeği ile (D3.3, D16.3).
 
 ---
 
@@ -234,7 +234,7 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 
 ### Öğrenme Kanıtları
 
-Bu ünitede kavram haritası, eşleştirme kartları, boşluk doldurma, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme kartları ve boşluk doldurma çalışması `calisma-kagitlari/08-din-felsefesi-ck.md` dosyasında; metin inceleme formu, öz ve akran değerlendirme formları `ortak-materyaller/` klasöründe hazır olarak sunulmuştur.
+Bu ünitede kavram haritası, eşleştirme kartları, boşluk doldurma, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme kartları ve boşluk doldurma çalışması `calisma-kagitlari/08-din-felsefesi-ck.md` dosyasında; [metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md) ile öz ve akran değerlendirme için [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 

@@ -195,7 +195,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 ### Performans Görevi: Bilim Felsefesi Metin İnceleme Formu
 **Süre:** Ev ödevi olarak 1 hafta
 
-**Görev:** Aşağıdaki eserlerden kısaltılan veya alıntılanan metinler, öğrencilerin görüşleri alınarak dengeli biçimde dağıtılır. Öğrenciler seçtikleri metindeki kavram, problem ve argümanları inceleyerek **metin inceleme formunu** doldurur ve çalışmalarını paylaşır; akran değerlendirme formu ile birbirlerini değerlendirir.
+**Görev:** Aşağıdaki eserlerden kısaltılan veya alıntılanan metinler, öğrencilerin görüşleri alınarak dengeli biçimde dağıtılır. Öğrenciler seçtikleri metindeki kavram, problem ve argümanları inceleyerek [metin inceleme formunu](../ortak-materyaller/metin-inceleme-formu.md) doldurur ve çalışmalarını paylaşır; [akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md) ile birbirlerini değerlendirir.
 
 **Metin Havuzu (resmî program):**
 
@@ -207,7 +207,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 | T. S. Kuhn | *Bilimsel Devrimlerin Yapısı* | Paradigma ve bilimsel devrimler |
 | F. Sezgin | *Bilim Tarihi Sohbetleri* | İslam uygarlığında bilim |
 
-**Değerlendirme:** Metin inceleme formu, dereceli puanlama anahtarı veya dereceleme ölçeği ile (D3.3, D16.3).
+**Değerlendirme:** [Metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md), dereceli puanlama anahtarı veya dereceleme ölçeği ile (D3.3, D16.3).
 
 ---
 
@@ -215,7 +215,7 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 
 ### Öğrenme Kanıtları
 
-Bu ünitede eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, sunum, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme testi, boşluk doldurma ve kavram bulmacası `calisma-kagitlari/09-bilim-felsefesi-ck.md` dosyasında; metin inceleme formu, öz ve akran değerlendirme formları `ortak-materyaller/` klasöründe hazır olarak sunulmuştur.
+Bu ünitede eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, sunum, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme testi, boşluk doldurma ve kavram bulmacası `calisma-kagitlari/09-bilim-felsefesi-ck.md` dosyasında; [metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md) ile öz ve akran değerlendirme için [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 

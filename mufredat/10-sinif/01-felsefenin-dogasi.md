@@ -303,7 +303,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 
 ### Öğrenme Kanıtları
 
-Bu ünitede açık uçlu sorular, kelime ilişkilendirme testi, çalışma kâğıdı, kavram haritası, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği, kontrol listesi, grup değerlendirme formu, dereceli puanlama anahtarı ve performans görevi kullanılabilir. Kelime ilişkilendirme testi ve çalışma kâğıdı `calisma-kagitlari/01-felsefenin-dogasi-ck.md` dosyasında; öz ve akran değerlendirme formları ile kontrol listeleri `ortak-materyaller/degerlendirme-formlari.md` dosyasında hazır olarak sunulmuştur.
+Bu ünitede açık uçlu sorular, kelime ilişkilendirme testi, çalışma kâğıdı, kavram haritası, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği, kontrol listesi, grup değerlendirme formu, dereceli puanlama anahtarı ve performans görevi kullanılabilir. Kelime ilişkilendirme testi ve çalışma kâğıdı `calisma-kagitlari/01-felsefenin-dogasi-ck.md` dosyasında; öz, akran, grup değerlendirme formları ile kontrol listeleri [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
 ### Ölçme Araçları
 

@@ -23,7 +23,7 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 | Satır sonu boşlukları | 15/15 | İlk taramada biçim sorunu bulunmadı |
 | Süresi açıkça resmî toplamla eşleşen ünite | 15/15 | Dört eski ünite düzeltildikten sonra tüm ünitelerin ders içi süreleri resmî toplamla eşleşmektedir |
 | Süre planı öncelikli inceleme gerektiren ünite | 0/15 | İlk turda saptanan dört süre planı eksikliği giderildi |
-| Ortak form linki standardizasyonu gereken ünite | 5/15 | 10. sınıf 1, 2, 3, 8 ve 9 |
+| Ortak form linki standardizasyonu gereken ünite | 0/15 | İlk turda saptanan beş eski ünite yönlendirmesi doğrudan yerel Markdown bağlantılarına dönüştürüldü |
 
 ## 3. Doğrulanmış İlk Bulgular
 
@@ -40,17 +40,17 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 
 10. sınıf 2. ünite için ilk betik `dk` kısaltmasını ayrıştıramadığı için başlangıçta uyarı üretmiştir. Manuel doğrulamada açık sürelerin toplamı **320 dakika / 8 ders saati** olduğundan bu ünite için süre uyumsuzluğu bulgusu kapatılmıştır. Toplu denetim aracı `dk` ve `dakika` biçimlerini birlikte destekleyecek şekilde güncellenmiştir.
 
-### 3.2. Öncelik 2 — Ortak Değerlendirme Formlarına Açık Bağlantı Standardı Eski Beş Ünitede Farklı
+### 3.2. Öncelik 2 — Ortak Değerlendirme Formu Bağlantıları Standardize Edildi
 
-10. sınıf 1, 2, 3, 8 ve 9. üniteler; öz/akran değerlendirme, kontrol listesi veya metin inceleme formunu metin içinde anmaktadır. Ancak yeni ünitelerdeki standart olan tam yerel Markdown bağlantısı (`mufredat/ortak-materyaller/degerlendirme-formlari.md`) tüm eski dosyalarda tutarlı biçimde kullanılmamıştır. Bu, dosyaların form içermediği anlamına gelmez; erişilebilirlik ve bakım açısından bağlantı biçiminin standardize edilmesi gerektiğini gösterir.
+10. sınıf 1, 2, 3, 8 ve 9. ünitelerindeki öz/akran değerlendirme, kontrol listesi ve metin inceleme aracı atıfları; `mufredat/ortak-materyaller/` altındaki geçerli dosyalara yönelen yerel Markdown bağlantılarına dönüştürülmüştür. Bu değişiklik, bakım sürecinde dosya hedefinin görünürlüğünü artırır ve öğretmenin ilgili ortak araca doğrudan ulaşmasını sağlar.
 
-| Ünite | Mevcut durum | İyileştirme |
+| Ünite | Güncel bağlantı standardı | Durum |
 |---:|---|---|
-| 10.1 Felsefenin Doğası | Ortak değerlendirme formu dosya yolu metin içinde belirtilmiş | Tam yerel Markdown bağlantısına dönüştür |
-| 10.2 Felsefe, Mantık ve Argümantasyon | Ortak değerlendirme formu dosya yolu metin içinde belirtilmiş | Tam yerel Markdown bağlantısına dönüştür |
-| 10.3 Varlık Felsefesi | Metin inceleme formuna atıf var; değerlendirme formu yönlendirmesi açık standarda bağlanmalı | İki ortak form için görünür bağlantı ekle |
-| 10.8 Din Felsefesi | `ortak-materyaller/` klasörüne genel atıf var | Kullanılan formlara doğrudan bağlantı ekle |
-| 10.9 Bilim Felsefesi | `ortak-materyaller/` klasörüne genel atıf var | Kullanılan formlara doğrudan bağlantı ekle |
+| 10.1 Felsefenin Doğası | `[Ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.2 Felsefe, Mantık ve Argümantasyon | `[Ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.3 Varlık Felsefesi | `[Metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md)` ve `[akran değerlendirme formu](../ortak-materyaller/degerlendirme-formlari.md)` | Tamamlandı |
+| 10.8 Din Felsefesi | Metin inceleme ile ortak değerlendirme formlarına doğrudan bağlantılar | Tamamlandı |
+| 10.9 Bilim Felsefesi | Metin inceleme ile ortak değerlendirme formlarına doğrudan bağlantılar | Tamamlandı |
 
 ### 3.3. Olumlu Bulgular
 
@@ -58,7 +58,7 @@ Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çı
 
 ## 4. Sonraki Denetim Döngüsü
 
-Süre planı düzeltmeleri tamamlandığından sonraki uygulama turu, eski beş ünitedeki ortak form yönlendirmelerini yeni ünitelerin bağlantı standardına getirmeye odaklanmalıdır. Ardından bütün üniteler için süre, puan, yerel bağlantı ve çalışma kâğıdı kontrolleri yeniden çalıştırılmalıdır.
+Süre planı ve ortak form bağlantısı düzeltmeleri tamamlandığından sonraki uygulama turu, dış bağlantıların erişilebilirliği ile kaynak güncelliğini denetlemeye odaklanmalıdır. Ardından bütün üniteler için süre, puan, yerel bağlantı ve çalışma kâğıdı kontrolleri yeniden çalıştırılmalıdır.
 
 Ardından dış bağlantıların erişilebilirliği, kaynakların güncelliği, etkinlik–öğrenme çıktısı–ölçme hizası, felsefi kavramların doğruluğu ve öğretmen kullanım gerçekçiliği için ikinci bir pedagojik denetim turu yapılmalıdır. Bu ilk rapor, ikinci turu başlatacak teknik ve içerik önceliklerini tanımlar; tam kalite denetiminin nihai sonucu değildir.
 
