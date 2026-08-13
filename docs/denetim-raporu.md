@@ -1,6 +1,6 @@
-# Müfredat Denetim Raporu — 10. Sınıf Tamamlanmış Üniteler (1, 3, 8, 9)
+# Müfredat Denetim Raporu — 10. Sınıf Tamamlanmış Üniteler (1, 3, 4, 8, 9)
 
-Bu rapor, depodaki tamamlanmış dört ünitenin (1. Felsefenin Doğası, 3. Varlık Felsefesi, 8. Din Felsefesi, 9. Bilim Felsefesi) MEB onaylı Felsefe Dersi Öğretim Programı ile karşılaştırılarak yapılan eksik etkinlik, çalışma kâğıdı ve ölçme aracı denetimini belgeler. Denetim sonunda tespit edilen eksikler giderilmiş; yeni materyaller depoya eklenmiştir.
+Bu rapor, depodaki tamamlanmış beş ünitenin (1. Felsefenin Doğası, 3. Varlık Felsefesi, 4. Bilgi Felsefesi, 8. Din Felsefesi, 9. Bilim Felsefesi) MEB onaylı Felsefe Dersi Öğretim Programı ile karşılaştırılarak yapılan eksik etkinlik, çalışma kâğıdı ve ölçme aracı denetimini belgeler. Denetim sonunda tespit edilen eksikler giderilmiş; yeni materyaller depoya eklenmiştir.
 
 ## Denetim Yöntemi
 
@@ -34,6 +34,22 @@ Resmî program anlam çözümleme tablosu, akran değerlendirme formu, derecelem
 | Ünite bilgileri (saat, oran, kazanım, SBAB) | 10 saat / iki kazanım / doğrulama işareti | Giderildi: 8 saat, FEL.10.3.1, SBAB14 beceri kodları |
 | Akran değerlendirme formu, dereceleme ölçeği | Form şablonu yok | Giderildi: ortak materyaller |
 
+### 4. Ünite — Bilgi Felsefesi
+
+Resmî program; kelime ilişkilendirme testi, dezenformasyon üzerinden köprü kurma, bilgi olan ve olmayan ifadelerin ayırt edilmesi, önerme–argüman–akıl yürütme ilişkisi, Platon’un mağara benzetmesi, kuşkucu ve dogmatik görüşlerin karşılaştırılması, Descartes’ın Rüya Argümanı, bilginin kaynağına ilişkin dört görüş, doğruluk ölçütleri, öz/akran değerlendirme ve metin inceleme performans görevini öngörür. Önceki dosya, uydurma ikinci öğrenme çıktısı ve SBAB16 alan becerisi içeriyor; bilimsel yöntem ve bilim felsefesi odaklı, resmî öğrenme-öğretme yaşantılarından ayrışıyordu. Bu nedenle dosya, resmî program temelinde bütünüyle yeniden yazılmıştır.
+
+| Gereklilik | Denetim Öncesi | Durum |
+|------------|----------------|-------|
+| Ünite bilgileri ve öğrenme çıktısı | FEL.10.4.2, SBAB16 ve program dışı ifadeler | Giderildi: 8 saat, FEL.10.4.1 ve SBAB14 süreç bileşenleri resmî programa göre yeniden yazıldı |
+| Kelime ilişkilendirme ve dezenformasyon köprüsü | Yok | Giderildi: `calisma-kagitlari/04-bilgi-felsefesi-ck.md` Bölüm A ve ünite Etkinlik 1 |
+| Bilgi ifadesi, önerme, argüman ve akıl yürütme | Yok | Giderildi: çalışma kâğıdı Bölüm B ve ünite Etkinlik 2 |
+| Bilgi–sanı, gerçeklik–doğruluk ve mağara benzetmesi | Yok | Giderildi: ünite içerik çerçevesi ve Etkinlik 3 |
+| Kuşkuculuk–dogmatizm, Rüya Argümanı ve kuşku yöntemi | Kısmi ve kavramları ayırmayan anlatım | Giderildi: çalışma kâğıdı Bölüm C ve ünite Etkinlik 4 |
+| Rasyonalizm, empirizm, kritisizm, entüisyonizm | Kısmi | Giderildi: çalışma kâğıdı Bölüm D ve ünite Etkinlik 5 |
+| Doğruluk ölçütleri | Yok | Giderildi: uygunluk, tutarlılık, tümel uzlaşım ve yarar uygulamaları; çalışma kâğıdı Bölüm E |
+| Öz/akran değerlendirme, dereceleme ve performans görevi | Yok | Giderildi: ortak değerlendirme formları, 4 ölçütlü rubrik ve metin inceleme formuna yönlendirme |
+| Resmî metin havuzu | Yok | Giderildi: Platon, Sextus Empiricus, Gazali, Descartes, Locke, Kant ve Necati Öner havuzu |
+
 ### 8. Ünite — Din Felsefesi
 
 Resmî program kavram haritası, eşleştirme kartları, boşluk doldurma, öz/akran değerlendirme, dereceli puanlama, dereceleme ölçeği ve metin inceleme performans görevini öngörür. Eşleştirme kartları ve boşluk doldurma materyalinin içeriği yoktu.
@@ -59,12 +75,12 @@ Resmî program eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, 
 
 ## Eklenen Ortak Materyaller
 
-Denetimde, birden fazla ünitede geçen aynı araçların tekrar tekrar üretilmesi yerine ortak şablonlar hâlinde sunulması daha sürdürülebilir bulunmuştur. Bu nedenle `mufredat/ortak-materyaller/` klasörüne üç dosya eklenmiştir. `metin-inceleme-formu.md`, 3., 8. ve 9. ünitelerin performans görevi için resmî programda istenen tüm inceleme ölçütlerini (kavram belirleme, problem ifade etme, yargı ve argüman çözümleme, öncül-sonuç gösterme, eleştirel değerlendirme) içeren doldurulabilir bir formdur. `degerlendirme-formlari.md`, tüm ünitelerde kullanılabilir öz ve akran değerlendirme şablonlarını bir arada sunar.
+Denetimde, birden fazla ünitede geçen aynı araçların tekrar tekrar üretilmesi yerine ortak şablonlar hâlinde sunulması daha sürdürülebilir bulunmuştur. Bu nedenle `mufredat/ortak-materyaller/` klasöründe iki ortak form bulunur. `metin-inceleme-formu.md`, 3., 4., 8. ve 9. ünitelerin performans görevi için resmî programda istenen tüm inceleme ölçütlerini (kavram belirleme, problem ifade etme, yargı ve argüman çözümleme, öncül-sonuç gösterme, eleştirel değerlendirme) içeren doldurulabilir bir formdur. `degerlendirme-formlari.md`, tüm ünitelerde kullanılabilir öz ve akran değerlendirme şablonlarını bir arada sunar.
 
-Ünite bazında ise `mufredat/10-sinif/calisma-kagitlari/` klasörüne dört dosya eklenmiştir: `01-felsefenin-dogasi-ck.md`, `03-varlik-felsefesi-ck.md`, `08-din-felsefesi-ck.md` ve `09-bilim-felsefesi-ck.md`. Tüm kâğıtlarda öğretmen kullanımını kolaylaştırmak için cevap anahtarları ayrı bölümlerde verilmiştir.
+Ünite bazında ise `mufredat/10-sinif/calisma-kagitlari/` klasöründe beş dosya bulunmaktadır: `01-felsefenin-dogasi-ck.md`, `03-varlik-felsefesi-ck.md`, `04-bilgi-felsefesi-ck.md`, `08-din-felsefesi-ck.md` ve `09-bilim-felsefesi-ck.md`. Tüm kâğıtlarda öğretmen kullanımını kolaylaştırmak için cevap anahtarları ayrı bölümlerde verilmiştir.
 
 ## Genel Değerlendirme
 
-Denetim öncesi dört ünitenin tamamında etkinlik isimleri resmî programa uygun biçimde anılıyor, ancak bazı ölçme araçlarının somut içerikleri (kelime ilişkilendirme, boşluk doldurma, eşleştirme kartları, bulmaca, akım çalışma kâğıdı, metin inceleme formları) eksikti. Bu eksikler, resmî programdaki uygulama adımları birebir esas alınarak giderilmiştir. Buna karşılık şablon düzeyinde kalan 2., 4., 5., 6. ve 7. üniteler henüz denetleme tabi tutulmamıştır; bu üniteler güncellendiğinde aynı denetim sürecinin uygulanması önerilir.
+Denetim öncesi incelenen ünitelerde etkinlik isimleri resmî programa uygun biçimde anılıyor, ancak bazı ölçme araçlarının somut içerikleri (kelime ilişkilendirme, boşluk doldurma, eşleştirme kartları, bulmaca, akım çalışma kâğıdı ve metin inceleme formları) eksikti. Bu eksikler, resmî programdaki uygulama adımları esas alınarak giderilmiştir. 4. ünite özelinde ise eski program dışı içerik, uydurma kazanım ve alan becerisi bilgileri kaldırılmış; resmî FEL.10.4.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. Buna karşılık şablon düzeyinde kalan 2., 5., 6. ve 7. üniteler henüz denetleme tabi tutulmamıştır; bu üniteler güncellendiğinde aynı denetim sürecinin uygulanması önerilir.
 
 *Hazırlayan: Manus AI — 13 Ağustos 2026*
