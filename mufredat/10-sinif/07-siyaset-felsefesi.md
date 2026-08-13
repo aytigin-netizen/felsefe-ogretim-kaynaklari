@@ -1,683 +1,339 @@
-# 7. Ünite: Siyaset Felsefesi
+# 7. Siyaset Felsefesi
+
+Bu ünite, öğrencilerin siyaset felsefesinin konu, kavram ve problemlerini **felsefi muhakeme** yoluyla incelemelerini amaçlar. Öğrenciler toplumsal hayatta görülen sorunları kişileri, grupları veya güncel aktörleri etiketlemek için değil; adalet, özgürlük, eşitlik, devlet, iktidar ve ütopya kavramlarının anlamını, birbirleriyle ilişkisini ve bu kavramlara dayanan argümanları değerlendirmek için ele alır. Ünite, devletin kökeni, iktidarın kaynağı ve meşruiyeti ile ideal düzen ve ütopyalar problemlerine odaklanır. Ünite verileri ve öğrenme-öğretme yaşantıları MEB Felsefe Dersi Öğretim Programı’na göre düzenlenmiştir. [1]
 
 ## Ünite Bilgileri
 
 | Bilgi | Değer |
-|-------|-------|
+|---|---|
 | **Sınıf Seviyesi** | 10. Sınıf |
-| **Ders Saati** | 10 saat |
-| **2024 Müfredatta Oranı** | %13.9 |
-| **2026 Revizyonunda Oranı** | %13.9 |
-| **Ünite Kodu** | 10.7 |
-| **Alan** | Normatif Felsefe / Sosyal Felsefe |
+| **Ders Saati** | 8 saat |
+| **Öğretim programındaki oranı** | %11 |
+| **Ünite Kodu** | FEL.10.7 |
+| **Alan** | Siyaset Felsefesi |
+| **Temel problemler** | Devletin kökeni; iktidarın kaynağı ve meşruiyeti; ideal düzen ve ütopyalar |
 
 ---
 
 ## Öğrenme Çıktıları
 
+### FEL.10.7.1 — Siyaset felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme
+
 Öğrenciler bu ünite sonunda:
 
-### 10.7.1 — Siyaset Felsefesinin Kapsamını Tanımlar ve Temel Sorularını Formüle Eder
-- Siyaset felsefesinin diğer sosyal bilimlerden (tarih, politikabili, sosyoloji) farklılığını açıklayabilir
-- "Devlet nedir?", "İktidar meşru mudur?", "Özgürlük nedir?" gibi felsefik soruları düşündürülü formülize edebilir
-- Siyasi dünyanın aksiyomatik sorunlarını (çatışma, hak, adalet) felsefik argümanlarla ele alabilir
-- Antik çağdan günümüze siyaset felsefesi gelişiminin ana kırılma noktalarını sıralayabilir
-
-### 10.7.2 — Devletin Kökeni ve Meşruiyetine Yönelik Farklı Teorileri Analiz Eder
-- Doğal durum teorilerini (Hobbes, Locke, Rousseau) karşılaştırabilir
-- Toplum sözleşmesi kavramını eleştirel gözle inceleyebilir
-- Devletin meşruiyetinin koşullarını (iktidara itaat, recht, halkın egemenliği) tartabilir
-- Makiaveli ve gerçekçi siyaset felsefesinin moralist teorilere karşı argümanlarını değerlendirebilir
-
-### 10.7.3 — Adalet, Hak ve Özgürlük Kavramlarını Felsefi Açıdan Tartışır
-- Geleneksel (Aristoteles), modern (Locke, Rawls) ve alternatif (feminist, komünist) adalet teorilerini ayırt edebilir
-- "Hak nedir?" sorusunun doğal hak ve pozitif hak bakış açılarını anlamlandırabilir
-- Bireysel özgürlük ile toplumsal sorumluluk arasındaki gerilimi problemli hale getirebilir
-- Eşitlik ve eşitsizlik meselesine tarihsel ve felsefi açıdan yaklaşabilir
-
-### 10.7.4 — Siyasi Iktidarın Kaynağını ve Sınırlarını Soruşturur
-- Egemenlik kavramını ve modern devlette kimin egemen olduğu sorusunu derinleştirebilir
-- Totalitarizm, otoriter ve demokratik iktidar biçimlerinin felsefi temelleri arasında fark yapabilir
-- İktidar ve bilginin ilişkisini (Foucault) tartışabilir
-- Muhalefet hakkı ve sivil itaatsizliğin meşruiyetini felsefice değerlendirebilir
-
-### 10.7.5 — Demokrasi, Hak Düzeni ve Çoğulculuk Hakkında Duruş Geliştirir
-- Demokrasinin farklı tanımlarını (prosedürel, substantif, katılımcı) karşılaştırabilir
-- Demokrasinin paradokslarını (çoğunluk diktatörlüğü, apati, manipülasyon) tanıyabilir
-- Türkiye bağlamında insan hakları, azınlık hakları ve demokrasi dengesini tartabilir
-- Toplumsal çoğulculuk ile siyasi istikrar arasındaki gerilimi irdeleyebilir
+- siyaset felsefesinin konusunu ve temel kavramlarını açıklar;
+- devletin kökeni, iktidarın kaynağı ve meşruiyeti ile ideal düzen ve ütopyalar problemlerini açıklar;
+- bu problemlere yönelik düşünce ve argümanları gerekçeleriyle değerlendirir;
+- siyaset felsefesiyle ilgili bir metindeki kavram, problem ve argümanları inceler. [1]
 
 ---
 
-## Alan Becerileri ve Kavramsal Beceriler
+## Alan Becerileri ve Süreç Bileşenleri
 
-### Alan Becerileri
-- **Siyasi metinleri okuma:** Hobbes, Locke, Rousseau, Rawls gibi klasik siyaset felsefecilerinin görüşlerini ayırt etme
-- **Metin analizi:** Bir anayasa, yasalı hükmü veya siyasi bildiriyi felsefik açıdan çözümleme
-- **Karşılaştırmalı analiz:** Farklı siyasi sistem ve teorileri yan yana değerlendirme
-- **Tartışmalı yazma:** Siyasi bir iddiayı felsefi argümanlarla savunma veya karşı argüman sunma
+| Bileşen | Ünite içindeki kullanım |
+|---|---|
+| **Alan becerisi** | **SBAB14. Felsefi Muhakeme:** Felsefi problemleri anlama, düşünce ve argümanları değerlendirme, felsefi metin inceleme |
+| **Eğilimler** | E1.1 Merak, E1.2 Bağımsızlık, E3.5 Açık Fikirlilik, E3.10 Eleştirel Bakma |
+| **Sosyal-duygusal öğrenme** | SDB2.3 Sosyal Farkındalık |
+| **Değerler** | D1 Adalet, D3 Çalışkanlık, D11 Özgürlük, D14 Saygı, D16 Sorumluluk, D19 Vatanseverlik |
+| **Okuryazarlık becerileri** | OB1 Bilgi, OB6 Vatandaşlık Okuryazarlığı |
+| **Disiplinler arası ilişkiler** | Tarih, İnsan Hakları, Vatandaşlık ve Demokrasi |
+| **Beceriler arası ilişkiler** | KB2.8 Sorgulama, KB2.10 Çıkarım Yapma, KB2.13 Yapılandırma, KB2.18 Tartışma, KB3.3 Eleştirel Düşünme |
 
-### Kavramsal Beceriler
-- **Siyasi meseleleştirme:** Günlük siyasi olayları (seçim, mevzuat, ayaklanma) felsefik sorulara dönüştürme
-- **Normatif düşünce:** "Nasıl?" değil "Nasıl olmalı?" sorusu sorabilme
-- **Etik-siyasi bağlantı:** Ahlaki değerler ile siyasi düzen arasındaki ilişkiyi görme
-- **Tarafgözlü düşünce:** Çeşitli siyasi konumlardan argumanlar geliştirebilme
+Bu bileşenler, öğrencinin belirli bir güncel politik görüşü benimsemesini değil; bir toplumsal düzen iddiasındaki kavramları ayırmasını, iddia–gerekçe–sonuç ilişkisini görünür kılmasını, farklı görüşü adil temsil etmesini ve haklara saygılı bir tartışma yürütmesini hedefler.
 
 ---
 
 ## Anahtar Kavramlar
 
-| Kavram | Tanım |
-|--------|-------|
-| **Siyaset** | İnsanların ortak yaşamını, iktidarı ve yönetimi düzenleyen pratikler ve teoriler |
-| **Devlet** | Hukuki ve idari yetkiyi belirli bölgede tekelleştiren kurum |
-| **İktidar (Power)** | Başkasının davranışını etkileme veya değiştirme kapasitesi |
-| **Meşruiyet** | İktidarın sahiplerine ve yönetilenlerine göre haklılığı, "haklı olması" |
-| **Hak (Right)** | Bir kişinin veya grubun yasal veya ahlaki olarak yapması gereken ve muhafaza edilmesi gereken talep |
-| **Özgürlük (Liberty)** | Birinin kendi kararlarını bağımsız şekilde alabilmesi; müdahalesizlik |
-| **Adalet (Justice)** | Herkese hak ettiğini verme; hukuki, dağıtıcı ve tanıyıcı adalet biçimleri |
-| **Egemenlik (Sovereignty)** | Belirli bir bölge üzerinde en yüksek siyasi otorite; nihai karar verme gücü |
-| **Demokrasi** | Halkın (demos) yönetimi (kratos); temsili veya doğrudan katılımcı formlar |
-| **Toplum Sözleşmesi** | Doğal durumdan çıkan bireyler, haklarının bir kısmını devlete verip güvenlik sağlayan hipotez |
-| **Sivil İtaatsizlik** | Yasa çerçevesinde müdahale etmemeyi reddedip, vicdani zeminde yasa ihlal etme |
-| **Çoğulculuk** | Toplumda çeşitli değer sistemi, yaşam biçimi ve yaşantıların eşzamanlı varlığı |
+| Kavram | Açıklama |
+|---|---|
+| **Adalet** | Kişiler, haklar, fırsatlar ve kaynaklarla ilgili hakkaniyetli düzen arayışı |
+| **Birey** | Toplum ve devlet içinde hak, özgürlük ve sorumluluk sahibi kişi |
+| **Devlet** | Ortak yaşamı düzenleme, karar alma ve kamu düzenini sağlama işlevleriyle ilişkilendirilen siyasal yapı |
+| **Eşitlik** | Kişilerin değer, hak, fırsat veya kaynak bakımından hangi anlamda eşit sayılacağı sorusu |
+| **İktidar** | Toplumsal hayatta kararları etkileme, yönlendirme veya uygulama gücü |
+| **Özgürlük** | Bireyin seçim, eylem ve ifade imkânıyla ilgili felsefi kavram |
+| **Toplum** | Ortak yaşam, kurumlar, ilişkiler ve kurallarla bağlı insan topluluğu |
+| **Ütopya** | İdeal toplum düzenine ilişkin tasarım; istenilen veya istenilmeyen toplum betimlemelerini tartışma aracı |
+| **Meşruiyet** | İktidarın veya kararın hangi gerekçelerle haklı, kabul edilebilir veya bağlayıcı sayılacağı problemi |
+
+> **Kavram ayrımı:** İktidarın fiilen var olması, onun meşru olduğu anlamına gelmez. Siyaset felsefesi, iktidarın kaynağını ve kabul edilebilirliğini ayrı ayrı sorgular.
 
 ---
 
-## İçerik Çerçevesi
+## İçerik Çerçevesi ve Sekiz Ders Saati Akışı
 
-### 1. Siyaset Felsefesi Nedir? Temel Soruları (1 saat)
+| Ders saati | Odak | Öğrenciden beklenen öğrenme kanıtı |
+|---|---|---|
+| 1 | Kelime ilişkilendirme; toplumsal sorunlar ve yönetim biçimleri üzerine tahmin | Ön değerlendirme formu, sorun listesi |
+| 2 | Siyasetin amacı, işlevi, kurumları ve aktörleri; temel kavramlar | Kavram ilişkisi haritası, yansıtma yazısı |
+| 3 | Devletin kökeni; iktidarın kaynağı ve meşruiyeti | Problem–iddia–gerekçe şeması |
+| 4 | Devlet, iktidar ve meşruiyet görüşlerini karşılaştırma | Argüman çözümleme tablosu |
+| 5 | İdeal düzen: adalet, eşitlik, özgürlük, güvenlik ve refah | Gerekçeli ideal düzen taslağı |
+| 6 | Kaynakların adil dağıtımı, bireysel özgürlük ve devlet otoritesi | Tartışma notu, sosyal ipucu çözümlemesi |
+| 7 | Ütopya ve distopya; yapay zekâ/robotlar üzerine kısa hikâye | Karşılaştırmalı okuma, kısa metin |
+| 8 | Metin inceleme performans görevi hazırlığı ve akran dönütü | Metin inceleme planı, öz veya akran değerlendirme |
 
-Siyaset felsefesi, iktidar, adalet, hak, özgürlük gibi kavramların en derinlerde yatan temelleri soruşturan disiplindir. Siyaset bilimi "Şu anda devletler nasıl yapılandırılmıştır?" sorusuna cevap verirken, siyaset felsefesi "Devletler **nasıl olmalıdır**?" sorusunu sorar.
+### 1. Siyaset Felsefesinin Konusu ve Temel Kavramları (2 saat)
 
-**Temel Siyaset Felsefesi Soruları:**
+Siyaset felsefesi; ortak yaşamın nasıl düzenlenebileceği, devletin ne olduğu, iktidarın hangi gerekçelerle kabul edilebilir sayılacağı, adaletin ve özgürlüğün ne anlama geldiği gibi soruları inceler. Bu sorular, yalnızca mevcut kurumların nasıl işlediğini betimlemekle yetinmez; toplumsal yaşamın **nasıl olması gerektiği** üzerine gerekçeli düşünmeye çağırır.
 
-1. **Devlet nedir ve meşru mudur?** İktidarın haklı olmasının şartı nedir? Neden bireylerin bir kısmı iktidara itaat etmelidir?
+Öğrenciler, siyasetin amacı, işlevi, kurumları ve aktörleri üzerine sorularla işe başlar. Ardından adalet, özgürlük, eşitlik ve hak kavramlarının tanımını; bunların birbirleriyle nasıl ilişkilendirilebileceğini tartışır. Bir görsel, kurgusal örnek durum veya gündelik ortak yaşam deneyimi incelenirken amaç, öğrencinin kişisel ya da güncel siyasal taraf tutması değildir. Amaç, hak ve özgürlükleri korumanın önemini kavramlarla ve gerekçelerle açıklayabilmesidir. [1]
 
-2. **Özgürlük nedir ve sınırları nelerdir?** Benim özgürlüğü başkasının özgürlüğünü kısıtlar mı? Kolektif çıkarlar için bireysel özgürlük kısıtlanabilir mi?
+| İnceleme sorusu | Öğrencinin dikkat edeceği ilişki |
+|---|---|
+| “Ortak yaşamda neden kurallara ihtiyaç duyulur?” | Düzen, hak, sorumluluk ve özgürlük ilişkisi |
+| “Bir kararın adil olduğunu nasıl tartışabiliriz?” | Eşitlik, gerekçe ve sonuçların dağılımı |
+| “İktidarın kabul edilebilir olması için ne gerekir?” | Kaynak, meşruiyet ve sorumluluk ayrımı |
+| “Bireysel özgürlük ile ortak yarar çatışırsa ne yapılabilir?” | Karşı görüş, denge ve gerekçeli çözüm |
 
-3. **Adalet nedir?** Kaynaklar, fırsatlar ve cezalar nasıl dağıtılmalıdır? Eşitlik mi adalettir, yoksa başka?
+### 2. Devletin Kökeni, İktidarın Kaynağı ve Meşruiyeti (2 saat)
 
-4. **İktidarın sınırları nerededir?** Devlet ne yapabilir, ne yapamaz? İçişlerine müdahale hakkı var mı?
+Devletin kökeni problemi, devletin niçin ve nasıl ortaya çıktığını sorar. İktidarın kaynağı ve meşruiyeti problemi ise karar alma gücünün neye dayanabileceğini, bu gücün hangi koşullarda kabul edilebilir sayılacağını inceler. Öğrenciler, toplumlarda iktidarların neden ortaya çıktığı ve farklı yönetim biçimlerinde meşruiyetin hangi gerekçelerle savunulduğu üzerine sorular üretir. [1]
 
-5. **Demokrasi gerçekten iyi bir sistem midir?** Çoğunluk her zaman haklı mı? Azınlıkların korunması nasıl sağlanır?
+Öğretmen, devletin kökeni, iktidarın kaynağı ve meşruiyeti konusunda farklı düşünce ve argümanları kısa, yapılandırılmış bilgi kartlarıyla sunar. Öğrenciler bir karttaki temel problemi, iddiayı, gerekçeyi, sonucu ve açıkta kalan soruyu ayırır. Böylece “güçlü olanın yönetmesi” ile “yönetimin haklı kabul edilmesi” arasındaki farkı görebilirler.
 
-**Siyaset Felsefesinin Tarihsel Gelişimi:**
+| Problem | Öğrencinin çözümleyeceği soru |
+|---|---|
+| **Devletin kökeni** | Devlet ortak güvenlik, düzen, uzlaşma, tarihsel koşullar veya başka hangi nedenlerle açıklanabilir? |
+| **İktidarın kaynağı** | Karar alma gücü hangi gerekçeyle ortaya çıkar veya sürer? |
+| **Meşruiyet** | İktidarın kabul edilebilir olması için rıza, hukuk, adalet, gelenek, yarar veya başka hangi unsurlar gerekir? |
 
-- **Antik Çağ (Platon, Aristoteles):** Devlet polis olarak tanınır; "iyi devlet" ideal politeia (anayasa) ile tutturulur
-- **Orta Çağ (Thomas Aquinas, Dante):** Ruhani iktidar vs. dünyevi iktidar; hiyerarşi
-- **Erken Modern (Machiavelli, Hobbes, Locke):** Devletin meşruiyeti tarafsız sebeplerle (Hobbes) veya toplum sözleşmesiyle (Locke) açıklanır
-- **Aydınlanma (Rousseau, Montesquieu):** Halk egemenliği, güçler ayrılığı ilkeleri
-- **19. Yüzyıl (Hegel, Marx, Mill):** İdeoloji, sınıf, bireysel özgürlük tartışmaları
-- **20. Yüzyıl (Rawls, Foucault, Habermas, Sen):** Adalete yeni yaklaşımlar, iktidar analizi, kültürel hak
+Bu tartışma, bir yönetim biçimini övmek ya da yermek için değil; her görüşün dayandığı varsayımları, gerekçeleri ve olası sonuçları değerlendirmek için yürütülür.
 
----
+### 3. İdeal Düzen ve Ütopyalar (3 saat)
 
-### 2. Doğal Durum ve Toplum Sözleşmesi Teorileri (2 saat)
+İdeal düzenin imkânı problemi, insanların adil, eşit, özgür, güvenli ve refah içinde yaşayabilecekleri bir toplum düzeninin mümkün olup olmadığını sorar. Öğrenciler toplumsal sorunlara örnek verirken gerçek kişi, sınıf arkadaşı veya güncel tartışmalı olay yerine kurgusal ve genellenebilir durumları tercih eder. Bir ideal düzen tasarısında adalet, eşitlik, özgürlük, güvenlik ve refah arasında hangi önceliklerin kurulabileceği gerekçelerle tartışılır. [1]
 
-"Doğal durum" (state of nature) siyaset felsefesinin merkezi hayali bir kurgusuyla, insanlar devletten **önce** nasıl yaşardı? Buradan yola çıkarak, devletin **neden** ve **nasıl** kuruluşu anlaşılır.
+Siyasetin zenginlik ve kaynakların dağıtılmasıyla ilişkisi üzerinden, devletin kaynakların adil dağıtımındaki rolü ile bireysel özgürlük ve devlet otoritesi arasındaki denge ele alınır. Öğrenciler sosyal ipuçlarını dikkate alarak farklı kişilerin duygu, düşünce ve bakış açılarını anlamaya çalışır. Millî kaynakları koruma ve ortak yaşama sorumlulukla katılma, bir üstünlük iddiası olarak değil; ortak mirasa ve kamu yararına ilişkin gerekçeli bir değerlendirme olarak ele alınır. [1]
 
-#### 2.1 Hobbes — Korku ve İtaat
+Ütopya eserleri, ideal toplumu tartışmak için düşünce deneyleri sunar. Öğrenciler istenilen ütopya ile istenilmeyen ütopya (distopya) örneklerini ideal toplum düzeni açısından karşılaştırır. Bir toplumun “mükemmel” görünmesi, bireysel özgürlük, eleştiri imkânı ve hakların korunması bakımından hangi soruları doğurabilir? Öğrenciler bu soruya kısa metin ve münazara yoluyla yanıt verir. Programda ayrıca yapay zekâların veya robotların insanlar üzerinde hâkimiyet kurduğu kısa hikâyeler yazdırılması önerilmektedir. Bu çalışmada teknoloji yargılanmaz; hikâye, iktidar, özgürlük, sorumluluk ve ideal düzen kavramları için bir düşünce deneyi olarak kullanılır. [1]
 
-**Doğal Durum:** Hobbes'a göre, devlet olmayan doğal durumda insanlar, her biri kendi yaşamını korumak için çalışır. Kaynaklar kıttır; güç eşittir. Sonuç: **savaş hali** — "herkese karşı herkesin savaşı" (*bellum omnium contra omnes*).
+| İdeal düzen ölçütü | İnceleme sorusu |
+|---|---|
+| **Adalet** | Haklar, görevler ve kaynaklar hangi gerekçeyle dağıtılır? |
+| **Eşitlik** | Herkes hangi bakımdan eşit sayılır; farklı ihtiyaçlar nasıl ele alınır? |
+| **Özgürlük** | Bireysel seçim ve ifade alanı nasıl korunur? |
+| **Güvenlik** | Ortak yaşamda güvenlik hangi araçlarla ve hangi sınırlarda sağlanır? |
+| **Refah** | Ortak kaynaklar ve imkânlar toplumda nasıl paylaşılır? |
 
-İnsan tabiatı kötü değildir; ama **korku** ve **hayatta kalma arzusu** döngüsü otomatik çatışmaya yol açar. Hiçbir otorite olmadığında, "hak" diye bir şey yoktur — sadece yapabilme vardır.
+### 4. Siyaset Felsefesinde Metin İnceleme (1 saat)
 
-**Çözüm: İktidar Devleti (Leviathan)**
+Ünite sonunda öğrenciler, seçilen bir siyaset felsefesi metninde yer alan kavram, problem ve argümanları inceler. Çalışma yalnızca metni özetleme görevi değildir. Öğrencinin temel kavramı tanımlaması, yazarın yanıt aradığı problemi ifade etmesi, argümanın gerekçe ve sonucunu ayırması ve gerekçeli değerlendirme sunması beklenir.
 
-Bireyler, **kendi güvenliklerini sağlamak için** iktidara itaat etmeyi kabul ederler. Ama Hobbes'un sözleşmesi tek taraflıdır: devlet hale gelmişse, geri dönüş yok. Eğer devlet kötü yönetirse bile, alternatif daha kötüdür (doğal savaş). Devlet mutlak, geri çekilmez hakkı alır.
+Resmî performans görevi için öğrenciler, görüşleri de alınarak dengeli biçimde dağıtılan metin havuzundan yararlanır. Çalışma `mufredat/ortak-materyaller/metin-inceleme-formu.md` aracılığıyla yürütülür ve akran değerlendirme formu ile desteklenir. [1]
 
-**Tutarlılık Problemi:** Eğer doğal durumda hak yoksa, nasıl meşru bir sözleşme yapılabilir? Hobbes argümanları kızılınırlık (circularity) içerir.
-
-**Tarihselliği:** Hobbes, İngiltere İç Savaşı'nı (1642-51) yaşamıştır; korku ve iktidar çıkmazı haklı görünmüştür.
-
-#### 2.2 Locke — Hak ve Sınırlı Devlet
-
-**Doğal Durum:** Locke, Hobbes'tan değişik şekilde düşünür. Doğal durumda insanlar **tabiat hukuku** tarafından yönetilir. Bu hukuk aklıdır: "Kimse başkasını yaralamayan koşulda varlığını koruyabilir." Ek olarak, "emek haklı kılındığını" mülkiyet alır.
-
-Doğal durum savaşlı değildir; ama **kuralların uygulanmasında problem** vardır. Her biri kendi hakemi gibi davranır — taraflı yargı.
-
-**Çözüm: Sınırlı Devlet (Limited Government)**
-
-Devlet, doğal hakları korumak amacıyla oluşturulur. Bireyler, **sadece ortak hakları koruma hakkını** devlete vererler. Devlet bu yetkiyi aşarsa, halkın direniş hakkı doğar (right of rebellion). Anayasa ve yasal kısıtlamalar gerekli.
-
-**Locke'un 3 Doğal Hakkı:**
-1. **Yaşam hakkı**
-2. **Özgürlük hakkı** (vicdan özgürlüğü)
-3. **Mülkiyet hakkı** (emek ve ürün)
-
-**Tutarlılık Avantajı:** Locke, devletin sınırını açıkça koyuyor: halkın emanetçisi. Hak temelli devlet, daha sonra liberal demokrasiye yol açacak.
-
-**Tarihselliği:** Locke, 1689 İngiliz Devrimiyle ortaya çıkmıştır; anayasal monarşi ve halkın hakkı fikirlerini formülize etmiştir.
-
-#### 2.3 Rousseau — Genel İrade ve Halk Egemenliği
-
-**Doğal Durum:** Rousseau, Hobbes ve Locke'u hoşnut değildir. Doğal durumda insan "iyidir"; **toplum onu bozmıştır**. Özgün insan, "kendinden başkası" düşünmez (natural pity); ama sosyal ayrılmış belki, merhamet kaybeder.
-
-"Adi insan özgür doğdu; fakat zincirler içinde görülür."
-
-**Çözüm: Genel İrade (Volonté Générale)**
-
-Rousseau, sözleşmeyi yeniden tasarlar. Bireyler **tamamen** topluma verir kendilerini. Ancak hepsi aynı şartlarda verdiğinden, **hiç kimse mazlum değildir**. Çıkarsız itaat edilir, çünkü herkes hâkimdir. Bu "genel irade"dir: bireylerin çıkarları transcend edip, ortaklaşılmıştır.
-
-Genel irade **yanılmaz** değildir; fakat **halk bunu en iyi bilir**. Demokrasi bu sebeple asli formdur.
-
-**Tutarlılık Sorunu (Romantic İdealizmi):** Rousseau, genel iradenin ne olduğunu açıklamaz. "Umut halı" vurgusu sonradan **totalitarizmin ruhu** haline geldi (Robespierre, Jacobinler).
-
-**Tarihselliği:** Rousseau, 18. yüzyıl Fransal eşitsizliğini gözlemlemiştir; halk egemenliği ideali Fransız Devrimi'ni biçimlendirecektir.
-
-#### 2.4 Karşılaştırmalı Analiz
-
-| Teorisyen | Doğal Durum | Insan Tabiatı | Devletin Rolü | Meşruiyetin Kaynağı | Devletin Sınırı |
-|-----------|------------|--------------|---------------|-------------------|-----------------|
-| **Hobbes** | Savaş hali | Korku, çıkar | Mutlak otorite | Güvenlik anlaşması | Yok; güvenliği sağladığı sürece |
-| **Locke** | Barışlı ama kural şaşkın | Akılcı, toplumcı | Hak koruma | Halkın çıkarı ve rıza | Hak ihlalinde direniş |
-| **Rousseau** | İyi ve sadist | Merhamet + samimiyet | Genel iradenin aracı | Genel irade | Genel irade tarafından |
-
-**Türkiye Bağlamı:** Osmanlı Devleti ve sonrası Türkiye'de, Hobbes ve Locke'u denge içinde görmek gerekir — güvenlik ihtiyacı ile hak koruma dengesi tarihsel olarak zaman zaman kırılmıştır.
+| Yazar / kaynak | Eser | İnceleme odağı |
+|---|---|---|
+| Platon | *Devlet* | Adalet ve ideal düzen |
+| Aristoteles | *Politika* | Devlet, yurttaşlık ve ortak yaşam |
+| Orhon Yazıtları | Orhon Yazıtları | Yönetim, toplum ve sorumlulukla ilgili kavramlar |
+| Farabi | *El-Medinetü’l-Fâzıla* | Erdemli şehir ve ideal düzen |
+| Yûsuf Has Hâcib | *Kutadgu Bilig* | Adalet, yönetim ve değerler |
+| İbni Haldun | *Mukaddime* | Toplum ve iktidar ilişkisi |
+| Thomas Hobbes | *Leviathan* | Devlet, güvenlik ve iktidar |
 
 ---
 
-### 3. Adalet Kavramları ve Dağıtıcı Adalet (2 saat)
+## Sınıf Etkinlikleri
 
-Siyaset felsefesinin kalbinde adalet yer alır. Fakat adalet ne anlama gelir?
+### Etkinlik 1: Kelime İlişkilendirme ve Toplumsal Sorun Köprüsü
 
-#### 3.1 Geleneksel Adalet — Aristoteles
+**Amaç:** Öğrencilerin siyaset, adalet, devlet, iktidar, özgürlük ve eşitlik kavramlarına ilişkin ön bilgilerini belirlemek; toplumsal hayattaki sorunlarla ilişki kurmalarını sağlamak.
 
-Aristoteles, "adalet" (*dikaiosyne*) birkaç türüne ayırır:
-
-1. **Dağıtıcı Adalet** (*dikaiosyne diorthôtikê*): Kaynakları ve onurları kişilerin değerine uygun olarak dağıtmak. Eşit olanları eşit, eşit olmayan olanları eşit olmayan şekilde işlemek.
-
-*Örnek:* Bir şehir bütçesi vardır. Dağıtıcı adalet, katkısına (vergi, emek, katılım) göre faydanın bölüştürülmesidir.
-
-2. **Düzeltici Adalet** (*dikaiosyne diorthôtikê*): Haksızlığın telafi edilmesi. Ceza veya geri ödeme.
-
-*Örnek:* A, B'nin malını çalsa; ceza iyi düzeltme için ölçülmelidir.
-
-3. **Karşılıklı Adalet** (*dikaiosyne antipeponthos*): Eşit değiş-tokuş, takas.
-
-*Örnek:* Pazar: "Bana buğday ver, ben sana maden veririm."
-
-**Aristoteles'in Paradoksu:** "Eşit olmayan olanları eşit olmayan şekilde işlemek" — ama **kim ve ne ölçüde eşit olmayan?** Köle, azat edilmiş, vatandaş... varlıklar hiyerarşisinin başında yer alır.
-
-#### 3.2 Modern Adalet — Rawls
-
-John Rawls, "A Theory of Justice" (1971) ile 20. yüzyıl adalet felsefesini yeniden şekillendiriş.
-
-**Orjinal Konum (Original Position):** Bir toplum kurmadan önce, insanlar "örtü arkası" (*veil of ignorance*) altında oturduğunu tasarla. Kimse kimin olacağını bilmiyor: zengin mi yoksa fakir mı, sağlıklı mı yoksa hasta mı, Türk mü Kürt mü. Bu belirsizlik altında, kişiler **adil** kuralları çıkarırlar.
-
-**Rawls'ın İki Adalet İlkesi:**
-
-1. **Eşit Hak İlkesi:** Her kişi eşit temel öğürlüğe hakkına sahiptir. Bunlar değiştirilmez.
-
-2. **Fark İlkesi:** Sosyal-ekonomik eşitsizliklere izin verilir, ancak en az avantajlı gruba fayda getirirse. Ayrıca, fırsat eşitliği (fair equality of opportunity) gerekli.
-
-*Örnek:* Doktor, kıllı emekli çalışandan daha çok kazanır (meritokrasi). Ama bu eşitsizlik, doktor caydıktan sonra toplumun health hizmetlerini iyileştirirse kabul edilebilir.
-
-**Avantajı:** Eşitlik ve özgürlük arasında denge bulur. Ne tam komünizm ne tam kapitaliz.
-
-**Eleştiri:** Orijinal konumu nasıl tasarlayabiliriz? Veiling bilgisi tarafsız mıdır? Kültürel farklılıklar göz ardı ediliyor mu?
-
-#### 3.3 Feminist Adalet — Hak ve Bakım
-
-Feminist felsefeciler (Susan Moller Okin, Nancy Fraser) Rawls'ı **cinsiyet-körlüğü** ile eleştirir. Adalet yalnızca hak ve kaynaklar değil, **aile içi ilişkiler ve bakım emegini** de kapsamalıdır.
-
-**Sorular:**
-- Ev işi ve çocuk bakımı neden "değerinde değildir" (unwaged)?
-- Özgürlük ve bakım bağımlılığı nasıl uzlaştırılır? (Anne, hasta bakıcı özgür müdür?)
-- Cinsiyet-bölü emek neden normalleştirilmiştir?
-
-**Örnek:** Türkiye'de kadınlar, ücretli çalışan iken aynı zamanda aile sorumluluğuna da taşırlar. Adalet, bu ikili külfeti görmeli.
-
-#### 3.4 Tanınma ve Kültürel Adalet — Fraser, Honneth
-
-Nancy Fraser ve Axel Honneth, **tanınma** (*recognition*) adaletinin önemini vurgular. Adalet sadece kaynak dağıtımı değil, gruplara saygı ve tanınmıştır.
-
-*Örnek:* Gaylar, trans kişiler, azınlıklar: yasal olarak eşit haklara rağmen, toplumsal tanınma eksik ise adalet kusurludur.
-
-**Üç Boyut Adalet:**
-1. **Dağıtıcı** (Re-distribution): Ekonomik adalet, kaynak
-2. **Tanıyıcı** (Recognition): Kültürel saygı
-3. **Temsil** (Representation): Siyasi katılım
-
----
-
-### 4. Hak, Özgürlük ve Devletin Sınırları (2.5 saat)
-
-#### 4.1 Hak Nedir? Doğal Hak vs. Pozitif Hak
-
-**Doğal Hak Teorisi (Natural Rights):**
-Hak, bireyin verilişi ile sahip olduğu, devletten **önceki** taleplerdir. Locke'un formülasyonuna göre: yaşam, özgürlük, mülkiyet. Devlet bu hakları **tanır** ve korur; yaratmaz.
-
-**Eleştiri (Bentham, Austin):** "Doğal hak metafizik ucubesidir." Hak ancak **pozitif hukuk** (yazılı kanun) ile meydana gelir. Devlet dışında hak yoktur.
-
-**Pozitif Hak (Positive Rights):**
-Devlet tarafından tanınan ve düzenlenen haklardır. Sosyal, ekonomik haklar: eğitim hakkı, sağlık hakkı, çalışma hakkı.
-
-**Problem:** Pozitif haklar kaynağa bağlı. Fakir ülkede sağlık hakkı uygulanmaz. Doğal hak teorisinde ise, devletin gücünden bağımsız, hakkın **zaten var olması** gerekir.
-
-**Hibrid Yaklaşım:** İnsan hakları (insan olmanın tüm üyeleri tarafından paylaştığı haklardır), hem doğal temele dayanır hem de pozitif hukuk tarafından koruma alır.
-
-#### 4.2 Özgürlük: Negatif vs. Pozitif
-
-**Negatif Özgürlük (Isaiah Berlin):** Müdahale edil**me**me. "Hiç kimse bana ne yapacağımı söylemesin" — hükuma, baskıya karşı korunma.
-
-*Örnek:* Fikir söyleme özgürlüğü, din seçme özgürlüğü, harekete özgürlüğü.
-
-**Pozitif Özgürlük:** Belirli şeyleri **yapabilme** kapasitesi. "Gücüm ve imkanlarım bırakacak şekilde hareket edebilir miyim?"
-
-*Örnek:* Fakirlik nedeniyle üniversiteye gidemiyorum. Negatif özgürlüğe rağmen (hiç kimse engel koymadı) pozitif özgürlüğüm yoktur.
-
-**Problem:** Bu iki özgürlüğü dengelemek zordur. Pozitif özgürlük için kaynak ayırırken (vergi, kamu hizmetleri), negatif özgürlüğü (mülkiyet hakkı) kısıtlarız.
-
-*Türkiye Örneği:* Eğitim hakkı (pozitif) için vergiler alınır. Yüksek kazananların mülkiyet ve çalışma özgürlüğü (negatif) kısıtlanır. Denge nerededir?
-
-#### 4.3 Mill'in Zarar İlkesi (Harm Principle)
-
-John Stuart Mill, "On Liberty" (1859) kitabında ortaya koyan ilke:
-
-"Toplumun, bir bireyi cebren tutabilmesi ve araması alınır **yalnızca kendi iyiliğini korumak amaçlı değildir**. Medeniyetçi toplumun, bireylere müdahale edebileceği yalnız tek neden başka insanını zarar vermekten korumaktır."
-
-**Mill'in Formülü:**
-- **Kendini ilgilendiren davranış:** Tamamen özgür (başkasına zarar vermediği sürece)
-- **Başkasını ilgilendiren davranış:** Zarar yoksa özgür; zarar varsa sınırlı
-
-*Örnekler:*
-- Uyuşturucu kullanmak (kişisel seçim, yanlış mil)
-- Uyuşturucu satmak (başkasına zarar, kısıtlanabilir)
-- Alkol içmek (kişisel, özgür)
-- Sarhoşken araç kullanmak (başkasını riskli hale getirme, yasaklanabilir)
-
-**Problem:** "Zarar" tanımı muğlak. Manevi zarar sayılır mı? Sorumluluk eksikliği kişi için zarar mı?
-
-#### 4.4 Mülkiyet Hakkı ve Meşruiyeti
-
-Mülkiyet hakkı, siyaset felsefesinin en tartışmalı alanlarındandır.
-
-**Locke'un Emek Teorisi:** Bir şey bana aittir, eğer onu işlemişsem ve emek harcamışsam. "Bir çiftçi, toprağı işlerken bunu mülkü kılar."
-
-*Sorun:* Kaynaklar sınırlı. Herkes emek harcarsa, çiftlik diye ilkesine göre meşru mülkiyet olur mu?
-
-**Sosyalist Eleştiri (Marx):** Burjuva, işçilerin emeğini çalar. Değer emekten doğarken, emlak sahibi onu ele geçirir. Mülkiyet hakkı, sömürüyü meşrulaştırır.
-
-**Libertarian Cevap (Nozick):** Adil olarak elde ettiğim eşya adil olarak benim. Redist veya vergi, bu hakkı ihlal eder.
-
-**Sosyal Liberalizm (Rawls):** Mülkiyet iyidir, ama sonsuzu değil. Eşit fırsat ve en az avantajlılara fayda koşuluyla.
-
----
-
-### 5. Demokrasi: Teorisi, Paradoksları, Uygulaması (2.5 saat)
-
-Demokrasi "halkın yönetimi" olmasına rağmen, tanımı ve uygulaması çetrefilli.
-
-#### 5.1 Demokrasi Tanımları
-
-**Prosedürel Demokrasi:** Seçim, müzakere, oylama gibi mekanizmalar. Sonuç değil, **işlem** önemli.
-
-*Avantaj:* Ölçülebilir, kolay kavranır
-*Sorun:* Seçim "özgür" değilse? Medya manipülasyonu varsa?
-
-**Substantif Demokrasi:** Sonuç önemli. Haklar korunuyor mu? Ekonomik eşitlik var mı? Tanınma?
-
-*Avantaj:* Seçim sonrasında adalet kontrol ediyor
-*Sorun:* Kim belirler "iyi sonuç"? Çoğunluğun iradesi çıkarsa?
-
-**Katılımcı Demokrasi:** Seçim öncesi ve sonrası, halk aktif katılır. Toplum kararı.
-
-*Örnek:* Yerel referandumlar, mahalle mecliseleri, online karar
-
-*Sorun:* Yoğun katılım çoğu insanı bitkin eder ve apatiye yol açabilir
-
-#### 5.2 Demokrasinin Paradoksları
-
-**1. Çoğunluk Diktatörlüğü (Tyranny of the Majority):**
-Demokrasi, çoğunluğun iradesini yasallaştırır. Ama çoğunluk azınlığın haklarını yok edebilir.
-
-*Örnek:* Homofobik bir toplumda oylama yapılsa, LGBTQ+ haklarını ortadan kaldırılabilir. Bu demokrasi midir, tirani midir?
-
-**2. Apati ve Katılım Paradoksu:**
-Demokrasi katılımı gerektirir; ama çoğu vatandaş ilgisiz. Seçim oranları düşüyor; bilgisizlik yükseliyor.
-
-*Türkiye Verisi:* Seçim oranları %85 civarı ama siyasi bilgi düzeyi düşük; başında propaganda etkileri.
-
-**3. Manipülasyon ve Oy Taşıma:**
-Sosyal medya, finansal kampanya, propaganda. "Halk iradesi" manipüle edilebilir.
-
-*Örnek:* Brexit kampanyası — verileri yanlış sunma; seçmen manipüle olmasa farklı oy verirdi.
-
-**4. Özel Çıkarlar (Lobbying, Korpolima):**
-Seçilmiş temsilciler, büyük işletmelerin baskısına kapılabilir. Demokrasi "servet oligarşisine" dönüşür.
-
-#### 5.3 Demokrasiyi Koruma: Hak Koruma Mekanizmaları
-
-Paradokslar karşılaştıracakları çatlamaktan korumak için:
-
-1. **Anayasa:** Temel haklara dokunulamaz; seçim sonucu bile anayasayı değiştiremez.
-2. **Azınlık Hakları:** Cinsiyet, din, etnik kimlik bazında koruma
-3. **Yargısal İnceleme (Judicial Review):** Mahkeme, seçilmiş yetkililerin kararlarını kontrol edebilir
-4. **Kurumsal Kontrol ve Denge:** Güçler ayrılığı, bağımsız kuruluşlar
-
-**Problem:** Bunlar demokrasinin kendisini kısıtlar. Başka kimler karar veriyor? Ama sınırsız demokrasi diktatörlüğün kapısı.
-
-#### 5.4 Türkiye Bağlamında Demokrasi
-
-Türkiye'de demokrasi, özel gerilimler taşır:
-
-1. **Anayasa Açmazı:** 1923'ten beri 27 anayasa değişikliği. Ama temel haklara karşı sık sık ihlaller.
-
-2. **Seçim vs. Yönetim:** Seçim meşru olsa bile, sonrası yönetim baskıcı olabilir.
-
-3. **Etnik/Dini Pluralizm:** Kürt sorunu, Alevi-Sünni gerilimi. Çoğunluğun iradesi azınlıkları hırpalar.
-
-4. **Medya ve Bilgi:** Gazeteler siyasi çizgili. Sosyal medya polarizasyon artırıyor.
-
----
-
-### 6. Muhalefet, Sivil İtaatsizlik ve Direniş Hakkı (1 saat)
-
-Siyaset felsefesinin bir önemli konusu da şudur: **Yasa dışına çıkabilirim ve meşru muyum?**
-
-#### 6.1 Sivil İtaatsizlik (Civil Disobedience)
-
-Henry David Thoreau (1849) "Civil Disobedience" yazısı ile tanımlanır: Kişi, vicdani nedenler ile yasa ihlal eder, **açıkça ve sakin şekilde ceza kabullenir**.
-
-*Örnek:* Gandhi, İngiliz satışlarını boykot eder. MLK Jr., ayrımcı kanunlara uymazken tutuklunmuştur.
-
-**Şartları:**
-1. Yasa ciddi şekilde yanlışsa
-2. Normal siyasi kanallar tüketildiyse
-3. İlişkisiz/masum olmayan Kural hedef (ör. köleliği direkt engelleme, propaganda değil)
-4. Açıkça ve ceza kabulü
-5. Son çare
-
-**Problem:** Kim belirler "ciddi yanlış"? Bir kişinin vicdanı, başkasının terör hareketi olabilir.
-
-#### 6.2 Devrim Hakkı
-
-Toplum sözleşmesi bozulmuşsa (devlet halkı köle yapsa, totaliter saldırı yapsa), halk direniş, isyan hakkına sahip midir?
-
-**Locke:** Evet. "Despotizm karşı direniş, despotizmdir."
-
-**Hobbes:** Hayır. Devlet, savaş halinden çıkış hedeftir; buraya dönüş olduğundan kaçılmalı.
-
-**Modern Görüş:** Sınırlı koşullar altında (ası)ır baskı, insani haklar ihlali), direniş hakkı vardır. Ama:
-- Kurumsal çıkar olmamı
-- Dış müdahale (başka devlet tarafından desteklenen isyan) meşru değildir
-- Barışçıl yollar tükentilmeli
-
----
-
-## Öğrenme-Öğretme Uygulamaları
-
-### Etkinlik 1: Doğal Durum Roleplay'i
-**Amaç:** Sözleşme teorilerini deneyim ile anlamak.
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Sınıf iki gruba bölünür
-2. Grup A, kaynakların kıttır (2 kredi, 30 öğrenci için). Kuralı yoktur.
-3. Grup B, aynı koşulda ama **mahkeme ve polis kurmuştur** (yönetim ve hukuk)
-4. 10 dakika sonra, her grup kaynakları dağıtmış nasıl dağıtmıştır?
 
-**Tartışma:**
-- Grup A (doğal durum) ne kadar adildi? Çatışma oldu mu?
-- Grup B (devletli) daha adil mi? Ama hukuk zorba mı?
-- Bu roleplay'de eksik olan nedir?
+1. Öğretmen “siyaset” uyaranını verir; öğrenciler iki dakika içinde çağrışım yapan kelimeleri yazar.
+2. Öğrenciler kelimeleri küçük gruplarda karşılaştırır ve ortak kavram kümeleri oluşturur.
+3. Öğrenciler, kurgusal ortak yaşam durumlarından hareketle toplumda karşılaşılabilecek sorunları listeler.
+4. Öğrenciler, tarihsel süreçte farklı yönetim biçimlerinin niçin ortaya çıkmış olabileceğine ilişkin ilk tahminlerini gerekçeleriyle yazar.
 
----
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm A; kurgusal durum kartları.
 
-### Etkinlik 2: Adalet Paneli — Üç Koşu Hikayesi
-
-Üç senaryodan her biri, farklı adalet ufuklarını sunmuştur.
-
-**Senaryo A:** Ali ve Mehmet, aynı işte çalışar. Ali, Mehmet'e göre daha fazla saat çalışı, ama aynı maaş alır. Adil midir? (Eşitlik vs. Meritokrasi)
-
-**Senaryo B:** Türkiye'de, Doğu ilçeleri kalkınmamıştır. Batı kentin 5 katı yüksek işsizlik. Merkezi bütçe nasıl dağıtılmalı? (Rawls'ın fark ilkesi)
-
-**Senaryo C:** Fahire, cinsiyet ayrımcılığı nedeniyle terfiyi kaçırmıştır. Tazminat mı, affı veya yeni fırsat mı? (Düzeltici adalet)
-
-**Etkinlik:**
-- Her gruba bir senaryo atanır
-- Grup, Aristoteles, Rawls, Feminist adalet lensinden çözüm sunar
-- Gruplar tartışır
+**Ürün (öğrenme kanıtı):** Kelime ilişkilendirme formu, sorun listesi ve gerekçeli ilk tahmin.
 
 ---
 
-### Etkinlik 3: Demokrasi Simülasyonu — Sınıf Referandumu
+### Etkinlik 2: Siyasetin Konusu ve Kavram İlişkisi Haritası
 
-**Konu:** Sınıfta hafta sonu seçmeli projesine aylık çalışma saati eklensin mi? (Çoğunluk lehte, azınlık karşı)
+**Amaç:** Siyaset felsefesinin konusunu; adalet, özgürlük, eşitlik, hak, devlet, iktidar ve toplum kavramlarının ilişkisi üzerinden açıklamak.
+
+**Süre:** 40 dakika
 
 **Adımlar:**
-1. Argümanlar sunarız (yararı, riskleri)
-2. Sınıf oylar
-3. Çoğunluk kararı bağlayıcı mı?
 
-**Tartışma:**
-- Azınlık hakkı (karşı olanlar) korunmuş mu?
-- Seçimde bilgilendirilmişlik vardı mı?
-- Oylama serbest miydi, yoksa basınç vardı mı?
+1. Gruplar, siyasetin amacı, işlevi, kurumları ve aktörleri üzerine öğretmenin verdiği soruları tartışır.
+2. Öğrenciler çalışma kâğıdındaki kavramları kısa tanımlarıyla eşleştirir.
+3. Her grup, seçtiği üç kavram arasındaki ilişkiyi gösteren bir harita oluşturur.
+4. Öğrenciler, hak ve özgürlükleri korumanın neden önemli olduğuna ilişkin kısa bir yansıtma yazısı yazar.
 
----
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm B; kavram kartları veya görsel.
 
-### Etkinlik 4: Sivil İtaatsizlik Davası — Mahkeme Simülasyonu
-
-**Durum:** Bir öğrenci, okul yasağına rağmen ısrarlı talep için okulda oturma eylemi yaparır.
-
-**Taraflar:**
-- Avukat 1: Öğrenciyi savunur (meşru sebep, son çare)
-- Avukat 2: Okulu savunur (yasaya uyum)
-- Hakim (Öğretmen): Karar verir
-
-**Tartışma:**
-- Meşru olabilir mi kanun ihlali?
-- Sonuç, Locke veya Thoreau'ya göre adil midir?
+**Ürün:** Kavram ilişki haritası ve yansıtma yazısı.
 
 ---
 
-### Etkinlik 5: Hak ve Özgürlük Sahası — Mill'in Zarar İlkesi Testi
+### Etkinlik 3: Devlet, İktidar ve Meşruiyet Argüman Laboratuvarı
 
-Öğrencilere çeşitli davranışlar sunulur. Her biri için soru: Mill'in İlkesine göre özgür mü, kısıtlanabilir mi?
+**Amaç:** Devletin kökeni, iktidarın kaynağı ve meşruiyeti problemlerine ilişkin düşünce ve argümanları çözümlemek.
 
-1. Başkasını incitmeyen bir dinsel uygulama
-2. Şarkı söylemek (gece)
-3. Temel aşı olmayı reddetmek
-4. Bir bölümü sosyal medyada yasaklı bir kitap paylaşmak
-5. Terapist olarak yatırım vermek / cinsellik terapisi
+**Süre:** 80 dakika
 
-**Tartışma:** Zarar tanımı muğlak; toplumsal bağlam önemli.
+**Adımlar:**
+
+1. Öğretmen farklı görüşlere ait kısa, yapılandırılmış bilgi kartları dağıtır.
+2. Gruplar her kartta yer alan temel problemi, iddiayı, gerekçeyi ve sonucu belirler.
+3. Öğrenciler, “İktidar neden ortaya çıkar?” ve “İktidar ne zaman meşru sayılabilir?” sorularına farklı kartlardan yararlanarak yanıt verir.
+4. Gruplar, bir argümanın güçlü yönünü ve tartışmaya açık yönünü karşılaştırma tablosuna yazar.
+
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm C; öğretmenin hazırladığı bilgi kartları.
+
+**Ürün:** Problem–iddia–gerekçe tablosu ve gerekçeli karşılaştırma.
 
 ---
 
-### Etkinlik 6: Siyaset Felsefeci Tartışması
+### Etkinlik 4: İdeal Düzen Tasarım Atölyesi
 
-Her gruba bir siyaset felsefesi konusu (demokrasi, adalet, özgürlük) ve bir ünlü eseri (Hobbes, Locke, Rousseau, Mill, Rawls)veriliş. Grup, onun pozisyonunu bugünkü bir tartışmaya uyarlar.
+**Amaç:** Adalet, eşitlik, özgürlük, güvenlik ve refah ölçütleri üzerinden ideal düzenin imkânını sorgulamak.
 
-*Örnek:* "Rawls bugün İsrail-Filistin çatışmasını nasıl gözlemlerdi?"
+**Süre:** 80 dakika
+
+**Adımlar:**
+
+1. Gruplar, kurgusal bir toplumda çözülmesi gereken ortak yaşam sorununu seçer.
+2. Her grup ideal düzen taslağında adalet, eşitlik, özgürlük, güvenlik ve refah için birer ilke yazar.
+3. Gruplar kaynakların dağıtımı, bireysel özgürlük ve devlet otoritesi arasında ortaya çıkabilecek gerilimleri listeler.
+4. Her grup, bir başka grubun taslağındaki güçlü yönü ve ortaya çıkabilecek bir soruyu yazılı olarak belirtir.
+
+**Tartışma soruları:**
+
+- Herkese aynı imkânı sunmak her zaman adil bir sonuç doğurur mu?
+- Güvenlik için getirilen bir kural bireysel özgürlükle nasıl dengelenebilir?
+
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm D; ideal düzen taslak şablonu.
+
+**Ürün:** Gerekçeli ideal düzen taslağı ve akran dönütü.
+
+---
+
+### Etkinlik 5: Ütopya–Distopya Karşılaştırması ve Robot Hikâyesi
+
+**Amaç:** Ütopya ile distopyayı ideal toplum düzeni bakımından değerlendirmek; iktidar, özgürlük ve sorumluluk kavramlarını kısa hikâye üzerinden tartışmak.
+
+**Süre:** 40 dakika
+
+**Adımlar:**
+
+1. Öğretmen istenilen ve istenilmeyen ütopyalara ilişkin kısa, yaş düzeyine uygun metinler sunar.
+2. Öğrenciler metinlerdeki adalet, eşitlik, özgürlük, güvenlik ve refah unsurlarını karşılaştırır.
+3. Öğrenciler, yapay zekâların veya robotların insanlar üzerinde hâkimiyet kurduğu kurgusal bir dünyayı konu alan kısa hikâye taslağı oluşturur.
+4. Hikâyede en az bir iktidar, bir özgürlük ve bir sorumluluk problemi görünür kılınır; çözüm önerisi gerekçelendirilir.
+
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm E; kısa metinler.
+
+**Ürün:** Ütopya–distopya karşılaştırma tablosu ve kısa hikâye taslağı.
+
+---
+
+### Etkinlik 6: Siyaset Felsefesi Metin İnceleme Planı
+
+**Amaç:** Siyaset felsefesi metnindeki kavram, problem ve argümanları çözümlemeye hazırlanmak; akran dönütü vermek.
+
+**Süre:** 40 dakika
+
+**Adımlar:**
+
+1. Öğrenciler çalışma kâğıdındaki resmî metin havuzundan öğretmenin sunduğu kısa alıntılardan birini seçer.
+2. Öğrenciler metindeki temel kavram, problem, iddia, gerekçe ve sonucu inceleme planına yazar.
+3. İkili gruplar birbirlerinin planını okur; kavram ile gerekçe arasındaki bağı açıklığa kavuşturacak bir soru sorar.
+4. Öğrenciler, ortak metin inceleme formunu kullanarak tamamlayacağı performans görevi için ilk adımını belirler.
+
+**Materyal:** `07-siyaset-felsefesi-ck.md` Bölüm F; `mufredat/ortak-materyaller/metin-inceleme-formu.md`; `mufredat/ortak-materyaller/degerlendirme-formlari.md`.
+
+**Ürün:** Metin inceleme planı, akran dönütü ve öz değerlendirme notu.
 
 ---
 
 ## Değerlendirme
 
-### Ölçme Araçları
+### Öğrenme Kanıtları
 
-#### 1. Yazılı Sınav (25 puan)
+Bu ünitede resmî programda belirtilen çalışma kâğıdı, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi birlikte kullanılır. Öğrencinin belirli bir siyasal görüşü benimsemesi puanlanmaz. Değerlendirme; kavramı doğru kullanma, gerekçe sunma, karşı görüşü adil temsil etme, argümanı çözümleme ve haklara saygılı iletişim kurma ölçütlerine dayanır. [1]
 
-**Bölüm A: Sözleşme Teorileri (8 puan)**
-- Hobbes, Locke, Rousseau'nu karşılaştırma
-- Her birinin doğal duruma ve meşruiyete yaklaşımı
+### 100 Puanlık Ölçme Araçları
 
-**Bölüm B: Adalet Teorileri (8 puan)**
-- Rawls'ın orijinal konum ve iki ilkesi
-- Feminist adalet kritikleri
+| Araç | Puan | Ölçülen kanıt |
+|---|---:|---|
+| **1. Çalışma kâğıdı ve argüman/ütopya tabloları** | 25 | Temel kavramlar; devlet, iktidar ve meşruiyet; ideal düzen ve ütopya–distopya karşılaştırması |
+| **2. Kısa yanıtlı yazılı görev** | 20 | Kavramları ayırt etme, siyasi problem açıklama ve gerekçeli değerlendirme |
+| **3. Tartışma ve akran dönütü** | 25 | Karşı görüşü doğru temsil etme, gerekçeli konuşma, saygılı iletişim ve iş birliği |
+| **4. Performans görevi: metin inceleme** | 30 | Metindeki kavram, problem ve argümanları form aracılığıyla inceleme |
+| **Toplam** | **100** | |
 
-**Bölüm C: Demokrasi ve Paradoksları (9 puan)**
-- Demokrasi tanımları
-- Çoğunluk diktatörlüğü problemi
-- Koruma mekanizmaları
+#### 1. Çalışma Kâğıdı ve Argüman/Ütopya Tabloları (25 puan)
 
-#### 2. Kısa Cevap Soruları (20 puan)
+Çalışma kâğıdındaki Bölüm A–E; kavramlar, devletin kökeni, iktidar ve meşruiyet, ideal düzen ile ütopya–distopya problemlerine ilişkin kanıt sunar. Kelime ilişkilendirme testi, ön bilgiyi ve gelişimi izlemek için kullanılır; notlandırılan bölümlerde öğrenciden kavramı gerekçeli biçimde kullanması beklenir.
 
-1. "Devlet neden meşru?" Hobbes vs. Locke'u kısaca karşılaştırın (5 puan)
-2. Özgürlüğün negatif ve pozitif boyutları nedir? (5 puan)
-3. Mill'in zarar ilkesine göre, uyuşturucu satışı neden yasaklanabilir? (5 puan)
-4. Sivil itaatsizlik meşru olabilir mi? Koşulları nelerdir? (5 puan)
+#### 2. Kısa Yanıtlı Yazılı Görev (20 puan)
 
-#### 3. Pratik Etkinlikler (30 puan)
+1. İktidar ile meşruiyet arasındaki farkı kendi örneğinizle açıklayınız. **(5 puan)**
+2. Devletin kökeni probleminde hangi sorular sorulabilir? İki soru yazınız. **(5 puan)**
+3. İdeal bir düzende adalet ile özgürlük arasında ortaya çıkabilecek bir gerilimi açıklayınız. **(5 puan)**
+4. Ütopya ve distopya, ideal toplum düzeni hakkında düşünmemize nasıl yardım edebilir? **(5 puan)**
 
-- **Roleplay ve Simülasyonlar:** Doğal durum, demokrasi, mahkeme etkinliklerinde katılım (10 puan)
-- **Grup Tartışmaları:** Tartışmada argüman kalitesi, muhalefete saygı (10 puan)
-- **Yazılı Analiz:** Etkinliklerden sonra, öğrenciler kendi pozisyonunu yazarlar (10 puan)
+#### 3. Tartışma ve Akran Dönütü (25 puan)
 
-#### 4. Proje (25 puan)
+Öğrenci, meşruiyet veya ideal düzen tartışmasında bir iddia ortaya koyar; en az bir gerekçe sunar; farklı görüşü doğru biçimde özetler ve akranının görüşüne somut, saygılı dönüt verir. Değerlendirme `mufredat/ortak-materyaller/degerlendirme-formlari.md` içindeki ortak formla desteklenir.
 
-**Seçenek A: Siyasi Metin Analizi**
-- Türkiye Anayasası'ndan bir madde seçir
-- Siyaset felsefesi perspektifinden analiz et (Locke, Rawls, vb.)
-- "Bu madde adil midir? Başkasından daha iyisinin değiştirilme Alanı var mı?"
+#### 4. Performans Görevi: Siyaset Felsefesi Metin İncelemesi (30 puan)
 
-**Seçenek B: Kendi Demokrasi Teorisi**
-- Senin için demokrasi nedir?
-- Türkiye'deki demokrasinin eksiklikleri nelerdir?
-- Nasıl iyileştirilebilir? (kurumsal yeni, hukuki değişiklik, kültürel eğitim)
-
-**Seçenek C: Hak ve Özgürlük Haritası**
-- Bir sosyal grup seç (kadınlar, gazete, azınlık, mülteciler vb.)
-- Hangi hakları koruyor mu, yazılı kanun? Uygulamada korunmuş mu?
-- Eksik haklar nelerdir? Neden eksiktir?
-
----
+Öğrenciler, seçilen bir siyaset felsefesi metninde yer alan kavram, problem ve argümanları `mufredat/ortak-materyaller/metin-inceleme-formu.md` aracılığıyla inceler. Metinler öğrencilerin görüşleri alınarak dengeli dağıtılır; çalışmalar paylaşılır ve akran değerlendirmesiyle desteklenir. [1]
 
 ### Dereceli Puanlama Anahtarı
 
-| Kriter | 4 (Mükemmel) | 3 (İyi) | 2 (Orta) | 1 (Yetersiz) | 0 (Yapılmamış) |
-|--------|-------------|--------|---------|------------|----------------|
-| **Kavramsal Anlama** | Siyaset felsefesi teorileri derinlemesine anlar; tarihsel bağlam ve güncel uygulamalar bağlantı kurar | Teorileri doğru açıklar; bazı bağlantılar kurar | Teorileri yüzeysel anlar; bazı yanlışlıklar vardır | Teoriler hakkında belirsiz; tanımlar eksiktir | Hiç cevap veya tamamen yanlış |
-| **Analitik Düşünme** | Teorilerin güçlü ve zayıf yönlerini sorgular; paradoksları fark eder; asıl sorunları ayırt eder | Teoriyi çoklu açıdan inceleyebilir; bazı zayıflıkları gösterir | Bir perspektiften inceler; sığ analiz | Tanımlamalar yapabilir; analiz yok | Hiç analiz |
-| **Argüman Kurma** | Felsefi argümanlar yapıcı ve mantıksal; karşı argümanları anticipe eder | Argümanlar tutarlı ve desteklenmiş | Argümanlar zayıf bağlanmış; bazı adımlar atlanmıştır | Argümanlar belirsiz; tutarsız | Argüman yok |
-| **Tartışma Katılımı** | Yapıcı argümanlar sunar; başkasının görüşüne saygılı, sorgularken yapıcı | Tartışmaya aktif katılır; temel argümanlar sunabilir | Tartışmaya katılımı; argümanlar zayıf | Söz hakkı almakta zorlanır | Katılmaz |
-| **Yazılı İfade** | Felsefece kesin, akademik; terminoloji doğru; mantıksal akış | Çoğunlukla açık; terminoloji iyi kullanılmıştır | Belli belirsiz yazılı; bazı terminoloji karışıklığı | Okuması zor; terminoloji yok | Yazılı yok |
+| Kriter | 4 — Çok güçlü | 3 — Yeterli | 2 — Gelişmekte | 1 — Başlangıç düzeyi |
+|---|---|---|---|---|
+| **Kavramsal anlama** | Adalet, özgürlük, eşitlik, devlet, iktidar, meşruiyet ve ütopya kavramlarını doğru ayırt eder; uygun örnek verir. | Temel kavramları doğru açıklar; örnekleri çoğunlukla uygundur. | Kavramların bir bölümünü doğru açıklar; örnek veya ayrımda eksik vardır. | Kavramları karıştırır ya da açıklama sunmaz. |
+| **Argüman çözümleme** | İddia, gerekçe ve sonucu doğru ayırır; güçlü karşı argümanı da tartışır. | Argümanın temel yapısını doğru belirler; sınırlı karşılaştırma yapar. | İddia veya gerekçeyi kısmen ayırır; çıkarım eksikleri vardır. | Argüman yapısını belirleyemez. |
+| **Gerekçeli tartışma** | Açık, tutarlı ve saygılı biçimde görüş geliştirir; karşı görüşe yapıcı yanıt verir. | Görüşünü gerekçelendirir ve tartışma kurallarına uyar. | Görüş bildirir; gerekçe veya karşı görüşe yanıt sınırlıdır. | Gerekçe sunmaz ya da tartışma kurallarına uymaz. |
+| **Metin inceleme ve yazılı ifade** | Metindeki kavram, problem ve argümanı bağlamıyla çözümler; yazısı açık ve düzenlidir. | Metnin temel unsurlarını doğru belirtir; yazısı anlaşılırdır. | Metin unsurlarını kısmen belirler; yazılı anlatımda belirsizlik vardır. | Metni özetlemek veya çözümlemek için yeterli kanıt sunmaz. |
 
 ---
 
 ## Farklılaştırma
 
-### Zenginleştirme (İleri Öğrenme)
+### Zenginleştirme
 
-**Derinlik:**
-- Hobbes'ın "Leviathan" orijinal metininden pasajlar okumak
-- Foucault'ın "Otorite ve Biliş" üzerinden iktidar-bilgi ilişkisini araştırmak
-- Türkiye'deki sosyal hareketleri (Gezi Parkı, kadın hakları) siyaset felsefesiyle analiz etmek
+- John Rawls’ın *Bir Adalet Teorisi* eserindeki “cehalet örtüsü (bilinmezlik perdesi)” metaforu üzerinden adalet temelli bir ütopya tasarlanır.
+- Robotların hak talep ettiği bir distopya tasarlanır; bu tasarımda iktidar, özgürlük, sorumluluk ve adalet kavramları arasındaki ilişki gerekçeli olarak açıklanır.
+- Jeremy Bentham’ın *Gözün İktidarı* eserindeki panoptikon tasarımından hareketle, gözetimin toplumsal düzeni sağlamadaki rolü farklı görüşler üzerinden tartışılır. [1]
 
-**Genişlik:**
-- Yapay zeka, data ve dijital demokrasi: Algoritmaların seçim tercihini nasıl etkilediği
-- İklim değişikliği ve adalet: Nesiller arası adalet nedir?
-- Uluslararası İnsan Hakları Mahkemesi davalarını felsefi olarak analiz etmek
+### Destekleme
 
-**Sorgu:**
-- Totalitarizm nedir? Sadece açık baskı mı, yoksa kültürel denetim de midir? (Arendt, Foucault)
-- Demokrasi, en iyi sistemin en kötü olanıdır" (Churchill). Gerçekten mi?
-- Doğu ve Batı siyaset felsefesi farklı mı? Evrensel ilkeler var mı?
+- Siyaset felsefesinin konusu ve temel kavramları için anlam çözümleme tabloları ve kavram haritaları kullanılır.
+- Devletin kökeni, iktidarın kaynağı ve meşruiyet ile ideal düzen problemlerini açıklayan günlük hayattan, çözümü daha kolay tespit edilebilecek kurgusal örnek durumlar kullanılır.
+- Sadeleştirilmiş bir metindeki siyaset felsefesi düşünce ve argümanları, kavram–iddia–gerekçe şeması yardımıyla küçük gruplarda değerlendirilir. [1]
+
+Bu uyarlamalar, öğrencinin hedef becerisini azaltmadan; dil, sunum, süre, tepki ve destek ihtiyacına göre erişim sağlar.
 
 ---
 
-### Destekleme (Farklı Öğrenme İhtiyaçları)
+## Tartışma Soruları
 
-**Anlamada Zorluk Yaşanıyorsa:**
-- Siyaset felsefesi terimlerinin tanım kartları
-- Teorileri basit harita ve dramatik örneklerle açmak
-- Görsel timeline: Hobbes > Locke > Rousseau > Mill > Rawls
-
-**Tartışmaya Katılımda Zorluk Yaşanıyorsa:**
-- Yazılı pozisyon kâğıdı; lütfen sözlü sunum yerine
-- Küçük grup tartışmaları (büyük sınıf açı verene)
-- Düşünce partneri: Başkasıyla hazırlanmış argümanları sunmak
-
-**Yazı Yazmasında Zorluk Yaşanıyorsa:**
-- Grafik organizatörler (T-chart, Venn diyagramı)
-- Sözlü sunumlar veya podcast
-- Grup projelerine öncelik; bireysel yazı yerine
+1. Devletin varlığını açıklamak ile devletin meşru olduğunu savunmak arasındaki fark nedir?
+2. Herkes için aynı kuralın uygulanması, her zaman adil bir sonuç doğurur mu?
+3. İdeal bir düzende özgürlük ile güvenlik arasında nasıl denge kurulabilir?
+4. İktidarın kaynağı ile iktidarın sınırı arasında nasıl bir ilişki vardır?
+5. Bir ütopyanın istenmeyen bir düzene dönüşebileceğini düşündüren işaretler nelerdir?
+6. Kaynakların adil dağıtımı konusunda farklı görüşlerin ortaya çıkması neden doğaldır?
 
 ---
 
 ## Kaynaklar
 
-### Birincil Metinler (Orijinal Metinler)
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
 
-1. **Thomas Hobbes, "Leviathan"** (1651) — Devletin doğası ve meşruiyeti
-2. **John Locke, "İkinci Yönetim Risalesi"** (Second Treatise of Government, 1689) — Devlet sözleşmesi ve hak
-3. **Jean-Jacques Rousseau, "Toplum Sözleşmesi"** (Social Contract, 1762) — Genel irade ve halk egemenliği
-4. **John Stuart Mill, "Özgürlüğü Üzerine"** (On Liberty, 1859) — Bireyi ve özgürlüğü sınırları
-5. **John Rawls, "Adalet Teorisi"** (A Theory of Justice, 1971) — Modern adalet yaklaşımı
-
-### Türkçe Kaynak Kitaplar
-
-1. **Mehmet Ö. Alkan, "Siyaset Felsefesi"** (Ankara: İmge Yayınları, 2020)
-   - Erişilebilir, tarihsel derinlik
-
-2. **Yamaç Uyar, "Hak ve Özgürlük Üzerine"** (İstanbul: Metis Yayınları, 2021)
-   - Türk bağlamı vurgulanmıştır
-
-3. **Doğan Çetinkaya, "Devlet, Hukuk ve İktidar"** (Ankara: METU Press, 2019)
-   - Teorisyen ve uygulama balans
-
-4. **Cevat Geray, "Siyasi Teoriler"** (İstanbul: Doğu-Batı Yayınları, 2018)
-   - Antikçağ'dan 20. yüzyıla siyaset felsefesi
-
-### Akademik Makaleler
-
-- "Türkiye'de Demokrasi ve Hak Koruma Mekanizmaları" — Turkish Studies
-- "Rawls ve Uygulamalı Adalet" — Felsefe Araştırmaları
-- "Sivil İtaatsizlik: Teorisi ve Uygulaması" — Political Philosophy Quarterly
-
-### Video ve Podcast Kaynakları
-
-1. **YouTube: "Crash Course Government and Politics"** — Demokrasi, Hak, Adalet
-2. **YouTube: "The School of Life — Political Philosophy"** — Sade anlatımlarla teoriler
-3. **Podcast: "Philosophy Bites"** — Episodes on justice, rights, democracy
-
-### Müze ve Kurumlar (Ziyaret)
-
-1. **Ankara İnsan Hakları Müzesi** — Türkiye'nin hak tarihi
-2. **İstanbul Büyükelçileri Müzesi** — Osmanlı yönetim hiyerarşisi
-3. **Türkiye'nin Anayasa Tarihi** — Yeminize İnsan Hakları Günü etkinlikleri
-
-### Sanat Eserleri ve Medya (İnceleme)
-
-| Sanatçı/Yönetmen | Eser | Siyaset Felsefesi Sorusu |
-|---------|------|-------------------------|
-| Paulo Coelho | Şehir Hikayeleri | Bireysel özgürlük vs. toplumsal sorumluluk |
-| Nuri Bilge Ceylan | Kış Uykunun (Winter Sleep) | Adalet, mülkiyet, şiddet |
-| Yılmaz Güney | Yol (The Road) | Devlet, insan hakları, direniş |
-| Zeynep Tufekçi (Sosyal Medya Araştırması) | YouTube algoritması | Demokrasi ve manipülasyon |
-| Noam Chomsky | Medya Açıklaması | İktidar ve bilgi kontrolü |
-
----
-
-## Ek: Tartışma Soruları ve Derinleştirme
-
-### Zorlayıcı Sorular (Sınıf Tartışması İçin)
-
-1. **Devlet Paradoksu:** "Devlet bize güvenlik sağlamak için kuruldu. Ama devlet, tarihin en çok insanı öldüren kurumudur. Neden hâlâ inanıyoruz?"
-
-2. **Çoğunluk Diktatörlüğü:** "Demokrasi, çoğunluğun iradesini yasa haline getirir. Çoğunluk LGBTQ+ haklarını çıkarırsa, demokratik midir?"
-
-3. **Savaş ve Adalet:** "Bir ülke, başka bir ülkeyi işgal ederse ve dönüştürürse, bunu 'insani müdahale' (humanitarian intervention) diye adlandırabiliriz. Bu sadece güçlünün hakkı mıdır?"
-
-4. **Yapay Zeka ve Demokrasi:** "Sosyal medya algoritmaları, seçmen tercihlerini belirliyor. Algoritmaları o öğreten şirketler, seçilmemiştir. Bu demokrasiye ne yapar?"
-
-5. **Geleceğin Nesiller:** "Radikal iklim değişikliği karşılaştığında halk, karbondan vazgeçilmesini oylamak istemeyebilir (ekonomik kayıp). Ama geleceğin nesilleri işkence görecek. Demokrasi hakkında ne söyler bu?"
-
----
-
-## Referans Kaynakları (Öğretmen İçin)
-
-- Berlin, I. (1969). *Four Essays on Liberty*. Oxford University Press.
-- Foucault, M. (1977). *Discipline and Punish: The Birth of the Prison*. Pantheon Books.
-- Habermas, J. (1992). *Between Facts and Norms*. MIT Press.
-- Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
-- Sen, A. (1999). *Development as Freedom*. Oxford University Press.
-
----
-
-**Ünite Tasarımcısı:** Aytekin | Türkiye Maarif Modeli, 10. Sınıf Felsefe  
-**Son Güncelleme:** 30 Temmuz 2026  
-**Lisans:** CC BY-SA 4.0
+> **Not:** Üniteye ilişkin öğrenme çıktısı, temel problemler, öğrenme-öğretme yaşantıları, metin havuzu ve farklılaştırma önerilerinin bağlayıcı müfredat dayanağı MEB öğretim programıdır. Sınıf içi tartışmalar, güncel siyasal taraf tutmaya yönlendirilmeden; kurgusal örnekler, kavramlar ve gerekçeli argümanlar üzerinden yürütülmelidir.
