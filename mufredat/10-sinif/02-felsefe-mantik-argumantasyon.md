@@ -65,7 +65,7 @@
 
 ### 1. Düşünme ve Dil İlişkisi (2 saat)
 
-Düşünme ve dil arasındaki ilişki, felsefenin hem dil felsefesi hem mantık açısından ele aldığı temel konulardandır. Düşünme, kavramlar ve yargılar üzerinden anlam üretme etkinliğidir; dil ise bu etkinliğin hem **aracı** hem **ürünü**dür. Bir düşüncenin var olabilmesi için ona biçim veren bir sembol sistemine ihtiyaç vardır; öte yandan bir cümlenin anlam taşıması, onun ardındaki düşünceye bağlanır. Bu karşılıklı ilişki, bazı filozoflarda "düşünme dilin sınırlarıyla belirlenir" görüşüne, diğerlerinde ise "dil ile ifade edilemeyen deneyimler de vardır" yaklaşımına yol açmıştır.
+Düşünme ve dil arasındaki ilişki, mantığın incelediği temel konulardandır. Düşünme; kavramlar, yargılar ve akıl yürütmeler yoluyla anlam kurma etkinliğidir. Dil ise düşünceleri ifade etmeye, paylaşmaya ve incelemeye yarayan işaret sistemidir. Düşünme ile dilin birbirini nasıl etkilediği tartışmaya açıktır: Bazı yaklaşımlar dilin düşünceyi biçimlendirdiğini, bazıları ise düşünmenin dilsel ifade olmadan da belli ölçülerde gerçekleşebileceğini savunur. Bu ünitede öğrenciler, tek bir görüşü ezberlemek yerine düşünme ve dil arasındaki ilişkiyi bilgi, görsel şema ve örnekler üzerinden gerekçeli biçimde yorumlar. [1]
 
 **Mantık açısından bakıldığında** dilin temel birimi **önerme**dir: doğru veya yanlış olabilen hüküm cümlesi. "Sorular, emirler ve ünlemler" önerme değildir; "Sınıfın penceresi açıktır" bir önermedir çünkü doğruluğu denetlenebilir. Bu ayrım, günlük dildeki cümleleri mantıksal analiz edebilmek için ön koşuldur.
 
@@ -145,7 +145,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 1: Köprü Kurma — "Günlük Hayatta Mantık Hataları" (Resmî Köprü Kurma)
 **Amaç:** Öğrencilerin ön bilgilerini açığa çıkarmak ve üniteye ilgi uyandırmak.
 
-**Süre:** 20 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Öğrencilerden günlük hayatta kendilerinin ve başkalarının yaptığı mantık hatalarına örnekler vermeleri istenir (resmî köprü kurma)
@@ -155,14 +155,16 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 
 **Materyal:** Tahta, yapışkanlı notlar
 
-**Ürün:** Sınıfın ortak "mantık hatası" listesi
+**Ürün:** Sınıfın ortak “mantık hatası” listesi ve öğrencilerin başlangıç görüşlerini gösteren iki kısa açık uçlu yanıt.
+
+**Ek açık uçlu ön değerlendirme soruları:** “Bir düşünceyi mantıklı yapan nedir?” ve “Dil, düşüncelerimizi açıklamayı nasıl kolaylaştırır veya zorlaştırır?” Öğrenciler bu sorulara iki–üç cümleyle yanıt verir; yanıtlar yalnızca ön bilgi ve kavram yanılgılarını belirlemek için kullanılır.
 
 ---
 
 ### Etkinlik 2: Düşünme ve Dil İlişkisi Çalışma Kâğıdı (Resmî Uygulama)
 **Amaç:** Düşünme ve dilin yapısını, işlevini ve ilişkisini yorumlamak (KB2.10, OB1, OB4).
 
-**Süre:** 30 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Çalışma kâğıdı (`calisma-kagitlari/02-mantik-argumantasyon-ck.md` Bölüm C) dağıtılır; düşünme ve dilin yapısını, işlevini ve ilişkisini ifade eden bilgiler, görseller, açıklamalar ve açık uçlu sorular incelenir
@@ -177,7 +179,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 3: Akıl İlkeleri ve Akıl Yürütme Türleri Düellosu
 **Amaç:** Dört akıl ilkesini ve üç akıl yürütme türünü örneklendirerek pekiştirmek (E3.2, KB2.18).
 
-**Süre:** 35 dk
+**Süre:** 80 dk
 
 **Adımlar:**
 1. Dört akıl ilkesi ve üç akıl yürütme türü bilgi görselleriyle sunulur
@@ -212,7 +214,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 5: Safsata Afişi Tasarımı (Resmî Performans Görevi)
 **Amaç:** Safsataların kullanımına örnek vererek görsellerle destekli bir afişe dönüştürmek (E2.3, SDB1.2).
 
-**Süre:** 45 dk (iki ders saatinde tamamlanabilir)
+**Süre:** 80 dk (iki ders saatinde tamamlanır)
 
 **Adımlar:**
 1. Öğrenciler, Etkinlik 4'te buldukları safsata örneklerinden en çarpıcı olanlarını seçer
@@ -228,7 +230,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 6: Argümanları Standart Forma Çevirme Atölyesi (Resmî Uygulama)
 **Amaç:** Günlük dildeki argümanları mantığın biçimsel diline dönüştürmek (E3.6).
 
-**Süre:** 30 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Günlük dilde yazılmış metin örnekleri (gazete köşe yazısı parçası, reklam metni, sosyal medya gönderisi) dağıtılır
@@ -337,9 +339,6 @@ Bu ünitede açık uçlu sorular, bulmaca, doğru/yanlış testi, eşleştirme t
 
 ## Kaynaklar
 
-- [T.C. MEB, Felsefe Dersi Öğretim Programı (onaylı PDF)](https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf)
-- Aristoteles. *Analitikler* (Organon)
-- Tarski, A. *Mantık ve Gerçeklik*
-- Salmon, W. C. *Mantık* (Çev. Nebil Yorulmaz)
-- Copi, I. M. *Mantığa Giriş*
-- Hughes, W. & Lavery, J. *Critical Thinking* (Eleştirel Düşünme)
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+
+> **Not:** Bu ünitedeki öğrenme çıktısı, temel kavramlar, öğrenme kanıtları, performans görevi ve farklılaştırma önerilerinin bağlayıcı dayanağı MEB öğretim programıdır. Günlük hayattan veya dijital ortamdan seçilen örnekler, öğrencilerin kişisel verisini içermemeli; kaynak, telif ve yaş düzeyi bakımından öğretmen tarafından denetlenmelidir.

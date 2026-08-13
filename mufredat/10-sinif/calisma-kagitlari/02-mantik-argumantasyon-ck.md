@@ -1,6 +1,6 @@
 # Çalışma Kâğıdı — 2. Ünite: Felsefe, Mantık ve Argümantasyon
 
-Bu çalışma kâğıdı, MEB onaylı programın 2. ünite "Öğrenme Kanıtları" bölümünde öngörülen **doğru/yanlış testi**, **eşleştirme testi**, **bulmaca**, **açık uçlu sorular** gerekliliklerini ve FEL.10.2.1 kazanımına ilişkin üç resmî uygulama adımını (düşünme-dil ilişkisi çalışma kâğıdı, kavram örneklendirme, standart form dönüştürme) somutlaştırır.
+Bu çalışma kâğıdı, MEB onaylı programın 2. ünite öğrenme kanıtlarında yer alan **açık uçlu sorular**, **bulmaca**, **doğru/yanlış testi** ve **eşleştirme testi** araçlarını; FEL.10.2.1 öğrenme çıktısındaki düşünme–dil ilişkisini yorumlama, temel kavramları örneklendirme ve günlük dildeki argümanları standart forma dönüştürme uygulamalarını somutlaştırır. [1]
 
 **Öğrencinin Adı Soyadı:** ____________________  **Tarih:** ____________
 
@@ -57,11 +57,11 @@ Mantık-C, Önerme-E, Tümevarım-F, Tümdengelim-I, Analoji-D, Tutarlılık-G, 
 
 ### C1. Bilgi
 
-**Düşünme**, kavramlar ve yargılar üzerinden anlam üretme etkinliğidir. **Dil**, düşüncenin dışa aktarıldığı işaret sistemidir. Düşünme ile dil arasındaki ilişki karşılıklıdır: dil, düşünmenin hem aracı hem ürünüdür. Mantık açısından dilin temel birimi **önerme**dir; önerme doğru ya da yanlış olabilen hüküm cümlesidir. Sorular, emirler ve ünlemler önerme değildir.
+**Düşünme**, kavramlar, yargılar ve akıl yürütmeler yoluyla anlam kurma etkinliğidir. **Dil**, düşünceleri ifade etmeye, paylaşmaya ve incelemeye yarayan işaret sistemidir. Düşünme ile dilin birbirini nasıl etkilediği tartışmaya açıktır; bu nedenle aşağıdaki sorularda tek bir görüşü tekrarlamak yerine metin, örnek ve gerekçelerden hareketle yorum yapınız. Mantık açısından **önerme**, doğru ya da yanlış olabilen hüküm cümlesidir. Sorular, emirler ve ünlemler önerme değildir.
 
 ### C2. Yorumlama Soruları
 
-1. "Hava çok sıcak!" cümlesi ile "Hava 35 derecedir." cümlesini karşılaştır. Hangisi önermedir? Neden?
+1. “Hava çok sıcak!” ve “Hava 35 derecedir.” ifadelerini doğruluk değeri, açıklık ve ölçülebilirlik bakımından karşılaştırınız. Her ifadenin önerme olarak değerlendirilip değerlendirilemeyeceğine ilişkin gerekçenizi yazınız.
 
    ______________________________________________________________________
 
@@ -141,6 +141,15 @@ Yukarıdaki her iki metnin argümanını standart formda yeniden yaz.
 - Öncül 2: ____________________
 - Sonuç: ____________________
 
+### E2. Cevap Anahtarı — Öğretmen İçin
+
+| Metin | Öncül 1 | Öncül 2 | Sonuç |
+|---|---|---|---|
+| **Metin 1** | Notlar tek bir günü yansıtır. | Öğrenme uzun süreli bir süreçtir; süreç tek günle değerlendirilemez. | Öğrencinin başarısı yalnızca sınav notuna bakılarak ölçülemez. |
+| **Metin 2** | Bu kitap çok iyi satılıyor. | Bu kitabı herkes övüyor. | Bu kitabı okumak gerekir. |
+
+> **Değerlendirme notu:** Metin 2’nin standart formda yazılabilmesi, argümanın güçlü ya da geçerli olduğunu göstermez. Öğrenciler isterse bu metindeki “çok kişi onaylıyor” gerekçesinin sonuç için yeterli olup olmadığını ayrıca tartışabilir.
+
 ### E3. Argüman Diyagramı
 
 Seçtiğin metin için öncüllerin sonucu nasıl desteklediğini oklarla göster (diyagram kağıdına veya boş alana çiz).
@@ -204,3 +213,7 @@ Aşağıdaki ipuçlarından kavramları bulunuz.
 ### Bölüm G Cevap Anahtarı (Öğretmen İçin)
 
 1. Özdeşlik 2. Geçerlilik 3. Ad hominem 4. Tümevarım 5. Saman adam 6. Tutarlılık
+
+## Kaynak
+
+[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"

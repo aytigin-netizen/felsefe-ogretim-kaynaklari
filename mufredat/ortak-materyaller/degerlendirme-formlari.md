@@ -1,6 +1,6 @@
 # Öz ve Akran Değerlendirme Formları (Ortak Materyal)
 
-Bu dosya, tüm 10. sınıf ünitelerinde resmî programın öngördüğü öz değerlendirme ve akran değerlendirme süreçleri için ortak şablonlar içerir. 10. sınıf programının ilgili ünitelerinde (1., 3., 8. ve 9. üniteler) bu iki formun kullanılması açıkça öngörülmüştür.
+Bu dosya, 10. sınıf ünitelerinde resmî programın öngördüğü öz değerlendirme ve akran değerlendirme süreçleri için ortak şablonlar içerir. 10. sınıf programının ilgili ünitelerinde bu formların kullanılması açıkça öngörülmektedir; 2. ünitede öz veya akran değerlendirme formu, düşünme–dil ilişkisi ve safsata afişi çalışmalarında kullanılabilir.
 
 ---
 
@@ -47,6 +47,34 @@ Bu dosya, tüm 10. sınıf ünitelerinde resmî programın öngördüğü öz de
 
 ---
 
+## Form 3: Öğrenme Süreci Kontrol Listesi
+
+Öğrenci, öğretmen veya grup; bir etkinlik ya da performans görevi sürecinde aşağıdaki adımların yerine getirilip getirilmediğini işaretleyebilir. Liste, puan vermekten önce süreci görünür kılmak ve eksik adımlara dönüt vermek için kullanılır.
+
+| Kontrol adımı | Evet | Kısmen | Henüz değil |
+|---|:---:|:---:|:---:|
+| Etkinlikteki temel kavramları ve yönergeleri anladım. | | | |
+| Görüşüm, yanıtım veya ürünüm için en az bir gerekçe sundum. | | | |
+| Kullanılan örnek, metin veya görseli hedef kavramla ilişkilendirdim. | | | |
+| Grup çalışmasındaki görevimi zamanında yerine getirdim. | | | |
+| Farklı bir görüşü veya akran dönütünü dikkatle dinledim. | | | |
+| Gerekli düzeltmeyi ya da geliştirme adımını belirledim. | | | |
+
+---
+
+## Form 4: Grup Değerlendirme Formu
+
+Grup üyeleri, iş birlikli etkinlik sonunda grubun çalışma sürecini değerlendirir. Form, kişileri karşılaştırmak için değil; görevin paylaşımı, gerekçeli düşünme ve ortak ürünün geliştirilmesi için kullanılır.
+
+| Ölçüt | 1 — Başlangıç | 2 — Gelişmekte | 3 — Yeterli | 4 — Çok güçlü |
+|---|---|---|---|---|
+| **Görev paylaşımı** | Görevler belirlenmedi. | Görevler kısmen belirlendi. | Görevler adil biçimde paylaşıldı. | Görevler adil paylaşıldı ve gerektiğinde yeniden düzenlendi. |
+| **Gerekçeli katkı** | Görüşler gerekçesiz kaldı. | Bazı gerekçeler sunuldu. | Çoğu görüş örnek veya gerekçeyle desteklendi. | Görüşler, karşı görüşler ve gerekçeler tutarlı biçimde ilişkilendirildi. |
+| **İletişim ve saygı** | Söz kesme veya dışlama görüldü. | İletişim zaman zaman aksadı. | Grup üyeleri birbirini dinledi. | Grup üyeleri birbirinin katkısını geliştirici sorularla destekledi. |
+| **Ortak ürün** | Ürün tamamlanmadı. | Ürün eksik veya düzensiz kaldı. | Ürün yönergeye uygun tamamlandı. | Ürün yönergeye uygun, açık ve gerekçeli biçimde tamamlandı. |
+
+---
+
 ## Kullanım Kılavuzu
 
-Öz değerlendirme formu ünitenin son dersinde bireysel doldurulur; akran değerlendirme formu ise grup çalışması, tartışma çemberi, kart düellosu veya sunum gibi iş birlikli etkinliklerin sonunda kullanılır. Her iki form da değerlendirme sürecinde dönüt aracı olarak kullanılmalı, öğrenciye puan yerine gelişim önerisi sağlanmalıdır. Formlar, ünitelerin "Değerlendirme" bölümlerinde geçen öz/akran değerlendirme gerekliliklerini karşılar.
+Öz değerlendirme formu ünitenin son dersinde bireysel doldurulur; akran değerlendirme formu ise grup çalışması, tartışma çemberi, kart düellosu veya sunum gibi iş birlikli etkinliklerin sonunda kullanılır. Kontrol listesi, etkinlik veya performans görevi sırasında; grup değerlendirme formu ise iş birlikli ürün tamamlandıktan sonra uygulanabilir. Bu araçlar değerlendirme sürecinde öncelikle dönüt aracı olarak kullanılmalı, öğrenciye yalnızca puan vermek yerine gelişim önerisi sağlamalıdır. Formlar, ünitelerin “Değerlendirme” bölümlerinde geçen öz/akran değerlendirme, kontrol listesi ve grup değerlendirme gerekliliklerini karşılar.

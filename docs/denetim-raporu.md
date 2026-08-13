@@ -1,6 +1,6 @@
-# Müfredat Denetim Raporu — 10. Sınıf Tamamlanmış Üniteler (1, 3, 4, 5, 6, 7, 8, 9)
+# Müfredat Denetim Raporu — 10. Sınıf Tamamlanmış Üniteler (1–9)
 
-Bu rapor, depodaki tamamlanmış sekiz ünitenin (1. Felsefenin Doğası, 3. Varlık Felsefesi, 4. Bilgi Felsefesi, 5. Ahlak Felsefesi, 6. Estetik ve Sanat Felsefesi, 7. Siyaset Felsefesi, 8. Din Felsefesi, 9. Bilim Felsefesi) MEB onaylı Felsefe Dersi Öğretim Programı ile karşılaştırılarak yapılan eksik etkinlik, çalışma kâğıdı ve ölçme aracı denetimini belgeler. Denetim sonunda tespit edilen eksikler giderilmiş; yeni materyaller depoya eklenmiştir.
+Bu rapor, depodaki 10. sınıfın dokuz ünitesinin MEB onaylı Felsefe Dersi Öğretim Programı ile karşılaştırılarak yapılan etkinlik, çalışma kâğıdı ve ölçme aracı denetimini belgeler. Denetim sonunda tespit edilen eksikler giderilmiş; ilgili materyaller ve durum kayıtları güncellenmiştir.
 
 ## Denetim Yöntemi
 
@@ -20,6 +20,21 @@ Resmî program bu ünite için açık uçlu sorular, kelime ilişkilendirme test
 | Öz/akran değerlendirme formları | Anılıyor, şablonu yok | Giderildi: `ortak-materyaller/degerlendirme-formlari.md` |
 | Kontrol listesi, grup değerlendirme formu | Yok | Formlar dosyasına eklendi |
 | Performans görevi (felsefe röportajı) | Var | Değişiklik yok |
+
+### 2. Ünite — Felsefe, Mantık ve Argümantasyon
+
+Resmî program; açık uçlu sorularla düşünme–dil ilişkisi ön değerlendirmesi, günlük hayattaki mantık hatalarıyla köprü kurma, düşünme ve dil ilişkisini bilgi/görsel/örnek üzerinden yorumlama, temel mantık ve argümantasyon kavramlarını örneklendirme, yapılandırılmış metinlerde akıl yürütme türü ile öncül–sonuç çözümleme, safsata tespiti ve görselli afiş performans görevi, günlük dildeki argümanları standart forma dönüştürme, öz/akran değerlendirme ve dereceleme ölçeğini öngörür. İlk incelemede ünite dosyasının kodu, kapsamı, çalışma kâğıdı ve ölçme araçları büyük ölçüde uygun bulunmuştur; ancak etkinlik süreleri 200 dakika ile sınırlı kalıyor, düşünme–dil ilişkisi tek bir yoruma yaklaşıyor, açık uçlu ön değerlendirme görünür biçimde yapılandırılmamış ve standart form bölümü için cevap anahtarı bulunmuyordu. Bu eksikler giderilmiştir.
+
+| Gereklilik | Denetim öncesi | Durum |
+|------------|----------------|-------|
+| Ünite bilgileri, öğrenme çıktısı ve süreç bileşenleri | Büyük ölçüde uygun | Doğrulandı: 8 saat, FEL.10.2.1, SBAB14 (KB2.14), eğilimler ve programlar arası bileşenler resmî programa göre tutarlı |
+| Açık uçlu ön değerlendirme ve mantık hatalarıyla köprü kurma | Köprü kurma var; açık uçlu ön değerlendirme örtük | Giderildi: Etkinlik 1’e iki kısa açık uçlu soru eklendi |
+| Düşünme–dil ilişkisini yorumlama | Çalışma kâğıdı var; açıklama tek yoruma yaklaşıyordu | Giderildi: ünite ve çalışma kâğıdında farklı yaklaşımlara açık, gerekçeli yorum vurgusu güçlendirildi |
+| Temel mantık ve argümantasyon kavramları; akıl yürütme türleri | Var | Doğrulandı: çalışma kâğıdı Bölüm A, B ve D; bilgi notları ve örneklendirme etkinliği |
+| Yapılandırılmış metinlerde öncül–sonuç, tutarlılık ve geçerlilik çözümlemesi | Var; standart form için öğretmen doğrulama aracı eksik | Giderildi: çalışma kâğıdı Bölüm E’ye standart form cevap anahtarı ve değerlendirme notu eklendi |
+| Safsata tespiti ve görselli afiş performans görevi | Var | Doğrulandı: çalışma kâğıdı Bölüm F ve ünite Etkinlik 4–5 |
+| Doğru/yanlış, eşleştirme, bulmaca, öz/akran değerlendirme ve dereceleme | Var; ortak formun 2. ünite yönlendirmesi eksik | Giderildi: ortak öz/akran değerlendirme formu 2. üniteyi kapsayacak biçimde güncellendi |
+| Süre ve puan toplamı | Etkinlik süreleri 200 dakika; ölçme 100 puan | Giderildi: etkinlik süreleri 320 dakika / 8 ders saati olarak düzenlendi; 25+20+25+30 puan dağılımı doğrulandı |
 
 ### 3. Ünite — Varlık Felsefesi
 
@@ -122,10 +137,10 @@ Resmî program eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, 
 
 Denetimde, birden fazla ünitede geçen aynı araçların tekrar tekrar üretilmesi yerine ortak şablonlar hâlinde sunulması daha sürdürülebilir bulunmuştur. Bu nedenle `mufredat/ortak-materyaller/` klasöründe iki ortak form bulunur. `metin-inceleme-formu.md`, 3., 4., 5., 6., 7., 8. ve 9. ünitelerin performans görevi için resmî programda istenen tüm inceleme ölçütlerini (kavram belirleme, problem ifade etme, yargı ve argüman çözümleme, öncül-sonuç gösterme, eleştirel değerlendirme) içeren doldurulabilir bir formdur. `degerlendirme-formlari.md`, tüm ünitelerde kullanılabilir öz ve akran değerlendirme şablonlarını bir arada sunar.
 
-Ünite bazında ise `mufredat/10-sinif/calisma-kagitlari/` klasöründe sekiz dosya bulunmaktadır: `01-felsefenin-dogasi-ck.md`, `03-varlik-felsefesi-ck.md`, `04-bilgi-felsefesi-ck.md`, `05-ahlak-felsefesi-ck.md`, `06-estetik-sanat-felsefesi-ck.md`, `07-siyaset-felsefesi-ck.md`, `08-din-felsefesi-ck.md` ve `09-bilim-felsefesi-ck.md`. Tüm kâğıtlarda öğretmen kullanımını kolaylaştırmak için cevap anahtarları ayrı bölümlerde verilmiştir.
+Ünite bazında ise `mufredat/10-sinif/calisma-kagitlari/` klasöründe dokuz dosya bulunmaktadır: `01-felsefenin-dogasi-ck.md`, `02-mantik-argumantasyon-ck.md`, `03-varlik-felsefesi-ck.md`, `04-bilgi-felsefesi-ck.md`, `05-ahlak-felsefesi-ck.md`, `06-estetik-sanat-felsefesi-ck.md`, `07-siyaset-felsefesi-ck.md`, `08-din-felsefesi-ck.md` ve `09-bilim-felsefesi-ck.md`. Tüm kâğıtlarda öğretmen kullanımını kolaylaştırmak için cevap anahtarları ayrı bölümlerde verilmiştir.
 
 ## Genel Değerlendirme
 
-Denetim öncesi incelenen ünitelerde etkinlik isimleri resmî programa uygun biçimde anılıyor, ancak bazı ölçme araçlarının somut içerikleri (kelime ilişkilendirme, boşluk doldurma, eşleştirme kartları, bulmaca, akım çalışma kâğıdı ve metin inceleme formları) eksikti. Bu eksikler, resmî programdaki uygulama adımları esas alınarak giderilmiştir. 4. ünite özelinde ise eski program dışı içerik, uydurma kazanım ve alan becerisi bilgileri kaldırılmış; resmî FEL.10.4.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 5. ünite özelinde ise eski program dışı içerik, uydurma kazanım ve alan becerisi bilgileri kaldırılmış; resmî FEL.10.5.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 6. ünite özelinde ise yanlış süre ve program dışı kapsam kaldırılmış; resmî FEL.10.6.1 çıktısı, altı ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 7. ünite özelinde ise yanlış süre ve program dışı kapsam kaldırılmış; resmî FEL.10.7.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 2. ünite, depoda tamamlanmış görünmekle birlikte ayrıntılı denetim kaydı bu rapora henüz eklenmemiştir; aynı denetim süreciyle ayrıca belgelenmesi önerilir.
+Denetim öncesi incelenen ünitelerde etkinlik isimleri resmî programa uygun biçimde anılıyor, ancak bazı ölçme araçlarının somut içerikleri (kelime ilişkilendirme, boşluk doldurma, eşleştirme kartları, bulmaca, akım çalışma kâğıdı ve metin inceleme formları) eksikti. Bu eksikler, resmî programdaki uygulama adımları esas alınarak giderilmiştir. 2. ünite özelinde ise etkinlik süreleri resmî toplamla eşitlenmiş, açık uçlu ön değerlendirme görünür hâle getirilmiş, düşünme–dil ilişkisi çoğul yorumlara açık biçimde düzenlenmiş ve standart form uygulamasının cevap anahtarı eklenmiştir. 4. ünite özelinde ise eski program dışı içerik, uydurma kazanım ve alan becerisi bilgileri kaldırılmış; resmî FEL.10.4.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 5. ünite özelinde ise eski program dışı içerik, uydurma kazanım ve alan becerisi bilgileri kaldırılmış; resmî FEL.10.5.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 6. ünite özelinde ise yanlış süre ve program dışı kapsam kaldırılmış; resmî FEL.10.6.1 çıktısı, altı ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. 7. ünite özelinde ise yanlış süre ve program dışı kapsam kaldırılmış; resmî FEL.10.7.1 çıktısı, sekiz ders saatlik akış, çalışma kâğıdı, ortak formlar ve metin inceleme performans göreviyle uyum sağlanmıştır. Böylece 10. sınıfın dokuz ünitesi için ayrıntılı denetim kaydı tamamlanmıştır.
 
 *Hazırlayan: Manus AI — 13 Ağustos 2026*
