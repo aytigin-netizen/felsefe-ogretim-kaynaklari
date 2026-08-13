@@ -68,7 +68,7 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. İlk ünite için res
 | 1 | Çevre Sorunları ve Felsefe | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 2 | Teknoloji ve Hayat | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 3 | Akıl ve İnanç | 10 | Tamamlandı (resmî program doğrulamalı) |
-| 4 | Edebiyat ve Felsefe | 12 | Henüz hazırlanmadı |
+| 4 | Edebiyat ve Felsefe | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 5 | Hayatın Anlamı | 12 | Henüz hazırlanmadı |
 | 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
 

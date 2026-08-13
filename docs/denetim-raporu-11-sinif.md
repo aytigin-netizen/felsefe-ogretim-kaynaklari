@@ -55,6 +55,23 @@ Resmî program; kısa cevaplı ön değerlendirme, felsefe ve din hakkında örn
 | Eşleştirme, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm C–E; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
 | Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: Gazali–meşşai ekolü, İbni Rüşd–Kant, Kierkegaard; sadeleştirilmiş metin, akran desteği ve yazma şeması işlendi |
 
+## 4. Ünite — Edebiyat ve Felsefe
+
+Resmî program; açık uçlu ön değerlendirme, okunan/izlenen eserlerden felsefi soru üretme, edebî ve felsefi metinlerin biçim–içerik ölçütleriyle karşılaştırılması, dil/düşünce/duygu ilişkisi, Türk edebiyatı türlerinden kaynak bilgili en fazla yüz sözcüklük metin çözümlemesi, edebî anlatımın araçsallığı, filozof-edip metinleri ve varoluşçu temalar, münazara, felsefi paragraf/deneme yazma ve akran değerlendirmeli performans görevini öngörür. [1]
+
+| Gereklilik | Materyal karşılığı | Durum |
+|---|---|---|
+| Ünite bilgileri, öğrenme çıktıları ve süreç bileşenleri | `mufredat/11-sinif/04-edebiyat-ve-felsefe.md` başlangıç bölümleri | Karşılandı: 12 saat, FEL.11.4.1, FEL.11.4.2, SBAB14 ve SBAB15 resmî programa göre işlendi |
+| Açık uçlu ön değerlendirme ve eserlerden felsefi soru köprüsü | Çalışma kâğıdı Bölüm A; ünite Etkinlik 1 | Karşılandı: dört açık uçlu soru, eser/kurgusal durumdan felsefi soru üretme |
+| Edebî ve felsefi metinlerin karşılaştırılması | Çalışma kâğıdı Bölüm B; ünite Etkinlik 2 | Karşılandı: yazım tekniği, hayal gücü, akılcılık, canlandırma, soyut–somut, metafor ve betimleme tablosu |
+| Dil, düşünce, duygu ve hayatla ilişki | Çalışma kâğıdı Bölüm C; ünite Etkinlik 3 | Karşılandı: metafor/betimleme/öyküleme çözümlemesi ve kurgusal/esere dayalı hayat durumu değerlendirmesi |
+| Türk edebiyatı türlerinde felsefi kavram, soru ve argüman | Çalışma kâğıdı Bölüm D; ünite Etkinlik 4 | Karşılandı: tür, kaynak, kavram, soru, iddia, edebî unsur ve alıntı sınırı içeren metin inceleme tablosu ve kontrol listesi |
+| Edebî anlatımın araçsallığı ve filozof-edip metinleri | Çalışma kâğıdı Bölüm E; ünite Etkinlik 5 | Karşılandı: varoluşçu temalarda edebî dilin güçlü yönü ve sınırı, çember/akvaryum tartışması |
+| Edebî eser–felsefi değer tartışması | Çalışma kâğıdı Bölüm F; ünite Etkinlik 6 | Karşılandı: görüş–gerekçe–karşı görüş, metne dayanak ve saygılı tartışma kontrolü |
+| Felsefi deneme ve performans görevi | Çalışma kâğıdı Bölüm G; ünite Etkinlik 7–8 | Karşılandı: soru seçimi, plan, kaynak/alıntı ayrımı, metin kontrol listesi ve akran dönütü |
+| Çalışma kâğıdı, kontrol listesi, öz/akran değerlendirme, dereceli puanlama ve performans görevi | Çalışma kâğıdı Bölüm B–G; ünite Değerlendirme bölümü; ortak formlar | Karşılandı: 100 puanlık yapı, dört ölçütlü rubrik ve ortak değerlendirme araçları |
+| Zenginleştirme ve destekleme | Ünite Farklılaştırma bölümü | Karşılandı: eser–film karşılaştırması, Gadamer, Platon; görsel/işitsel materyal, iş birlikli öğrenme ve yazma şeması işlendi |
+
 ## 11. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Resmî ders saati | Materyal durumu |
@@ -62,7 +79,7 @@ Resmî program; kısa cevaplı ön değerlendirme, felsefe ve din hakkında örn
 | 1 | Çevre Sorunları ve Felsefe | 12 | Tamamlandı ve denetlendi |
 | 2 | Teknoloji ve Hayat | 12 | Tamamlandı ve denetlendi |
 | 3 | Akıl ve İnanç | 10 | Tamamlandı ve denetlendi |
-| 4 | Edebiyat ve Felsefe | 12 | Henüz hazırlanmadı |
+| 4 | Edebiyat ve Felsefe | 12 | Tamamlandı ve denetlendi |
 | 5 | Hayatın Anlamı | 12 | Henüz hazırlanmadı |
 | 6 | Hukuk ve Felsefe | 10 | Henüz hazırlanmadı |
 

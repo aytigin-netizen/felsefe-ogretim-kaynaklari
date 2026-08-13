@@ -53,13 +53,13 @@ Bu eksikler giderildi. Etkinlik süreleri **320 dakika / 8 ders saati** olarak d
 | 1 | Çevre Sorunları ve Felsefe | 12 saat | Tamamlandı ve denetlendi |
 | 2 | Teknoloji ve Hayat | 12 saat | Tamamlandı ve denetlendi |
 | 3 | Akıl ve İnanç | 10 saat | Tamamlandı ve denetlendi |
-| 4 | Edebiyat ve Felsefe | 12 saat | Henüz hazırlanmadı |
+| 4 | Edebiyat ve Felsefe | 12 saat | Tamamlandı ve denetlendi |
 | 5 | Hayatın Anlamı | 12 saat | Henüz hazırlanmadı |
 | 6 | Hukuk ve Felsefe | 10 saat | Henüz hazırlanmadı |
 
 ## Sonraki Bakım Önceliği
 
-10. sınıf materyal seti tamamlanmıştır. 11. sınıf için sıradaki çalışma, resmî program verileriyle **4. Ünite: Edebiyat ve Felsefe** materyallerinin aynı doğrulama yöntemiyle hazırlanmasıdır. Bunun yanında yeni öğretim yılı için resmî program güncellemeleri ve öğretmen geri bildirimleri izlenebilir.
+10. sınıf materyal seti tamamlanmıştır. 11. sınıf için sıradaki çalışma, resmî program verileriyle **5. Ünite: Hayatın Anlamı** materyallerinin aynı doğrulama yöntemiyle hazırlanmasıdır. Bunun yanında yeni öğretim yılı için resmî program güncellemeleri ve öğretmen geri bildirimleri izlenebilir.
 
 ## Kaynak
 
