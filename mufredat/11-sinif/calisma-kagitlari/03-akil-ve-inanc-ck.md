@@ -218,6 +218,43 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu kâğıt kişisel inanç beyanı istemez; anahtar, açık uçlu bölümler için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar. Bir görüşe katılıp katılmamak hiçbir bölümde notlandırmaya girmez.
+
+### Bölüm A — Ön Değerlendirme (beklenen yanıt yönleri)
+
+1. *Temellendirme:* bir görüşü gerekçe, kanıt veya tutarlı argümanla desteklemek. Sırf "böyle düşünüyorum" demek temellendirme değildir.
+2. *Akıl:* soru üretme, kavram çözümleme, argüman kurma ve değerlendirme, tutarlılık denetimi işlevleri.
+3. *İnanç sorusu örnekleri:* "Bir inanç hangi koşullarda gerekçeli sayılır?", "İnanç akılla çelişebilir mi?", "İnanç bilgidan farklı olarak nasıl doğrulanır?"
+4. *Gönül bağlamı örneği:* tasavvufi/anlamsal yönelimlerde duygusal–içsel katılımı anlatmak için akıl veya inanç terimlerinin yerine kullanımı.
+A2'de ölçüt: iki metnin sorusunu ve kavramını ayırt edip benzerlik/farkı tabloya işlemesi.
+
+### Bölüm B — Kavram–Problem İlişkilendirme (beklenen örnek yönler)
+
+| Soru | Beklenen ilişki | Gerekçe örneği |
+|---|---|---|
+| İnanç akılla temellendirilebilir mi? | Temellendirme / rasyonellik | Gerekçe türü ve kanıt sorunu |
+| Aklın rolü nedir? | Akıl–temellendirme ilişkisi | Argüman kurma ve denetleme işlevi |
+| Akla uygun olduğu için mi inanılır? | Rasyonellik | Kanıt–gerekçe–kabul ilişkisi |
+| İnançta akıl zorunlu mudur? | Akıl–inanç ilişkisi | Zorunluluk ve sınır sorunu |
+| Anlamak için mi inanılır? | Gönül / anlam | Anlamın gerekçeden farklı boyutu |
+| İnanç akıl üstü müdür? | İrrasyonellik / akıl üstülük | Aşkınlık ve rasyonellik sınırı |
+
+B2'de öğrencinin görselden tarihî/kültürel bağlama dair tek bir mantıklı çıkarım kurması yeterlidir. B3'te kurgusal durumun kişisel inanç açıklaması içermemesi ve doğurduğu sorunun gerçekten felsefi olması (tek yanıtla kapanmayan, kavram–gerekçe isteyen) beklenir.
+
+### Bölüm C — Metin İnceleme (ölçütler)
+
+C1'de her metin için en az kavram, felsefi soru ve iddia sütunlarının doldurulması; kaynak/çeviri bilgisinin boş bırakılmaması beklenir. C2'de beklenen yön: yüz sözcüklük alıntının bütünü temsil etmeyebileceğini fark edip eksik bağlamı adlandırması. C3'te kavram–işlev eşleştirmesinin metne dayalı gerekçesi olması; ezber tanım yazılması yeterli sayılmaz.
+
+### Bölüm D — Karşılaştırma ve Tartışma
+
+D1'de beş ölçütün en az üçünde somut karşılaştırma yapılması beklenir. D2'nin sorusu için beklenen yanıt yönü: gerekçeliliğin ikna ediciliği ile zorunluluk arasında mantıksal bir fark olduğunu fark etmesi; her iki konumda tutarlı argüman kabul edilir. D3 tartışma ilkeleri kontrol listesi, gözlem formu olarak doğrudan puanlanabilir; "Henüz değil" sayısı rubrikte tartışma ölçütüne yansıtılır.
+
+### Bölüm E — Performans Görevi
+
+E1 planının eksiksiz doldurulması, E2'de seçilen başlangıçların anlamı koruyarak tamamlanması ve E3'te ana iddia–yeniden yazım–değerlendirme ayrımının net olması asgari ölçüttür. Nihai metin, izlenebilirlik matrisindeki "Problemleştirme, tutarlı argüman, karşı görüş, kaynak kullanımı ve yazılı ifade" ölçütleri üzerinden rubrikle değerlendirilir.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–D’si süreç içi öğrenme kanıtı; Bölüm E’si performans görevine hazırlık olarak kullanılabilir. Öz, akran ve grup değerlendirmesi için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Değerlendirme; öğrencinin kişisel inancı veya herhangi bir görüşe katılıp katılmamasına değil, felsefi problem kurmasına, kavram ve metin çözümlemesine, gerekçeli argümanına, karşı görüşe saygılı yaklaşımına ve yazılı ifadesine dayanmalıdır.

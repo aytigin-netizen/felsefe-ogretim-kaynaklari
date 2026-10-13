@@ -249,6 +249,39 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bölüm A'nın tek doğru yanıt anahtarı kâğıdın içinde mevcuttur (1–Y, 2–D, 3–D, 4–Y, 5–Y, 6–D, 7–D, 8–D). Bu bölüm, açık uçlu bölümler için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm B — Soru–Problem Alanı Eşleştirmesi (beklenen örnek yönler)
+
+| Soru | Beklenen ilişki | Gerekçe örneği |
+|---|---|---|
+| Teknoloji insan hayatını nasıl etkiler? | Teknoloji ve insan hayatı | Konfor, imkân ve bağımlılık ilişkisi |
+| Teknolojinin tutsağı olmadan hayat nasıl mümkün olabilir? | Teknoloji ve insan hayatı / aksiyolojik problem | Araç–amaç dengesi ve bilinçli kullanım |
+| Yabancılaşma veya kendini keşif rolü | Ontolojik / aksiyolojik problem | Sanal kimlik, öznelik ve anlam |
+| Zaman ve mekân algısı | Ontolojik problem | Algının ve gerçeklik ilişkisinin değişmesi |
+| Güvenlik tehdidi | Teknoloji ve insan hayatı / aksiyolojik problem | Risk, güven ve mahremiyet |
+| Değer dünyasına etki | Aksiyolojik problem | Değer, sorumluluk ve görgü kuralları |
+
+Birden çok işaretleme, gerekçesi tutarlıysa kabul edilir. B2'de ölçüt: üretilen sorunun teknik bilgiyle yanıtlanamayacağını gerekçelendirmesi ve en az bir felsefi boyut (değer, amaç, anlam, sorumluluk, mahremiyet) içermesi.
+
+### Bölüm C — Veri, Yarar–Risk, Kamu Projesi
+
+C1'de asgari yeterlilik: kaynak kurum, referans yılı, ölçü birimi ve değişkenin doğru yazılması; "tek başına yanıtlanamayan soru" satırında nedensellik sınırının fark edilmesi. C2'de seçilen teknoloji için en az bir konfor, bir risk ve bir değer/ilke çifti beklenir; risk–değer ilişkisi mantıklı kurulduğunda tam puan verilebilir. C3'te kurgusal afet durumunun gerçek kişi/kurum/konum içermemesi ve resmî kaynak önerisinin (ör. AFAD, TÜİK, ilgili bakanlık yayını) gerçek bir kuruma ait olması beklenir. C4'te "bilinçli kullanım" tanımının araç–amaç, mahremiyet veya sorumluluk gibi bir kavramla gerekçelendirilmesi yeterlidir.
+
+### Bölüm D — Metin İnceleme (ölçütler)
+
+D1'de her metin için en az kavram, problem ve iddia sütunlarının doldurulmuş olması beklenir; "açıkta kalan soru" sütunu üst düzey kanıttır. D2'de karşılaştırmanın üç ölçütün en az ikisinde somut benzerlik/fark içermesi gerekir. D3'te ölçüt: görüşün en az iki gerekçesi, çarpıtılmamış bir karşı görüş ve tutarlı yanıt. Kontrol sorusunda beklenen yön: dijital temsilin gerçeklik algısını etkilemesi ile tümüyle sahte olması arasında mantıksal bir zorunluluk olmadığını fark etmesi.
+
+### Bölüm E — Mahremiyet, Değer ve Robotlar
+
+E1'de örnek olay; risk–değer–önlem–sınır zincirinin tamamını kurması beklenir; güvenlik ile mahremiyetin karıştırılmaması ayrıca değerlendirilir. E2'de ölçüt: Bauman metnindeki bir iddiayı doğru aktarması ve kendi değerlendirmesiyle arasına açık bir sınır koyması. "Robotlar ahlaklı davranabilir mi?" yanıtında beklenen yön: niyet–kural–sonuç–sorumluluk kavramlarından en az ikisini kullanarak gerekçeli bir konum (her iki yönde kabul edilir). E3'te Cezeri'den günümüze değişimin somutlaştırılması ve ahlaki sorunun kurgusal düzeyde kalması.
+
+### Bölüm F — Performans Görevi
+
+F1 planının eksiksiz ve F4 kontrol listesinin tamamının işaretli olması beklenir. F2'de seçilen başlangıçların anlamı koruyarak tamamlanması; F3'te ana iddianın doğru belirlenmesi ve yeniden yazımın alıntı–yorum ayrımı içermesi asgari ölçüttür. Nihai metin, izlenebilirlik matrisindeki "Problemleştirme, tutarlı argüman, karşı görüş, kaynak kullanımı ve yazılı ifade" ölçütleri üzerinden rubrikle değerlendirilir.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–E’si süreç içi öğrenme kanıtı; Bölüm F’si performans görevine hazırlık olarak kullanılabilir. Öz, akran ve grup değerlendirmesi için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Değerlendirme, öğrencinin teknolojiyi olumlu veya olumsuz bulmasına değil; problemi felsefi olarak kurmasına, veri/örnek olay ayrımına, gerekçeli argümanına, mahremiyet duyarlılığına ve yazılı ifadesine dayanmalıdır.
