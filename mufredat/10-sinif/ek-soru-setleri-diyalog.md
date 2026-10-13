@@ -81,7 +81,7 @@ Bu dosya, 10. sınıf Felsefe ders kitaplarının "Ünite Ölçme ve Değerlendi
 **Kurgu:** Bir kentin küçük galerisinde iki tablo yan yana asılıdır. İlki ünlü bir ressamın imzasını taşır; ikincisi aynı boyutta, neredeyse aynı kompozisyonda ama imzasızdır. Ziyaretçiler ikinciyi "öğrenci çalışması" diye geçer; küratör sonradan açıklar: İkinci tablo, ünlü ressamın kendi eliyle yaptığı, imzasız bıraktığı bir denemedir. Ziyaretçiler aynı tabloya bakarak önce "değersiz" sonra "değerli" demeye başlar. Genç bir ziyaretçi sorar: "Değişen ne oldu ki? Duvardaki boya mı değişti, yoksa bilmemiz mi?"
 
 **Sorular:**
-1. Ziyaretçilerin yargı değişimi, sanat eserinin değerinin neye bağlı olduğu tartışmasına (biçim, iç Achievable duygu, kurumsal bağlam, emek) hangi yaklaşımları örneklemektedir?
+1. Ziyaretçilerin yargı değişimi, sanat eserinin değerinin neye bağlı olduğu tartışmasına (biçim, iç duygu, kurumsal bağlam, emek) hangi yaklaşımları örneklemektedir?
 2. "Duvardaki boya mı değişti, bilmemiz mi?" sorusunu estetik yargının öznel/nesnel tartışması üzerinden yanıtlayınız.
 3. Eserin değeri imzada değilse nerededir? İki farklı estetik kuram dayanağıyla görüş yazınız.
 4. Bu kurgu, "güzel olan mı beğenilir, beğenilen mi güzel sayılır?" sorusuna nasıl bir örnek oluşturur? Açıklayınız.

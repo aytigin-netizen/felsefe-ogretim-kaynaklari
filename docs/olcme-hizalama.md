@@ -16,7 +16,7 @@ Depo çalışma kâğıtları, kitap ölçme bölümlerindeki **tüm soru türle
 | Kitaptakinden daha geniş araç çeşitliliği sunan kâğıt | 15/15 |
 | Öğretmen cevap anahtarı bulunan 10. sınıf kâğıdı | 9/9 (giderildi) |
 | Öğretmen cevap anahtarı bulunan 11. sınıf kâğıdı | 6/6 (giderildi) |
-| Kitaba özgü soru biçimi (forum/diyalog kurgusu) içeren kâğıt | 0/15 (zenginleştirme önerisi) |
+| Kitaba özgü soru biçimi (forum/diyalog kurgusu) içeren ek set | 15/15 (özgün biçimde üretildi) |
 
 ## 2. Kitap Ölçme Bölümlerinin Biçimi
 
@@ -53,7 +53,7 @@ Depo çalışma kâğıtları, kitap ölçme bölümlerindeki **tüm soru türle
 
 **B3 — Cevap anahtarı tutarsızlığı (P1 bakım maddesi — giderildi).** Denetim sırasında 11. sınıfın altı kâğıdında öğretmen cevap anahtarı yoktu; dördünde yalnız "başarı göstergeleri" bölümü bulunuyordu ve 10-01 kâğıdında da eksikti. 13 Ekim 2026'de yedi kâğıdın tamamına (11-01…11-06 ve 10-01) "Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar" bölümü eklendi; bölümler açık uçlu sorular için beklenen yanıt yönleri ve kabul ölçütleri sunar, eşleştirmeli bölümler için kesin anahtar verir (commits `f5dabbb`, `4e55068`, `7dc0b3f` ve öncesi).
 
-**B4 — Kitap biçimi zenginleştirme fırsatı (P2).** Kitapların "forum sayfası" kurgusu (11. sınıf) ve diyalog metni formatı (10. sınıf) öğrenciye tanıdık, bağlam zengini bir ölçme biçimidir. Depo kâğıtlarına bu biçimde ek soru setleri eklenmesi önerilir; ancak kitap metinleri telifli olduğu için yeni forum kurguları özgün biçimde yazılmalı, kitaptan kopyalanmamalıdır.
+**B4 — Kitap biçimi zenginleştirme fırsatı (P2 — tamamlandı).** Kitapların "forum sayfası" kurgusu (11. sınıf) ve diyalog metni formatı (10. sınıf) öğrenciye tanıdık, bağlam zengini bir ölçme biçimidir. 13 Ekim 2026'de bu biçimde **özgün** ek soru setleri eklenmiştir: 10. sınıfın dokuz ünitesi için diyalog kurgulu setler `mufredat/10-sinif/ek-soru-setleri-diyalog.md`, 11. sınıfın altı ünitesi için forum kurgulu setler `mufredat/11-sinif/ek-soru-setleri-forum.md` dosyasındadır. Telif kuralı gereği tüm kurgular kitaptan bağımsız olarak yazılmış; her set beklenen yanıt yönlerini veren öğretmen notu içermektedir.
 
 ## 5. Bakım Listesi
 
@@ -61,7 +61,7 @@ Depo çalışma kâğıtları, kitap ölçme bölümlerindeki **tüm soru türle
 |---|---|---|
 | ~~P1~~ ✅ | ~~11. sınıf çalışma kâğıtlarına öğretmen cevap anahtarları ekleme~~ | 6 kâğıt — tamamlandı (13 Ekim 2026) |
 | ~~P1~~ ✅ | ~~10-01 Felsefenin Doğası kâğıdına cevap anahtarı ekleme~~ | 1 kâğıt — tamamlandı (13 Ekim 2026) |
-| P2 | Özgün forum/diyalog kurgulu ek soru setleri hazırlama | 15 ünite, tercihe bağlı |
+| ~~P2~~ ✅ | ~~Özgün forum/diyalog kurgulu ek soru setleri hazırlama~~ | 15 ünite — tamamlandı (13 Ekim 2026) |
 
 ## Künye
 
