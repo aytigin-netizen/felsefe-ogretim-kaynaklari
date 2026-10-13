@@ -4,11 +4,13 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 
 ## İçerik
 
-- **Müfredat**: 10. ve 11. sınıf felsefe programı (yapılandırılmış Markdown ünite dosyaları)
-- **Ders Planları**: Hazır ders planı şablonları
-- **Etkinlikler**: Tartışma soruları, sınıf etkinlikleri, performans görevleri
-- **Sunumlar**: pptxgenjs ile üretilmiş dinamik sunumlar
-- **Değerlendirme**: Rubrikler, dereceli puanlama anahtarları, kontrol listeleri
+- **Müfredat**: 10. ve 11. sınıf felsefe programı (yapılandırılmış Markdown ünite dosyaları, 15 ünite)
+- **Çalışma kâğıtları**: Her üniteye karşılık gelen öğrenci çalışma kâğıdı ve öğretmen cevap anahtarı (15 kâğıt)
+- **Ek soru setleri**: 10. sınıf için diyalog, 11. sınıf için forum kurgulu özgün ölçme görevleri
+- **Ortak materyaller**: Öz/akran/grup değerlendirme formları ve metin inceleme formu
+- **Etkinlikler ve performans görevleri**: Ünite dosyalarının içinde, süreye bağlı öğretim akışı olarak
+- **Ölçme**: Her ünitede 100 puanlık ölçme yapısı, dereceli puanlama anahtarı ve farklılaştırma önerileri
+- **Denetim kayıtları**: Müfredat denetimi, pedagojik denetim, ders kitabı ve ölçme hizalama raporları
 
 ## Klasör Yapısı
 
@@ -19,27 +21,23 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │   │   ├── metin-inceleme-formu.md              # Performans görevi metin inceleme formu
 │   │   └── degerlendirme-formlari.md            # Öz ve akran değerlendirme şablonları
 │   ├── 10-sinif/
-│   │   ├── 01-felsefenin-dogasi.md
-│   │   ├── 02-felsefe-mantik-argumantasyon.md
-│   │   ├── 03-varlik-felsefesi.md
-│   │   ├── 04-bilgi-felsefesi.md
-│   │   ├── 05-ahlak-felsefesi.md
-│   │   ├── 06-estetik-sanat-felsefesi.md
-│   │   ├── 07-siyaset-felsefesi.md
-│   │   ├── 08-din-felsefesi.md
+│   │   ├── 01-felsefenin-dogasi.md              # 9 ünite materyali
+│   │   ├── …
 │   │   ├── 09-bilim-felsefesi.md
-│   │   └── calisma-kagitlari/                   # Birim bazlı çalışma kâğıtları
+│   │   ├── calisma-kagitlari/                   # 9 çalışma kâğıdı + cevap anahtarı
+│   │   └── ek-soru-setleri-diyalog.md          # 9 ünite için ek ölçme görevleri
 │   └── 11-sinif/
-│       ├── 01-cevre-sorunlari-felsefe.md
-│       ├── …                                    # Altı ünite materyali
-│       └── calisma-kagitlari/                   # 11. sınıf çalışma kâğıtları
-├── materyaller/
-│   ├── tartisma-sorulari/
-│   ├── ders-planlari/
-│   └── etkinlikler/
-├── web/
-│   └── (Web sitesi dosyaları)
-├── docs/                                       # Durum ve denetim kayıtları
+│       ├── 01-cevre-sorunlari-felsefe.md        # 6 ünite materyali
+│       ├── …
+│       ├── 06-hukuk-ve-felsefe.md
+│       ├── calisma-kagitlari/                   # 6 çalışma kâğıdı + cevap anahtarı
+│       └── ek-soru-setleri-forum.md             # 6 ünite için ek ölçme görevleri
+├── docs/                                        # Denetim ve durum kayıtları (Markdown)
+│   ├── index.html                               # Statik sitenin ana sayfası (GitHub Pages)
+│   └── site/                                    # Statik site sayfaları
+│       ├── 10-sinif/  11-sinif/                # Ünite ve çalışma kâğıdı sayfaları
+│       ├── ortak-materyaller/                   # Ortak form sayfaları
+│       └── raporlar/                            # Denetim raporlarının sayfaları
 ├── tools/
 │   └── denetle_yapisal_kalite.py                # Tekrarlanabilir yapısal denetim
 ├── .github/workflows/
@@ -80,13 +78,13 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. Altı ünitenin tamam
 
 ## Web Sitesi
 
-Depodaki tüm materyaller, okunabilir statik HTML sayfaları olarak `docs/` klasöründe üretilmiştir. GitHub Pages üzerinden yayımlamak için:
+Depodaki tüm materyaller okunabilir statik HTML sayfaları olarak `docs/` klasöründe üretilmiştir ve GitHub Pages üzerinden yayımlanmaktadır:
 
-1. Depo ayarlarında **Settings → Pages** bölümüne gidiniz.
-2. **Deploy from a branch** seçip **main** dalını ve **/docs** klasörünü seçiniz.
-3. Yayım sonrası site şu adresten erişilebilir olur: **https://aytigin-netizen.github.io/felsefe-ogretim-kaynaklari/**
+**https://aytigin-netizen.github.io/felsefe-ogretim-kaynaklari/**
 
-Ana sayfa `docs/index.html`; ünite ve çalışma kâğıdı sayfaları `docs/site/10-sinif/`, `docs/site/11-sinif/`, `docs/site/ortak-materyaller/` ve `docs/site/raporlar/` klasörlerindedir. Markdown kaynaklar güncellendiğinde bu sayfaların da yeniden üretilmesi gerekir.
+Ana sayfa `docs/index.html`; ünite ve çalışma kâğıdı sayfaları `docs/site/10-sinif/`, `docs/site/11-sinif/`, `docs/site/ortak-materyaller/` ve `docs/site/raporlar/` klasörlerindedir.
+
+Yayım `main` dalının `/docs` klasöründen yapılır; bir `main` birleştirmesi siteyi otomatik olarak günceller. Markdown kaynaklar güncellendiğinde ilgili HTML sayfalarının da yeniden üretilmesi gerekir: sayfa köklerindeki `← Ana Sayfa` bağlantısı site kökünden iki seviye aşağıda olduğu için `../../index.html` olmalıdır. Yapısal denetim, sitedeki yerel ve depo içi GitHub bağlantılarını her değişiklikte doğrular.
 
 ## Yapısal Kalite Denetimi
 
