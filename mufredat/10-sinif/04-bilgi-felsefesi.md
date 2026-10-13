@@ -343,7 +343,7 @@ Bu uyarlamalar, öğrenme hedefini azaltmadan öğrencinin dil, sunum, süre, te
 
 [1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
 [2]: https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Rep.+7.514a "Platon, Devlet, VII. Kitap: Mağara Benzetmesi"
-[3]: https://www.gutenberg.org/ebooks/23306 "René Descartes, Principles of Philosophy"
+[3]: https://www.gutenberg.org/ebooks/23306 "René Descartes, Meditationes de Prima Philosophia (Metafizik Üzerine Düşünceler), Project Gutenberg"
 [4]: https://www.gutenberg.org/ebooks/9662 "David Hume, An Enquiry Concerning Human Understanding"
 
 > **Not:** MEB programındaki resmî metin havuzu, öğrenme çıktısı, uygulama adımları ve farklılaştırma önerileri bu ünitenin bağlayıcı müfredat dayanağıdır. Felsefi birincil metinler, öğrencinin yaş düzeyi ve metnin telif/erişim koşulları gözetilerek seçilmiş kısa alıntılar veya uyarlanmış parçalarla kullanılmalıdır.

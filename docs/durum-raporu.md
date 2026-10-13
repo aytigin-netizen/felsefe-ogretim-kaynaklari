@@ -30,6 +30,8 @@ Proje, Türkiye Yüzyılı Maarif Modeli kapsamında 10. ve 11. sınıf Felsefe 
 
 13 Ekim 2026 tarihinde, ikinci tur pedagojik denetimde önerilen ortak izlenebilirlik matrisi 11. sınıfın altı ünitesinin tamamına eklenmiştir. Matrisler her resmî çıktıyı ilgili etkinlik, öğrenci ürünü, ölçme aracı, rubrik ölçütü ve puanla ilişkilendirir. Aynı gün, izlenebilirlik matrisi 10. sınıfın matrisi bulunmayan sekiz ünitesine de uygulanarak P1 iş paketi tamamlanmıştır; 15 ünitenin tamamında çıktı–etkinlik–ürün–ölçme–rubrik–puan eşlemesi görünürdür. Sıradaki öncelik P2 kapsamındaki pilot uygulama geribildirimi ile kaynak güncelliği ve telif/bağlam denetimidir; ayrıntılar [ikinci tur pedagojik denetim raporunda](denetim-pedagojik-2-tur.md) yer alır.
 
+13 Ekim 2026 tarihinde P2 kapsamındaki kaynak güncelliği ve telif/bağlam denetimi yürütülmüştür. 32 materyal dosyasındaki sekiz benzersiz dış bağlantı denetlenmiş; beşi tam doğrulanmış, ikisi el ile tarayıcı doğrulamasına bırakılmış, 10. sınıf 4. ünitedeki Descartes eser adı atıf hatası düzeltilmiştir. Ayrıntılı envanter ve bakım listesi [kaynak envanteri raporunda](kaynak-envanteri.md) yer alır. P2 kapsamında geriye kalan iş, pilot uygulama geribildirimidir.
+
 ## 10. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Süre | Çalışma kâğıdı | Durum |
