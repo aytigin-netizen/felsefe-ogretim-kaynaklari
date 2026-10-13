@@ -32,6 +32,8 @@ Proje, Türkiye Yüzyılı Maarif Modeli kapsamında 10. ve 11. sınıf Felsefe 
 
 13 Ekim 2026 tarihinde P2 kapsamındaki kaynak güncelliği ve telif/bağlam denetimi yürütülmüştür. 32 materyal dosyasındaki sekiz benzersiz dış bağlantı denetlenmiş; beşi tam doğrulanmış, ikisi el ile tarayıcı doğrulamasına bırakılmış, 10. sınıf 4. ünitedeki Descartes eser adı atıf hatası düzeltilmiştir. Ayrıntılı envanter ve bakım listesi [kaynak envanteri raporunda](kaynak-envanteri.md) yer alır. P2 kapsamında geriye kalan iş, pilot uygulama geribildirimidir.
 
+Aynı tarihli ders kitabı hizalama denetiminde, depodaki 15 ünite MEB resmî 10. ve 11. sınıf Felsefe ders kitaplarıyla ünite sırası, başlık ve alt konu düzeyinde karşılaştırılmış; 15/15 ünitede tam uyum bulunmuştur. 10. sınıf 3. ünite hiza düzeltmesi kitabın resmî problem adlandırmasıyla ayrıca doğrulanmıştır. Ayrıntılar [ders kitabı hizalama raporunda](ders-kitabi-hizalama.md) yer alır.
+
 ## 10. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Süre | Çalışma kâğıdı | Durum |
