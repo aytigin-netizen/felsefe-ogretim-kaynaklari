@@ -109,9 +109,14 @@ Aynı gün, `mufredat/template.md` dosyasına ortak **izlenebilirlik matrisi** e
 | Güncel durum | Sonuç |
 |---|---:|
 | Resmî çıktı metniyle eşleşen ünite | 15/15 |
-| Pilot izlenebilirlik matrisi bulunan ünite | 1/15 |
+| İzlenebilirlik matrisi bulunan ünite | 7/15 |
 | Ortak şablonda izlenebilirlik matrisi | Mevcut |
-| Kalan yaygınlaştırma kapsamı | 14 ünite |
+| Kalan yaygınlaştırma kapsamı | 8 ünite (10. sınıf) |
+
+
+## 8. Bakım Güncellemesi — 13 Ekim 2026
+
+İzlenebilirlik matrisi, 11. sınıfın altı ünitesinin tamamına uygulanmıştır. Her matris; iki resmî çıktının süreç bileşenlerini, ilgili sınıf etkinliklerini, somut öğrenci ürünlerini, 100 puanlık ölçme araçlarını ve gözlenebilir rubrik ölçütlerini tek tabloda ilişkilendirir. Böylece P1 iş paketinin ilk yarısı tamamlanmıştır; kalan kapsam 10. sınıfın matrisi henüz bulunmayan sekiz ünitesidir.
 
 ## Kaynakça
 

@@ -248,6 +248,17 @@ Akıl–inanç ilişkisine dair bir görüş, açık bir iddia ve onu destekleye
 
 Bu ünitede eşleştirme, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Öğrencinin kişisel inancı veya inançsızlığı; herhangi bir görüşe katılıp katılmaması değerlendirme ölçütü değildir. Değerlendirme; felsefi soru kurma, kavramı doğru kullanma, metin ve argüman çözümleme, karşı görüşü adil temsil etme, saygılı iletişim ve tutarlı felsefi metin yazma becerilerine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.3.1` — Felsefi soru ve problemleri açıklar | Etkinlik 1 ve 2 | Ön değerlendirme formu, soru–kavram eşleştirmesi, kısa değerlendirme | Çalışma kâğıdı ve kısa cevaplı ön değerlendirme | Akıl–inanç ilişkisini felsefi soru ve problem olarak kurar; kavramları bağlamına uygun kullanır. | 25 |
+| `FEL.11.3.1` — Filozof metinlerinde kavram ve argümanı inceler | Etkinlik 3 ve 4 | Metin inceleme tablosu, karşılaştırma tablosu ve görüş–gerekçe notu | Metin karşılaştırma ve eşleştirme görevi | Metinde kavram–soru–argüman–sonuç ilişkisini kaynak bilgisiyle ayırır. | 20 |
+| `FEL.11.3.2` — Gerekçeli görüş ve argüman ortaya koyar | Etkinlik 5 | Tartışma notu, öz/akran değerlendirmesi | Açık oturum argümanı ve akran dönütü | Görüşü gerekçelendirir; karşı görüşü saygılı ve nesnel biçimde değerlendirir. | 25 |
+| `FEL.11.3.2` — Akıl–inanç ilişkisiyle ilgili felsefi metin yazar | Etkinlik 6 | Felsefi metin ve öz/akran değerlendirmesi | Performans görevi: akıl–inanç felsefi metni | Problemi tutarlı kurar; argüman, karşı görüş ve kaynak kullanımı rubrik ölçütlerini karşılar. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

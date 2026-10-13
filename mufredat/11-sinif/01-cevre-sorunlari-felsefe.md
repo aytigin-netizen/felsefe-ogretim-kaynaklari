@@ -275,6 +275,17 @@ Bu tartışmada öğrenci tek bir yaşam biçimine yönlendirilmez. Değerlendir
 
 Bu ünitede açık uçlu sorular, dereceli puanlama anahtarı, yapılandırılmış grid, dereceleme ölçeği, öz değerlendirme formu, akran değerlendirme formu ve performans görevi kullanılabilir. Öğrencinin çevre konusunda belirli bir görüşü benimsemesi puanlanmaz. Değerlendirme; çevre sorununu felsefi soru olarak kurma, kavramı doğru kullanma, veri ve gözlemi dikkatli yorumlama, gerekçe sunma, karşı görüşü adil temsil etme ve tutarlı metin yazma becerilerine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.1.1` — Felsefi soru ve problemleri açıklar | Etkinlik 1 ve 2 | Kelime ilişkilendirme formu, felsefi soru notu, soru–değer eşleştirme tablosu | Çalışma kâğıdı ve veri/gözlem tabloları | Çevre sorununu felsefi soru olarak kurar; kavramları doğru ve yerinde kullanır. | 25 |
+| `FEL.11.1.1` — Soru ve problemleri hayatla ilişkilendirerek değerlendirir | Etkinlik 3 ve 4 | Neden–sonuç diyagramı, veri yorumlama tablosu, öneri listesi | Yapılandırılmış grid ve kısa yanıtlı görev | Verinin kaynağını ve sınırını belirtir; sorun ile hayat ilişkisini gerekçelendirir. | 20 |
+| `FEL.11.1.2` — Görüş ve argüman oluşturur | Etkinlik 5 ve 6 | Etik yaklaşım karşılaştırma tablosu, görüş–gerekçe–karşı görüş metni | Grup argümanı ve akran dönütü | Görüşü en az iki gerekçeyle destekler; karşı görüşü adil temsil eder. | 25 |
+| `FEL.11.1.2` — Çevre sorunlarıyla ilgili felsefi metin yazar | Etkinlik 7 ve 8 | Felsefi metin ve öz/akran değerlendirmesi | Performans görevi: felsefi metin | Problemi tanımlar; iddia–gerekçe–sonuç bağı tutarlı, kaynaklı ve yazım düzeyi yaşa uygundur. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

@@ -286,6 +286,17 @@ Hukuk ve ahlak kuralları; kaynak, yaptırım, bağlayıcılık, amaç, kapsam v
 
 Bu ünitede gözlem formu, eşleştirme testi, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Değerlendirme; öğrencinin somut davalar için karar vermesine, kişisel hukuk sorununu açıklamasına veya belirli bir politik/hukuki görüşü benimsemesine değil; felsefi soru kurmasına, kavram ve ilke çözümlemesine, gerekçeli argümanına, karşı görüşe saygılı yaklaşımına ve felsefi metin yazma becerisine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.6.1` — Hukukun doğasına yönelik soru ve problemleri açıklar | Etkinlik 1 ve 2 | Kavram eşleştirme testi, örnek olay çözümleme tablosu | Eşleştirme testi ve çalışma kâğıdı | Hukuk, yasa, suç, ceza ve hakkaniyet kavramlarını doğru ilişkilendirir; kural–sonuç bağı kurar. | 25 |
+| `FEL.11.6.1` — Hukuk yaklaşımlarını ve ilkelerini inceler | Etkinlik 3 ve 4 | Doğal–pozitif hukuk karşılaştırma tablosu, ilke–gerekçe tablosu | Bilgi kartı, örnek olay ve Venn şeması | Doğal/pozitif hukuk ayrımını ve ceza ilkelerini gerekçeleriyle karşılaştırır. | 20 |
+| `FEL.11.6.2` — Hukuk sorunlarına ilişkin görüş ve argüman ortaya koyar | Etkinlik 5 ve 6 | Hak–kavram–sorun tablosu, Venn şeması, görüş–gerekçe–karşı görüş metni | Forum/panel argümanı ve akran dönütü | Adalet, eşitlik ve özgürlük bağlamında gerekçeli görüş sunar; karşı görüşü adil değerlendirir. | 25 |
+| `FEL.11.6.2` — Güncel hukuk sorunu üzerine felsefi metin yazar | Etkinlik 7 | Güncel hukuk sorunu üzerine felsefi metin ve öz/akran değerlendirmesi | Performans görevi: güncel hukuk sorunu felsefi metni | Sorunu tanımlar; kavram, ilke, gerekçe, karşı görüş ve kaynak rubrik ölçütlerini tutarlı karşılar. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

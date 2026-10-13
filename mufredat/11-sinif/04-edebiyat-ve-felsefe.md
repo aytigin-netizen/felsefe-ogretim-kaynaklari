@@ -291,6 +291,17 @@ Edebî anlatım ve yazım biçimleri, felsefi bir düşüncenin görünür kıl�
 
 Bu ünitede çalışma kâğıdı, kontrol listesi, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Öğrencinin bir eseri beğenip beğenmemesi veya belirli bir edebî yoruma katılması puanlanmaz. Değerlendirme; metindeki kavram, soru, argüman ve edebî unsuru belirleme; metni hayatla ilişkilendirme; görüş ve karşı görüş oluşturma; kaynak ve alıntı kullanımı; felsefi denemeyi tutarlı biçimde yazma becerilerine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.4.1` — Edebiyat–felsefe ilişkisine dair soru ve problemleri açıklar | Etkinlik 1, 2 ve 3 | Ön değerlendirme yanıtı, benzerlik–fark tablosu, metafor çözümlemesi | Çalışma kâğıdı ve metin inceleme tabloları | Edebî ve felsefi metinleri gerekçeli ayırır; ilişkiyi açık soru olarak kurar. | 25 |
+| `FEL.11.4.1` — Edebî metin türlerinde felsefi bakışı inceler | Etkinlik 4 ve 5 | Metin inceleme tablosu, kontrol listesi, karşılaştırma notu | Kontrol listesi ve kısa yanıtlı görev | Metin türü, kaynak ve alıntı sınırı gözeterek metni felsefi bakımla çözümler. | 20 |
+| `FEL.11.4.2` — Görüş ve argüman ortaya koyar | Etkinlik 6 | Münazara notu ve akran dönütü | Münazara argümanı ve akran dönütü | İddiayı gerekçeleriyle savunur; karşı görüşü metne dayalı ve adil biçimde yanıtlar. | 25 |
+| `FEL.11.4.2` — Edebiyat ve felsefe üzerine felsefi deneme yazar | Etkinlik 7 ve 8 | Felsefi deneme ve öz/akran değerlendirmesi | Performans görevi: felsefi deneme | Denemede problem, kavram, argüman, karşı görüş ve kaynak rubrik ölçütlerini tutarlı biçimde karşılar. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

@@ -283,6 +283,17 @@ Z. Bauman’ın sosyal medya hakkındaki görüşlerini yansıtan yapılandırı
 
 Bu ünitede öz değerlendirme formu, akran değerlendirme formu, metin inceleme tablosu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Öğrencinin teknolojiyi olumlu veya olumsuz değerlendirmesi puanlanmaz. Değerlendirme; felsefi problem kurma, kavramı doğru kullanma, yarar–risk–değer ilişkisini ayırt etme, görüş ve gerekçe oluşturma, karşı görüşü adil temsil etme ve tutarlı felsefi metin yazma becerilerine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.2.1` — Felsefi soru ve problemleri açıklar | Etkinlik 1, 2 ve 3 | Ön değerlendirme formu, soru–problem eşleştirme tablosu, yarar–risk–değer tablosu | Çalışma kâğıdı ve veri/örnek olay tabloları | Teknoloji–hayat ilişkisini felsefi soru ve problem olarak kurar; kavramları doğru kullanır. | 25 |
+| `FEL.11.2.1` — Soru ve problemleri hayatla ilişkilendirerek değerlendirir | Etkinlik 4 | Metin inceleme tablosu ve karşılaştırma notu | Metin inceleme tablosu ve kısa yanıtlı görev | Metinde kavram, problem, iddia, gerekçe ve sonucu ayırır; hayatla ilişkilendirir. | 20 |
+| `FEL.11.2.2` — Görüş ve argüman oluşturur | Etkinlik 5, 6 ve 7 | Görüş–gerekçe–karşı görüş metni, çözümleme tabloları | Grup argümanı ve akran dönütü | Argümanı gerekçelendirir; mahremiyet ve değer boyutunda karşı görüşü adil değerlendirir. | 25 |
+| `FEL.11.2.2` — Teknoloji ve hayat ilişkisiyle ilgili felsefi metin yazar | Etkinlik 8 | Felsefi metin ve öz/akran değerlendirmesi | Performans görevi: teknoloji–felsefe metni | Problemi tutarlı kurar; argüman, karşı görüş ve kaynak kullanımı rubrik ölçütlerini karşılar. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

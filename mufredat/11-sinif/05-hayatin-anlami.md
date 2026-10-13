@@ -296,6 +296,17 @@ Hayatın anlamına dair bir görüş; açık bir iddia ve onu destekleyen gerek�
 
 Bu ünitede açık uçlu sorular, kontrol listesi, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Değerlendirme; öğrencinin kişisel deneyimi, duygusal durumu veya belirli bir hayat görüşüne katılıp katılmasına değil, felsefi soru kurmasına, kavram ve metin çözümlemesine, gerekçeli argümanına, karşı görüşe saygılı yaklaşımına ve felsefi metin yazma becerisine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.11.5.1` — Hayatın anlamına ilişkin felsefi soru ve problemleri açıklar | Etkinlik 1, 2 ve 3 | Ön değerlendirme yanıtı, soru–kavram tablosu, örnek olay/metafor çözümlemesi | Açık uçlu sorular ve çalışma kâğıdı | Anlam sorununu felsefi soru olarak kurar; örnek olay ve metaforu kavramlarla ilişkilendirir. | 25 |
+| `FEL.11.5.1` — Filozof görüşlerinde kavram ve argümanı inceler | Etkinlik 4, 5 ve 6 | Karşılaştırma tablosu, akış diyagramı, kavram–argüman tablosu | Filozof metni ve akış diyagramı çözümlemesi | Mutluluk ve varoluş görüşlerinde kavram–problem–görüş ilişkisini kaynak bilgisiyle ayırır. | 20 |
+| `FEL.11.5.2` — Görüş ve argüman ortaya koyar | Etkinlik 7 | Görüş–gerekçe–karşı görüş metni ve akran dönütü | Görüş–argüman ve akran dönütü | İddia, gerekçe ve karşı görüşü saygılı diyalog kurallarıyla sunar. | 25 |
+| `FEL.11.5.2` — Hayatın anlamına ilişkin felsefi metin yazar | Etkinlik 8 | Örnek olay ve metafor içeren felsefi metin, öz/akran değerlendirmesi | Performans görevi: felsefi metin | Güvenli kurgusal örnek olayla problemi kurar; kavram, argüman ve yazılı ifade rubrik ölçütlerini karşılar. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |
