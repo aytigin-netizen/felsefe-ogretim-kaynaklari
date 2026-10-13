@@ -34,6 +34,8 @@ Proje, Türkiye Yüzyılı Maarif Modeli kapsamında 10. ve 11. sınıf Felsefe 
 
 Aynı tarihli ders kitabı hizalama denetiminde, depodaki 15 ünite MEB resmî 10. ve 11. sınıf Felsefe ders kitaplarıyla ünite sırası, başlık ve alt konu düzeyinde karşılaştırılmış; 15/15 ünitede tam uyum bulunmuştur. 10. sınıf 3. ünite hiza düzeltmesi kitabın resmî problem adlandırmasıyla ayrıca doğrulanmıştır. Ayrıntılar [ders kitabı hizalama raporunda](ders-kitabi-hizalama.md) yer alır.
 
+Aynı gün yürütülen ölçme-değerlendirme hizalama denetiminde, 15 çalışma kâğıdı kitapların ünite ölçme bölümleriyle karşılaştırılmış; tüm kâğıtların kitaptaki soru türlerini karşıladığı ve daha geniş araç çeşitliliği sunduğu, ancak 11. sınıf kâğıtlarında öğretmen cevap anahtarlarının bulunmadığı saptanmıştır. Ayrıntılar [ölçme hizalama raporunda](olcme-hizalama.md) yer alır.
+
 ## 10. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Süre | Çalışma kâğıdı | Durum |
