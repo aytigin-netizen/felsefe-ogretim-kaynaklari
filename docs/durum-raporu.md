@@ -80,6 +80,8 @@ Bu eksikler giderildi. Etkinlik süreleri **320 dakika / 8 ders saati** olarak d
 | `mufredat/ortak-materyaller/metin-inceleme-formu.md` | İlgili ünitelerdeki felsefi metin inceleme performans görevleri için ortak form |
 | `mufredat/10-sinif/calisma-kagitlari/` | Dokuz üniteye ait öğrenci çalışma kâğıtları ve cevap anahtarları |
 | `mufredat/11-sinif/calisma-kagitlari/` | Altı üniteye ait öğrenci çalışma kâğıtları ve öğretmen notları |
+| `mufredat/10-sinif/ek-soru-setleri-diyalog.md` | 10. sınıf dokuz ünitesi için özgün diyalog kurgulu ek soru setleri ve öğretmen notları |
+| `mufredat/11-sinif/ek-soru-setleri-forum.md` | 11. sınıf altı ünitesi için özgün forum kurgulu ek soru setleri ve öğretmen notları |
 | `docs/denetim-raporu.md` | 10. sınıfın dokuz ünitesi için resmî gereklilik–materyal eşleştirmesi |
 | `docs/denetim-raporu-11-sinif.md` | 11. sınıfın altı ünitesi için resmî gereklilik–materyal eşleştirmesi |
 
