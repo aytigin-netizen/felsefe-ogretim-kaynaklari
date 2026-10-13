@@ -238,6 +238,41 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu bölüm, kâğıdın özgün sorularının çoğunun açık uçlu olduğunu göz önünde bulundurarak "tek doğru yanıt" listesi değil; öğretmenin hızlı denetimi için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm A — Eşleştirme testi ve kural–sonuç köprüsü
+
+**A1 kesin cevap anahtarı:**
+
+| Kavram | Doğru harf | Gerekçe |
+|---|:---:|---|
+| Hukuk | **B** | Toplumsal ilişkileri düzenleyen normlar ve kurumlar alanı |
+| Yasa | **D** | Yetkili kurumlarca konulan/tanınan hukuk kuralı |
+| Suç | **C** | Düzenin yasakladığı, yaptırıma bağladığı eylem/ihmal |
+| Ceza | **E** | Suçla ilişkilendirilen yaptırım; orantı/caydırıcılık tartışması |
+| Hakkaniyet | **A** | Somut durumda adil, dengeli, makul sonuç arayışı |
+
+**A2:** Kurgusal kuralda; uyulmama sorununun somutlaştırılması, korunacak değerin (düzen, güvenlik, eşitlik vb.) adlandırılması ve özgürlük etkisinin iki yönlü değerlendirilmesi beklenir. Kısa yanıtta "kural bazen özgürlüğü korur (başkalarının hakkını güvence altına alarak), bazen sınırlar" yönünde gerekçeli bir görüş kabul edilir.
+
+### Bölüm B–C — Özgürlük, mahremiyet ve doğal/pozitif hukuk
+
+- **B1:** Örnek olaydaki olgu ile değerlendirmenin (bilgi/yorum) ayrılması; her unsur için uygun hak/değer (özel hayat, ifade özgürlüğü, eşitlik) eşlenmesi beklenir.
+- **B2:** İlk görüşün yanında gerekçe ve karşı görüş zorunludur; özgürlük–mahremiyet gerilimine işaret edilmesi gözlem formundaki ölçütlerle birlikte denetlenir.
+- **C1:** Doğal hukukta hukukun kaynağının akıl/insan doğası/evrensel adalet; pozitif hukukta yetkili makamın iradesi ve yasama süreçleri. Meşruiyet tartışması: doğal hukukta "adalete uygunluk", pozitif hukukta "usulüne uygunluk". Öğrenci kartlardan hareketle doldurur; kesin doğru yaklaşım seçimi istenmez.
+- **C2:** "Hukuka uygun olan her şey adil midir?" sorusunda her iki yönde sav da kabul edilir; ölçüt usul–adalet ayrımına ya da tarihsel örneklerin kurgusal aktarımına dayanan gerekçedir.
+
+### Bölüm D–F — Suç-ceza, insan hakları ve ahlak–hukuk
+
+- **D1/D2:** Değerlendirmenin yalnızca orantı, caydırıcılık, hakkaniyet, mahremiyet ve sorumluluk ilkeleriyle yapılması; **hukuki hüküm verilmemesi** temel kabul ölçütüdür. Çıkarımda cezanın caydırıcılık/adalete işlevi ile mükâfatın özendirmeye etkisi gerekçelendirilebilir.
+- **E1/E2:** Hak–kavram eşleşmeleri (eşitlik–ayrımcılık yasağı, özel hayat–mahremiyet, ifade–özgürlük vb.) sorun sorusuna yönelmeli; çözüm önerisi kurgusal kalmalı ve karşı görüş/sınır sütunu boş bırakılmamalıdır.
+- **F1:** Venn şemasında ortak yönler (ikisi de davranışı düzenler, adaleti hedefler), hukukta yazılı/yaptırımlı, ahlakta içsel/toplumsal olması gibi farklar beklenir; F2'de sav–gerekçe–karşı görüş yapısı tam doldurulmalıdır.
+
+### Bölüm G — Performans görevi
+
+Değerlendirme, izlenebilirlik matrisi ölçütleri ve `mufredat/ortak-materyaller/degerlendirme-formlari.md` içindeki dereceli puanlama anahtarıyla yapılır. Temel kabul ölçütleri: sorunun güvenilir kamusal kaynak ve tarih bilgisiyle tanımlanması, bilgi–yorum ayrımı, kavramların bağlama uygun kullanımı, en az iki gerekçe, adil karşı görüş, hukuki sonuç ve kişisel veri içermemesi, ≥350 kelime. G3 kontrol listesinde "Kısmen/Henüz değil" işaretlenen satırlar öğrenciye dönüt noktası olarak kullanılır.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–F’si süreç içi öğrenme kanıtı; Bölüm G’si performans görevine hazırlık olarak kullanılabilir. Öz, akran ve grup değerlendirmesi için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Somut bir öğrencinin hukuki sorunu ortaya çıkarsa sınıf çalışması üzerinden çözüm ya da hüküm vermeyiniz; güvenli biçimde velisiyle ve uygun yetkili/rehberlik kanalıyla iletişim kurulmasını sağlayınız.

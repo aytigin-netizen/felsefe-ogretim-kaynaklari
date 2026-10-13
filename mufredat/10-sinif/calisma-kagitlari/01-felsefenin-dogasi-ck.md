@@ -73,3 +73,57 @@ Her özelliği **kendi cümlelerinizle** açıklayın ve günlük hayattan bir �
 ## Bölüm D: Kavram Haritası (Bireysel / Dijital)
 
 "Felsefe" kavramını merkeze yerleştirerek en az beş dal kavramıyla (ör. hikmet, hayret, şüphe, sorgulama, bilgelik) bir kavram haritası oluştur. Dalları kağıt üzerinde veya dijital araçla (ör. MindMeister, Coggle) hazırlayabilirsin.
+
+
+---
+
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu bölüm, kâğıdın özgün sorularının çoğunun açık uçlu olduğunu göz önünde bulundurarak "tek doğru yanıt" listesi değil; öğretmenin hızlı denetimi için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm A — Kelime ilişkilendirme testi (kesin cevap anahtarı)
+
+| Kavram | Doğru cevap |
+|---|:---:|
+| Bilgelik | **C** |
+| Filozof | **F** |
+| Refleksiyon | **A** |
+| Hayret | **B** |
+| Felsefe | **D** |
+| Sorgulama | **E** |
+
+**A2 — İlişki kurma:** İki cümlenin de dört kavramın anlamını doğru yansıtması beklenir. Örnek kabul edilebilir cümleler:
+
+1. "İnsanın doğduğu dünyaya önce hayretle bakması, onu bilgelik arayışına, yani felsefeye yönelten filozof olma yolunun ilk adımıdır."
+2. "Felsefe bilgelik sevgisidir; filozof ise bu sevgiyi hayretten doğan sorularla sürdüren kişidir."
+
+Ölçüt: kavram çiftlerini yanlış eşleyen cümleler (ör. "felsefe = filozof") kabul edilmez; anlamlı iki bağımsız cümle yeterlidir.
+
+### Bölüm B — Felsefi düşüncenin özellikleri
+
+Öğrenci her özelliği kendi cümleleriyle açıklamalı; tanımı ezberden birebir tekrar etmek yerine günlük örnek olarak:
+
+- **Hayret etme** — olağana "bu neden böyle?" diye bakma (ör. gökyüzüne, bir çiçeğe ilk kez bakmış gibi sorma).
+- **Merak etme** — bilinmeyeni araştırma isteği (ör. yeni bir oyunun kuralını öğrenme çabası).
+- **Şüphe duyma** — verileni oldubittiye kabul etmeme (ör. internetteki haberin doğruluğunu sınama).
+- **Sorgulama** — gerekçe isteme (ör. bir kuralın "neden"sini sorma).
+- **Yığılımlı ilerleme** — birikerek, önceki düşünürlerin üzerinden gelişme (ör. matematik bilgini yıl yıl biriktirmek gibi).
+- **Rasyonel olma** — akla ve kanıta dayanma (ör. kanıt göstererek tartışma).
+- **Tutarlı olma** — çelişmemesi (ör. aynı duruma farklı zamanlarda aynı ölçüyü uygulama).
+- **Refleksif olma** — düşüncenin kendisini konu edinmesi (ör. "ben neden böyle düşünüyorum?" diyebilme).
+- **Eleştirel olma** — sorgulayarak değerlendirme (ör. reklam iddialarını irdeleme).
+- **Sistematik olma** — bir bütün içinde düzenli işleme (ör. adım adım problem çözme).
+- **Evrensel olma** — kişiye değil herkese açık olma (ör. "herkes için geçerli mi?" sınama).
+
+Kabul ölçütü: açıklama makul + örnek gerçekten o özelliği gösteriyor olmalı; örnek ile özellik uyuşmuyorsa "kısmen" değerlendirilir.
+
+### Bölüm C — Açık uçlu sorular
+
+1. Ortak tanımın olmaması felsefeyi zayıflatır mı zenginleştirir mi? — Her iki sav da kabul edilir; ölçüt felsefenin soru sormanın ortaklığına rağmen tanım çeşitliliğine gerekçe bulmasıdır.
+2. Felsefi soru koşulları — beklenen koşullar: (a) tek bir ampirik gözlemle yanıtlanamama, (b) kavramsal açıklama gerektirme, (c) gerekçe/kanıt ile savunulabilir olma; her koşula uygun kısa örnek aranı**r**.
+3. Benzerlik: gerçeklik ve anlam üzerine soru sorma, insana/hayata dönük olma. Farklar: bilimde gözlem–deneysel yöntem, dinde inanç–otorite ve kutsal kaynak, sanatta duygu–imgelem ve estetik ifade; tabloda alan başına en az birer benzerlik/fark yeterlidir.
+4. Yararlar — örn. önyargıları sorgulama, daha gerekçeli karar verme, argüman kurma becerisi; açıklamanın kişisel günlük hayatla bağ kurması ölçüttür.
+
+### Bölüm D — Kavram haritası
+
+Kabul ölçütleri: "Felsefe" merkezde; en az beş dal kavramı; dalların kısa gerekçe/etiketle (ör. "hayret → başlangıç") bağlanması. Dal kavramları A bölümündekilerden farklıysa (ör. eleştirellik, evrensellik) sorun yoktur; ancak kavram ile felsefe arasındaki bağ anlamlı olmalıdır. Dijital ya da kâğıt üzerinde yapım eşdeğerdir.
