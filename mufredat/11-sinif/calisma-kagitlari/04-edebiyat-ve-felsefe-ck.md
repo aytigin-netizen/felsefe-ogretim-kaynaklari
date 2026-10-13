@@ -246,6 +246,35 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu bölüm, kâğıdın özgün sorularının çoğunun açık uçlu olduğunu göz önünde bulundurarak "tek doğru yanıt" listesi değil; öğretmenin hızlı denetimi için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm A — Açık uçlu sorular ve soru üretme
+
+| Soru | Beklenen yanıt yönü | Kabul ölçütü |
+|---|---|---|
+| A1.1 Dil–düşünce ilişkisi | Dilin düşünceyi biçimlendirdiği, kavramlarla ifade imkânı verdiği; dilsiz düşüncenin sınırlı olabileceği yönünde | Kavram–dil–ifade bağlantısından en az birini gerekçelendirmesi |
+| A1.2 Eser nasıl felsefi soru düşündürür | Karakterin karşılaştığı ahlaki/existansiyel durum, çatışma veya olayın okurda soru uyandırması | "Olay/durum → soru" bağlantısı kurması; sadece "eser felsefi" dememesi |
+| A1.3 Metafor–kavram farkı | Metaforun dolaylı, çağrışımsal, deneyimsel; kavramsal açıklamanın doğrudan, tanımsal ve gerekçeli olduğu | İki anlatım biçimini en az bir ölçütle karşılaştırması |
+| A1.4 Karakter–yazar ayrımı | Kurgusal görüşün yazar görüşü sayılamayacağı; anlamın metinle sınırlı tutulması gerektiği | Kurgu–gerçeklik ya da tek alıntı–bütün eser ayrımından birine değinmesi |
+| A2 Soru üretme | Üretilen sorunun kavram, değer, gerekçe veya insanlık durumu boyutu varsa felsefidir | Sorunun gerekçesinde "kavram/değer/gerekçe/insanlık durumu" ölçütlerinden birini açıkça kullanması |
+
+### Bölüm B–D — Metin karşılaştırma ve tür incelemesi
+
+- **B1:** Edebî metinde hayal gücü, metaforik/betimleyici anlatım; felsefi metinde akılcılık, gerekçe ve soyut anlatım öne çıkması beklenir. "Eleştirel düşünme" satırında ikisinde de benzerlik işaretlenebilir; öğrenci ölçütlere metne dayalı örnek vermelidir.
+- **B2/B3/D:** Öğrencinin ulaştığı görüş ne olursa olsun; en az bir metne dayanması, kaynak/çeviri bilgisi araması, kısa alıntı ile yorumu ayırması ve "tek alıntı bütün eseri temsil etmez" ilkesini uygulaması kabul ölçütüdür.
+- **D1:** Türk edebî metin türünde tabloda tür–kaynak–kavram–iddia–edebî unsur ilişkisinin tutarlı doldurulması beklenir; atasözü/fıkra gibi kısa türlerde "açık/örtük iddia" sütunu örtük kabul edilebilir.
+
+### Bölüm E–F — Filozof-edipler ve münazara
+
+- **E1/E2:** Edebî dilin güçlü yanı olarak soyut sorunun somutlaştırılması, duygunun görünür kılması; sınır olarak tanımsal netlik ve gerekçe zinciri eksikliği beklenir. Filozof-edip kartlarında (ör. Yûsuf Has Hâcib, Yunus Emre, Dostoyevski, Tanpınar) öğrenci metin kartındaki bağlamı esas alır; isim etiketlemesi yeterli sayılmaz.
+- **F1/F2:** Münazarada sav–gerekçe–dayanak–karşı görüş yapısının eksiksiz doldurulması; karşı görüşün çarpıtılmaması ("Öğretmen İçin Başarı Göstergeleri — Bölüm F" ile uyumludur).
+
+### Bölüm G — Performans görevi
+
+Değerlendirme, izlenebilirlik matrisi ölçütleri ve `mufredat/ortak-materyaller/degerlendirme-formlari.md` içindeki dereceli puanlama anahtarıyla yapılır. Temel kabul ölçütleri: sorunun açık tanımlanması, en az iki kavramın bağlama uygun kullanımı, kaynak bilgili edebî bağlantı, en az iki gerekçe, adil karşı görüş ve ≥350 kelime. G3 kontrol listesinde "Kısmen/Henüz değil" işaretlenen satırlar öğrenciye dönüt noktası olarak kullanılır.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–F’si süreç içi öğrenme kanıtı; Bölüm G’si performans görevine hazırlık olarak kullanılabilir. Öz, akran ve grup değerlendirmesi için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Değerlendirme, öğrencinin eseri beğenip beğenmemesine veya tek bir yoruma katılmasına değil; metindeki felsefi unsurları belirlemesine, görüşünü gerekçelendirmesine, karşı görüşe adil yaklaşmasına, kaynak–alıntı kullanımına ve yazılı ifadesine dayanmalıdır.

@@ -289,6 +289,37 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu bölüm, kâğıdın özgün sorularının çoğunun açık uçlu olduğunu göz önünde bulundurarak "tek doğru yanıt" listesi değil; öğretmenin hızlı denetimi için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm A — Açık uçlu sorular ve çalışma tercihi
+
+| Soru | Beklenen yanıt yönü | Kabul ölçütü |
+|---|---|---|
+| A1.1 Mutluluk–anlam ilişkisi | Mutluluğun anlamın parçası olabileceği ama tek başına anlamın eşitlenemeyeceği yönünde | İki kavramı ayırt eden veya ilişkilendiren en az bir gerekçe |
+| A1.2 "Ben kimim?" sorusu | Kimliğin tek ve değişmez bir cevabı olmaması; sorunun kavram, değer ve gerekçe gerektirmesi | Sorunun deneyimle aşılamayan yönüne işaret etmesi |
+| A1.3 Seçim–kendi olma | Seçimlerin kişiyi biçimlendirdiği; seçimle aidiyet/özerklik gerilimi | Seçim–kimlik bağlantısının örnek üzerinden kurulması |
+| A1.4 Metaforun katkısı | Metaforun soyut soruyu somutlaştırıp düşünmeyi kolaylaştırdığı; ama kanıt sayılamayacağı | Metaforun katkısı **ve** sınırına birlikte değinmesi |
+| A2 Tercih | Her seçenek geçerlidir | Öğrencinin tercihi değerlendirmeyi etkilemez ("Başarı Göstergeleri — Bölüm A" ile uyumlu) |
+
+### Bölüm B–C — Materyal ve kurgusal örnek olay
+
+- **B1:** Doğrulanabilir bilgi (olay, tarih, olgu) ile yorum (değerlendirme, tepki) ayrımının materyalden somut örnekle yapılması beklenir.
+- **B2:** Üç sorunun her birine en az bir kavram ve materyal dayanağı eşlenmelidir; "Ben kimim?" için öz/kimlik/özne gibi kavramlar kabul edilir.
+- **C1/C2:** Kurgusal olayda karakterin sorununa uygun kavram (anlam, mutluluk, özgürlük, çile vb.); metaforda "açıkladığı yön" + "sınırı" birlikte aranır (ör. "hayat bir yolculuktur" metaforu amacı düşündürür; ama yolculuğun başlangıç/bitiş varsayımını tartışmaya açar).
+- **C3:** İki olası yaklaşımın birbirinden ayırt edilmesi ve bir açık sorunun bırakılması kabul ölçütüdür.
+
+### Bölüm D–F — Filozof metinleri
+
+- **D:** Metin kartlarında öğrenciden isim değil; **kavram–problem–iddia–gerekçe–sonuç–sınır** çözümlemesi beklenir. Örnek beklentiler: Epiküros'ta haz–erdem ilişkisi, Stoa'da kontrol edilemeyene kayıtsızlık, Schopenhauer'da istencin–acı ilişkisi. D2'de erdem/haz/güç/özgürlük/acı/çile kavramlarının metindeki işlevi kart kaynaklı örneklenmelidir.
+- **F:** Varoluşçu kartlarda (Kierkegaard, Nietzsche, Heidegger, Camus, Sartre) kavram metin bağlamıyla açıklanmalı; kişiyi etiketleme veya teşhis amaçlı kullanım F3 kontrol listesinde ayrıca denetlenir. Öğrencinin kendi yorumu ile metindeki görüş ayrımı zorunludur.
+- **E:** Akış diyagramında koşul → problem → kavram → argüman → karşı görüş zincirinin tutarlı doldurulması beklenir.
+
+### Bölüm G — Diyalog ve Bölüm H — Performans görevi
+
+G1'de sav–gerekçe–karşı görüş yapısının eksiksizliği ve G2 diyalog ilkeleri; H'de izlenebilirlik matrisi ölçütleri ve `mufredat/ortak-materyaller/degerlendirme-formlari.md` dereceli puanlama anahtarı esas alınır. Temel kabul ölçütleri: sorunun açık tanımı, kavram bağlamı, kurgusal örnek olay/metafor ilişkisi, en az iki gerekçe, adil karşı görüş, ≥350 kelime. Öğrenci tercihine uygun kurgusal/metne dayalı örnek, kişisel paylaşım gerektirmeden tam puan hakkı sağlar.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–G’si süreç içi öğrenme kanıtı; Bölüm H’si performans görevine hazırlık olarak kullanılabilir. Öz, akran ve grup değerlendirmesi için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Öğrenci kendi deneyiminden söz etmek isterse paylaşımını zorlamadan ve ayrıntı talep etmeden dinleyiniz; yoğun sıkıntı, umutsuzluk veya kendine zarar verme düşüncesi gibi bir durum ortaya çıkarsa felsefi değerlendirme yerine öğrencinin güvenliğini önceleyip okul rehberlik desteği ve güvenilir yetişkin bağlantısını kurunuz. Acil güvenlik riski varsa yerel acil yardım hattına başvurulmalıdır.
