@@ -223,6 +223,48 @@ Aşağıdaki cümle kalıbını kullanarak arkadaşınıza dönüt veriniz.
 
 ---
 
+## Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar
+
+Bu bölüm, kâğıdın özgün sorularının çoğunun açık uçlu olduğunu göz önünde bulundurarak "tek doğru yanıt" listesi değil; öğretmenin hızlı denetimi için **beklenen yanıt örnekleri ve kabul ölçütleri** sunar.
+
+### Bölüm A — Kelime İlişkilendirme
+
+Ön değerlendirme bölümüdür; notlandırılmaz. Öğrencinin uyaranlarla anlamlı ve ilişkilendirilebilir kelimeler üretmesi beklenir. A2'de öğrencinin tabloyu **kaynak kurum, referans yılı, ölçü birimi ve değişken** bilgisiyle doldurması asgari yeterliliktir; "grafiklerin tek başına yanıtlayamayacağı soru" satırında nedensellik iddiası yerine ek kanıt ihtiyacı ifade etmesi beklenir.
+
+### Bölüm B — Soru–Problem Eşleştirmesi (beklenen örnek eşleşmeler)
+
+| Soru | Beklenen ilişki | Gerekçe örneği |
+|---|---|---|
+| Doğanın kendi başına bir değeri var mıdır? | Sürdürülebilirlik / çevrenin tahribatı | Değerin yalnızca insan yararına mı bağlı olduğu sorgulanır |
+| İnsan çevreye zarar vermeden hayatını nasıl sürdürebilir? | Sürdürülebilirlik | Tüketim ile ortak yaşam dengesi |
+| Doğal kaynakları tüketmenin ölçüsü ne olmalıdır? | Sürdürülebilirlik / küresel ısınma | İhtiyaç, adalet, tasarruf, paylaşım |
+| İnsanın çevreye karşı ahlaki sorumluluğu var mıdır? | Çevrenin tahribatı / sürdürülebilirlik | Hak, sorumluluk, zarar, gelecek kuşaklar |
+| İnsan egemenliği doğa üzerinde ne gibi sorunlara yol açabilir? | Çevrenin tahribatı / çevre kirliliği | Güç, sınır, canlılar, ekosistemler |
+
+Birden çok ilişki kabul edilir; ölçüt gerekçenin mantıklı ve kavrama dayalı olmasıdır. B2'de seçilen değer ile soru arasında anlamlı bağ kuran her eşleştirme kabul edilir. B3'te öğrencinin "teknik çözüm değer varsayımını görünür kılmaz" yönünde bir gerekçe kurması beklenir.
+
+### Bölüm C — Neden–Sonuç ve Veri/Gözlem
+
+C2'de her satırda en az bir neden–sonuç çifti ve mantıklı bir kanıt ihtiyacı belirtilmesi yeterlidir; sınıf düzeyine göre derinlik değişir. C3'te ölçüt: veri temelli ifade **resmî istatistiğe**, gözlem temelli ifade **kişisel ama anonim gözleme**, felsefi değerlendirme **değer–gerekçe–karşı görüş ögelerine** dayanmalıdır. Kontrol sorusunda öğrencinin tek bir gözlemden genelleme yapma riskini fark etmesi beklenir.
+
+### Bölüm D — Sürdürülebilirlik
+
+D1'de önerinin; kavrama uygunluğu, beklenen etki ve en az bir sınırlılık/karşı görüş içermesi beklenir. D2 kısa yazıda ölçüt: en az bir gözlem (yapıya ilişkin), bir kavram (ör. sürdürülebilirlik, tasarruf) ve bir gerekçe; ayrıca 120–150 kelime aralığı. D3'ün tek doğru eşleştirmeleri kâğıdın içindeki "Cevap Anahtarı — Bölüm D3" bölümündedir.
+
+### Bölüm E — Etik Yaklaşımlar (beklenen karşılaştırma yönü)
+
+| Yaklaşım | Öncelikli kaygı | Güçlü yön (öğrenciden beklenecek örnek) | Sınırlılık sorusu |
+|---|---|---|---|
+| İnsan merkezci | İnsan yaşamı ve refahı | İnsan ihtiyaç ve sorumlulukları görünür olur | İnsan dışı canlıların değeri yeterince hesaba katılır mı? |
+| Canlı merkezci | Canlıların zarar görmemesi | İnsan dışı canlıların ahlaki dikkate değeri görünür olur | Çatışan canlı ihtiyaçları nasıl dengelenir? |
+| Çevre merkezci | Ekosistem ve doğal bütünler | Uzun vadeli, bütünsel etki görünür olur | Bireysel ihtiyaç ve seçimler nasıl dengelenir? |
+
+E2'de ölçüt: görüş en az iki gerekçeyle desteklenmeli, karşı görüş çarpıtılmadan ifade edilmeli ve yanıt tutarlı olmalıdır.
+
+### Bölüm F — Performans Görevi
+
+F1 planı eksiksiz doldurulmuş ve F2 kontrol listesinin tamamı işaretlenmiş olmalıdır. Nihai metin, ünitenin izlenebilirlik matrisindeki "Problemleştirme, tutarlı argüman, karşı görüş ve yazılı ifade" ölçütleri üzerinden rubrikle değerlendirilir.
+
 ## Öğretmen İçin Kısa Uygulama Notu
 
 Çalışma kâğıdının Bölüm A’sı ön değerlendirme; Bölüm B–E’si süreç içi öğrenme kanıtı; Bölüm F’si performans görevine hazırlık olarak kullanılabilir. Öz ve akran değerlendirme ile grup değerlendirme araçları için `mufredat/ortak-materyaller/degerlendirme-formlari.md` kullanılmalıdır. Değerlendirme, öğrencinin çevre konusunda hangi görüşü benimsediğine değil; problemi felsefi olarak kurmasına, veri/gözlem ayrımına, gerekçeli argümanına ve yazılı ifadesine dayanmalıdır.
