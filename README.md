@@ -78,6 +78,16 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. Altı ünitenin tamam
 
 11. sınıf ünite denetim kayıtları için [`docs/denetim-raporu-11-sinif.md`](docs/denetim-raporu-11-sinif.md) dosyasına bakınız.
 
+## Web Sitesi
+
+Depodaki tüm materyaller, okunabilir statik HTML sayfaları olarak `docs/` klasöründe üretilmiştir. GitHub Pages üzerinden yayımlamak için:
+
+1. Depo ayarlarında **Settings → Pages** bölümüne gidiniz.
+2. **Deploy from a branch** seçip **main** dalını ve **/docs** klasörünü seçiniz.
+3. Yayım sonrası site şu adresten erişilebilir olur: **https://aytigin-netizen.github.io/felsefe-ogretim-kaynaklari/**
+
+Ana sayfa `docs/index.html`; ünite ve çalışma kâğıdı sayfaları `docs/site/10-sinif/`, `docs/site/11-sinif/`, `docs/site/ortak-materyaller/` ve `docs/site/raporlar/` klasörlerindedir. Markdown kaynaklar güncellendiğinde bu sayfaların da yeniden üretilmesi gerekir.
+
 ## Yapısal Kalite Denetimi
 
 Depodaki her değişiklikte ünite ve çalışma kâğıdı sayısı, ders saati ve öğrenme çıktısı üst verileri, 100 puanlık ölçme yapısı ile yerel Markdown bağlantıları denetlenir. Kontrolü yerelde çalıştırmak için aşağıdaki komut kullanılır:
