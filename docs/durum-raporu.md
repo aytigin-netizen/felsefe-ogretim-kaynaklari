@@ -36,6 +36,8 @@ Aynı tarihli ders kitabı hizalama denetiminde, depodaki 15 ünite MEB resmî 1
 
 Aynı gün yürütülen ölçme-değerlendirme hizalama denetiminde, 15 çalışma kâğıdı kitapların ünite ölçme bölümleriyle karşılaştırılmış; tüm kâğıtların kitaptaki soru türlerini karşıladığı ve daha geniş araç çeşitliliği sunduğu, ancak 11. sınıf kâğıtlarında öğretmen cevap anahtarlarının bulunmadığı saptanmıştır. Ayrıntılar [ölçme hizalama raporunda](olcme-hizalama.md) yer alır.
 
+Ölçme hizalama denetiminden çıkan P1 bakım maddesi aynı gün giderilmiştir: 11. sınıfın altı çalışma kâğıdının tamamına ve 10-01 Felsefenin Doğası kâğıdına "Öğretmen İçin Cevap Anahtarı ve Beklenen Yanıtlar" bölümleri eklenmiş; 15 kâğıdın tamamında öğretmen cevap anahtarı görünür hâle gelmiştir. Anahtarlar, açık uçlu sorular için beklenen yanıt yönleri ve kabul ölçütleri; eşleştirmeli bölümler için kesin cevap tablosu sunar. P1 ölçme iş paketi tamamlanmıştır; ölçme alanında geriye yalnızca P2 zenginleştirme önerisi (özgün forum/diyalog kurgulu ek soru setleri) kalmıştır.
+
 ## 10. Sınıf Ünite Durumu
 
 | Ünite | Başlık | Süre | Çalışma kâğıdı | Durum |
