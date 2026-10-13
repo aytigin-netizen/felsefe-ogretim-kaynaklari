@@ -263,6 +263,17 @@ Resmî performans görevi için öğrenciler, görüşleri de alınarak dengeli 
 
 Bu ünitede resmî programda belirtilen çalışma kâğıdı, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi birlikte kullanılır. Öğrencinin belirli bir siyasal görüşü benimsemesi puanlanmaz. Değerlendirme; kavramı doğru kullanma, gerekçe sunma, karşı görüşü adil temsil etme, argümanı çözümleme ve haklara saygılı iletişim kurma ölçütlerine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.7.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 ve 2 | Kavram ilişki haritası, yansıtma yazısı, problem–iddia–gerekçe tablosu | Çalışma kâğıdı ve argüman/ütopya tabloları | Adalet, özgürlük, eşitlik, devlet, iktidar ve meşruiyet kavramlarını doğru ilişkilendirir. | 25 |
+| `FEL.10.7.1` — Temel problemleri açıklar | Etkinlik 3 | Problem–iddia–gerekçe tablosu ve gerekçeli karşılaştırma | Kısa yanıtlı yazılı görev | Devletin kökeni ve iktidarın meşruiyeti problemini görüşlerle karşılaştırarak açıklar. | 20 |
+| `FEL.10.7.1` — Düşünce ve argümanları değerlendirir | Etkinlik 4 ve 5 | İdeal düzen taslağı, ütopya–distopya karşılaştırma tablosu, kısa hikâye taslağı, akran dönütü | Tartışma ve akran dönütü | İdeal düzen önerisini gerekçelendirir; ütopya–distopya farkını argümanlarla değerlendirir. | 25 |
+| `FEL.10.7.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 6 | Metin inceleme planı, akran dönütü ve öz değerlendirme notu | Performans görevi: metin inceleme | Metindeki kavram, problem ve argümanları form aracılığıyla inceler ve dönütlerle geliştirir. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

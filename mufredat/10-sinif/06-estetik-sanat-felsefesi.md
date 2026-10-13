@@ -251,6 +251,17 @@ Resmî performans görevi için öğrenciler, görüşleri de alınarak dengeli 
 
 Bu ünitede resmî programda belirtilen kontrol listesi, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi birlikte kullanılır. Öğrencinin belirli bir eseri beğenmesi veya belirli bir estetik görüşü benimsemesi puanlanmaz. Değerlendirme; kavramı doğru kullanma, gerekçe sunma, karşı görüşü adil temsil etme, argümanı değerlendirme ve iletişim becerisine dayanır. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.6.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 ve 2 | Kavram tablosu, grup çıkarımı, karşılaştırma notu ve görüş–gerekçe tablosu | Çalışma kâğıdı ve kuram/argüman tabloları | Estetik, güzellik, sanat, sanat eseri ve estetik haz kavramlarını doğru ayırt eder. | 25 |
+| `FEL.10.6.1` — Temel problemleri ve kuramları açıklar | Etkinlik 3 ve 4 | İki çizim, kuram eşleştirmesi, sözlü gerekçe ve akran dönütü | Kısa yanıtlı yazılı görev | Taklit, yaratım ve oyun kuramlarını örneklerle karşılaştırır; sanat–sanat eseri ayrımını açıklar. | 20 |
+| `FEL.10.6.1` — Düşünce ve argümanları değerlendirir | Etkinlik 5 | Nitelik gruplama tablosu, gerekçeli görüş ve akran dönütü | Sokratik tartışma ve akran dönütü | Ortak estetik yargının imkânını gerekçeli tartışır; karşı görüşü doğru temsil eder. | 25 |
+| `FEL.10.6.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 6 | Argüman çözümleme tablosu ve metin inceleme planı | Performans görevi: metin inceleme | Güzellik görüşlerini metne dayalı çözümler; form aracılığıyla inceler ve değerlendirir. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

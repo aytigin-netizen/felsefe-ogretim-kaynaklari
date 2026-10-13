@@ -252,6 +252,17 @@ Bu ünitede açık uçlu sorular, bulmaca, doğru/yanlış testi, eşleştirme t
 
 **Resmî performans görevi:** Öğrenciler safsataların kullanımına örnek verir ve bunu görsellerle destekleyerek bir afişe dönüştürür.
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.2.1` — Düşünme ve dil ilişkisini mantık açısından inceler | Etkinlik 1 ve 2 | Ortak “mantık hatası” listesi, açık uçlu ön değerlendirme yanıtları, doldurulmuş çalışma kâğıdı ve çıkarım yazısı | Yazılı sınav Konu A ve pratik etkinlik katılımı | Düşünme–dil ilişkisini bilgi ve görseller üzerinden yorumlar; önerme–görüş ayrımını örneklerle kurar. | 25 |
+| `FEL.10.2.1` — Mantık ve argümantasyon kavramlarını örneklendirerek inceler | Etkinlik 3 ve 4 | Örnek kartları, doğrulanmış tablo, safsata tespit tablosu | Kısa cevap soruları | Dört akıl ilkesi ile üç akıl yürütme türünü örneklere doğru eşler; safsata türlerini medya metinlerinde tanır. | 20 |
+| `FEL.10.2.1` — Günlük dildeki argümanları biçimsel dile dönüştürerek yeniden ifade eder | Etkinlik 6 | Standart forma dönüştürülmüş argümanlar ve argüman diyagramı | Yazılı sınav Konu C ve ek görev (Seçenek A/C) | Öncül–sonuç ayrımını yapar; argümanı standart forma ve diyagrama hatasız dönüştürür. | 25 |
+| `FEL.10.2.1` — Safsataları tanır ve toplumsal etkilerini değerlendirir | Etkinlik 5 | Görsellerle destekli safsata afişi ve öz/akran değerlendirmesi | Performans görevi: safsata afişi (ve ek görev Seçenek B) | Afişte safsata adı, tanımı, doğru örnek ve çözüm önerisini görsel destekle bütünleştirir. | 30 |
+
 ### Ölçme Araçları
 
 #### 1. Yazılı Sınav (25 puan)

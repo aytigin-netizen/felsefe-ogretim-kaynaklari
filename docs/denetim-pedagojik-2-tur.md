@@ -109,14 +109,18 @@ Aynı gün, `mufredat/template.md` dosyasına ortak **izlenebilirlik matrisi** e
 | Güncel durum | Sonuç |
 |---|---:|
 | Resmî çıktı metniyle eşleşen ünite | 15/15 |
-| İzlenebilirlik matrisi bulunan ünite | 7/15 |
+| İzlenebilirlik matrisi bulunan ünite | 15/15 |
 | Ortak şablonda izlenebilirlik matrisi | Mevcut |
-| Kalan yaygınlaştırma kapsamı | 8 ünite (10. sınıf) |
+| Kalan yaygınlaştırma kapsamı | 0 ünite (P1 tamamlandı) |
 
 
 ## 8. Bakım Güncellemesi — 13 Ekim 2026
 
 İzlenebilirlik matrisi, 11. sınıfın altı ünitesinin tamamına uygulanmıştır. Her matris; iki resmî çıktının süreç bileşenlerini, ilgili sınıf etkinliklerini, somut öğrenci ürünlerini, 100 puanlık ölçme araçlarını ve gözlenebilir rubrik ölçütlerini tek tabloda ilişkilendirir. Böylece P1 iş paketinin ilk yarısı tamamlanmıştır; kalan kapsam 10. sınıfın matrisi henüz bulunmayan sekiz ünitesidir.
+
+## 9. Bakım Güncellemesi — 13 Ekim 2026 (İkinci Kayıt)
+
+İzlenebilirlik matrisi, 10. sınıfın matrisi bulunmayan sekiz ünitesine (1, 2, 4, 5, 6, 7, 8 ve 9. üniteler) uygulanmıştır. Böylece P1 iş paketi tamamlanmış; 15 ünitenin tamamında her resmî çıktı, ilgili etkinlik, somut öğrenci ürünü, ölçme aracı, rubrik ölçütü ve puanla ilişkilendirilmiştir. Sonraki adım, raporun 6. bölümünde tanımlanan P2 iş paketleridir: pilot uygulama geribildirimi ile kaynak güncelliği ve telif/bağlam denetimi.
 
 ## Kaynakça
 

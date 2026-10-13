@@ -249,6 +249,17 @@ Bir iddianın doğru olup olmadığını sormak, öğrenciyi “doğruluğu neye
 
 Bu ünitede resmî programda belirtilen öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılır. Öğrencilerin etkinlik ürünleri, çalışma kâğıdı yanıtları ve metin inceleme formu; öğrenme çıktısının farklı boyutlarına ilişkin kanıt olarak birlikte değerlendirilir. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.4.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 ve 2 | Sınıflandırma tablosu, argümanın gerekçe–sonuç çözümlemesi, kavram ilişkisi şeması | Çalışma kâğıdı uygulamaları | Bilgi, sanı ve önermeyi ayırt eder; bilgi iddialarını gerekçesiyle çözümler. | 25 |
+| `FEL.10.4.1` — Temel problemleri açıklar | Etkinlik 3 ve 4 | Karşılaştırma tablosu, Rüya Argümanı çözümleme notu, akran dönütü | Kısa yanıtlı yazılı görev | Kuşkuculuk–dogmatizm farkını ve bilginin imkânı problemini örneklerle açıklar. | 20 |
+| `FEL.10.4.1` — Düşünce ve argümanları değerlendirir | Etkinlik 5 | Dört görüş tablosu ve gerekçeli konum yazısı | Uygulamalı tartışma ve akran dönütü | Bilginin kaynağı görüşlerini karşılaştırır; karşı görüşü doğru temsil ederek gerekçeli konum alır. | 25 |
+| `FEL.10.4.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 6 | Doğruluk ölçütü uygulama tablosu, metin inceleme planı, öz/akran değerlendirme formu | Performans görevi: metin inceleme | Doğruluk ölçütlerini bir habere uygular; metni form aracılığıyla inceler ve değerlendirir. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

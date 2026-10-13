@@ -305,6 +305,17 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 
 Bu ünitede açık uçlu sorular, kelime ilişkilendirme testi, çalışma kâğıdı, kavram haritası, öz değerlendirme formu, akran değerlendirme formu, dereceleme ölçeği, kontrol listesi, grup değerlendirme formu, dereceli puanlama anahtarı ve performans görevi kullanılabilir. Kelime ilişkilendirme testi ve çalışma kâğıdı `calisma-kagitlari/01-felsefenin-dogasi-ck.md` dosyasında; öz, akran, grup değerlendirme formları ile kontrol listeleri [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.1.1` — Felsefenin anlamını ve gelişim sürecini sorgular | Etkinlik 1, 2 ve 3 | Ön kavram haritası, gerekçeli grup görüşü, gelenekler karşılaştırma tablosu | Yazılı sınav (Konu A–B) ve pratik etkinlik | Felsefenin anlamını birden çok tanım üzerinden karşılaştırır; gelişim sürecini gelenekler ve dönemlerle ilişkilendirir. | 25 |
+| `FEL.10.1.2` — Felsefi düşüncenin özelliklerini sorgular | Etkinlik 4 ve 5 | Çalışma kâğıdı, kavram haritası, kişisel felsefi soru listesi ve gerekçeler | Kısa cevap soruları | Felsefi sorunun temel özelliklerini ayırt eder; kendi felsefi sorusunu gerekçelendirir. | 20 |
+| `FEL.10.1.2` — Felsefenin farklı alanlarla ilişkisini sorgular | Etkinlik 6 ve 7 | Yapılandırılmış grid, felsefe işlevleri listesi ve gerekçeli kabul/red metni | Pratik etkinlikler ve savunma paneli | Bilim, din ve sanatla ilişkiyi gerekçeli karşılaştırır; işlevlere ilişkin konumunu savunur. | 30 |
+| `FEL.10.1.2` — Felsefenin işlevini sorgular; özellikleri ve ilişkileri bütünleştirir | Etkinlik 8 | Röportaj soru taslağı, akran dönütü ve teslim planı | Performans görevi: felsefe röportajı | Soru taslağında alan, özellik ve işlev bilgisini gerekçeli biçimde bütünlüklü kullanır. | 30 |
+
 ### Ölçme Araçları
 
 #### 1. Yazılı Sınav (20 puan)

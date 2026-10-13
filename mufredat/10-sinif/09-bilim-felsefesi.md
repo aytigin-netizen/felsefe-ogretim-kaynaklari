@@ -217,6 +217,17 @@ Bilim felsefesinin ikinci temel problemi, **bilim olanı bilim olmayandan** (di�
 
 Bu ünitede eşleştirme testi, kavram haritası, boşluk doldurma, bulmaca, sunum, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme testi, boşluk doldurma ve kavram bulmacası `calisma-kagitlari/09-bilim-felsefesi-ck.md` dosyasında; [metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md) ile öz ve akran değerlendirme için [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.9.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 | Kavram eşleştirme tablosu | Yazılı sınav Konu A ve çalışma kâğıdı | Bilim felsefesinin konusunu ve temel kavramlarını doğru eşleştirir; tarihsel deneyimleri kavramlara bağlar. | 25 |
+| `FEL.10.9.1` — Temel yaklaşımları açıklar | Etkinlik 2 | Karşılaştırmalı sunum veya kavram haritası | Kısa cevap soruları | Klasik ve çağdaş bilim anlayışlarını temel farklarıyla karşılaştırır. | 20 |
+| `FEL.10.9.1` — Düşünce ve argümanları değerlendirir | Etkinlik 3 | Sınıflama tablosu ve üç filozof karşılaştırma tablosu | Pratik etkinlikler ve tartışma katılımı | Bilim–sözde bilim ayrımını ölçütle yapar; filozof görüşlerini argümanlarıyla değerlendirir. | 25 |
+| `FEL.10.9.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 4 | Metin inceleme taslağı ve kanıt–yorum kontrol notu | Performans görevi (metin inceleme formu) | Metindeki kanıt–yorum ayrımını yapar; kavram, problem ve argümanları form aracılığıyla inceler. | 30 |
+
 ### Ölçme Araçları
 
 #### 1. Yazılı Sınav (25 puan)

@@ -236,6 +236,17 @@ Beden öldüğünde bilinç/tin de sona mı erer, yoksa varlığını sürdürü
 
 Bu ünitede kavram haritası, eşleştirme kartları, boşluk doldurma, öz değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılabilir. Eşleştirme kartları ve boşluk doldurma çalışması `calisma-kagitlari/08-din-felsefesi-ck.md` dosyasında; [metin inceleme formu](../ortak-materyaller/metin-inceleme-formu.md) ile öz ve akran değerlendirme için [ortak değerlendirme formları](../ortak-materyaller/degerlendirme-formlari.md) dosyasında hazır olarak sunulmuştur.
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.8.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 ve 2 | Ortak sorular listesi, karşılaştırma tablosu ve kavram tanımları | Yazılı sınav Konu A ve çalışma kâğıdı | Din felsefesi–teoloji ayrımını yapar; temel kavramları doğru tanımlar. | 25 |
+| `FEL.10.8.1` — Temel problemleri ve görüşleri açıklar | Etkinlik 3 ve 4 | Kavram haritası, yansıtma yazısı, yazılı değerlendirme ve yaratıcı yazma çalışması | Kısa cevap soruları ve pratik etkinlikler | Tanrı’nın varlığına ilişkin görüşleri ve kanıtlamaları karşılaştırır; sonluluk–sonsuzluk ve ölümsüzlük problemlerini açıklar. | 20 |
+| `FEL.10.8.1` — Düşünce ve argümanları değerlendirir | Etkinlik 3 ve 4 | Eşleştirme kartları çözümlemesi, tartışma çemberi notları | Pratik etkinlikler ve tartışma katılımı | Görüşleri kanıtlarıyla eşleştirir; kanıt–gerekçe ilişkisini saygılı tartışmada değerlendirir. | 25 |
+| `FEL.10.8.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 5 | Metin inceleme taslağı ve akran dönütü | Performans görevi (metin inceleme formu) | Metindeki kavram, problem ve argümanları form aracılığıyla inceler; akran dönütüyle geliştirir. | 30 |
+
 ### Ölçme Araçları
 
 #### 1. Yazılı Sınav (25 puan)

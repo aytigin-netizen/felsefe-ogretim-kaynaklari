@@ -260,6 +260,17 @@ Resmî performans görevi için öğrenciler, görüşleri de alınarak dengeli 
 
 Bu ünitede resmî programda belirtilen açık uçlu sorular, çalışma kâğıdı, anlam çözümleme tablosu, zihin haritası, akran değerlendirme formu, gözlem formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi birlikte kullanılır. Öğrencinin savunduğu belirli bir ahlaki görüş değil; kavramları doğru ayırt etmesi, gerekçe sunması, karşı görüşü adil temsil etmesi ve argümanı tutarlılık bakımından değerlendirmesi izlenir. [1]
 
+### İzlenebilirlik Matrisi
+
+Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü ve puanlanan ölçme kanıtıyla temsil edildiğini gösterir. Aynı ürün birden fazla çıktıya kanıt oluşturuyorsa rubrik ölçütü ayrımı açıkça belirtilir.
+
+| Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
+|---|---|---|---|---|---:|
+| `FEL.10.5.1` — Konuyu ve temel kavramları açıklar | Etkinlik 1 ve 2 | Kavram haritası, kısa yaratıcı ürün, kaynaklı bilgi notu ve görüş geliştirme yazısı | Çalışma kâğıdı ve anlam çözümleme tablosu | Etik–ahlak ayrımını ve erdem, özgürlük, sorumluluk, vicdan kavramlarını doğru kullanır. | 25 |
+| `FEL.10.5.1` — Temel problemleri açıklar | Etkinlik 3 | Anlam çözümleme tablosu ve akran değerlendirme notu | Kısa yanıtlı yazılı görev | Evrensel ahlak yasasının imkânı problemini olgu–değer yargısı ayrımıyla açıklar. | 20 |
+| `FEL.10.5.1` — Düşünce ve argümanları değerlendirir | Etkinlik 4 ve 5 | Problem–iddia–gerekçe şeması, tutarlılık değerlendirme tablosu, gerekçeli çözüm önerisi | Sokratik tartışma ve akran dönütü | Özgürlük–sorumluluk argümanlarını karşılaştırır; karşı görüşü doğru temsil eder. | 25 |
+| `FEL.10.5.1` — Metinlerde kavram, problem ve argümanları inceler | Etkinlik 6 | Dijital ortam eylem çözümlemesi, metin inceleme planı, öz/akran değerlendirme | Performans görevi: metin inceleme | Ahlaki problemi dijital örnek üzerinden kurar; metni form aracılığıyla inceler ve dönütlerle geliştirir. | 30 |
+
 ### 100 Puanlık Ölçme Araçları
 
 | Araç | Puan | Ölçülen kanıt |

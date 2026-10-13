@@ -28,7 +28,7 @@ Proje, Türkiye Yüzyılı Maarif Modeli kapsamında 10. ve 11. sınıf Felsefe 
 
 13 Ağustos 2026 tarihinde tamamlanan ilk depo genel kalite denetiminde, eski 10. sınıf materyallerinin süre planları ve ortak form yönlendirmeleri yeniden gözden geçirilmiştir. Bu çalışma sonucunda ilk bulgular kayıt altına alınmış (`cfd9833`), 10. sınıf 1, 3, 8 ve 9. ünitelerinin ders içi süre planları resmî toplama göre hizalanmış (`af5ecac`) ve eski ünitelerdeki ortak form bağlantıları standardize edilmiştir (`5184e50`). Ayrıntılı bulgular [kalite denetimi raporunda](kalite-denetimi-ilk-bulgular.md) yer alır.
 
-13 Ekim 2026 tarihinde, ikinci tur pedagojik denetimde önerilen ortak izlenebilirlik matrisi 11. sınıfın altı ünitesinin tamamına eklenmiştir. Matrisler her resmî çıktıyı ilgili etkinlik, öğrenci ürünü, ölçme aracı, rubrik ölçütü ve puanla ilişkilendirir. Kalan P1 kapsamı, 10. sınıfın matrisi bulunmayan sekiz ünitesidir; ayrıntılar [ikinci tur pedagojik denetim raporunda](denetim-pedagojik-2-tur.md) yer alır.
+13 Ekim 2026 tarihinde, ikinci tur pedagojik denetimde önerilen ortak izlenebilirlik matrisi 11. sınıfın altı ünitesinin tamamına eklenmiştir. Matrisler her resmî çıktıyı ilgili etkinlik, öğrenci ürünü, ölçme aracı, rubrik ölçütü ve puanla ilişkilendirir. Aynı gün, izlenebilirlik matrisi 10. sınıfın matrisi bulunmayan sekiz ünitesine de uygulanarak P1 iş paketi tamamlanmıştır; 15 ünitenin tamamında çıktı–etkinlik–ürün–ölçme–rubrik–puan eşlemesi görünürdür. Sıradaki öncelik P2 kapsamındaki pilot uygulama geribildirimi ile kaynak güncelliği ve telif/bağlam denetimidir; ayrıntılar [ikinci tur pedagojik denetim raporunda](denetim-pedagojik-2-tur.md) yer alır.
 
 ## 10. Sınıf Ünite Durumu
 
