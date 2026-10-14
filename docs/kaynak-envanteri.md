@@ -23,7 +23,7 @@ Müfredat materyallerinde **sekiz benzersiz dış URL** kullanılmaktadır; bunl
 
 | # | URL | Kullanıldığı dosyalar | Denetim sonucu | işlem |
 |---|---|---|---|---|
-| 1 | `tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf` | 27 materyal, README, tüm denetim/durum kayıtları | Eski 2024 programı PDF bağlantısı ölüydü; 4. adımda resmî 2026 programının PDF bağlantısıyla değiştirildi (bağlantı ve sha256 özeti `mufredat/program-2026-ozet.json` kaydında tutulur) | Eylem tamamlandı — 4. adım commit kaydı |
+| 1 | `tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf` | 27 materyal, README, tüm denetim/durum kayıtları | Eski 2026 programı PDF bağlantısı ölüydü; 4. adımda resmî 2026 programının PDF bağlantısıyla değiştirildi (bağlantı ve sha256 özeti `mufredat/program-2026-ozet.json` kaydında tutulur) | Eylem tamamlandı — 4. adım commit kaydı |
 | 2 | `tymm.meb.gov.tr/ogretim-programlari/ders/felsefe-dersi` | README, denetim raporları | ✓ Erişilebilir; başlık doğrulandı | Eylem gerekmiyor |
 | 3 | `veriportali.tuik.gov.tr/tr/press/53974` (Sera Gazı Emisyon İstatistikleri, 1990–2023) | 11. sınıf 1. ünite ve çalışma kâğıdı | ✓ Bülten numarası doğrulandı; ancak 1990–2024 sürümü yayımlandı | Öğretmen yönergesi zaten "en güncel tablo" istediğinden içerik geçerli; sonraki bakımda bülten bağlantısı 1990–2024 sürümüne güncellenmeli |
 | 4 | `veriportali.tuik.gov.tr/en/press/53925/metadata` (Hanehalkı Bilişim Teknolojileri Kullanım Araştırması, 2025) | 11. sınıf 2. ünite ve çalışma kâğıdı | ✓ Bülten numarası ve başlığı doğrulandı | Eylem gerekmiyor |
