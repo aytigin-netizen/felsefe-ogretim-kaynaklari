@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "programYear": 2026,
   "recordedAt": "2026-10-14",
-  "description": "Materyaller resmî 2026 programına göre yeniden yazılana kadar açık kalan sapmalar. Her madde 2. ve 3. adımda kapatılır; kapandıkça bu listeden düşer.",
+  "description": "Materyaller resmî 2026 programına göre yeniden yazılana kadar açık kalan sapmalar. Kalan maddelerin tamamı atıf türünde (ölü 2024 program bağlantısı); 4. adımda kapanır.",
   "deviations": [
     {
       "file": "docs/denetim-raporu-11-sinif.md",
@@ -24,27 +24,9 @@
     },
     {
       "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
-      "detail": "FEL.10.1.2 kodu programda tanımlı değil",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
-      "detail": "FEL.10.1.2 kodu programda yok (program çıktıları: FEL.10.1.1)",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
       "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
       "kind": "atıf",
       "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
-    },
-    {
-      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
-      "detail": "öğrenme çıktısı sayısı 2, programda 1",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
     },
     {
       "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",

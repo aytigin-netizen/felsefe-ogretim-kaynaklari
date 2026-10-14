@@ -6,7 +6,7 @@
 |-------|-------|
 | **Sınıf Seviyesi** | 10. Sınıf |
 | **Ders Saati** | 10 saat |
-| **Öğrenme Çıktısı Sayısı** | 2 |
+| **Öğrenme Çıktısı Sayısı** | 1 |
 | **Yüzde Oranı (%)** | %15 (resmî program değeridir) |
 | **Ünite Kodu** | FEL.10.1 |
 | **Alan** | Felsefeye Giriş (Metafelsefe) |
@@ -18,13 +18,11 @@
 
 Öğrenciler bu ünite sonunda:
 
-### FEL.10.1.1 — Felsefenin anlamını ve gelişim sürecini sorgulayabilme
+### FEL.10.1.1 — Felsefenin anlamını, gelişim sürecini ve işlevini sorgulayabilme
 - Felsefenin anlamını merak eder
 - Felsefenin ortak bir tanımının olup olmamasına şüphe ile yaklaşır
 - Felsefenin anlamına yönelik farklı görüşler üzerine derinlemesine düşünür
 - Felsefi düşüncenin ortaya çıkışı, tarihsel dönemlerinin genel özellikleri ve dünyadaki felsefe gelenekleri üzerine derinlemesine düşünür
-
-### FEL.10.1.2 — Felsefenin özelliklerini, farklı alanlarla ilişkisini ve işlevini sorgulayabilme
 - Felsefi düşüncenin özellikleri üzerine derinlemesine düşünür
 - Felsefi soruların temel özelliklerini ifade ederek felsefi soru sorar
 - Felsefenin bilim, din ve sanat alanlarıyla ilişkisine eleştirel yaklaşır
@@ -218,7 +216,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ---
 
 ### Etkinlik 4: Felsefi Düşüncenin Özellikleri Çalışma Kâğıdı
-**Amaç:** Felsefi düşüncenin özelliklerini öğrencilerin kendi cümleleriyle ifade etmesi (FEL.10.1.2-a).
+**Amaç:** Felsefi düşüncenin özelliklerini öğrencilerin kendi cümleleriyle ifade etmesi (FEL.10.1.1-d).
 
 **Süre:** 60 dk
 
@@ -233,7 +231,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ---
 
 ### Etkinlik 5: Felsefi Soru Atölyesi
-**Amaç:** Felsefi sorunun özelliklerini ifade edip kendi felsefi sorularını üretmek (FEL.10.1.2-b).
+**Amaç:** Felsefi sorunun özelliklerini ifade edip kendi felsefi sorularını üretmek (FEL.10.1.1-e).
 
 **Süre:** 50 dk
 
@@ -248,7 +246,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ---
 
 ### Etkinlik 6: Üç Alan Karşılaştırma Grid'i — Bilim, Din, Sanat
-**Amaç:** Felsefenin bilim, din ve sanatla ilişkisine eleştirel yaklaşmak (FEL.10.1.2-c).
+**Amaç:** Felsefenin bilim, din ve sanatla ilişkisine eleştirel yaklaşmak (FEL.10.1.1-f).
 
 **Süre:** 50 dk
 
@@ -262,7 +260,7 @@ Felsefenin **bireysel işlevleri** arasında eleştirel düşünme becerisi kaza
 ---
 
 ### Etkinlik 7: Felsefenin İşlevleri Savunma Paneli
-**Amaç:** Felsefenin bireysel ve toplumsal işlevlerini tartışmak (FEL.10.1.2-ç).
+**Amaç:** Felsefenin bireysel ve toplumsal işlevlerini tartışmak (FEL.10.1.1-g).
 
 **Süre:** 50 dk
 
@@ -312,9 +310,9 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 | Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
 |---|---|---|---|---|---:|
 | `FEL.10.1.1` — Felsefenin anlamını ve gelişim sürecini sorgular | Etkinlik 1, 2 ve 3 | Ön kavram haritası, gerekçeli grup görüşü, gelenekler karşılaştırma tablosu | Yazılı sınav (Konu A–B) ve pratik etkinlik | Felsefenin anlamını birden çok tanım üzerinden karşılaştırır; gelişim sürecini gelenekler ve dönemlerle ilişkilendirir. | 25 |
-| `FEL.10.1.2` — Felsefi düşüncenin özelliklerini sorgular | Etkinlik 4 ve 5 | Çalışma kâğıdı, kavram haritası, kişisel felsefi soru listesi ve gerekçeler | Kısa cevap soruları | Felsefi sorunun temel özelliklerini ayırt eder; kendi felsefi sorusunu gerekçelendirir. | 20 |
-| `FEL.10.1.2` — Felsefenin farklı alanlarla ilişkisini sorgular | Etkinlik 6 ve 7 | Yapılandırılmış grid, felsefe işlevleri listesi ve gerekçeli kabul/red metni | Pratik etkinlikler ve savunma paneli | Bilim, din ve sanatla ilişkiyi gerekçeli karşılaştırır; işlevlere ilişkin konumunu savunur. | 30 |
-| `FEL.10.1.2` — Felsefenin işlevini sorgular; özellikleri ve ilişkileri bütünleştirir | Etkinlik 8 | Röportaj soru taslağı, akran dönütü ve teslim planı | Performans görevi: felsefe röportajı | Soru taslağında alan, özellik ve işlev bilgisini gerekçeli biçimde bütünlüklü kullanır. | 30 |
+| `FEL.10.1.1` — Felsefi düşüncenin özelliklerini sorgular | Etkinlik 4 ve 5 | Çalışma kâğıdı, kavram haritası, kişisel felsefi soru listesi ve gerekçeler | Kısa cevap soruları | Felsefi sorunun temel özelliklerini ayırt eder; kendi felsefi sorusunu gerekçelendirir. | 20 |
+| `FEL.10.1.1` — Felsefenin farklı alanlarla ilişkisini sorgular | Etkinlik 6 ve 7 | Yapılandırılmış grid, felsefe işlevleri listesi ve gerekçeli kabul/red metni | Pratik etkinlikler ve savunma paneli | Bilim, din ve sanatla ilişkiyi gerekçeli karşılaştırır; işlevlere ilişkin konumunu savunur. | 30 |
+| `FEL.10.1.1` — Felsefenin işlevini sorgular; özellikleri ve ilişkileri bütünleştirir | Etkinlik 8 | Röportaj soru taslağı, akran dönütü ve teslim planı | Performans görevi: felsefe röportajı | Soru taslağında alan, özellik ve işlev bilgisini gerekçeli biçimde bütünlüklü kullanır. | 30 |
 
 ### Ölçme Araçları
 
@@ -364,7 +362,7 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 ### Zenginleştirme (İleri Öğrenme)
 
 - "Felsefe üzerine felsefe yapılabilir mi?" sorusu üzerine görüş geliştirme
-- Âşık Veysel ve Neşet Ertaş türkülerindeki felsefi ifadeleri araştırarak felsefenin diğer alanlarla ilişkisini inceleme
+- Âşık Veysel ve Neşet Ertaş türkulerindeki felsefi ifadeleri araştırarak felsefenin diğer alanlarla ilişkisini inceleme
 - Farklı medeniyetlerde felsefeye katkıda bulunan kadın düşünür ve filozoflar hakkında sunum hazırlama
 
 ### Destekleme (Farklı Öğrenme İhtiyaçları)
