@@ -17,6 +17,7 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2026 on
 ```
 ├── mufredat/
 │   ├── template.md                              # Ortak ünite şablonu
+│   ├── program-2026-ozet.json                   # Resmî 2026 programının ünite/çıktı/süre kaydı
 │   ├── ortak-materyaller/                       # Üniteler arası ortak formlar
 │   │   ├── metin-inceleme-formu.md              # Performans görevi metin inceleme formu
 │   │   └── degerlendirme-formlari.md            # Öz ve akran değerlendirme şablonları
@@ -40,6 +41,9 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2026 on
 │       └── raporlar/                            # Denetim raporlarının sayfaları
 ├── tools/
 │   ├── denetle_yapisal_kalite.py                # Tekrarlanabilir yapısal denetim
+│   ├── denetle_program_uyumu.py                 # Resmî programla uyum denetimi
+│   ├── program-ozeti-uret.py                    # Program kaydının PDF'den üretimi
+│   ├── program-2026-bilinen-ayrismalar.json     # Açık kalan program sapmaları
 │   └── uret_site.py                             # Markdown materyallerinden site üretimi
 ├── .github/workflows/
 │   └── yapisal-kalite-denetimi.yml              # Ana dal kalite kontrolü
@@ -94,6 +98,20 @@ python tools/uret_site.py --check  # depodaki sayfalar güncel mi diye bakar
 
 Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleşik isteği durdurur.
 
+## Resmî Program Uyumu
+
+Materyallerin dayandığı tek resmî kaynak, MEB'in yayımladığı **2026 Felsefe Dersi Öğretim Programı**'dır. Programın ünite, ders saati, yüzde oranı ve öğrenme çıktı bilgisi `mufredat/program-2026-ozet.json` kaydında tutulur. Bu kayıt elle yazılmamıştır: `tools/program-ozeti-uret.py` aracı program PDF'sini okuyup üretir ve kaydın `sha256` özetiyle birlikte kaynağını tutar.
+
+```bash
+python tools/program-ozeti-uret.py            # kaydı program PDF'sinden yeniden üretir (pdftotext gerekir)
+python tools/denetle_program_uyumu.py         # materyallerin programla uyumunu denetler
+python tools/denetle_program_uyumu.py --kaydet  # denetimin o anki bulgularını sapma listesine yazar
+```
+
+Denetim şunları karşılaştırır: her ünite dosyasının ders saati, yüzde oranı ve öğrenme çıktısı sayısı; materyallerde geçen her `FEL.x.x.x` kodunun programda tanımlı olması; program atıflarının kayıttaki yılı ve güncel bağlantıyı göstermesi.
+
+Materyaller 2026 programına uyarlanana kadar açık kalan sapmalar `tools/program-2026-bilinen-ayrismalar.json` dosyasında açıkça listelenir. Denetim her koşuda bu listeyi de yazar: liste dışına çıkan yeni bir sapma CI'ı düşürür, listedeki madde kapatıldığında listeden silinir ve denetim "artık geçerli değil" uyarısı verir.
+
 ## Yapısal Kalite Denetimi
 
 Depodaki her değişiklikte ünite ve çalışma kâğıdı sayısı, ders saati ve öğrenme çıktısı üst verileri, 100 puanlık ölçme yapısı ile yerel Markdown bağlantıları denetlenir. Kontrolü yerelde çalıştırmak için aşağıdaki komut kullanılır:
@@ -102,7 +120,7 @@ Depodaki her değişiklikte ünite ve çalışma kâğıdı sayısı, ders saati
 python tools/denetle_yapisal_kalite.py
 ```
 
-Ana dala gönderilen değişiklikler ve ana dala açılan birleştirme istekleri için aynı kontrol ve `uret_site.py --check` otomatik olarak çalışır. Bu denetim yalnızca yapısal tutarlılığı doğrular; program uyumu, felsefi doğruluk, telif, kaynak güncelliği ve sınıf içi uygulanabilirlik ayrıca pedagojik inceleme gerektirir.
+Ana dala gönderilen değişiklikler ve ana dala açılan birleştirme istekleri için yapısal denetim, resmî program uyum denetimi ve `uret_site.py --check` otomatik olarak çalışır. Bu denetim yalnızca yapısal tutarlılığı doğrular; program uyumu, felsefi doğruluk, telif, kaynak güncelliği ve sınıf içi uygulanabilirlik ayrıca pedagojik inceleme gerektirir.
 
 ## Katkıda Bulunma
 
