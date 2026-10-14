@@ -358,6 +358,6 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 
 ## Kaynaklar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 > **Not:** Bu ünitedeki öğrenme çıktısı, temel kavramlar, öğrenme kanıtları, performans görevi ve farklılaştırma önerilerinin bağlayıcı dayanağı MEB öğretim programıdır. Günlük hayattan veya dijital ortamdan seçilen örnekler, öğrencilerin kişisel verisini içermemeli; kaynak, telif ve yaş düzeyi bakımından öğretmen tarafından denetlenmelidir.

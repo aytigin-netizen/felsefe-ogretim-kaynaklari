@@ -342,6 +342,6 @@ Bu uyarlamalar, öğrencinin hedef becerisini azaltmadan; dil, sunum, süre, tep
 
 ## Kaynaklar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 > **Not:** Üniteye ilişkin öğrenme çıktısı, temel problem, öğrenme-öğretme yaşantıları, metin havuzu ve farklılaştırma önerilerinin bağlayıcı müfredat dayanağı MEB öğretim programıdır. Metinlerden yapılacak alıntılar, öğrencilerin yaş düzeyi ile telif ve erişim koşulları gözetilerek kısa ve amaçla sınırlı tutulmalıdır.

@@ -1,0 +1,14 @@
+== yapisal ==
+Yapısal kalite denetimi BAŞARILI.
+- 10. sınıf: 9 ünite ve 9 çalışma kâğıdı
+- 11. sınıf: 6 ünite ve 6 çalışma kâğıdı
+- Her ünitede ders saati, öğrenme çıktısı kodu ve 100 puanlık ölçme yapısı doğrulandı
+- Her sınıf düzeyinde ek soru setleri tüm üniteleri kurgu, soru ve öğretmen notuyla kapsıyor
+- Depo kapsamındaki Markdown dosyalarında bozuk yerel bağlantı bulunmadı
+- Statik sitedeki 44 sayfanın yerel ve depo bağlantıları doğrulandı
+== program uyumu ==
+Program uyumu denetimi BAŞARISIZ.
+- docs/kaynak-envanteri.md: ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)
+== site check ==
+Statik site güncel: 44 dosya üretimle birebir aynı.
+SONUC yapisal=0 uyum=1 site=0

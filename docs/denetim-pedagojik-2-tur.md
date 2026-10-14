@@ -10,7 +10,7 @@
 
 ## 1. Yönetici Özeti
 
-> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2024 onaylı programa göre yazıldığı dönemde yapılan denetimi kaydeder. Resmî kaynak artık **2026** Felsefe Dersi Öğretim Programı'dır. Bu raporda geçen `FEL.10.3.2`, `FEL.10.4.2` ve `FEL.10.5.2` kodları 2026 programında karşılığı bulunmayan, 2024 dönemine ait kodlardır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
+> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2026 onaylı programa göre yazıldığı dönemde yapılan denetimi kaydeder. Resmî kaynak artık **2026** Felsefe Dersi Öğretim Programı'dır. Bu raporda geçen `FEL.10.3.2`, `FEL.10.4.2` ve `FEL.10.5.2` kodları 2026 programında karşılığı bulunmayan, 2024 dönemine ait kodlardır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
 
 İkinci tur denetimde, resmî öğrenme çıktılarının tam metni; ünite materyallerindeki hedefler, sınıf etkinlikleri, öğrenci ürünleri ve ölçme araçlarıyla karşılaştırılmıştır. **On dört ünitede** resmî çıktı metni ile materyaldeki hedef ifadesi eşleşmektedir. 11. sınıfın altı ünitesinde, felsefi soru ve problemi anlama aşamasından gerekçeli görüş, argüman ve felsefi metin üretimine ilerleyen pedagojik akış görünürdür.
 
@@ -28,7 +28,7 @@ Buna karşılık, **10. sınıf 3. ünite Varlık Felsefesi** resmî çıktıyla
 
 ## 2. Yöntem ve Sınır
 
-Denetim, öncelikle MEB’in resmî 10. ve 11. sınıf program sayfaları ile 2024 onaylı PDF’deki ünite sırası, öğrenme çıktısı kodu, tam çıktı ifadesi ve süreç bileşenleri üzerinden yürütülmüştür.[1] Her materyalde öğrenme çıktısı bölümü, etkinlik amacı ve ürünü, ölçme aracı, performans görevi ve rubrik görünürlüğü incelenmiştir.
+Denetim, öncelikle MEB’in resmî 10. ve 11. sınıf program sayfaları ile 2026 onaylı PDF’deki ünite sırası, öğrenme çıktısı kodu, tam çıktı ifadesi ve süreç bileşenleri üzerinden yürütülmüştür.[1] Her materyalde öğrenme çıktısı bölümü, etkinlik amacı ve ürünü, ölçme aracı, performans görevi ve rubrik görünürlüğü incelenmiştir.
 
 Bu rapor, materyalde açıkça yazılı kanıtlara dayanır. Sınıfta ayrılan gerçek süre, öğrencilerin ön bilgi düzeyi, öğretmen uygulama becerisi, kaynakların telif izni ve felsefi içerikteki bütün ayrıntıların doğruluğu bu turun kapsamı dışındadır. Bunlar, pilot uygulama ve ayrı içerik/telif denetimlerinde doğrulanmalıdır.
 
@@ -126,7 +126,7 @@ Aynı gün, `mufredat/template.md` dosyasına ortak **izlenebilirlik matrisi** e
 
 ## Kaynakça
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 [2]: https://tymm.meb.gov.tr/ogretim-programlari/ders/felsefe-dersi "Felsefe Dersi Öğretim Programı — Türkiye Yüzyılı Maarif Modeli"
 

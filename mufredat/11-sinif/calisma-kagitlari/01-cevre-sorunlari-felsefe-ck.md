@@ -271,6 +271,6 @@ F1 planı eksiksiz doldurulmuş ve F2 kontrol listesinin tamamı işaretlenmiş 
 
 ## Kaynaklar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 [2]: https://veriportali.tuik.gov.tr/tr/press/53974 "TÜİK Sera Gazı Emisyon İstatistikleri"

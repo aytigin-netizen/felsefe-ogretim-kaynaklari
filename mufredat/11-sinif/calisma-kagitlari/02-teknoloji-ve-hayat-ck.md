@@ -288,6 +288,6 @@ F1 planının eksiksiz ve F4 kontrol listesinin tamamının işaretli olması be
 
 ## Kaynaklar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 [2]: https://veriportali.tuik.gov.tr/en/press/53925/metadata "TÜİK Hanehalkı Bilişim Teknolojileri Kullanım Araştırması"
