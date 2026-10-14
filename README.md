@@ -1,6 +1,6 @@
 # Felsefe Öğretim Kaynakları
 
-MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 onaylı) için açık kaynak öğretim kaynakları ve pratik ders materyalleri.
+MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2026 onaylı) için açık kaynak öğretim kaynakları ve pratik ders materyalleri.
 
 ## İçerik
 
