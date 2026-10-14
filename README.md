@@ -52,23 +52,24 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2026 on
 
 ## 10. Sınıf Üniteleri
 
-MEB onaylı programda 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur:
+Resmî 2026 programında 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur (68 saat ünitelerde, 4 saat okul temelli planlamada):
 
 | Ünite | Başlık | Saat | Oran | Durum |
 |-------|--------|------|------|-------|
 | 1 | Felsefenin Doğası | 10 | %15 | Tamamlandı (resmî program doğrulamalı) |
-| 2 | Felsefe, Mantık ve Argümantasyon | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
-| 3 | Varlık Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
+| 2 | Felsefe, Mantık ve Argümantasyon | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
+| 3 | Varlık Felsefesi | 10 | %15 | Tamamlandı (resmî program doğrulamalı) |
 | 4 | Bilgi Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 5 | Ahlak Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 6 | Estetik ve Sanat Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
 | 7 | Siyaset Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 8 | Din Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
 | 9 | Bilim Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
+| — | Okul Temelli Planlama | 4 | %5 | [`mufredat/okul-temelli-planlama.md`](mufredat/okul-temelli-planlama.md) |
 
 ## 11. Sınıf Üniteleri
 
-MEB onaylı programda 11. sınıf altı üniteden oluşur. Altı ünitenin tamamı için resmî programla hizalı materyal ve çalışma kâğıdı hazırlanmıştır.
+Resmî 2026 programında 11. sınıf altı üniteden oluşur (68 saat ünitelerde, 4 saat okul temelli planlamada). Altı ünitenin tamamı için programla hizalı materyal ve çalışma kâğıdı hazırlanmıştır.
 
 | Ünite | Başlık | Saat | Durum |
 |-------:|---|---:|---|
@@ -78,6 +79,7 @@ MEB onaylı programda 11. sınıf altı üniteden oluşur. Altı ünitenin tamam
 | 4 | Edebiyat ve Felsefe | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 5 | Hayatın Anlamı | 12 | Tamamlandı (resmî program doğrulamalı) |
 | 6 | Hukuk ve Felsefe | 10 | Tamamlandı (resmî program doğrulamalı) |
+| — | Okul Temelli Planlama | 4 | [`mufredat/okul-temelli-planlama.md`](mufredat/okul-temelli-planlama.md) |
 
 11. sınıf ünite denetim kayıtları için [`docs/denetim-raporu-11-sinif.md`](docs/denetim-raporu-11-sinif.md) dosyasına bakınız.
 

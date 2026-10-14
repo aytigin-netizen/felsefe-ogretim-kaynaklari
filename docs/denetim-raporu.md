@@ -4,6 +4,8 @@ Bu rapor, depodaki 10. sınıfın dokuz ünitesinin MEB onaylı Felsefe Dersi Ö
 
 ## Denetim Yöntemi
 
+> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2024 onaylı programa göre yazıldığı dönemde yapılan denetimi kaydeder. Resmî kaynak artık **2026** Felsefe Dersi Öğretim Programı'dır. Bu raporda geçen `FEL.10.3.2`, `FEL.10.4.2` ve `FEL.10.5.2` kodları 2026 programında karşılığı bulunmayan, 2024 dönemine ait kodlardır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
+
 Her ünite için resmî programın "Öğrenme Kanıtları (Ölçme ve Değerlendirme)" ile "Öğrenme-Öğretme Yaşantıları" bölümlerinde ad geçiren tüm ölçme araçları, etkinlik türleri ve performans görevi metin havuzları liste hâline getirilmiş, ardından ilgili ünite dosyasında bu gerekliliklerin karşılanıp karşılanmadığı tek tek kontrol edilmiştir.
 
 ## Ünite Bazında Denetim Sonuçları

@@ -5,9 +5,9 @@
 | Bilgi | Değer |
 |-------|-------|
 | **Sınıf Seviyesi** | 10. Sınıf |
-| **Ders Saati** | 8 saat |
-| **Yüzde Oranı (%)** | %11 |
-| **Öğrenme Çıktısı Sayısı** | 1 |
+| **Ders Saati** | 6 saat |
+| **Yüzde Oranı (%)** | %8 |
+| **Öğrenme Çıktısı Sayısı** | 2 |
 | **Ünite Kodu** | FEL.10.2 |
 | **Alan** | Mantık (Argümantasyon kuramı) |
 | **Disiplinler Arası İlişkiler** | Mantık, Matematik |
@@ -16,11 +16,19 @@
 
 ## Öğrenme Çıktıları
 
-Öğrenciler bu ünite sonunda (FEL.10.2.1 — Mantık ve argümantasyonda kullanılan temel kavramları yorumlayabilme):
+Öğrenciler bu ünite sonunda iki öğrenme çıktısını gerçekleştirir.
+
+**FEL.10.2.1 — Düşünme ve dil ilişkisini yapılandırabilme:**
 
 - Düşünme ve dil ilişkisini mantık açısından inceler
+- Düşünmenin dil aracılığıyla nasıl gerçekleştiğini ve dilin düşünceyi nasıl biçimlendirdiğini örneklerle tartışır
+- Günlük dildeki bir ifadeyi mantıksal yapısına göre çözümler
+
+**FEL.10.2.2 — Mantığın temel kavramlarını ve argümantasyon sürecini yorumlayabilme:**
+
 - Mantık ve argümantasyonla ilgili kavramları örneklendirerek inceler
-- Günlük dilde verilen argümanları mantığın biçimsel diline dönüştürerek yeniden ifade eder
+- Argümanları önül–sonuç yapısına göre yorumlar ve standart forma dönüştürür
+- Safsataları tanır, tiplerini belirler ve toplumsal etkilerini değerlendirir
 
 ---
 
@@ -75,7 +83,7 @@ Düşünme ve dil arasındaki ilişki, mantığın incelediği temel konulardand
 
 ---
 
-### 2. Mantık ve Argümantasyonun Temel Kavramları (3 saat)
+### 2. Mantık ve Argümantasyonun Temel Kavramları (2 saat)
 
 #### 2.1 Dört Akıl İlkesi
 
@@ -121,7 +129,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 
 ---
 
-### 3. Argümantasyonun Yapısı (3 saat)
+### 3. Argümantasyonun Yapısı (2 saat)
 
 **Argümanın standart formu:** Günlük dilde verilen argümanlar, mantığın biçimsel diline dönüştürülerek yeniden ifade edilir. Bu işlem üç adım içerir: metindeki argümanı belirleme, öncül ve sonuç önermelerini bulma, argümanı standart formda yazma.
 
@@ -179,7 +187,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 3: Akıl İlkeleri ve Akıl Yürütme Türleri Düellosu
 **Amaç:** Dört akıl ilkesini ve üç akıl yürütme türünü örneklendirerek pekiştirmek (E3.2, KB2.18).
 
-**Süre:** 80 dk
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Dört akıl ilkesi ve üç akıl yürütme türü bilgi görselleriyle sunulur
@@ -214,7 +222,7 @@ Akıl ilkelerinin önemi üzerine tartışma, kavramların tanımlandığı bilg
 ### Etkinlik 5: Safsata Afişi Tasarımı (Resmî Performans Görevi)
 **Amaç:** Safsataların kullanımına örnek vererek görsellerle destekli bir afişe dönüştürmek (E2.3, SDB1.2).
 
-**Süre:** 80 dk (iki ders saatinde tamamlanır)
+**Süre:** 40 dk
 
 **Adımlar:**
 1. Öğrenciler, Etkinlik 4'te buldukları safsata örneklerinden en çarpıcı olanlarını seçer
@@ -258,10 +266,10 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 
 | Resmî çıktı ve süreç bileşeni | Etkinlik | Öğrenci ürünü | Ölçme aracı | Rubrik/başarı göstergesi | Puan |
 |---|---|---|---|---|---:|
-| `FEL.10.2.1` — Düşünme ve dil ilişkisini mantık açısından inceler | Etkinlik 1 ve 2 | Ortak “mantık hatası” listesi, açık uçlu ön değerlendirme yanıtları, doldurulmuş çalışma kâğıdı ve çıkarım yazısı | Yazılı sınav Konu A ve pratik etkinlik katılımı | Düşünme–dil ilişkisini bilgi ve görseller üzerinden yorumlar; önerme–görüş ayrımını örneklerle kurar. | 25 |
-| `FEL.10.2.1` — Mantık ve argümantasyon kavramlarını örneklendirerek inceler | Etkinlik 3 ve 4 | Örnek kartları, doğrulanmış tablo, safsata tespit tablosu | Kısa cevap soruları | Dört akıl ilkesi ile üç akıl yürütme türünü örneklere doğru eşler; safsata türlerini medya metinlerinde tanır. | 20 |
-| `FEL.10.2.1` — Günlük dildeki argümanları biçimsel dile dönüştürerek yeniden ifade eder | Etkinlik 6 | Standart forma dönüştürülmüş argümanlar ve argüman diyagramı | Yazılı sınav Konu C ve ek görev (Seçenek A/C) | Öncül–sonuç ayrımını yapar; argümanı standart forma ve diyagrama hatasız dönüştürür. | 25 |
-| `FEL.10.2.1` — Safsataları tanır ve toplumsal etkilerini değerlendirir | Etkinlik 5 | Görsellerle destekli safsata afişi ve öz/akran değerlendirmesi | Performans görevi: safsata afişi (ve ek görev Seçenek B) | Afişte safsata adı, tanımı, doğru örnek ve çözüm önerisini görsel destekle bütünleştirir. | 30 |
+| `FEL.10.2.1` — Düşünme ve dil ilişkisini mantık açısından inceler, örnekle tartışır | Etkinlik 1 ve 2 | Ortak “mantık hatası” listesi, açık uçlu ön değerlendirme yanıtları, doldurulmuş çalışma kâğıdı ve çıkarım yazısı | Yazılı sınav Konu A ve pratik etkinlik katılımı | Düşünme–dil ilişkisini bilgi ve görseller üzerinden yorumlar; önerme–görüş ayrımını örneklerle kurar. | 25 |
+| `FEL.10.2.2` — Mantık ve argümantasyon kavramlarını örneklendirerek inceler | Etkinlik 3 ve 4 | Örnek kartları, doğrulanmış tablo, safsata tespit tablosu | Kısa cevap soruları | Dört akıl ilkesi ile üç akıl yürütme türünü örneklere doğru eşler; safsata türlerini medya metinlerinde tanır. | 20 |
+| `FEL.10.2.2` — Günlük dildeki argümanları biçimsel dile dönüştürerek yeniden ifade eder | Etkinlik 6 | Standart forma dönüştürülmüş argümanlar ve argüman diyagramı | Yazılı sınav Konu C ve ek görev (Seçenek A/C) | Öncül–sonuç ayrımını yapar; argümanı standart forma ve diyagrama hatasız dönüştürür. | 25 |
+| `FEL.10.2.2` — Safsataları tanır ve toplumsal etkilerini değerlendirir | Etkinlik 5 | Görsellerle destekli safsata afişi ve öz/akran değerlendirmesi | Performans görevi: safsata afişi (ve ek görev Seçenek B) | Afişte safsata adı, tanımı, doğru örnek ve çözüm önerisini görsel destekle bütünleştirir. | 30 |
 
 ### Ölçme Araçları
 

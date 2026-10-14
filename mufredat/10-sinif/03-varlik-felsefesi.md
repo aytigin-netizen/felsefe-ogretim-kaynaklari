@@ -5,7 +5,8 @@
 | Bilgi | Değer |
 |---|---|
 | **Sınıf Seviyesi** | 10. Sınıf |
-| **Ders Saati** | 8 saat |
+| **Ders Saati** | 10 saat |
+| **Yüzde Oranı (%)** | %15 |
 | **Öğrenme Çıktısı Sayısı** | 1 |
 | **Ünite Kodu** | FEL.10.3 |
 | **Alan** | Varlık Felsefesi |
@@ -50,13 +51,13 @@
 
 ## İçerik Çerçevesi
 
-### 1. Varlık Felsefesinin Konusu ve Temel Kavramları (1,5 saat)
+### 1. Varlık Felsefesinin Konusu ve Temel Kavramları (2 saat)
 
 Varlık felsefesi, varlığın ne olduğu, nasıl sınıflandırılabileceği ve var olanların hangi anlamda “var” sayılabileceği sorularını ele alır. Ontoloji ile metafizik kavramları ilişkilidir; bu ünitede öğrencilerin ikisini eş anlamlı ezberlemesi değil, varlıkla ilgili felsefi soruların kavramsal yönünü fark etmesi beklenir.
 
 Öğrenciler “taş”, “sayı”, “rüya”, “hatıra”, “adalet” ve “dijital avatar” gibi örnekleri varlık bakımından tartışırken günlük adlandırma ile felsefi problem kurma arasındaki farkı görür. Öğretmen, bir örneğin zor olması ya da farklı görüşlere açık bulunmasının onu “yanlış” yapmadığını vurgular.
 
-### 2. Varlık Felsefesinin Temel Problemleri (2 saat)
+### 2. Varlık Felsefesinin Temel Problemleri (3 saat)
 
 Varlık felsefesinin temel problemlerinden ikisi şunlardır: **Varlık var mıdır?** ve **Varlık varsa nedir?** Bir problem üzerinde düşünürken öğrenciler, bir görüşün yalnız sonucunu değil; hangi öncüllere, kavramlara ve gerekçelere dayandığını da inceler.
 
@@ -77,7 +78,7 @@ Parmenides, varlığın bir, değişmez ve düşünülebilir olduğunu savunur. 
 | Fenomenoloji | Varlık bilince nasıl görünür? | Fenomen, deneyim, betimleme |
 | Varoluşçuluk | İnsan varoluşu nasıl anlam kazanır? | Varoluş, öz, seçim |
 
-### 4. Felsefi Metin İnceleme (1,5 saat)
+### 4. Felsefi Metin İnceleme (2 saat)
 
 Öğrenciler, varlık felsefesiyle ilgili kısa ve kaynak bilgili metinlerde kavram, problem, yargı, argüman, öncül ve sonuçları ayırır. Metni yalnız özetlemek yerine şu sorulara yanıt ararlar: “Metnin temel problemi nedir?”, “Hangi kavramlar bu problemi kuruyor?”, “Yazar hangi görüşü savunuyor?”, “Gerekçeleri ve tartışmaya açık yönü nedir?”
 
@@ -101,7 +102,7 @@ Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözet
 
 **Amaç:** Varlık felsefesinin konusunu; varlık, töz, öz, varoluş, madde, idea, fenomen ve oluş kavramlarıyla açıklamak.
 
-**Süre:** 50 dk
+**Süre:** 60 dk
 
 **Öğretmen eylemi:** Öğretmen kavram kartlarını ve “taş–sayı–rüya–adalet–dijital avatar” örnek kartlarını verir. Kartların tek bir doğru sınıflandırmaya zorlanmadığını; her sınıflandırmanın gerekçelendirilmesi gerektiğini hatırlatır.
 
@@ -129,7 +130,7 @@ Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözet
 
 **Amaç:** Varlığın ne olduğuna ilişkin farklı felsefi akımların sorularını, kavramlarını, görüşlerini ve argümanlarını değerlendirmek.
 
-**Süre:** 80 dk
+**Süre:** 100 dk
 
 **Öğretmen eylemi:** Öğretmen sekiz akım için kısa, kaynak bilgili bilgi kartları ve çalışma kâğıdını dağıtır. Akım adının tek başına yeterli yanıt olmadığını; argüman ve gerekçenin görünür olması gerektiğini modelleyerek açıklar.
 
@@ -143,7 +144,7 @@ Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözet
 
 **Amaç:** Varlık felsefesinin temel problemlerine yönelik bir görüşü, gerekçesi ve karşı görüşüyle değerlendirmek.
 
-**Süre:** 50 dk
+**Süre:** 60 dk
 
 **Öğretmen eylemi:** Öğretmen “Varlık değişmezdir”, “Varlık oluş hâlindedir” ve “Varlığın temelini madde açıklar” gibi iddia kartları verir. Öğrencilerin kişisel inanç açıklaması yapması istenmez; karttaki görüş üzerinden çalışma yapılır.
 
@@ -157,7 +158,7 @@ Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözet
 
 **Amaç:** Bir felsefi metinde kavram, problem, yargı ve argümanı; öncül–sonuç ilişkisini gözeterek incelemek.
 
-**Süre:** 50 dk
+**Süre:** 60 dk
 
 **Öğretmen eylemi:** Öğretmen, kısa ve bağlam bilgili bir metin üzerinde kavramın, problemin ve argümanın nasıl ayrıştırıldığını modelleyerek gösterir. Doğrudan alıntıların kaynak künyesi olmadan kullanılmayacağını açıklar.
 
@@ -171,7 +172,7 @@ Performans görevi için kullanılacak metinler, sınıfın okuma düzeyi gözet
 
 **Amaç:** Performans görevi için öğrenci ürününü, kavram–problem–argüman–değerlendirme ölçütleri bakımından planlamak.
 
-**Süre:** 30 dk
+**Süre:** 60 dk
 
 **Öğretmen eylemi:** Öğretmen performans görevi rubriğini açıklar; öğrencilere metin inceleme formu, kontrol listesi ve kabul edilebilir alternatif ürün biçimlerini tanıtır.
 

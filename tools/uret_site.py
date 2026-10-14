@@ -479,6 +479,10 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
     for report in reports:
         pages.append((report, SITE / "site" / "raporlar" / f"{report.stem}.html", "Rapor", "report"))
 
+    school_based = MUFREDAT / "okul-temelli-planlama.md"
+    if school_based.exists():
+        pages.append((school_based, SITE / "site" / "okul-temelli-planlama.html", "Programda ayrılmış 4 + 4 ders saati", "school"))
+
     sections: list[tuple[str, list[tuple[str, str, str]]]] = []
 
     def unit_labels(grade: str) -> dict[str, str]:
@@ -512,7 +516,7 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
             if items:
                 sections.append((title, items))
 
-    for kind, title in (("shared", "Ortak Materyaller"), ("report", "Denetim ve Durum Raporları")):
+    for kind, title in (("school", "Okul Temelli Planlama"), ("shared", "Ortak Materyaller"), ("report", "Denetim ve Durum Raporları")):
         items = [
             (page_href(output), page_title(source.read_text(encoding="utf-8"), humanize(source.stem)), subtitle)
             for source, output, subtitle, page_kind in pages

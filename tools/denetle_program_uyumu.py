@@ -88,6 +88,14 @@ def validate_record(record: dict, errors: list[str]) -> None:
                 )
 
 
+SUPERSEDED_NOTE = "Güncellik notu"
+
+
+def is_superseded(text: str) -> bool:
+    """Kendi güncellik notunu taşıyan belge tarihsel kayıttır; 2026 denetimine girmez."""
+    return f"**{SUPERSEDED_NOTE}" in text
+
+
 def validate_units(record: dict, findings: list[str]) -> None:
     known_codes = set(record["outcomes"])
     by_unit = {row["code"]: row for rows in record["units"].values() for row in rows}
@@ -106,6 +114,8 @@ def validate_units(record: dict, findings: list[str]) -> None:
             path = unit_files[0]
             label = str(path.relative_to(ROOT))
             text = path.read_text(encoding="utf-8")
+            if is_superseded(text):
+                continue
 
             hours = hours_of(field(text, "Ders Saati"))
             if hours is not None and hours != row["hours"]:
@@ -129,6 +139,8 @@ def validate_units(record: dict, findings: list[str]) -> None:
 
     for path in material_files():
         text = path.read_text(encoding="utf-8")
+        if is_superseded(text):
+            continue
         for code in sorted(set(OUTCOME_CODE.findall(text)) - known_codes):
             findings.append(f"{str(path.relative_to(ROOT))}: {code} kodu programda tanımlı değil")
 
@@ -138,6 +150,8 @@ def validate_citation(record: dict, findings: list[str]) -> None:
     for path in material_files():
         label = str(path.relative_to(ROOT))
         text = path.read_text(encoding="utf-8")
+        if is_superseded(text):
+            continue
         problems: list[str] = []
         years = {match["year"] for match in YEAR_MENTION.finditer(text)} - {year}
         if years:
