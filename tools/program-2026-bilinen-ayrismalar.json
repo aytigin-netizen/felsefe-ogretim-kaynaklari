@@ -2,6 +2,6 @@
   "schemaVersion": "1.0.0",
   "programYear": 2026,
   "recordedAt": "2026-10-14",
-  "description": "Materyallerin 2026 programina uyumu tamamlandi; acik sapma kalmadi. Bu liste, program uyumu denetimi (tools/denetle_program_uyumu.py --kaydet) tarafindan yeni bir sapma bulunursa yeniden doldurulur.",
+  "description": "Materyallerin 2026 programına uyumu tamamlandı; açık sapma kalmadı. Bu liste, program uyumu denetimi (tools/denetle_program_uyumu.py --kaydet) tarafından yeni bir sapma bulunursa yeniden doldurulur.",
   "deviations": []
 }
