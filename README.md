@@ -39,7 +39,8 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 on
 │       ├── ortak-materyaller/                   # Ortak form sayfaları
 │       └── raporlar/                            # Denetim raporlarının sayfaları
 ├── tools/
-│   └── denetle_yapisal_kalite.py                # Tekrarlanabilir yapısal denetim
+│   ├── denetle_yapisal_kalite.py                # Tekrarlanabilir yapısal denetim
+│   └── uret_site.py                             # Markdown materyallerinden site üretimi
 ├── .github/workflows/
 │   └── yapisal-kalite-denetimi.yml              # Ana dal kalite kontrolü
 └── README.md
@@ -84,7 +85,14 @@ Depodaki tüm materyaller okunabilir statik HTML sayfaları olarak `docs/` klas�
 
 Ana sayfa `docs/index.html`; ünite ve çalışma kâğıdı sayfaları `docs/site/10-sinif/`, `docs/site/11-sinif/`, `docs/site/ortak-materyaller/` ve `docs/site/raporlar/` klasörlerindedir.
 
-Yayım `main` dalının `/docs` klasöründen yapılır; bir `main` birleştirmesi siteyi otomatik olarak günceller. Markdown kaynaklar güncellendiğinde ilgili HTML sayfalarının da yeniden üretilmesi gerekir: sayfa köklerindeki `← Ana Sayfa` bağlantısı site kökünden iki seviye aşağıda olduğu için `../../index.html` olmalıdır. Yapısal denetim, sitedeki yerel ve depo içi GitHub bağlantılarını her değişiklikte doğrular.
+Yayım `main` dalının `/docs` klasöründen yapılır; bir `main` birleştirmesi siteyi otomatik olarak günceller. Sayfalar elle yazılmaz: `tools/uret_site.py`, `mufredat/` altındaki ünite, çalışma kâğıdı, ek soru seti ve ortak materyal dosyaları ile `docs/` altındaki raporları okuyup 43 sayfayı üretir.
+
+```bash
+python tools/uret_site.py          # sayfaları yeniden üretir
+python tools/uret_site.py --check  # depodaki sayfalar güncel mi diye bakar
+```
+
+Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleşik isteği durdurur.
 
 ## Yapısal Kalite Denetimi
 
@@ -94,7 +102,7 @@ Depodaki her değişiklikte ünite ve çalışma kâğıdı sayısı, ders saati
 python tools/denetle_yapisal_kalite.py
 ```
 
-Ana dala gönderilen değişiklikler ve ana dala açılan birleştirme istekleri için aynı kontrol otomatik olarak çalışır. Bu denetim yalnızca yapısal tutarlılığı doğrular; program uyumu, felsefi doğruluk, telif, kaynak güncelliği ve sınıf içi uygulanabilirlik ayrıca pedagojik inceleme gerektirir.
+Ana dala gönderilen değişiklikler ve ana dala açılan birleştirme istekleri için aynı kontrol ve `uret_site.py --check` otomatik olarak çalışır. Bu denetim yalnızca yapısal tutarlılığı doğrular; program uyumu, felsefi doğruluk, telif, kaynak güncelliği ve sınıf içi uygulanabilirlik ayrıca pedagojik inceleme gerektirir.
 
 ## Katkıda Bulunma
 
