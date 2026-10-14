@@ -65,5 +65,3 @@ Ardından dış bağlantıların erişilebilirliği, kaynakların güncelliği, 
 ## 5. Referanslar
 
 [1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
-
-[2]: `/home/ubuntu/skills/felsefe-ogretmeni/references/quality-protocol.md` "Felsefe öğretim kaynakları kalite protokolü"
