@@ -1,0 +1,278 @@
+{
+  "schemaVersion": "1.0.0",
+  "programYear": 2026,
+  "recordedAt": "2026-10-14",
+  "description": "Materyaller resmî 2026 programına göre yeniden yazılana kadar açık kalan sapmalar. Her madde 2. ve 3. adımda kapatılır; kapandıkça bu listeden düşer.",
+  "deviations": [
+    {
+      "file": "README.md",
+      "detail": "program yılı 2024 yazılmış, kayıt 2026; program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "docs/denetim-pedagojik-2-tur.md",
+      "detail": "FEL.10.3.2 kodu programda tanımlı değil",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "docs/denetim-pedagojik-2-tur.md",
+      "detail": "program yılı 2024 yazılmış, kayıt 2026; ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "docs/denetim-raporu-11-sinif.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "docs/denetim-raporu.md",
+      "detail": "FEL.10.4.2 kodu programda tanımlı değil",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "docs/denetim-raporu.md",
+      "detail": "FEL.10.5.2 kodu programda tanımlı değil",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "docs/durum-raporu.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "docs/kalite-denetimi-ilk-bulgular.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "docs/kaynak-envanteri.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
+      "detail": "FEL.10.1.2 kodu programda tanımlı değil",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
+      "detail": "FEL.10.1.2 kodu programda yok (program çıktıları: FEL.10.1.1)",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/01-felsefenin-dogasi.md",
+      "detail": "öğrenme çıktısı sayısı 2, programda 1",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
+      "detail": "ders saati 8, programda 6",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
+      "detail": "programın FEL.10.2.2 çıktısı materyalde geçmiyor",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
+      "detail": "öğrenme çıktısı sayısı 1, programda 2",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/03-varlik-felsefesi.md",
+      "detail": "ders saati 8, programda 10",
+      "kind": "içerik",
+      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
+    },
+    {
+      "file": "mufredat/10-sinif/03-varlik-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/04-bilgi-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/05-ahlak-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/06-estetik-sanat-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/07-siyaset-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/08-din-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/09-bilim-felsefesi.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/02-mantik-argumantasyon-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/03-varlik-felsefesi-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/04-bilgi-felsefesi-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/05-ahlak-felsefesi-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/06-estetik-sanat-felsefesi-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/calisma-kagitlari/07-siyaset-felsefesi-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/10-sinif/ek-soru-setleri-diyalog.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/01-cevre-sorunlari-felsefe.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/02-teknoloji-ve-hayat.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/03-akil-ve-inanc.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/04-edebiyat-ve-felsefe.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/05-hayatin-anlami.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/06-hukuk-ve-felsefe.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/01-cevre-sorunlari-felsefe-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/02-teknoloji-ve-hayat-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/03-akil-ve-inanc-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/04-edebiyat-ve-felsefe-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/05-hayatin-anlami-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/calisma-kagitlari/06-hukuk-ve-felsefe-ck.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    },
+    {
+      "file": "mufredat/11-sinif/ek-soru-setleri-forum.md",
+      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/); program bağlantısı kayıttaki güncel adresi kullanmıyor",
+      "kind": "atıf",
+      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
+    }
+  ]
+}
