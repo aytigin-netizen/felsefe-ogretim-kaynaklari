@@ -20,14 +20,14 @@ jobs:
           grep -rl "$OLD" --include='*.md' . | while read -r f; do
             sed -i "s|$OLD|$NEW|g" "$f"
           done
-          grep -rl 'Siniflar), 2024' --include='*.md' . | while read -r f; do
-            sed -i 's|Siniflar), 2024"|Siniflar), 2026"|g' "$f"
+          grep -rl 'Sınıflar), 2024' --include='*.md' . | while read -r f; do
+            sed -i 's|Sınıflar), 2024"|Sınıflar), 2026"|g' "$f"
           done
-          if grep -rq '2024programfel1011Onayli' .; then
+          if grep -rq --include='*.md' '2024programfel1011Onayli' .; then
             echo 'ESKI BAGLANTI KALDI'; exit 1
           fi
-          echo '--- kalan 2024 gecmeleri ---'
-          grep -rn '2024' --include='*.md' . || echo 'yok'
+          echo '--- md icinde kalan 2024 gecmeleri ---'
+          grep -rn --include='*.md' '2024' . || echo 'yok'
 
       - name: Siteyi yeniden uret
         run: python tools/uret_site.py
@@ -44,5 +44,5 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
           git diff --cached --quiet && echo 'degisiklik yok' && exit 0
-          git commit -m 'atif: olu 2024 program baglantisini 2026 programi PDF baglantisiyla degistir, siteyi yeniden uret'
+          git commit -m 'atif: olu 2024 program baglantisini 2026 programi PDF baglantisiyla degistir, dipnot yilini 2026 yap, siteyi yeniden uret'
           git push
