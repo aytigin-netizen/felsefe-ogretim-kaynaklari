@@ -26,3 +26,6 @@ jobs:
 
       - name: Yapısal kalite denetimini çalıştır
         run: python tools/denetle_yapisal_kalite.py
+
+      - name: Statik sitenin üretimle uyuştuğunu doğrula
+        run: python tools/uret_site.py --check
