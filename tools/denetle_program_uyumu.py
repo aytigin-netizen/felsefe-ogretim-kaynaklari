@@ -30,6 +30,8 @@ UNIT_FILE = re.compile(r"^\d\d-")
 FIELD = re.compile(r"^\|\s*\*\*(?P<key>[^*|]+)\*\*\s*\|\s*(?P<value>[^|]+?)\s*\|", re.MULTILINE)
 OUTCOME_CODE = re.compile(r"FEL\.(?:10|11)\.\d+\.\d+")
 YEAR_MENTION = re.compile(r"(?P<year>20\d\d)\s*(?:onaylı|yılı|öğretim programı|programı)", re.IGNORECASE)
+# 2024 programına ait, artık erişilemeyen bağlantı kalıpları. Programın ders
+# sayfası (tymm.meb.gov.tr/ogretim-programlari/ders/felsefe-dersi) geçerlidir.
 DEAD_SOURCE_MARKERS = ("2024programfel1011Onayli", "tymm.meb.gov.tr/upload/program/")
 
 
@@ -143,8 +145,6 @@ def validate_citation(record: dict, findings: list[str]) -> None:
         dead = sorted(marker for marker in DEAD_SOURCE_MARKERS if marker in text)
         if dead:
             problems.append(f"ölü program bağlantısı ({', '.join(dead)})")
-        if "tymm.meb.gov.tr" in text and "tymm.meb.gov.tr/assets/pdf" not in text:
-            problems.append("program bağlantısı kayıttaki güncel adresi kullanmıyor")
         if problems:
             findings.append(f"{label}: " + "; ".join(problems))
 
@@ -168,7 +168,7 @@ def save_deviations() -> int:
     deviations = []
     for finding in sorted(set(findings)):
         path, _, detail = finding.partition(": ")
-        kind = CITATION if "program" in detail and ("bağlantı" in detail or "yılı" in detail) else CONTENT
+        kind = CITATION if "bağlantı" in detail or "yılı" in detail else CONTENT
         deviations.append(
             {
                 "file": path,

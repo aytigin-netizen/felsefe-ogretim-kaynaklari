@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
 import re
 import sys
 from pathlib import Path
@@ -25,11 +26,17 @@ REPO = "aytigin-netizen/felsefe-ogretim-kaynaklari"
 REPO_URL = f"https://github.com/{REPO}"
 BLOB = f"{REPO_URL}/blob/main"
 SITE_NAME = "Felsefe Öğretim Kaynakları"
-CURRICULUM_PDF = "https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf"
+PROGRAM_RECORD = MUFREDAT / "program-2026-ozet.json"
 SUPPLEMENT_LABELS = {
     "ek-soru-setleri-diyalog": "Diyalog Kurgulu Ek Soru Setleri",
     "ek-soru-setleri-forum": "Forum Kurgulu Ek Soru Setleri",
 }
+
+
+def program_source() -> dict:
+    """Resmî programın yılı ve bağlantısı tek yerden: program kaydı."""
+    record = json.loads(PROGRAM_RECORD.read_text(encoding="utf-8"))
+    return record["source"]
 
 PAGE_CSS = (
     'body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.7;'
@@ -344,6 +351,7 @@ def relative_home(output: Path) -> str:
 
 def render_page(title: str, body: str, output: Path, source: Path, source_label: str) -> str:
     source_href = f"{BLOB}/{source.relative_to(ROOT).as_posix()}"
+    program = program_source()
     return (
         '<!doctype html><html lang="tr"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -352,7 +360,7 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
         f"<main>\n{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
-        f'<a href="{CURRICULUM_PDF}">MEB Felsefe Dersi Öğretim Programı</a>.</footer></body></html>'
+        f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer></body></html>'
     )
 
 
@@ -386,8 +394,9 @@ def render_index(sections: list[tuple[str, list[tuple[str, str, str]]]]) -> str:
         f"<style>{INDEX_CSS}</style></head><body><div class=\"wrap\">",
         '<div class="hero">',
         f"<h1>{escape(SITE_NAME)}</h1>",
-        "<p>MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2024 onaylı) "
-        "için açık kaynaklı, doğrudan uygulanabilir 10. ve 11. sınıf öğretim materyalleri.</p>",
+        "<p>MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı "
+        f"({program_source()['year']} onaylı) için açık kaynaklı, doğrudan uygulanabilir "
+        "10. ve 11. sınıf öğretim materyalleri.</p>",
         '<div class="badges">',
         f'<span class="badge">{unit_total} ünite materyali</span>',
         f'<span class="badge">{worksheet_total} çalışma kâğıdı</span>',
