@@ -5,43 +5,13 @@
   "description": "Materyaller resmî 2026 programına göre yeniden yazılana kadar açık kalan sapmalar. Her madde 2. ve 3. adımda kapatılır; kapandıkça bu listeden düşer.",
   "deviations": [
     {
-      "file": "docs/denetim-pedagojik-2-tur.md",
-      "detail": "FEL.10.3.2 kodu programda tanımlı değil",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "docs/denetim-pedagojik-2-tur.md",
-      "detail": "program yılı 2024 yazılmış, kayıt 2026; ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
-      "kind": "atıf",
-      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
-    },
-    {
       "file": "docs/denetim-raporu-11-sinif.md",
       "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
       "kind": "atıf",
       "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
     },
     {
-      "file": "docs/denetim-raporu.md",
-      "detail": "FEL.10.4.2 kodu programda tanımlı değil",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "docs/denetim-raporu.md",
-      "detail": "FEL.10.5.2 kodu programda tanımlı değil",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
       "file": "docs/durum-raporu.md",
-      "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
-      "kind": "atıf",
-      "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
-    },
-    {
-      "file": "docs/kalite-denetimi-ilk-bulgular.md",
       "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
       "kind": "atıf",
       "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
@@ -78,33 +48,9 @@
     },
     {
       "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
-      "detail": "ders saati 8, programda 6",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
-      "detail": "programın FEL.10.2.2 çıktısı materyalde geçmiyor",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
       "detail": "ölü program bağlantısı (2024programfel1011Onayli, tymm.meb.gov.tr/upload/program/)",
       "kind": "atıf",
       "note": "4. adım: program yılı ve bağlantısının güncellenmesi"
-    },
-    {
-      "file": "mufredat/10-sinif/02-felsefe-mantik-argumantasyon.md",
-      "detail": "öğrenme çıktısı sayısı 1, programda 2",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
-    },
-    {
-      "file": "mufredat/10-sinif/03-varlik-felsefesi.md",
-      "detail": "ders saati 8, programda 10",
-      "kind": "içerik",
-      "note": "2. adım: ders saati, yüzde ve çıktı sayısı düzeltmeleri"
     },
     {
       "file": "mufredat/10-sinif/03-varlik-felsefesi.md",

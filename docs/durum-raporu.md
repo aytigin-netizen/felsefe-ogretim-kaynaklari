@@ -43,14 +43,15 @@ Aynı gün yürütülen ölçme-değerlendirme hizalama denetiminde, 15 çalış
 | Ünite | Başlık | Süre | Çalışma kâğıdı | Durum |
 |---:|---|---:|---|---|
 | 1 | Felsefenin Doğası | 10 saat | `01-felsefenin-dogasi-ck.md` | Tamamlandı; süre planı ve ortak form yönlendirmesi güncellendi |
-| 2 | Felsefe, Mantık ve Argümantasyon | 8 saat | `02-mantik-argumantasyon-ck.md` | Tamamlandı; ayrıntılı denetim ve süre düzeltmesi tamamlandı |
-| 3 | Varlık Felsefesi | 8 saat | `03-varlik-felsefesi-ck.md` | Tamamlandı; süre planı ve ortak form yönlendirmesi güncellendi |
+| 2 | Felsefe, Mantık ve Argümantasyon | 6 saat | `02-mantik-argumantasyon-ck.md` | Tamamlandı; 2026 programına göre 6 saate düzeltildi, FEL.10.2.2 eklendi |
+| 3 | Varlık Felsefesi | 10 saat | `03-varlik-felsefesi-ck.md` | Tamamlandı; 2026 programına göre 10 saate düzeltildi |
 | 4 | Bilgi Felsefesi | 8 saat | `04-bilgi-felsefesi-ck.md` | Tamamlandı ve denetim kaydı mevcut |
 | 5 | Ahlak Felsefesi | 8 saat | `05-ahlak-felsefesi-ck.md` | Tamamlandı ve denetim kaydı mevcut |
 | 6 | Estetik ve Sanat Felsefesi | 6 saat | `06-estetik-sanat-felsefesi-ck.md` | Tamamlandı ve denetim kaydı mevcut |
 | 7 | Siyaset Felsefesi | 8 saat | `07-siyaset-felsefesi-ck.md` | Tamamlandı ve denetim kaydı mevcut |
 | 8 | Din Felsefesi | 6 saat | `08-din-felsefesi-ck.md` | Tamamlandı; süre planı ve ortak form yönlendirmesi güncellendi |
 | 9 | Bilim Felsefesi | 6 saat | `09-bilim-felsefesi-ck.md` | Tamamlandı; süre planı ve ortak form yönlendirmesi güncellendi |
+| — | Okul Temelli Planlama | 4 saat | — | `mufredat/okul-temelli-planlama.md` (iki sınıf düzeyinde de 4 saat) |
 
 ## 2. Ünite Denetim Sonucu
 

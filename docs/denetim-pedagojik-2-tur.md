@@ -10,6 +10,8 @@
 
 ## 1. Yönetici Özeti
 
+> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2024 onaylı programa göre yazıldığı dönemde yapılan denetimi kaydeder. Resmî kaynak artık **2026** Felsefe Dersi Öğretim Programı'dır. Bu raporda geçen `FEL.10.3.2`, `FEL.10.4.2` ve `FEL.10.5.2` kodları 2026 programında karşılığı bulunmayan, 2024 dönemine ait kodlardır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
+
 İkinci tur denetimde, resmî öğrenme çıktılarının tam metni; ünite materyallerindeki hedefler, sınıf etkinlikleri, öğrenci ürünleri ve ölçme araçlarıyla karşılaştırılmıştır. **On dört ünitede** resmî çıktı metni ile materyaldeki hedef ifadesi eşleşmektedir. 11. sınıfın altı ünitesinde, felsefi soru ve problemi anlama aşamasından gerekçeli görüş, argüman ve felsefi metin üretimine ilerleyen pedagojik akış görünürdür.
 
 Buna karşılık, **10. sınıf 3. ünite Varlık Felsefesi** resmî çıktıyla uyumlu olmayan iki hedef kodu ve farklı bir hedef metni içerdiği için **P0 önceliğinde düzeltme** gerektirir. Ayrıca tüm materyal setinde ölçme araçlarının hangi resmî çıktıyı hangi öğrenci ürünü ve rubrik ölçütüyle değerlendirdiğini gösteren ortak bir izlenebilirlik matrisi yoktur. Bu eksiklik, içeriklerin mutlaka hatalı olduğu anlamına gelmez; fakat değerlendirme geçerliliğinin denetlenmesini ve öğretmen kullanımını güçleştirir.

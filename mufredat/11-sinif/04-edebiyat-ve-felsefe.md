@@ -19,11 +19,11 @@ Bu ünite, öğrencilerin edebiyat–felsefe ilişkisine yönelik felsefi soru v
 
 ## Öğrenme Çıktıları
 
-### FEL.11.4.1 — Edebiyat-felsefe ilişkisi ile ilgili soru ve problemleri anlayabilme
+### FEL.11.4.1 — Edebiyat felsefe ilişkisi ile ilgili soru ve problemleri anlayabilme
 
 Öğrenciler edebiyat–felsefe ilişkisi ile ilgili felsefi soru ve problemleri açıklar; bu ilişki temelinde oluşan soru ve problemlerin hayatla ilişkisini değerlendirir.
 
-### FEL.11.4.2 — Edebiyat-felsefe ilişkisi ile ilgili felsefi düşünce ortaya koyabilme
+### FEL.11.4.2 — Edebiyat felsefe ilişkisi ile ilgili felsefi düşünce ortaya koyabilme
 
 Öğrenciler edebiyat–felsefe ilişkisi ile ilgili felsefi problemleri çözümler; felsefi görüş ve argüman oluşturur; edebiyat–felsefe ilişkisiyle ilgili felsefi metin yazar. [1]
 

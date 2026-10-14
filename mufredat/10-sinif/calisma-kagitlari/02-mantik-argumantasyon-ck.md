@@ -1,6 +1,6 @@
 # Çalışma Kâğıdı — 2. Ünite: Felsefe, Mantık ve Argümantasyon
 
-Bu çalışma kâğıdı, MEB onaylı programın 2. ünite öğrenme kanıtlarında yer alan **açık uçlu sorular**, **bulmaca**, **doğru/yanlış testi** ve **eşleştirme testi** araçlarını; FEL.10.2.1 öğrenme çıktısındaki düşünme–dil ilişkisini yorumlama, temel kavramları örneklendirme ve günlük dildeki argümanları standart forma dönüştürme uygulamalarını somutlaştırır. [1]
+Bu çalışma kâğıdı, MEB onaylı programın 2. ünitesinde yer alan **açık uçlu sorular**, **bulmaca**, **doğru/yanlış testi** ve **eşleştirme testi** araçlarını somutlaştırır. **FEL.10.2.1** kapsamında düşünme–dil ilişkisini mantık açısından inceleme ve ifadeleri mantıksal yapılarına göre çözümleme, **FEL.10.2.2** kapsamında mantığın temel kavramlarını yorumlama, argümanları önül–sonuç yapısına göre değerlendirme ve safsataları tanıma uygulamaları yer alır. [1]
 
 **Öğrencinin Adı Soyadı:** ____________________  **Tarih:** ____________
 
