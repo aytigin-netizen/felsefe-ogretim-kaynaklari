@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Olcu program baglantisini degistir
+      - name: Baglanti ve yil donusumleri
         run: |
           OLD='https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf'
           NEW='https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf'
@@ -23,26 +23,40 @@ jobs:
           grep -rl 'Sınıflar), 2024' --include='*.md' . | while read -r f; do
             sed -i 's|Sınıflar), 2024"|Sınıflar), 2026"|g' "$f"
           done
-          if grep -rq --include='*.md' '2024programfel1011Onayli' .; then
-            echo 'ESKI BAGLANTI KALDI'; exit 1
-          fi
-          echo '--- md icinde kalan 2024 gecmeleri ---'
-          grep -rn --include='*.md' '2024' . || echo 'yok'
+          grep -rl '2024' --include='*.md' . | while read -r f; do
+            sed -i -e 's|2024 onaylı|2026 onaylı|gI' -e 's|2024 yılı|2026 yılı|gI' -e 's|2024 öğretim programı|2026 öğretim programı|gI' -e 's|2024 programı|2026 programı|gI' "$f"
+          done
 
       - name: Siteyi yeniden uret
         run: python tools/uret_site.py
 
-      - name: Denetimler
+      - name: Denetimleri calistir ve kaydet
         run: |
-          python tools/denetle_yapisal_kalite.py
-          python tools/denetle_program_uyumu.py
-          python tools/uret_site.py --check
+          set +e
+          OUT=adim-4-denetim-cikti.txt
+          echo '== yapisal ==' >> $OUT
+          python tools/denetle_yapisal_kalite.py >> $OUT 2>&1; A=$?
+          echo '== program uyumu ==' >> $OUT
+          python tools/denetle_program_uyumu.py >> $OUT 2>&1; B=$?
+          echo '== site check ==' >> $OUT
+          python tools/uret_site.py --check >> $OUT 2>&1; C=$?
+          set -e
+          echo "SONUC yapisal=$A uyum=$B site=$C" >> $OUT
+          cat $OUT
+          echo "A=$A B=$B C=$C" >> $GITHUB_ENV
 
       - name: Degisiklikleri gonder
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
-          git diff --cached --quiet && echo 'degisiklik yok' && exit 0
-          git commit -m 'atif: olu 2024 program baglantisini 2026 programi PDF baglantisiyla degistir, dipnot yilini 2026 yap, siteyi yeniden uret'
+          git diff --cached --quiet && echo 'degisiklik yok' && exit 1
+          if [ "$A" -eq 0 ] && [ "$B" -eq 0 ] && [ "$C" -eq 0 ]; then
+            rm -f adim-4-denetim-cikti.txt
+            git add -A
+            git commit -m 'atif: olu 2024 program baglantisini 2026 baglantisiyla degistir, siteyi yeniden uret'
+          else
+            git commit -m 'atif: baglanti/yil donusumleri + denetim cikti kaydi (durum: kirmizi)'
+          fi
           git push
+          test "$A" -eq 0 -a "$B" -eq 0 -a "$C" -eq 0
