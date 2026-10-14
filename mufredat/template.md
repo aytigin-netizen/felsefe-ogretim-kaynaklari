@@ -189,5 +189,5 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 
 ## Kaynaklar
 
-- [MEB Felsefe Dersi Öğretim Programı](https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf)
+- [MEB Felsefe Dersi Öğretim Programı](https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf)
 - [Eser ve yazar doğru eşleştirilmiş kaynak listesi]

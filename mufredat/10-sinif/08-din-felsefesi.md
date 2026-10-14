@@ -319,7 +319,7 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 
 ## Kaynaklar
 
-- [T.C. MEB, Felsefe Dersi Öğretim Programı (onaylı PDF)](https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf)
+- [T.C. MEB, Felsefe Dersi Öğretim Programı (onaylı PDF)](https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf)
 - Augustinus. *İtiraflar*
 - Gazali. *İhyâ-u Ulûmi'd-Din*
 - İbni Rüşd. *Tutarsızlığın Tutarsızlığı* (Tehâfütü't-Tehâfüt)

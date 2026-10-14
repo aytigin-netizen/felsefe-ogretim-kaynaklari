@@ -279,6 +279,6 @@ Değerlendirme, izlenebilirlik matrisi ölçütleri ve `mufredat/ortak-materyall
 
 ## Kaynaklar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"
 
 [2]: https://www.ohchr.org/en/human-rights/universal-declaration/translations/turkish-turkce "İnsan Hakları Evrensel Beyannamesi — Türkçe, OHCHR"

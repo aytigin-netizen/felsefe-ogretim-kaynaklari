@@ -7,7 +7,7 @@
 
 ## 1. Kapsam ve Yöntem
 
-> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2024 onaylı programa göre yazıldığı dönemde yapılan ilk kalite denetimini kaydeder. Resmî kaynak artık **2026** programıdır. Raporda 10.3 Varlık Felsefesi için "resmî ders saati 10 saatten 8 saate düzeltildi" gerekçesiyle yapılan kısaltma **2026 programında geçerli değildir**; ünite 2026 programına göre yeniden 10 saate çıkarılmıştır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
+> **Güncellik notu (14 Ekim 2026):** Bu rapor, materyallerin 2026 onaylı programa göre yazıldığı dönemde yapılan ilk kalite denetimini kaydeder. Resmî kaynak artık **2026** programıdır. Raporda 10.3 Varlık Felsefesi için "resmî ders saati 10 saatten 8 saate düzeltildi" gerekçesiyle yapılan kısaltma **2026 programında geçerli değildir**; ünite 2026 programına göre yeniden 10 saate çıkarılmıştır. Güncel uyum durumu için `mufredat/program-2026-ozet.json` kaydına ve `python tools/denetle_program_uyumu.py` çıktısına bakınız.
 
 Bu ilk tur, her ünite için çalışma kâğıdı varlığını, öğrenme çıktısı kodunun sınıf ve üniteyle tutarlılığını, ölçme puanı toplamını, etkinlik sürelerinin resmî ders saatiyle ilişkisini, ortak değerlendirme formu yönlendirmelerini, yerel Markdown bağlantılarını ve satır sonu biçimini topluca taramıştır. Denetim, yalnızca dosya yapısı ve açık biçimde yazılmış sayısal göstergeler üzerinden yapılmıştır; felsefi doğruluk, sınıf uygulamasının gerçekçi süresi, dış bağlantıların HTTP erişilebilirliği ve kaynakların güncelliği sonraki turlarda ayrıca denetlenecektir.
 
@@ -66,4 +66,4 @@ Ardından dış bağlantıların erişilebilirliği, kaynakların güncelliği, 
 
 ## 5. Referanslar
 
-[1]: https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2024"
+[1]: https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf "MEB Felsefe Dersi Öğretim Programı (10 ve 11. Sınıflar), 2026"

@@ -301,7 +301,7 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 
 ## Kaynaklar
 
-- [T.C. MEB, Felsefe Dersi Öğretim Programı (onaylı PDF)](https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf)
+- [T.C. MEB, Felsefe Dersi Öğretim Programı (onaylı PDF)](https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf)
 - Reichenbach, H. *The Rise of Scientific Philosophy* (Bilimsel Felsefenin Doğuşu)
 - Popper, K. R. *The Logic of Scientific Discovery* (Bilimsel Araştırmaların Mantığı)
 - Sayılı, A. *Hayatta En Hakiki Mürşit İlimdir*
