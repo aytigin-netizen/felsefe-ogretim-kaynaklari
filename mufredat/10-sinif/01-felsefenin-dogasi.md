@@ -401,3 +401,5 @@ Bu matris, her resmî çıktının en az bir etkinlik, somut öğrenci ürünü 
 - Kant, I. *Prolegomena* ve *Saf Aklın Sınır Ötesi Eleştirisi*
 - Mengüşoğlu, T. *Felsefeye Giriş*
 - Blackburn, S. (1999). *Think: A Compelling Introduction to Philosophy*. Oxford University Press
+
+<!-- geçici kayma denemesi -->
