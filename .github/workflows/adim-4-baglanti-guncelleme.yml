@@ -1,0 +1,48 @@
+name: Adim 4 baglanti guncelleme (gecici)
+
+on:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    if: github.ref == 'refs/heads/adim-4-atif-2026-baglantilari'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Olcu program baglantisini degistir
+        run: |
+          OLD='https://tymm.meb.gov.tr/upload/program/2024programfel1011Onayli.pdf'
+          NEW='https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi_20260819_142831_736.pdf'
+          grep -rl "$OLD" --include='*.md' . | while read -r f; do
+            sed -i "s|$OLD|$NEW|g" "$f"
+          done
+          grep -rl 'Siniflar), 2024' --include='*.md' . | while read -r f; do
+            sed -i 's|Siniflar), 2024"|Siniflar), 2026"|g' "$f"
+          done
+          if grep -rq '2024programfel1011Onayli' .; then
+            echo 'ESKI BAGLANTI KALDI'; exit 1
+          fi
+          echo '--- kalan 2024 gecmeleri ---'
+          grep -rn '2024' --include='*.md' . || echo 'yok'
+
+      - name: Siteyi yeniden uret
+        run: python tools/uret_site.py
+
+      - name: Denetimler
+        run: |
+          python tools/denetle_yapisal_kalite.py
+          python tools/denetle_program_uyumu.py
+          python tools/uret_site.py --check
+
+      - name: Degisiklikleri gonder
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --cached --quiet && echo 'degisiklik yok' && exit 0
+          git commit -m 'atif: olu 2024 program baglantisini 2026 programi PDF baglantisiyla degistir, siteyi yeniden uret'
+          git push
