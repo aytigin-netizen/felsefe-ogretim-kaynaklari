@@ -978,7 +978,9 @@ def build() -> dict[Path, str]:
             component_cursor = 0
             concept_cursor = 0
             unit_slug = Path(unit_file).stem.partition("-")[2]
-            ck_file = "{:02d}-{}-ck.md".format(meta["no"], unit_slug)
+            ck_candidates = sorted((MUFREDAT / grade_dir / "calisma-kagitlari").glob("{:02d}-*-ck.md".format(meta["no"])))
+            assert ck_candidates, f"{unit_file}: çalışma kâğıdı bulunamadı"
+            ck_file = ck_candidates[0].name
             for w in range(week_count):
                 c_count = component_counts[w]
                 k_count = concept_counts[w]
