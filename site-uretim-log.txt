@@ -1,11 +1,8 @@
-  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/gecici_plan_patch.py", line 11
-    s = s.replace(a, a + '
-                         ^
-SyntaxError: unterminated string literal (detected at line 11)
-PATCH_EXIT=1
-48 sayfa üretildi: docs
+uret_site.py yamasi uygulandi
+PATCH_EXIT=0
+120 sayfa üretildi: docs
 SITE_EXIT=0
-Statik site güncel: 48 dosya üretimle birebir aynı.
+Statik site güncel: 120 dosya üretimle birebir aynı.
 SITE_CHECK_EXIT=0
 Haftalık planlar güncel: 72 dosya üretimle birebir aynı.
 PLAN_CHECK_EXIT=0
@@ -15,9 +12,9 @@ Yapısal kalite denetimi BAŞARILI.
 - Her ünitede ders saati, öğrenme çıktısı kodu ve 100 puanlık ölçme yapısı doğrulandı
 - Her sınıf düzeyinde ek soru setleri tüm üniteleri kurgu, soru ve öğretmen notuyla kapsıyor
 - Depo kapsamındaki Markdown dosyalarında bozuk yerel bağlantı bulunmadı
-- Statik sitedeki 44 sayfanın yerel ve depo bağlantıları doğrulandı
+- Statik sitedeki 116 sayfanın yerel ve depo bağlantıları doğrulandı
 KALITE_EXIT=0
 === plan sayfa sayisi ===
-0
+72
 === ana sayfada plan kartlari ===
-0
+72
