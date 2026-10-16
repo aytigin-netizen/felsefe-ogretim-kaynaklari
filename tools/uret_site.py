@@ -59,7 +59,7 @@ PAGE_CSS = (
     "a{color:#2b4c7e}"
     "nav.top{background:#2b4c7e;color:#fff;padding:10px 20px}"
     "nav.top a{color:#fff;text-decoration:none;font-weight:600}"
-    "footer{margin-top:60px;padding-top:16px;border-top:1px solid #d5dae2;font-size:.85rem;color:#889}"
+    "footer{margin-top:60px;padding-top:16px;border-top:1px solid #d5dae2;font-size:.85rem;color:#5a6472}"
     ".page-actions{margin:20px 0 4px;display:flex;gap:10px}"
     ".page-actions button{background:#2b4c7e;color:#fff;border:none;border-radius:8px;"
     "padding:8px 16px;font-size:14px;cursor:pointer}"
@@ -78,7 +78,12 @@ PAGE_CSS = (
     "details.cevap[open]>summary{border-bottom:1px solid #d5dae2;border-radius:8px 8px 0 0}"
     "details.cevap h2{margin-top:14px}"
     "details.cevap>*:last-child{margin-bottom:14px}"
-    "@media print{nav.top,footer,.page-actions,.cink{display:none!important}"
+    ":focus-visible{outline:3px solid #2b4c7e;outline-offset:2px}"
+    ".atla{position:absolute;left:-9999px;top:0;background:#fff;color:#2b4c7e;"
+    "padding:10px 16px;z-index:10;font-weight:600;text-decoration:none}"
+    ".atla:focus{left:0}"
+    "details.cevap>summary:focus-visible{outline-offset:-3px}"
+    "@media print{nav.top,footer,.page-actions,.cink,.atla{display:none!important}"
     "body{background:#fff;color:#000}main{max-width:none;padding:0}"
     "a{color:#1f2430}pre,blockquote,table,tr{page-break-inside:avoid}}"
     "@media (max-width:640px){.icindekiler ul{columns:1}}"
@@ -102,9 +107,9 @@ INDEX_CSS = (
     "text-decoration:none;color:#222;transition:box-shadow .15s,transform .15s}"
     ".card:hover{box-shadow:0 4px 14px rgba(59,47,20,.14);transform:translateY(-2px)}"
     ".card-title{font-weight:600;color:#3b2f14;margin-bottom:4px}"
-    ".card-sub{font-size:13px;color:#8a8062}"
+    ".card-sub{font-size:13px;color:#6b6350}"
     "footer{margin-top:48px;padding-top:18px;border-top:1px solid #e5ddc8;font-size:14px;"
-    "color:#8a8062}"
+    "color:#6b6350}"
     "footer a{color:#7a5c2e}"
     ".arama{margin:0 0 20px}"
     ".arama input{width:100%;box-sizing:border-box;padding:12px 16px;font-size:16px;"
@@ -119,8 +124,13 @@ INDEX_CSS = (
     "padding:12px 16px;margin-bottom:8px;text-decoration:none;color:#222}"
     ".sonuc:hover{box-shadow:0 4px 14px rgba(59,47,20,.14)}"
     ".sonuc-baslik{font-weight:600;color:#3b2f14}"
-    ".sonuc-alt{font-size:13px;color:#8a8062;margin-top:2px}"
-    ".sonuc-yok{color:#8a8062}"
+    ".sonuc-alt{font-size:13px;color:#6b6350;margin-top:2px}"
+    ".sonuc-yok{color:#6b6350}"
+    ":focus-visible{outline:3px solid #c9a227;outline-offset:2px}"
+    ".atla{position:absolute;left:-9999px;top:0;background:#fff;color:#3b2f14;"
+    "padding:10px 16px;z-index:10;font-weight:600;text-decoration:none}"
+    ".atla:focus{left:0}"
+    "@media (prefers-reduced-motion:reduce){.card,.card:hover{transition:none;transform:none}}"
 )
 
 REFERENCE_DEFINITION = re.compile(r"^\[([^\]]+)\]:\s*(\S+)(?:\s+\"(.*)\")?\s*$")
@@ -216,8 +226,8 @@ def table_row(line: str) -> list[str]:
 
 def render_table(rows: list[list[str]], source: Path, references: dict) -> str:
     header, *body = rows
-    parts = ["<table><thead><tr>"]
-    parts += [f"<th>{render_inline(cell, source, references)}</th>" for cell in header]
+    parts = ['<table><thead><tr>']
+    parts += [f'<th scope="col">{render_inline(cell, source, references)}</th>' for cell in header]
     parts.append("</tr></thead><tbody>")
     for row in body:
         parts.append("<tr>")
@@ -475,7 +485,10 @@ function uygula() {
 cipler.forEach(function (cip) {
   cip.addEventListener("click", function () {
     aktif = { g: cip.getAttribute("data-g") || "", k: cip.getAttribute("data-k") || "" };
-    cipler.forEach(function (c) { c.classList.toggle("aktif", c === cip); });
+    cipler.forEach(function (c) {
+      c.classList.toggle("aktif", c === cip);
+      c.setAttribute("aria-pressed", c === cip ? "true" : "false");
+    });
     uygula();
   });
 });
@@ -631,8 +644,9 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">'
         f"{favicon_link(output)}"
         f"<style>{PAGE_CSS}</style></head><body>"
+        '<a class="atla" href="#icerik">İçeriğe atla</a>'
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
-        '<main>\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
+        '<main id="icerik">\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
         f"{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
         f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer></body></html>'
@@ -675,7 +689,10 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         '<meta property="og:locale" content="tr_TR">',
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">',
         favicon_link(SITE / "index.html"),
-        f"<style>{INDEX_CSS}</style></head><body><div class=\"wrap\">",
+        f"<style>{INDEX_CSS}</style></head><body>",
+        '<a class="atla" href="#icerik">İçeriğe atla</a>',
+        '<div class="wrap">',
+        '<main id="icerik">',
         '<div class="hero">',
         f"<h1>{escape(SITE_NAME)}</h1>",
         "<p>MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı "
@@ -691,14 +708,14 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         '<input id="arama" type="search" placeholder="Materyal ara: ünite, konu, filozof, kazanım…" '
         'aria-label="Materyal ara">',
         '<div class="cips" role="group" aria-label="Filtreler">',
-        '<button type="button" class="cip aktif">Tümü</button>',
-        '<button type="button" class="cip" data-g="10">10. Sınıf</button>',
-        '<button type="button" class="cip" data-g="11">11. Sınıf</button>',
-        '<button type="button" class="cip" data-k="unite">Üniteler</button>',
-        '<button type="button" class="cip" data-k="calisma-kagidi">Çalışma Kâğıtları</button>',
-        '<button type="button" class="cip" data-k="ek-soru-seti">Ek Soru Setleri</button>',
-        '<button type="button" class="cip" data-k="ortak-materyal">Ortak Materyaller</button>',
-        '<button type="button" class="cip" data-k="rapor">Raporlar</button>',
+        '<button type="button" class="cip aktif" aria-pressed="true">Tümü</button>',
+        '<button type="button" class="cip" data-g="10" aria-pressed="false">10. Sınıf</button>',
+        '<button type="button" class="cip" data-g="11" aria-pressed="false">11. Sınıf</button>',
+        '<button type="button" class="cip" data-k="unite" aria-pressed="false">Üniteler</button>',
+        '<button type="button" class="cip" data-k="calisma-kagidi" aria-pressed="false">Çalışma Kâğıtları</button>',
+        '<button type="button" class="cip" data-k="ek-soru-seti" aria-pressed="false">Ek Soru Setleri</button>',
+        '<button type="button" class="cip" data-k="ortak-materyal" aria-pressed="false">Ortak Materyaller</button>',
+        '<button type="button" class="cip" data-k="rapor" aria-pressed="false">Raporlar</button>',
         "</div></div>",
         '<div id="sonuclar" class="sonuclar" hidden aria-live="polite"></div>',
     ]
@@ -708,6 +725,7 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         parts.append('<div class="cards">')
         parts += [card(href, item_title, subtitle, grade, kind) for href, item_title, subtitle, grade, kind in items]
         parts.append("</div></section>")
+    parts.append("</main>")
     parts.append(
         f'<footer>{escape(SITE_NAME)} · Kaynak dosyalar ve sürüm geçmişi: '
         f'<a href="{REPO_URL}">GitHub deposunda</a>.</footer>'

@@ -98,9 +98,11 @@ python tools/uret_site.py          # sayfaları yeniden üretir
 python tools/uret_site.py --check  # depodaki sayfalar güncel mi diye bakar
 ```
 
-Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleşik isteği durdurur.
+Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleştirme isteğini durdurur.
 
 Ana sayfa, materyaller arasında sayfa içeriğini de tarayan anahtar kelime araması ve sınıf/tür filtreleri sunar (arama altyapısı: `docs/arama-index.json`). İçerik sayfalarında yazdırma (PDF) düğmesi ve katlanabilir cevap anahtarı bulunur. Uzun sayfaların başında içindekiler kutusu, her başlığın yanında ise kopyalanabilir çıpa bağlantısı (`#`) yer alır; çıpalar Türkçe karakterlerden arındırılmış kısa adresler üretir. Üretim ayrıca arama motorları için `docs/sitemap.xml` ve `docs/robots.txt` dosyalarını yazar.
+
+Site erişilebilirlik temelleriyle üretilir: her sayfada klavye kullanıcıları için "İçeriğe atla" bağlantısı, tüm etkileşimli öğelerde görünür odak halkası, WCAG AA için düzeltilmiş metin kontrastları, tablolarda `scope` özniteliği, filtre düğmelerinde `aria-pressed` durumu ve `prefers-reduced-motion` desteği bulunur.
 
 ## Resmî Program Uyumu
 
