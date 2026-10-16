@@ -20,6 +20,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlencode
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "docs"
@@ -35,6 +36,7 @@ SUPPLEMENT_LABELS = {
     "ek-soru-setleri-diyalog": "Diyalog Kurgulu Ek Soru Setleri",
     "ek-soru-setleri-forum": "Forum Kurgulu Ek Soru Setleri",
 }
+FEEDBACK_LABEL = "Geri bildirim"
 
 
 def program_source() -> dict:
@@ -68,10 +70,10 @@ PAGE_CSS = (
     "nav.top{background:var(--vurgu);color:#fff;padding:10px 20px}"
     "nav.top a{color:#fff;text-decoration:none;font-weight:600}"
     "footer{margin-top:60px;padding-top:16px;border-top:1px solid var(--kenar);font-size:.85rem;color:var(--altmetin)}"
-    ".page-actions{margin:20px 0 4px;display:flex;gap:10px}"
-    ".page-actions button{background:var(--vurgu);color:#fff;border:none;border-radius:8px;"
-    "padding:8px 16px;font-size:14px;cursor:pointer}"
-    ".page-actions button:hover{filter:brightness(.85)}"
+    ".page-actions{margin:20px 0 4px;display:flex;gap:10px;flex-wrap:wrap}"
+    ".page-actions button,.page-actions a.dugme{background:var(--vurgu);color:#fff;border:none;border-radius:8px;"
+    "padding:8px 16px;font-size:14px;cursor:pointer;text-decoration:none;display:inline-block}"
+    ".page-actions button:hover,.page-actions a.dugme:hover{filter:brightness(.85)}"
     ".icindekiler{border:1px solid var(--kenar);border-radius:8px;background:var(--panel);margin:20px 0;padding:12px 18px}"
     ".icindekiler h2{margin:0 0 8px;font-size:1.1rem}"
     ".icindekiler ul{list-style:none;margin:0;padding:0;columns:2;column-gap:28px}"
@@ -530,8 +532,17 @@ TEMA_SCRIPT = """<script>
 "use strict";
 var kok = document.documentElement;
 var dugme = document.getElementById("tema-dugme");
+var geri = document.getElementById("geri-bildirim");
+var geriTaban = geri ? geri.href : "";
 function etiket() {
   dugme.textContent = kok.getAttribute("data-tema") === "gece" ? "☀ Açık tema" : "☾ Karanlık tema";
+}
+function temaAdi() {
+  var t = kok.getAttribute("data-tema");
+  return t === "gece" ? "karanlık" : t === "gunduz" ? "açık" : "otomatik (sistem)";
+}
+function geriGuncelle() {
+  if (geri) { geri.href = geriTaban.replace("__TEMA__", encodeURIComponent(temaAdi())); }
 }
 if (dugme) {
   dugme.addEventListener("click", function () {
@@ -539,9 +550,11 @@ if (dugme) {
     kok.setAttribute("data-tema", yeni);
     try { localStorage.setItem("tema", yeni); } catch (e) {}
     etiket();
+    geriGuncelle();
   });
   etiket();
 }
+geriGuncelle();
 })();
 </script>"""
 
@@ -663,6 +676,24 @@ def relative_home(output: Path) -> str:
     return "../" * (len(output.relative_to(SITE).parts) - 1) + "index.html"
 
 
+def feedback_href(page_url: str, title: str, source_href: str = "") -> str:
+    """Sayfa URL'si ve tema bilgisiyle önceden doldurulmuş issue bağlantısı üretir.
+
+    Tema istemci tarafında belirlendiği için gövdede __TEMA__ yer tutucusu
+    bırakılır; sayfadaki tema betiği bu yer tutucuyu geçerli tema adıyla değiştirir.
+    """
+    body = (
+        f"## {FEEDBACK_LABEL}\n\n"
+        f"- Sayfa: {page_url}\n"
+        "- Tema: __TEMA__\n"
+    )
+    if source_href:
+        body += f"- Kaynak dosya: {source_href}\n"
+    body += "\n### Sorun ya da öneri\n\n( geri bildiriminizi buraya yazın )\n"
+    query = urlencode({"title": f"{FEEDBACK_LABEL}: {title}", "body": body})
+    return f"{REPO_URL}/issues/new?{query}"
+
+
 def render_page(title: str, body: str, output: Path, source: Path, source_label: str) -> str:
     source_href = f"{BLOB}/{source.relative_to(ROOT).as_posix()}"
     program = program_source()
@@ -694,7 +725,8 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         '<a class="atla" href="#icerik">İçeriğe atla</a>'
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
         '<main id="icerik">\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button>'
-        '<button type="button" id="tema-dugme" aria-label="Karanlık/açık tema arasında geçiş">☾ Karanlık tema</button></div>\n'
+        '<button type="button" id="tema-dugme" aria-label="Karanlık/açık tema arasında geçiş">☾ Karanlık tema</button>'
+        f'<a id="geri-bildirim" class="dugme" href="{escape(feedback_href(page_url, title, source_href), quote=True)}">💬 {FEEDBACK_LABEL}</a></div>\n'
         f"{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
         f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer>'
@@ -779,7 +811,8 @@ def render_index(sections: list[tuple[str, list]]) -> str:
     parts.append("</main>")
     parts.append(
         f'<footer>{escape(SITE_NAME)} · Kaynak dosyalar ve sürüm geçmişi: '
-        f'<a href="{REPO_URL}">GitHub deposunda</a>.</footer>'
+        f'<a href="{REPO_URL}">GitHub deposunda</a> · '
+        f'<a id="geri-bildirim" href="{escape(feedback_href(SITE_URL, SITE_NAME), quote=True)}">{FEEDBACK_LABEL}</a>.</footer>'
     )
     parts.append("</div>")
     parts.append(INDEX_SCRIPT)
