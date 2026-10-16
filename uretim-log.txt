@@ -1,0 +1,40 @@
+=== uret_plan.py calistiriliyor ===
+Traceback (most recent call last):
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 1036, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 1011, in main
+    produced = build()
+               ^^^^^^^
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 952, in build
+    assert concepts_auto, f"{unit_file}: anahtar kavramlar ayrıştırılamadı"
+           ^^^^^^^^^^^^^
+AssertionError: 03-varlik-felsefesi.md: anahtar kavramlar ayrıştırılamadı
+URET_EXIT_CODE=1
+=== --check ===
+Traceback (most recent call last):
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 1036, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 1011, in main
+    produced = build()
+               ^^^^^^^
+  File "/home/runner/work/felsefe-ogretim-kaynaklari/felsefe-ogretim-kaynaklari/tools/uret_plan.py", line 952, in build
+    assert concepts_auto, f"{unit_file}: anahtar kavramlar ayrıştırılamadı"
+           ^^^^^^^^^^^^^
+AssertionError: 03-varlik-felsefesi.md: anahtar kavramlar ayrıştırılamadı
+CHECK_EXIT_CODE=1
+=== yapisal kalite ===
+Yapısal kalite denetimi BAŞARILI.
+- 10. sınıf: 9 ünite ve 9 çalışma kâğıdı
+- 11. sınıf: 6 ünite ve 6 çalışma kâğıdı
+- Her ünitede ders saati, öğrenme çıktısı kodu ve 100 puanlık ölçme yapısı doğrulandı
+- Her sınıf düzeyinde ek soru setleri tüm üniteleri kurgu, soru ve öğretmen notuyla kapsıyor
+- Depo kapsamındaki Markdown dosyalarında bozuk yerel bağlantı bulunmadı
+- Statik sitedeki 44 sayfanın yerel ve depo bağlantıları doğrulandı
+=== dosya listesi ===
+mufredat/10-sinif/gunluk-planlar/hafta-01-felsefenin-dogasi.md
+mufredat/10-sinif/gunluk-planlar/hafta-02-felsefenin-dogasi.md
+mufredat/10-sinif/gunluk-planlar/hafta-03-felsefenin-dogasi.md
+mufredat/10-sinif/gunluk-planlar/hafta-04-felsefenin-dogasi.md
+mufredat/10-sinif/gunluk-planlar/hafta-05-felsefenin-dogasi.md
