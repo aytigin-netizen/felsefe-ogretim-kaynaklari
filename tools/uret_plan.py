@@ -441,7 +441,7 @@ def build() -> dict[Path, str]:
     produced: dict[Path, str] = {}
     for week in WEEK_CONFIG:
         year_week, monday, friday, holidays = weeks[week["year_week"] - 1]
-        unit_slug = UNIT_FILE.partition("-")[2]
+        unit_slug = Path(UNIT_FILE).stem.partition("-")[2]
         name = "hafta-{:02d}-{}.md".format(week["unit_week"], unit_slug)
         produced[OUTPUT_DIR / name] = render_week(
             week, year_week, monday, friday, holidays, components, concepts, topics, activities
