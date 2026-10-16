@@ -610,7 +610,13 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
     page_url = SITE_URL + output.relative_to(SITE).as_posix()
     description = meta_description(body)
     body, toc = add_heading_anchors(wrap_answer_keys(body))
-    body = render_toc(toc) + body
+    toc_html = render_toc(toc)
+    if toc_html:
+        h1 = re.search(r"<h1>.*?</h1>", body, re.DOTALL)
+        if h1:
+            body = body[: h1.end()] + "\n" + toc_html + body[h1.end() :]
+        else:
+            body = toc_html + body
     return (
         '<!doctype html><html lang="tr"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
