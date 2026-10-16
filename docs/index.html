@@ -118,7 +118,7 @@
 <a class="card" data-g="" data-k="rapor" href="site/raporlar/olcme-hizalama.html"><div class="card-title">Ölçme-Değerlendirme Hizalama Denetimi — P1</div><div class="card-sub">Rapor</div></a>
 </div></section>
 </main>
-<footer>Felsefe Öğretim Kaynakları · Kaynak dosyalar ve sürüm geçmişi: <a href="https://github.com/aytigin-netizen/felsefe-ogretim-kaynaklari">GitHub deposunda</a>.</footer>
+<footer>Felsefe Öğretim Kaynakları · Kaynak dosyalar ve sürüm geçmişi: <a href="https://github.com/aytigin-netizen/felsefe-ogretim-kaynaklari">GitHub deposunda</a> · <a id="geri-bildirim" href="https://github.com/aytigin-netizen/felsefe-ogretim-kaynaklari/issues/new?title=Geri+bildirim%3A+Felsefe+%C3%96%C4%9Fretim+Kaynaklar%C4%B1&amp;body=%23%23+Geri+bildirim%0A%0A-+Sayfa%3A+https%3A%2F%2Faytigin-netizen.github.io%2Ffelsefe-ogretim-kaynaklari%2F%0A-+Tema%3A+__TEMA__%0A%0A%23%23%23+Sorun+ya+da+%C3%B6neri%0A%0A%28+geri+bildiriminizi+buraya+yaz%C4%B1n+%29%0A">Geri bildirim</a>.</footer>
 </div>
 <script>
 (function () {
@@ -210,8 +210,17 @@ fetch("arama-index.json")
 "use strict";
 var kok = document.documentElement;
 var dugme = document.getElementById("tema-dugme");
+var geri = document.getElementById("geri-bildirim");
+var geriTaban = geri ? geri.href : "";
 function etiket() {
   dugme.textContent = kok.getAttribute("data-tema") === "gece" ? "☀ Açık tema" : "☾ Karanlık tema";
+}
+function temaAdi() {
+  var t = kok.getAttribute("data-tema");
+  return t === "gece" ? "karanlık" : t === "gunduz" ? "açık" : "otomatik (sistem)";
+}
+function geriGuncelle() {
+  if (geri) { geri.href = geriTaban.replace("__TEMA__", encodeURIComponent(temaAdi())); }
 }
 if (dugme) {
   dugme.addEventListener("click", function () {
@@ -219,9 +228,11 @@ if (dugme) {
     kok.setAttribute("data-tema", yeni);
     try { localStorage.setItem("tema", yeni); } catch (e) {}
     etiket();
+    geriGuncelle();
   });
   etiket();
 }
+geriGuncelle();
 })();
 </script>
 </body></html>
