@@ -33,7 +33,8 @@ MEB Türkiye Yüzyılı Maarif Modeli Felsefe Dersi Öğretim Programı (2026 on
 │       ├── 06-hukuk-ve-felsefe.md
 │       ├── calisma-kagitlari/                   # 6 çalışma kâğıdı + cevap anahtarı
 │       └── ek-soru-setleri-forum.md             # 6 ünite için ek ölçme görevleri
-├── docs/                                        # Denetim ve durum kayıtları (Markdown)
+├── docs/                       
+                 # Denetim ve durum kayıtları (Markdown)
 │   ├── index.html                               # Statik sitenin ana sayfası (GitHub Pages)
 │   └── site/                                    # Statik site sayfaları
 │       ├── 10-sinif/  11-sinif/                # Ünite ve çalışma kâğıdı sayfaları
@@ -65,7 +66,8 @@ Resmî 2026 programında 10. sınıf toplam 72 ders saati ve 9 üniteden oluşur
 | 7 | Siyaset Felsefesi | 8 | %11 | Tamamlandı (resmî program doğrulamalı) |
 | 8 | Din Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
 | 9 | Bilim Felsefesi | 6 | %8 | Tamamlandı (resmî program doğrulamalı) |
-| — | Okul Temelli Planlama | 4 | %5 | [`mufredat/okul-temelli-planlama.md`](mufredat/okul-temelli-planlama.md) |
+| — | Okul Temelli Planlama | 4 | %5 | [`mufredat/oku
+l-temelli-planlama.md`](mufredat/okul-temelli-planlama.md) |
 
 ## 11. Sınıf Üniteleri
 
@@ -98,11 +100,14 @@ python tools/uret_site.py          # sayfaları yeniden üretir
 python tools/uret_site.py --check  # depodaki sayfalar güncel mi diye bakar
 ```
 
-Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleştirme isteğini durdurur.
+Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişikl
+ikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleştirme isteğini durdurur.
 
 Ana sayfa, materyaller arasında sayfa içeriğini de tarayan anahtar kelime araması ve sınıf/tür filtreleri sunar (arama altyapısı: `docs/arama-index.json`). İçerik sayfalarında yazdırma (PDF) düğmesi ve katlanabilir cevap anahtarı bulunur. Uzun sayfaların başında içindekiler kutusu, her başlığın yanında ise kopyalanabilir çıpa bağlantısı (`#`) yer alır; çıpalar Türkçe karakterlerden arındırılmış kısa adresler üretir. Üretim ayrıca arama motorları için `docs/sitemap.xml` ve `docs/robots.txt` dosyalarını yazar.
 
 Site erişilebilirlik temelleriyle üretilir: her sayfada klavye kullanıcıları için "İçeriğe atla" bağlantısı, tüm etkileşimli öğelerde görünür odak halkası, WCAG AA için düzeltilmiş metin kontrastları, tablolarda `scope` özniteliği, filtre düğmelerinde `aria-pressed` durumu ve `prefers-reduced-motion` desteği bulunur.
+
+Site karanlık mod destekler: işletim sistemi tercihi (`prefers-color-scheme`) otomatik uygulanır; her sayfadaki tema düğmesiyle açık/karanlık arasında manuel geçiş yapılabilir ve seçim `localStorage`'da saklanır. Tüm renkler CSS özel değişkenleri üzerinden tek yerden yönetilir; karanlık palet de WCAG AA kontrast ölçütlerine uyar.
 
 ## Resmî Program Uyumu
 
@@ -116,7 +121,8 @@ python tools/denetle_program_uyumu.py --kaydet  # denetimin o anki bulgularını
 
 Denetim şunları karşılaştırır: her ünite dosyasının ders saati, yüzde oranı ve öğrenme çıktısı sayısı; materyallerde geçen her `FEL.x.x.x` kodunun programda tanımlı olması; program atıflarının kayıttaki yılı ve güncel bağlantıyı göstermesi.
 
-Materyaller 2026 programına uyarlanana kadar açık kalan sapmalar `tools/program-2026-bilinen-ayrismalar.json` dosyasında açıkça listelenir. Denetim her koşuda bu listeyi de yazar: liste dışına çıkan yeni bir sapma CI'ı düşürür, listedeki madde kapatıldığında listeden silinir ve denetim "artık geçerli değil" uyarısı verir.
+Materyaller 2026 programına uyarlanana kadar açık kalan sapmalar `tools/program-20
+26-bilinen-ayrismalar.json` dosyasında açıkça listelenir. Denetim her koşuda bu listeyi de yazar: liste dışına çıkan yeni bir sapma CI'ı düşürür, listedeki madde kapatıldığında listeden silinir ve denetim "artık geçerli değil" uyarısı verir.
 
 ## Yapısal Kalite Denetimi
 

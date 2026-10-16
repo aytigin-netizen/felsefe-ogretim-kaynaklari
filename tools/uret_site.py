@@ -43,28 +43,36 @@ def program_source() -> dict:
     return record["source"]
 
 PAGE_CSS = (
+    ":root{color-scheme:light dark;"
+    "--metin:#1f2430;--arka:#f7f8fa;--vurgu:#2b4c7e;--vurgu2:#3a5a8c;--kenar:#d5dae2;"
+    "--panel:#fff;--panel2:#eef1f6;--altmetin:#5a6472;--odak:#2b4c7e}"
+    ':root[data-tema="gece"]{--metin:#e6e8eb;--arka:#14181f;--vurgu:#8ab4f8;--vurgu2:#a8c7fa;'
+    "--kenar:#39424e;--panel:#1b222c;--panel2:#232c38;--altmetin:#a7b0bd;--odak:#8ab4f8}"
+    '@media (prefers-color-scheme:dark){:root:not([data-tema="gunduz"]){'
+    "--metin:#e6e8eb;--arka:#14181f;--vurgu:#8ab4f8;--vurgu2:#a8c7fa;--kenar:#39424e;"
+    "--panel:#1b222c;--panel2:#232c38;--altmetin:#a7b0bd;--odak:#8ab4f8}}"
     'body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.7;'
-    "color:#1f2430;background:#f7f8fa;margin:0}"
+    "color:var(--metin);background:var(--arka);margin:0}"
     "main{max-width:880px;margin:0 auto;padding:24px 20px 80px}"
-    "h1{font-size:1.7rem;border-bottom:3px solid #2b4c7e;padding-bottom:.4rem}"
-    "h2{margin-top:2rem;color:#2b4c7e}"
-    "h3{margin-top:1.4rem;color:#3a5a8c}"
+    "h1{font-size:1.7rem;border-bottom:3px solid var(--vurgu);padding-bottom:.4rem}"
+    "h2{margin-top:2rem;color:var(--vurgu)}"
+    "h3{margin-top:1.4rem;color:var(--vurgu2)}"
     "table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.95rem}"
-    "th,td{border:1px solid #d5dae2;padding:8px 10px;text-align:left;vertical-align:top}"
-    "th{background:#eef1f6}"
-    "blockquote{border-left:4px solid #2b4c7e;background:#eef1f6;margin:1rem 0;padding:.6rem 1rem}"
-    "code{background:#eef1f6;padding:2px 5px;border-radius:4px;font-size:.92em}"
+    "th,td{border:1px solid var(--kenar);padding:8px 10px;text-align:left;vertical-align:top}"
+    "th{background:var(--panel2)}"
+    "blockquote{border-left:4px solid var(--vurgu);background:var(--panel2);margin:1rem 0;padding:.6rem 1rem}"
+    "code{background:var(--panel2);padding:2px 5px;border-radius:4px;font-size:.92em}"
     "pre{background:#22272e;color:#e6e8eb;padding:14px;border-radius:8px;overflow-x:auto}"
-    "hr{border:none;border-top:1px solid #d5dae2;margin:2rem 0}"
-    "a{color:#2b4c7e}"
-    "nav.top{background:#2b4c7e;color:#fff;padding:10px 20px}"
+    "hr{border:none;border-top:1px solid var(--kenar);margin:2rem 0}"
+    "a{color:var(--vurgu)}"
+    "nav.top{background:var(--vurgu);color:#fff;padding:10px 20px}"
     "nav.top a{color:#fff;text-decoration:none;font-weight:600}"
-    "footer{margin-top:60px;padding-top:16px;border-top:1px solid #d5dae2;font-size:.85rem;color:#5a6472}"
+    "footer{margin-top:60px;padding-top:16px;border-top:1px solid var(--kenar);font-size:.85rem;color:var(--altmetin)}"
     ".page-actions{margin:20px 0 4px;display:flex;gap:10px}"
-    ".page-actions button{background:#2b4c7e;color:#fff;border:none;border-radius:8px;"
+    ".page-actions button{background:var(--vurgu);color:#fff;border:none;border-radius:8px;"
     "padding:8px 16px;font-size:14px;cursor:pointer}"
-    ".page-actions button:hover{background:#1f3a63}"
-    ".icindekiler{border:1px solid #d5dae2;border-radius:8px;background:#fff;margin:20px 0;padding:12px 18px}"
+    ".page-actions button:hover{filter:brightness(.85)}"
+    ".icindekiler{border:1px solid var(--kenar);border-radius:8px;background:var(--panel);margin:20px 0;padding:12px 18px}"
     ".icindekiler h2{margin:0 0 8px;font-size:1.1rem}"
     ".icindekiler ul{list-style:none;margin:0;padding:0;columns:2;column-gap:28px}"
     ".icindekiler li{margin:3px 0;break-inside:avoid}"
@@ -72,14 +80,14 @@ PAGE_CSS = (
     ".icindekiler a{text-decoration:none}"
     ".cink{opacity:0;margin-left:6px;font-size:.8em;text-decoration:none}"
     "h2:hover .cink,h3:hover .cink,.cink:focus{opacity:.6}"
-    "details.cevap{border:1px solid #d5dae2;border-radius:8px;margin:1.5rem 0;background:#fff}"
-    "details.cevap>summary{cursor:pointer;padding:10px 14px;background:#eef1f6;"
-    "font-weight:600;color:#2b4c7e;border-radius:8px}"
-    "details.cevap[open]>summary{border-bottom:1px solid #d5dae2;border-radius:8px 8px 0 0}"
+    "details.cevap{border:1px solid var(--kenar);border-radius:8px;margin:1.5rem 0;background:var(--panel)}"
+    "details.cevap>summary{cursor:pointer;padding:10px 14px;background:var(--panel2);"
+    "font-weight:600;color:var(--vurgu);border-radius:8px}"
+    "details.cevap[open]>summary{border-bottom:1px solid var(--kenar);border-radius:8px 8px 0 0}"
     "details.cevap h2{margin-top:14px}"
     "details.cevap>*:last-child{margin-bottom:14px}"
-    ":focus-visible{outline:3px solid #2b4c7e;outline-offset:2px}"
-    ".atla{position:absolute;left:-9999px;top:0;background:#fff;color:#2b4c7e;"
+    ":focus-visible{outline:3px solid var(--odak);outline-offset:2px}"
+    ".atla{position:absolute;left:-9999px;top:0;background:var(--panel);color:var(--vurgu);"
     "padding:10px 16px;z-index:10;font-weight:600;text-decoration:none}"
     ".atla:focus{left:0}"
     "details.cevap>summary:focus-visible{outline-offset:-3px}"
@@ -90,8 +98,16 @@ PAGE_CSS = (
 )
 
 INDEX_CSS = (
+    ":root{color-scheme:light dark;"
+    "--metin:#222;--arka:#fdfcf8;--vurgu:#3b2f14;--kenar:#e5ddc8;--panel:#fff;"
+    "--altmetin:#6b6350;--altin:#c9a227;--odak:#c9a227}"
+    ':root[data-tema="gece"]{--metin:#e6e8eb;--arka:#14181f;--vurgu:#d7b95c;--kenar:#39424e;'
+    "--panel:#1b222c;--altmetin:#a7b0bd;--altin:#d7b95c;--odak:#d7b95c}"
+    '@media (prefers-color-scheme:dark){:root:not([data-tema="gunduz"]){'
+    "--metin:#e6e8eb;--arka:#14181f;--vurgu:#d7b95c;--kenar:#39424e;--panel:#1b222c;"
+    "--altmetin:#a7b0bd;--altin:#d7b95c;--odak:#d7b95c}}"
     "body{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;margin:0;"
-    "background:#fdfcf8;color:#222;line-height:1.6}"
+    "background:var(--arka);color:var(--metin);line-height:1.6}"
     ".wrap{max-width:1080px;margin:0 auto;padding:24px}"
     ".hero{background:linear-gradient(135deg,#3b2f14,#7a5c2e);color:#fdfcf8;border-radius:14px;"
     "padding:44px 32px;margin-bottom:28px}"
@@ -100,34 +116,38 @@ INDEX_CSS = (
     ".badges{margin-top:18px;display:flex;flex-wrap:wrap;gap:8px}"
     ".badge{background:rgba(253,252,248,.16);border:1px solid rgba(253,252,248,.4);"
     "border-radius:999px;padding:4px 14px;font-size:14px}"
-    "h2{font-size:1.3rem;color:#3b2f14;margin:36px 0 14px;border-bottom:2px solid #c9a227;"
+    "h2{font-size:1.3rem;color:var(--vurgu);margin:36px 0 14px;border-bottom:2px solid var(--altin);"
     "padding-bottom:6px}"
     ".cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}"
-    ".card{display:block;background:#fff;border:1px solid #e5ddc8;border-radius:10px;padding:16px;"
-    "text-decoration:none;color:#222;transition:box-shadow .15s,transform .15s}"
+    ".card{display:block;background:var(--panel);border:1px solid var(--kenar);border-radius:10px;padding:16px;"
+    "text-decoration:none;color:var(--metin);transition:box-shadow .15s,transform .15s}"
     ".card:hover{box-shadow:0 4px 14px rgba(59,47,20,.14);transform:translateY(-2px)}"
-    ".card-title{font-weight:600;color:#3b2f14;margin-bottom:4px}"
-    ".card-sub{font-size:13px;color:#6b6350}"
-    "footer{margin-top:48px;padding-top:18px;border-top:1px solid #e5ddc8;font-size:14px;"
-    "color:#6b6350}"
-    "footer a{color:#7a5c2e}"
+    ".card-title{font-weight:600;color:var(--vurgu);margin-bottom:4px}"
+    ".card-sub{font-size:13px;color:var(--altmetin)}"
+    "footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--kenar);font-size:14px;"
+    "color:var(--altmetin)}"
+    "footer a{color:var(--altin)}"
     ".arama{margin:0 0 20px}"
     ".arama input{width:100%;box-sizing:border-box;padding:12px 16px;font-size:16px;"
-    "border:1px solid #e5ddc8;border-radius:10px;background:#fff;color:#222}"
-    ".arama input:focus{outline:2px solid #c9a227;border-color:#c9a227}"
+    "border:1px solid var(--kenar);border-radius:10px;background:var(--panel);color:var(--metin)}"
+    ".arama input:focus{outline:2px solid var(--odak);border-color:var(--odak)}"
     ".cips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}"
-    ".cip{border:1px solid #e5ddc8;background:#fff;color:#3b2f14;border-radius:999px;"
+    ".cip{border:1px solid var(--kenar);background:var(--panel);color:var(--vurgu);border-radius:999px;"
     "padding:5px 14px;font-size:14px;cursor:pointer}"
-    ".cip.aktif{background:#3b2f14;color:#fdfcf8;border-color:#3b2f14}"
+    ".cip.aktif{background:var(--vurgu);color:var(--arka);border-color:var(--vurgu)}"
+    ".tema-satir{display:flex;justify-content:flex-end;margin:0 0 8px}"
+    ".tema-satir button{background:var(--panel);border:1px solid var(--kenar);color:var(--vurgu);"
+    "border-radius:999px;padding:6px 14px;font-size:14px;cursor:pointer}"
+    ".tema-satir button:hover{filter:brightness(.92)}"
     ".sonuclar{margin:0 0 24px}"
-    ".sonuc{display:block;background:#fff;border:1px solid #e5ddc8;border-radius:10px;"
-    "padding:12px 16px;margin-bottom:8px;text-decoration:none;color:#222}"
+    ".sonuc{display:block;background:var(--panel);border:1px solid var(--kenar);border-radius:10px;"
+    "padding:12px 16px;margin-bottom:8px;text-decoration:none;color:var(--metin)}"
     ".sonuc:hover{box-shadow:0 4px 14px rgba(59,47,20,.14)}"
-    ".sonuc-baslik{font-weight:600;color:#3b2f14}"
-    ".sonuc-alt{font-size:13px;color:#6b6350;margin-top:2px}"
-    ".sonuc-yok{color:#6b6350}"
-    ":focus-visible{outline:3px solid #c9a227;outline-offset:2px}"
-    ".atla{position:absolute;left:-9999px;top:0;background:#fff;color:#3b2f14;"
+    ".sonuc-baslik{font-weight:600;color:var(--vurgu)}"
+    ".sonuc-alt{font-size:13px;color:var(--altmetin);margin-top:2px}"
+    ".sonuc-yok{color:var(--altmetin)}"
+    ":focus-visible{outline:3px solid var(--odak);outline-offset:2px}"
+    ".atla{position:absolute;left:-9999px;top:0;background:var(--panel);color:var(--vurgu);"
     "padding:10px 16px;z-index:10;font-weight:600;text-decoration:none}"
     ".atla:focus{left:0}"
     "@media (prefers-reduced-motion:reduce){.card,.card:hover{transition:none;transform:none}}"
@@ -500,6 +520,32 @@ fetch("arama-index.json")
 </script>"""
 
 
+TEMA_FLASH = (
+    '<script>try{var t=localStorage.getItem("tema");'
+    'if(t)document.documentElement.setAttribute("data-tema",t)}catch(e){}</script>'
+)
+
+TEMA_SCRIPT = """<script>
+(function () {
+"use strict";
+var kok = document.documentElement;
+var dugme = document.getElementById("tema-dugme");
+function etiket() {
+  dugme.textContent = kok.getAttribute("data-tema") === "gece" ? "☀ Açık tema" : "☾ Karanlık tema";
+}
+if (dugme) {
+  dugme.addEventListener("click", function () {
+    var yeni = kok.getAttribute("data-tema") === "gece" ? "gunduz" : "gece";
+    kok.setAttribute("data-tema", yeni);
+    try { localStorage.setItem("tema", yeni); } catch (e) {}
+    etiket();
+  });
+  etiket();
+}
+})();
+</script>"""
+
+
 def meta_description(body: str) -> str:
     """Sayfa gövdesinden arama motorları için kısa açıklama üretir."""
     text = re.sub(r"<[^>]+>", " ", body)
@@ -643,13 +689,16 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         '<meta property="og:locale" content="tr_TR">'
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">'
         f"{favicon_link(output)}"
+        f"{TEMA_FLASH}"
         f"<style>{PAGE_CSS}</style></head><body>"
         '<a class="atla" href="#icerik">İçeriğe atla</a>'
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
-        '<main id="icerik">\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
+        '<main id="icerik">\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button>'
+        '<button type="button" id="tema-dugme" aria-label="Karanlık/açık tema arasında geçiş">☾ Karanlık tema</button></div>\n'
         f"{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
-        f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer></body></html>'
+        f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer>'
+        f"{TEMA_SCRIPT}</body></html>"
     )
 
 def card(href: str, title: str, subtitle: str, grade: str = "", kind: str = "") -> str:
@@ -689,6 +738,7 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         '<meta property="og:locale" content="tr_TR">',
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">',
         favicon_link(SITE / "index.html"),
+        TEMA_FLASH,
         f"<style>{INDEX_CSS}</style></head><body>",
         '<a class="atla" href="#icerik">İçeriğe atla</a>',
         '<div class="wrap">',
@@ -704,6 +754,7 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         f'<span class="badge">{worksheet_total} cevap anahtarı</span>',
         '<span class="badge">2 ek soru seti</span>',
         "</div></div>",
+        '<div class="tema-satir"><button type="button" id="tema-dugme" aria-label="Karanlık/açık tema arasında geçiş">☾ Karanlık tema</button></div>',
         '<div class="arama">',
         '<input id="arama" type="search" placeholder="Materyal ara: ünite, konu, filozof, kazanım…" '
         'aria-label="Materyal ara">',
@@ -732,6 +783,7 @@ def render_index(sections: list[tuple[str, list]]) -> str:
     )
     parts.append("</div>")
     parts.append(INDEX_SCRIPT)
+    parts.append(TEMA_SCRIPT)
     parts.append("</body></html>")
     return "\n".join(parts) + "\n"
 
