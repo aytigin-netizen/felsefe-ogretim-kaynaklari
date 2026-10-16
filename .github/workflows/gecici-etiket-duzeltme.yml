@@ -1,0 +1,43 @@
+name: Gecici etiket duzeltmesi
+on:
+  push:
+    branches: [duzeltme/plan-etiketleri]
+
+permissions:
+  contents: write
+
+jobs:
+  duzelt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: duzeltme/plan-etiketleri
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Duzelt ve yeniden uret
+        run: |
+          set +e
+          {
+            python tools/gecici_etiket_duzelt.py 2>&1
+            python tools/uret_site.py 2>&1
+            python tools/uret_site.py --check 2>&1
+            echo "CHECK_EXIT=$?"
+            python tools/denetle_yapisal_kalite.py 2>&1
+            echo "KALITE_EXIT=$?"
+            grep -o "Haftalik Ders Planlari" docs/index.html | wc -l
+            grep -o "Haftalık Ders Planları" docs/index.html | wc -l
+          } | tee etiket-log.txt
+      - name: Commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -f --quiet tools/gecici_etiket_duzelt.py || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "uret_site: plan etiketlerinde Turkce karakterleri duzelt"
+            git push
+          fi
