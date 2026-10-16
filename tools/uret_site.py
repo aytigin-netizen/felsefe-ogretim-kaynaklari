@@ -7,6 +7,9 @@ Kullanım:
 
 Araç bağımlılık gerektirmez ve felsefi içerik üretmez: yalnızca depodaki
 Markdown dosyalarını HTML'e çevirir ve sayfalar arası bağlantıları kurar.
+
+Üretim ayrıca ana sayfa araması için docs/arama-index.json, arama motorları
+için docs/sitemap.xml ve docs/robots.txt dosyalarını yazar.
 """
 
 from __future__ import annotations
@@ -25,6 +28,7 @@ MUFREDAT = ROOT / "mufredat"
 REPO = "aytigin-netizen/felsefe-ogretim-kaynaklari"
 REPO_URL = f"https://github.com/{REPO}"
 BLOB = f"{REPO_URL}/blob/main"
+SITE_URL = "https://aytigin-netizen.github.io/felsefe-ogretim-kaynaklari/"
 SITE_NAME = "Felsefe Öğretim Kaynakları"
 PROGRAM_RECORD = MUFREDAT / "program-2026-ozet.json"
 SUPPLEMENT_LABELS = {
@@ -56,6 +60,19 @@ PAGE_CSS = (
     "nav.top{background:#2b4c7e;color:#fff;padding:10px 20px}"
     "nav.top a{color:#fff;text-decoration:none;font-weight:600}"
     "footer{margin-top:60px;padding-top:16px;border-top:1px solid #d5dae2;font-size:.85rem;color:#889}"
+    ".page-actions{margin:20px 0 4px;display:flex;gap:10px}"
+    ".page-actions button{background:#2b4c7e;color:#fff;border:none;border-radius:8px;"
+    "padding:8px 16px;font-size:14px;cursor:pointer}"
+    ".page-actions button:hover{background:#1f3a63}"
+    "details.cevap{border:1px solid #d5dae2;border-radius:8px;margin:1.5rem 0;background:#fff}"
+    "details.cevap>summary{cursor:pointer;padding:10px 14px;background:#eef1f6;"
+    "font-weight:600;color:#2b4c7e;border-radius:8px}"
+    "details.cevap[open]>summary{border-bottom:1px solid #d5dae2;border-radius:8px 8px 0 0}"
+    "details.cevap h2{margin-top:14px}"
+    "details.cevap>*:last-child{margin-bottom:14px}"
+    "@media print{nav.top,footer,.page-actions{display:none!important}"
+    "body{background:#fff;color:#000}main{max-width:none;padding:0}"
+    "a{color:#1f2430}pre,blockquote,table,tr{page-break-inside:avoid}}"
 )
 
 INDEX_CSS = (
@@ -80,6 +97,21 @@ INDEX_CSS = (
     "footer{margin-top:48px;padding-top:18px;border-top:1px solid #e5ddc8;font-size:14px;"
     "color:#8a8062}"
     "footer a{color:#7a5c2e}"
+    ".arama{margin:0 0 20px}"
+    ".arama input{width:100%;box-sizing:border-box;padding:12px 16px;font-size:16px;"
+    "border:1px solid #e5ddc8;border-radius:10px;background:#fff;color:#222}"
+    ".arama input:focus{outline:2px solid #c9a227;border-color:#c9a227}"
+    ".cips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}"
+    ".cip{border:1px solid #e5ddc8;background:#fff;color:#3b2f14;border-radius:999px;"
+    "padding:5px 14px;font-size:14px;cursor:pointer}"
+    ".cip.aktif{background:#3b2f14;color:#fdfcf8;border-color:#3b2f14}"
+    ".sonuclar{margin:0 0 24px}"
+    ".sonuc{display:block;background:#fff;border:1px solid #e5ddc8;border-radius:10px;"
+    "padding:12px 16px;margin-bottom:8px;text-decoration:none;color:#222}"
+    ".sonuc:hover{box-shadow:0 4px 14px rgba(59,47,20,.14)}"
+    ".sonuc-baslik{font-weight:600;color:#3b2f14}"
+    ".sonuc-alt{font-size:13px;color:#8a8062;margin-top:2px}"
+    ".sonuc-yok{color:#8a8062}"
 )
 
 REFERENCE_DEFINITION = re.compile(r"^\[([^\]]+)\]:\s*(\S+)(?:\s+\"(.*)\")?\s*$")
@@ -336,6 +368,150 @@ def markdown_to_html(text: str, source: Path) -> str:
     return render_blocks(body.splitlines(), source, references) + render_references(references, body)
 
 
+FAVICON = (
+    '<link rel="icon" href="data:image/svg+xml,<svg xmlns=%27http://www.w3.org/2000/svg%27'
+    ' viewBox=%270 0 100 100%27><text y=%27.9em%27 font-size=%2790%27>📚</text></svg>">'
+)
+
+INDEX_DESCRIPTION = (
+    "MEB 2026 Felsefe Dersi Öğretim Programı için açık kaynaklı 10. ve 11. sınıf felsefe "
+    "öğretim materyalleri: üniteler, çalışma kâğıtları, ek soru setleri, ortak formlar ve "
+    "denetim raporları."
+)
+
+KIND_TR = {
+    "unit": "unite",
+    "worksheet": "calisma-kagidi",
+    "supplement": "ek-soru-seti",
+    "school": "okul-temelli",
+    "shared": "ortak-materyal",
+    "report": "rapor",
+}
+
+INDEX_SCRIPT = """<script>
+(function () {
+"use strict";
+var veriler = null;
+var giris = document.getElementById("arama");
+var cipler = Array.prototype.slice.call(document.querySelectorAll(".cip"));
+var bolumler = Array.prototype.slice.call(document.querySelectorAll(".bolum"));
+var sonuclar = document.getElementById("sonuclar");
+var aktif = { g: "", k: "" };
+
+function kucuk(metin) { return metin.toLocaleLowerCase("tr"); }
+
+function kosul(g, k) {
+  return (!aktif.g || g === aktif.g) && (!aktif.k || k === aktif.k);
+}
+
+function kacis(metin) {
+  return metin.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+}
+
+function kartlariFiltrele() {
+  bolumler.forEach(function (bolum) {
+    var gorunen = 0;
+    Array.prototype.slice.call(bolum.querySelectorAll(".card")).forEach(function (kart) {
+      var uygun = kosul(kart.getAttribute("data-g") || "", kart.getAttribute("data-k") || "");
+      kart.style.display = uygun ? "" : "none";
+      if (uygun) { gorunen += 1; }
+    });
+    bolum.style.display = gorunen ? "" : "none";
+  });
+}
+
+function sonuclariGoster(sorgu) {
+  var kucukSorgu = kucuk(sorgu);
+  var eslesen = [];
+  veriler.forEach(function (kayit) {
+    if (!kosul(kayit.g, kayit.k)) { return; }
+    var vurus = kucuk(kayit.x).indexOf(kucukSorgu);
+    if (vurus === -1 && kucuk(kayit.t + " " + kayit.s).indexOf(kucukSorgu) === -1) { return; }
+    eslesen.push({ kayit: kayit, vurus: vurus });
+  });
+  var icerik = "";
+  eslesen.slice(0, 15).forEach(function (buluntu) {
+    var kayit = buluntu.kayit;
+    var metin = kayit.x;
+    var bas = Math.max(0, buluntu.vurus - 60);
+    var son = Math.min(metin.length, bas + 170);
+    var parcacik = (bas > 0 ? "…" : "") + metin.slice(bas, son) + (son < metin.length ? "…" : "");
+    icerik += '<a class="sonuc" href="' + kayit.u + '">' +
+      '<div class="sonuc-baslik">' + kacis(kayit.t) + '</div>' +
+      '<div class="sonuc-alt">' + kacis(parcacik) + '</div></a>';
+  });
+  if (!icerik) { icerik = '<p class="sonuc-yok">Aramanıza uyan materyal bulunamadı.</p>'; }
+  sonuclar.innerHTML = icerik;
+  sonuclar.hidden = false;
+  bolumler.forEach(function (bolum) { bolum.style.display = "none"; });
+}
+
+function uygula() {
+  var sorgu = giris.value.trim();
+  if (sorgu.length >= 2 && veriler) {
+    sonuclariGoster(sorgu);
+  } else {
+    sonuclar.hidden = true;
+    sonuclar.innerHTML = "";
+    kartlariFiltrele();
+  }
+}
+
+cipler.forEach(function (cip) {
+  cip.addEventListener("click", function () {
+    aktif = { g: cip.getAttribute("data-g") || "", k: cip.getAttribute("data-k") || "" };
+    cipler.forEach(function (c) { c.classList.toggle("aktif", c === cip); });
+    uygula();
+  });
+});
+giris.addEventListener("input", uygula);
+fetch("arama-index.json")
+  .then(function (yanit) { return yanit.json(); })
+  .then(function (veri) { veriler = veri; uygula(); });
+})();
+</script>"""
+
+
+def meta_description(body: str) -> str:
+    """Sayfa gövdesinden arama motorları için kısa açıklama üretir."""
+    text = re.sub(r"<[^>]+>", " ", body)
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > 157:
+        return text[:157].rstrip() + "…"
+    return text
+
+
+ANSWER_KEY_HEADING = re.compile(
+    r"(<h2[^>]*>[^<]*cevap anahtar[^<]*</h2>)(.*?)(?=<h2|\Z)", re.IGNORECASE | re.DOTALL
+)
+
+
+def wrap_answer_keys(body: str) -> str:
+    """"Cevap Anahtarı" başlıklı bölümleri katlanabilir öğeye sarar."""
+
+    def wrap(match: re.Match) -> str:
+        return (
+            '<details class="cevap"><summary>Cevap anahtarı — göstermek için tıklayın</summary>'
+            + match.group(1)
+            + match.group(2)
+            + "</details>"
+        )
+
+    return ANSWER_KEY_HEADING.sub(wrap, body)
+
+
+def plain_text(markdown: str) -> str:
+    """Markdown metni arama dizini için düz metne indirger."""
+    body, _ = split_references(markdown)
+    body = re.sub(r"```.*?```", " ", body, flags=re.DOTALL)
+    body = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", body)
+    body = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", body)
+    body = re.sub(r"[#>*_`|~\[\]-]", " ", body)
+    body = re.sub(r"\s+", " ", body).strip()
+    return body
+
+
 def page_title(markdown: str, fallback: str) -> str:
     for line in markdown.splitlines():
         heading = HEADING.match(line)
@@ -352,21 +528,34 @@ def relative_home(output: Path) -> str:
 def render_page(title: str, body: str, output: Path, source: Path, source_label: str) -> str:
     source_href = f"{BLOB}/{source.relative_to(ROOT).as_posix()}"
     program = program_source()
+    page_url = SITE_URL + output.relative_to(SITE).as_posix()
+    description = meta_description(body)
     return (
         '<!doctype html><html lang="tr"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
         f"<title>{escape(title)}</title>"
+        f'<meta name="description" content="{escape(description, quote=True)}">'
+        f'<link rel="canonical" href="{page_url}">'
+        f'<meta property="og:title" content="{escape(title, quote=True)}">'
+        f'<meta property="og:description" content="{escape(description, quote=True)}">'
+        '<meta property="og:type" content="article">'
+        f'<meta property="og:url" content="{page_url}">'
+        '<meta property="og:locale" content="tr_TR">'
+        f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">'
+        f"{FAVICON}"
         f"<style>{PAGE_CSS}</style></head><body>"
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
-        f"<main>\n{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
+        '<main>\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
+        f"{wrap_answer_keys(body)}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
         f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer></body></html>'
     )
 
 
-def card(href: str, title: str, subtitle: str) -> str:
+def card(href: str, title: str, subtitle: str, grade: str = "", kind: str = "") -> str:
     return (
-        f'<a class="card" href="{escape(href, quote=True)}">'
+        f'<a class="card" data-g="{escape(grade, quote=True)}" data-k="{escape(kind, quote=True)}" '
+        f'href="{escape(href, quote=True)}">'
         f'<div class="card-title">{escape(title)}</div>'
         f'<div class="card-sub">{escape(subtitle)}</div></a>'
     )
@@ -377,7 +566,7 @@ def page_href(output: Path) -> str:
     return output.relative_to(SITE).as_posix()
 
 
-def render_index(sections: list[tuple[str, list[tuple[str, str, str]]]]) -> str:
+def render_index(sections: list[tuple[str, list]]) -> str:
     unit_total = sum(
         len(items) for title, items in sections if title in {"10. Sınıf Üniteleri", "11. Sınıf Üniteleri"}
     )
@@ -391,6 +580,15 @@ def render_index(sections: list[tuple[str, list[tuple[str, str, str]]]]) -> str:
         '<html lang="tr"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">',
         f"<title>{escape(SITE_NAME)}</title>",
+        f'<meta name="description" content="{escape(INDEX_DESCRIPTION, quote=True)}">',
+        f'<link rel="canonical" href="{SITE_URL}">',
+        f'<meta property="og:title" content="{escape(SITE_NAME, quote=True)}">',
+        f'<meta property="og:description" content="{escape(INDEX_DESCRIPTION, quote=True)}">',
+        '<meta property="og:type" content="website">',
+        f'<meta property="og:url" content="{SITE_URL}">',
+        '<meta property="og:locale" content="tr_TR">',
+        f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">',
+        FAVICON,
         f"<style>{INDEX_CSS}</style></head><body><div class=\"wrap\">",
         '<div class="hero">',
         f"<h1>{escape(SITE_NAME)}</h1>",
@@ -403,17 +601,34 @@ def render_index(sections: list[tuple[str, list[tuple[str, str, str]]]]) -> str:
         f'<span class="badge">{worksheet_total} cevap anahtarı</span>',
         '<span class="badge">2 ek soru seti</span>',
         "</div></div>",
+        '<div class="arama">',
+        '<input id="arama" type="search" placeholder="Materyal ara: ünite, konu, filozof, kazanım…" '
+        'aria-label="Materyal ara">',
+        '<div class="cips" role="group" aria-label="Filtreler">',
+        '<button type="button" class="cip aktif">Tümü</button>',
+        '<button type="button" class="cip" data-g="10">10. Sınıf</button>',
+        '<button type="button" class="cip" data-g="11">11. Sınıf</button>',
+        '<button type="button" class="cip" data-k="unite">Üniteler</button>',
+        '<button type="button" class="cip" data-k="calisma-kagidi">Çalışma Kâğıtları</button>',
+        '<button type="button" class="cip" data-k="ek-soru-seti">Ek Soru Setleri</button>',
+        '<button type="button" class="cip" data-k="ortak-materyal">Ortak Materyaller</button>',
+        '<button type="button" class="cip" data-k="rapor">Raporlar</button>',
+        "</div></div>",
+        '<div id="sonuclar" class="sonuclar" hidden aria-live="polite"></div>',
     ]
     for title, items in sections:
+        parts.append('<section class="bolum">')
         parts.append(f"<h2>{escape(title)}</h2>")
         parts.append('<div class="cards">')
-        parts += [card(href, item_title, subtitle) for href, item_title, subtitle in items]
-        parts.append("</div>")
+        parts += [card(href, item_title, subtitle, grade, kind) for href, item_title, subtitle, grade, kind in items]
+        parts.append("</div></section>")
     parts.append(
         f'<footer>{escape(SITE_NAME)} · Kaynak dosyalar ve sürüm geçmişi: '
         f'<a href="{REPO_URL}">GitHub deposunda</a>.</footer>'
     )
-    parts.append("</div></body></html>")
+    parts.append("</div>")
+    parts.append(INDEX_SCRIPT)
+    parts.append("</body></html>")
     return "\n".join(parts) + "\n"
 
 
@@ -509,7 +724,7 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
             ("supplement", f"{label} Ek Soru Setleri"),
         ):
             items = [
-                (page_href(output), card_title(source, page_kind, grade), subtitle)
+                (page_href(output), card_title(source, page_kind, grade), subtitle, grade.split("-")[0], KIND_TR[page_kind])
                 for source, output, subtitle, page_kind in pages
                 if page_kind == kind and output.relative_to(SITE).parts[1] == grade
             ]
@@ -518,7 +733,7 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
 
     for kind, title in (("school", "Okul Temelli Planlama"), ("shared", "Ortak Materyaller"), ("report", "Denetim ve Durum Raporları")):
         items = [
-            (page_href(output), page_title(source.read_text(encoding="utf-8"), humanize(source.stem)), subtitle)
+            (page_href(output), page_title(source.read_text(encoding="utf-8"), humanize(source.stem)), subtitle, "", KIND_TR[page_kind])
             for source, output, subtitle, page_kind in pages
             if page_kind == kind
         ]
@@ -526,6 +741,45 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
             sections.append((title, items))
 
     return pages, sections
+
+
+def build_search_index(
+    pages: list[tuple[Path, Path, str, str]], sections: list[tuple[str, list]]
+) -> str:
+    """Ana sayfa araması için sayfa dizinini JSON olarak üretir."""
+    sources = {page_href(output): source for source, output, _, _ in pages}
+    entries = []
+    for _, items in sections:
+        for href, title, subtitle, grade, kind in items:
+            entries.append(
+                {
+                    "t": title,
+                    "s": subtitle,
+                    "u": href,
+                    "g": grade,
+                    "k": kind,
+                    "x": plain_text(sources[href].read_text(encoding="utf-8")),
+                }
+            )
+    return json.dumps(entries, ensure_ascii=False, indent=1) + "\n"
+
+
+def render_sitemap(pages: list[tuple[Path, Path, str, str]]) -> str:
+    """Arama motorları için sitemap.xml üretir."""
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        f"<url><loc>{SITE_URL}</loc></url>",
+    ]
+    for _, output, _, _ in pages:
+        parts.append(f"<url><loc>{SITE_URL}{page_href(output)}</loc></url>")
+    parts.append("</urlset>")
+    return "\n".join(parts) + "\n"
+
+
+def render_robots() -> str:
+    """robots.txt üretir."""
+    return f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n"
 
 
 def build() -> dict[Path, str]:
@@ -541,6 +795,9 @@ def build() -> dict[Path, str]:
             source.name,
         )
     produced[SITE / "index.html"] = render_index(sections)
+    produced[SITE / "arama-index.json"] = build_search_index(pages, sections)
+    produced[SITE / "sitemap.xml"] = render_sitemap(pages)
+    produced[SITE / "robots.txt"] = render_robots()
     return produced
 
 

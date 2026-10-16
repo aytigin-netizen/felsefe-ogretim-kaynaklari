@@ -100,6 +100,8 @@ python tools/uret_site.py --check  # depodaki sayfalar güncel mi diye bakar
 
 Markdown kaynaklarını değiştirdikten sonra `--check` kırmızı verir; `python tools/uret_site.py` ile yeniden üretip aynı değişiklikle gönderin. CI, her değişiklikte `--check`'i çalıştırdığı için kaynak ile site arasındaki kayma birleşik isteği durdurur.
 
+Ana sayfa, materyaller arasında sayfa içeriğini de tarayan anahtar kelime araması ve sınıf/tür filtreleri sunar (arama altyapısı: `docs/arama-index.json`). İçerik sayfalarında yazdırma (PDF) düğmesi ve katlanabilir cevap anahtarı bulunur. Üretim ayrıca arama motorları için `docs/sitemap.xml` ve `docs/robots.txt` dosyalarını yazar.
+
 ## Resmî Program Uyumu
 
 Materyallerin dayandığı tek resmî kaynak, MEB'in yayımladığı **2026 Felsefe Dersi Öğretim Programı**'dır. Programın ünite, ders saati, yüzde oranı ve öğrenme çıktı bilgisi `mufredat/program-2026-ozet.json` kaydında tutulur. Bu kayıt elle yazılmamıştır: `tools/program-ozeti-uret.py` aracı program PDF'sini okuyup üretir ve kaydın `sha256` özetiyle birlikte kaynağını tutar.
