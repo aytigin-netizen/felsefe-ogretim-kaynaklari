@@ -32,3 +32,6 @@ jobs:
 
       - name: Statik sitenin üretimle uyuştuğunu doğrula
         run: python tools/uret_site.py --check
+
+      - name: Haftalık ders planlarının üretimle uyuştuğunu doğrula
+        run: python tools/uret_plan.py --check
