@@ -94,7 +94,7 @@ def assessment_total(text: str) -> int | None:
 
 def local_link_error(source: Path, target: str) -> str | None:
     target = target.strip()
-    if not target or target.startswith("#") or re.match(r"^(?:https?|mailto|tel):", target, re.IGNORECASE):
+    if not target or target.startswith("#") or re.match(r"^(?:https?|mailto|tel|data):", target, re.IGNORECASE):
         return None
     target = target.split("#", 1)[0].strip().strip("<>")
     if not target:
@@ -189,6 +189,9 @@ def site_link_errors(source: Path) -> list[str]:
     """Statik sayfadaki yerel ve depo içi GitHub bağlantılarını doğrular."""
     issues: list[str] = []
     text = source.read_text(encoding="utf-8")
+    # <script> blokları bağlantı denetimine girmez; JavaScript içindeki dizeler
+    # sahte href/src değeri üretir. Ayrıca veri URI'leri (data:) şema muafiyetindedir.
+    text = re.sub(r"<script\b.*?</script>", " ", text, flags=re.DOTALL | re.IGNORECASE)
     label = str(source.relative_to(ROOT))
     for target in re.findall(r'(?:href|src)="([^"]+)"', text):
         issue = local_link_error(source, target)

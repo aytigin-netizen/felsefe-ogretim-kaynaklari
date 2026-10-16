@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aytigin-netizen.github.io/felsefe-ogretim-kaynaklari/sitemap.xml
