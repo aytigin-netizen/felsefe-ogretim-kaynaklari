@@ -368,10 +368,16 @@ def markdown_to_html(text: str, source: Path) -> str:
     return render_blocks(body.splitlines(), source, references) + render_references(references, body)
 
 
-FAVICON = (
-    '<link rel="icon" href="data:image/svg+xml,<svg xmlns=%27http://www.w3.org/2000/svg%27'
-    ' viewBox=%270 0 100 100%27><text y=%27.9em%27 font-size=%2790%27>📚</text></svg>">'
+FAVICON_SVG = (
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">'
+    '<text y="0.9em" font-size="90">📚</text></svg>'
 )
+
+
+def favicon_link(output: Path) -> str:
+    """Sayfa derinliğine göre favicon.svg bağlantısı üretir."""
+    prefix = "../" * (len(output.relative_to(SITE).parts) - 1)
+    return f'<link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">'
 
 INDEX_DESCRIPTION = (
     "MEB 2026 Felsefe Dersi Öğretim Programı için açık kaynaklı 10. ve 11. sınıf felsefe "
@@ -542,7 +548,7 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         f'<meta property="og:url" content="{page_url}">'
         '<meta property="og:locale" content="tr_TR">'
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">'
-        f"{FAVICON}"
+        f"{favicon_link(output)}"
         f"<style>{PAGE_CSS}</style></head><body>"
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
         '<main>\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
@@ -588,7 +594,7 @@ def render_index(sections: list[tuple[str, list]]) -> str:
         f'<meta property="og:url" content="{SITE_URL}">',
         '<meta property="og:locale" content="tr_TR">',
         f'<meta property="og:site_name" content="{escape(SITE_NAME, quote=True)}">',
-        FAVICON,
+        favicon_link(SITE / "index.html"),
         f"<style>{INDEX_CSS}</style></head><body><div class=\"wrap\">",
         '<div class="hero">',
         f"<h1>{escape(SITE_NAME)}</h1>",
@@ -795,6 +801,7 @@ def build() -> dict[Path, str]:
             source.name,
         )
     produced[SITE / "index.html"] = render_index(sections)
+    produced[SITE / "favicon.svg"] = FAVICON_SVG + "\n"
     produced[SITE / "arama-index.json"] = build_search_index(pages, sections)
     produced[SITE / "sitemap.xml"] = render_sitemap(pages)
     produced[SITE / "robots.txt"] = render_robots()
