@@ -64,15 +64,24 @@ PAGE_CSS = (
     ".page-actions button{background:#2b4c7e;color:#fff;border:none;border-radius:8px;"
     "padding:8px 16px;font-size:14px;cursor:pointer}"
     ".page-actions button:hover{background:#1f3a63}"
+    ".icindekiler{border:1px solid #d5dae2;border-radius:8px;background:#fff;margin:20px 0;padding:12px 18px}"
+    ".icindekiler h2{margin:0 0 8px;font-size:1.1rem}"
+    ".icindekiler ul{list-style:none;margin:0;padding:0;columns:2;column-gap:28px}"
+    ".icindekiler li{margin:3px 0;break-inside:avoid}"
+    ".icindekiler li.d3{padding-left:16px;font-size:.93em}"
+    ".icindekiler a{text-decoration:none}"
+    ".cink{opacity:0;margin-left:6px;font-size:.8em;text-decoration:none}"
+    "h2:hover .cink,h3:hover .cink,.cink:focus{opacity:.6}"
     "details.cevap{border:1px solid #d5dae2;border-radius:8px;margin:1.5rem 0;background:#fff}"
     "details.cevap>summary{cursor:pointer;padding:10px 14px;background:#eef1f6;"
     "font-weight:600;color:#2b4c7e;border-radius:8px}"
     "details.cevap[open]>summary{border-bottom:1px solid #d5dae2;border-radius:8px 8px 0 0}"
     "details.cevap h2{margin-top:14px}"
     "details.cevap>*:last-child{margin-bottom:14px}"
-    "@media print{nav.top,footer,.page-actions{display:none!important}"
+    "@media print{nav.top,footer,.page-actions,.cink{display:none!important}"
     "body{background:#fff;color:#000}main{max-width:none;padding:0}"
     "a{color:#1f2430}pre,blockquote,table,tr{page-break-inside:avoid}}"
+    "@media (max-width:640px){.icindekiler ul{columns:1}}"
 )
 
 INDEX_CSS = (
@@ -507,6 +516,70 @@ def wrap_answer_keys(body: str) -> str:
     return ANSWER_KEY_HEADING.sub(wrap, body)
 
 
+ANSWER_KEY_BLOCK = re.compile(r'(<details class="cevap">.*?</details>)', re.DOTALL)
+HEADING_TAG = re.compile(r"<h([23])>(.*?)</h\1>", re.DOTALL)
+TR_SLUG = str.maketrans(
+    {
+        "ç": "c", "Ç": "c", "ğ": "g", "Ğ": "g", "ı": "i", "İ": "i", "I": "i",
+        "ö": "o", "Ö": "o", "ş": "s", "Ş": "s", "ü": "u", "Ü": "u",
+    }
+)
+
+
+def slugify(text: str) -> str:
+    """Başlık metninden URL dostu, Türkçe karakterlerden arındırılmış kimlik üretir."""
+    plain = html.unescape(re.sub(r"<[^>]+>", "", text))
+    plain = plain.translate(TR_SLUG).lower()
+    plain = re.sub(r"[^a-z0-9]+", "-", plain).strip("-")
+    return plain or "bolum"
+
+
+def add_heading_anchors(body: str) -> tuple[str, list[tuple[int, str, str]]]:
+    """h2/h3 başlıklarına sayfa içi kimlik ve çıpa bağlantısı ekler.
+
+    Katlanabilir cevap anahtarı bloklarının içindeki başlıklar bilinçli olarak
+    dokunulmaz: içindekiler listesi öğrenciden gizli tutulan cevaplara bağlantı vermez.
+    Dönen liste (seviye, kimlik, başlık) üçlüleri içindekiler kutusu içindir.
+    """
+    entries: list[tuple[int, str, str]] = []
+    used: dict[str, int] = {}
+
+    def replace(match: re.Match) -> str:
+        level = int(match.group(1))
+        inner = match.group(2)
+        slug = slugify(inner)
+        used[slug] = used.get(slug, 0) + 1
+        if used[slug] > 1:
+            slug = f"{slug}-{used[slug]}"
+        entries.append((level, slug, inner))
+        anchor = (
+            f' <a class="cink" href="#{slug}" aria-label="Bu başlığın bağlantısı">#</a>'
+        )
+        return f'<h{level} id="{slug}">{inner}{anchor}</h{level}>'
+
+    rebuilt = []
+    for segment in ANSWER_KEY_BLOCK.split(body):
+        if segment.startswith('<details class="cevap">'):
+            rebuilt.append(segment)
+        else:
+            rebuilt.append(HEADING_TAG.sub(replace, segment))
+    return "".join(rebuilt), entries
+
+
+def render_toc(entries: list[tuple[int, str, str]]) -> str:
+    """Uzun sayfaların başına içindekiler kutusu koyar; kısa sayfalarda boş döner."""
+    if len(entries) < 3:
+        return ""
+    items = "".join(
+        f'<li class="d{level}"><a href="#{slug}">{text}</a></li>'
+        for level, slug, text in entries
+    )
+    return (
+        '<nav class="icindekiler" aria-label="İçindekiler"><h2>İçindekiler</h2>'
+        f"<ul>{items}</ul></nav>"
+    )
+
+
 def plain_text(markdown: str) -> str:
     """Markdown metni arama dizini için düz metne indirger."""
     body, _ = split_references(markdown)
@@ -536,6 +609,8 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
     program = program_source()
     page_url = SITE_URL + output.relative_to(SITE).as_posix()
     description = meta_description(body)
+    body, toc = add_heading_anchors(wrap_answer_keys(body))
+    body = render_toc(toc) + body
     return (
         '<!doctype html><html lang="tr"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -552,11 +627,10 @@ def render_page(title: str, body: str, output: Path, source: Path, source_label:
         f"<style>{PAGE_CSS}</style></head><body>"
         f'<nav class="top"><a href="{relative_home(output)}">← Ana Sayfa · {escape(SITE_NAME)}</a></nav>'
         '<main>\n<div class="page-actions"><button type="button" onclick="window.print()">🖨 Yazdır / PDF olarak kaydet</button></div>\n'
-        f"{wrap_answer_keys(body)}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
+        f"{body}\n</main><footer>Bu sayfa <a href=\"{source_href}\">{escape(source_label)}</a> "
         f"Markdown materyalinden üretilmiştir. Resmî kaynak: "
         f'<a href="{program["url"]}">MEB Felsefe Dersi Öğretim Programı ({program["year"]})</a>.</footer></body></html>'
     )
-
 
 def card(href: str, title: str, subtitle: str, grade: str = "", kind: str = "") -> str:
     return (
