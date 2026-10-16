@@ -1,0 +1,49 @@
+name: Gecici site uretimi
+on:
+  push:
+    branches: [ozellik/haftalik-planlar-sitede]
+
+permissions:
+  contents: write
+
+jobs:
+  uret:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ozellik/haftalik-planlar-sitede
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Yamayi uygula ve siteyi uret
+        run: |
+          set +e
+          {
+            python tools/gecici_plan_patch.py 2>&1
+            echo "PATCH_EXIT=$?"
+            python tools/uret_site.py 2>&1
+            echo "SITE_EXIT=$?"
+            python tools/uret_site.py --check 2>&1
+            echo "SITE_CHECK_EXIT=$?"
+            python tools/uret_plan.py --check 2>&1
+            echo "PLAN_CHECK_EXIT=$?"
+            python tools/denetle_yapisal_kalite.py 2>&1
+            echo "KALITE_EXIT=$?"
+            echo "=== plan sayfa sayisi ==="
+            find docs/site -path "*gunluk-planlar*" -name "*.html" | sort | wc -l
+            echo "=== ana sayfada plan kartlari ==="
+            grep -c "gunluk-planlar" docs/index.html || true
+          } | tee site-uretim-log.txt
+      - name: Degisiklikleri commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -f --quiet tools/gecici_plan_patch.py || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "uret_site: haftalik plan sayfalari dahil siteyi yeniden uret"
+            git push
+          fi
