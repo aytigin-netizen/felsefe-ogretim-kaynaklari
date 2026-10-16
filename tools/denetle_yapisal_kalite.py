@@ -191,7 +191,7 @@ def site_link_errors(source: Path) -> list[str]:
     text = source.read_text(encoding="utf-8")
     # <script> blokları bağlantı denetimine girmez; JavaScript içindeki dizeler
     # sahte href/src değeri üretir. Ayrıca veri URI'leri (data:) şema muafiyetindedir.
-    text = re.sub(r"<script\\b.*?</script>", " ", text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r"<script\b.*?</script>", " ", text, flags=re.DOTALL | re.IGNORECASE)
     label = str(source.relative_to(ROOT))
     for target in re.findall(r'(?:href|src)="([^"]+)"', text):
         issue = local_link_error(source, target)
