@@ -185,7 +185,13 @@ def parse_components(text: str, outcome_codes: list[str]) -> list[tuple[str, str
 
 def parse_concepts(text: str) -> list[str]:
     block = section(text, r"^##\s+Anahtar Kavramlar")
-    return re.findall(r"^\|\s*\*\*(.+?)\*\*\s*\|", block, flags=re.MULTILINE)
+    concepts = re.findall(r"^\|\s*\*\*(.+?)\*\*\s*\|", block, flags=re.MULTILINE)
+    if not concepts:
+        # "Anahtar Kavramlar" bölümü yoksa Felsefi Çekirdek içindeki "Kavram" tablosu kullanılır.
+        block = section(text, r"^##\s+Felsefi Çekirdek")
+        if re.search(r"^\|\s*Kavram\s*\|", block, flags=re.MULTILINE):
+            concepts = re.findall(r"^\|\s*\*\*(.+?)\*\*\s*\|", block, flags=re.MULTILINE)
+    return concepts
 
 
 def parse_matrix(text: str) -> list[dict]:
