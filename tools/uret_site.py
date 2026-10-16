@@ -152,6 +152,16 @@ INDEX_CSS = (
     ".atla{position:absolute;left:-9999px;top:0;background:var(--panel);color:var(--vurgu);"
     "padding:10px 16px;z-index:10;font-weight:600;text-decoration:none}"
     ".atla:focus{left:0}"
+    ".plan-grup{border:1px solid var(--kenar);border-radius:10px;background:var(--panel);margin:0}"
+    ".plan-grup+.plan-grup{margin-top:10px}"
+    ".plan-grup>summary{cursor:pointer;padding:12px 16px;font-weight:600;color:var(--vurgu);list-style:none;position:relative}"
+    ".plan-grup>summary::-webkit-details-marker{display:none}"
+    ".plan-grup>summary::after{content:'▾';position:absolute;right:16px}"
+    ".plan-grup[open]>summary::after{content:'▴'}"
+    ".plan-grup>summary:hover{background:var(--panel2)}"
+    ".plan-liste{padding:10px 16px 14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:8px}"
+    ".plan-liste a{font-size:14px;text-decoration:none;color:var(--metin);padding:7px 10px;border:1px solid var(--kenar);border-radius:8px;background:var(--panel)}"
+    ".plan-liste a:hover{box-shadow:0 2px 8px rgba(59,47,20,.12);border-color:var(--altin)}"
     "@media (prefers-reduced-motion:reduce){.card,.card:hover{transition:none;transform:none}}"
 )
 
@@ -459,7 +469,7 @@ function kacis(metin) {
 function kartlariFiltrele() {
   bolumler.forEach(function (bolum) {
     var gorunen = 0;
-    Array.prototype.slice.call(bolum.querySelectorAll(".card")).forEach(function (kart) {
+    Array.prototype.slice.call(bolum.querySelectorAll(".card, .plan-grup")).forEach(function (kart) {
       var uygun = kosul(kart.getAttribute("data-g") || "", kart.getAttribute("data-k") || "");
       kart.style.display = uygun ? "" : "none";
       if (uygun) { gorunen += 1; }
@@ -748,6 +758,36 @@ def page_href(output: Path) -> str:
     return output.relative_to(SITE).as_posix()
 
 
+def render_plan_groups(items: list) -> list[str]:
+    """Haftalık plan kartlarını ünite başına katlanabilir grup olarak basar."""
+    groups: dict[str, list[tuple[int, str, str]]] = {}
+    for href, title, subtitle, grade, kind in items:
+        match = re.match(r"Haftalık Ders Planı — .*?, (.*?), (\d+)\. Hafta$", title)
+        if not match:
+            continue
+        label, week = match.group(1), int(match.group(2))
+        groups.setdefault(label, []).append((week, href, grade))
+
+    def sort_key(label: str) -> tuple[int, int]:
+        number = re.match(r"(\d+)\. Ünite", label)
+        return (2, 0) if number is None else (1, int(number.group(1)))
+
+    parts: list[str] = []
+    for label in sorted(groups, key=sort_key):
+        weeks = sorted(groups[label])
+        grade = weeks[0][2]
+        links = "".join(
+            '<a href="{}">Hafta {}</a>'.format(escape(href), week) for week, href, _ in weeks
+        )
+        parts.append(
+            '<details class="plan-grup" data-g="{}" data-k="haftalik-plan">'.format(escape(grade))
+            + "<summary>{}</summary>".format(escape(label))
+            + '<div class="plan-liste">{}</div>'.format(links)
+            + "</details>"
+        )
+    return parts
+
+
 def render_index(sections: list[tuple[str, list]]) -> str:
     unit_total = sum(
         len(items) for title, items in sections if title in {"10. Sınıf Üniteleri", "11. Sınıf Üniteleri"}
@@ -806,9 +846,13 @@ def render_index(sections: list[tuple[str, list]]) -> str:
     for title, items in sections:
         parts.append('<section class="bolum">')
         parts.append(f"<h2>{escape(title)}</h2>")
-        parts.append('<div class="cards">')
-        parts += [card(href, item_title, subtitle, grade, kind) for href, item_title, subtitle, grade, kind in items]
-        parts.append("</div></section>")
+        if title.endswith("Haftalık Ders Planları"):
+            parts += render_plan_groups(items)
+        else:
+            parts.append('<div class="cards">')
+            parts += [card(href, item_title, subtitle, grade, kind) for href, item_title, subtitle, grade, kind in items]
+            parts.append("</div>")
+        parts.append("</section>")
     parts.append("</main>")
     parts.append(
         f'<footer>{escape(SITE_NAME)} · Kaynak dosyalar ve sürüm geçmişi: '
@@ -912,9 +956,9 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
     for grade, label in (("10-sinif", "10. Sınıf"), ("11-sinif", "11. Sınıf")):
         for kind, title in (
             ("unit", f"{label} Üniteleri"),
+            ("plan", f"{label} Haftalık Ders Planları"),
             ("worksheet", f"{label} Çalışma Kâğıtları"),
             ("supplement", f"{label} Ek Soru Setleri"),
-            ("plan", f"{label} Haftalık Ders Planları"),
         ):
             items = [
                 (page_href(output), card_title(source, page_kind, grade), subtitle, grade.split("-")[0], KIND_TR[page_kind])
