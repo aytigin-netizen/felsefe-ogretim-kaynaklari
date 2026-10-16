@@ -1,0 +1,14 @@
+Turkce etiket duzeltmesi uygulandi
+120 sayfa üretildi: docs
+Statik site güncel: 120 dosya üretimle birebir aynı.
+CHECK_EXIT=0
+Yapısal kalite denetimi BAŞARILI.
+- 10. sınıf: 9 ünite ve 9 çalışma kâğıdı
+- 11. sınıf: 6 ünite ve 6 çalışma kâğıdı
+- Her ünitede ders saati, öğrenme çıktısı kodu ve 100 puanlık ölçme yapısı doğrulandı
+- Her sınıf düzeyinde ek soru setleri tüm üniteleri kurgu, soru ve öğretmen notuyla kapsıyor
+- Depo kapsamındaki Markdown dosyalarında bozuk yerel bağlantı bulunmadı
+- Statik sitedeki 116 sayfanın yerel ve depo bağlantıları doğrulandı
+KALITE_EXIT=0
+0
+2

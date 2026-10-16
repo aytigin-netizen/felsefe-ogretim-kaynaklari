@@ -856,7 +856,7 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
                 (worksheet, SITE / "site" / grade / f"{worksheet.stem}.html", "Öğrenci çalışma kâğıdı + cevap anahtarı", "worksheet")
             )
         for plan in sorted((MUFREDAT / grade / "gunluk-planlar").glob("*.md")):
-            pages.append((plan, SITE / "site" / grade / "gunluk-planlar" / f"{plan.stem}.html", "Haftalik ders plani", "plan"))
+            pages.append((plan, SITE / "site" / grade / "gunluk-planlar" / f"{plan.stem}.html", "Haftalık ders planı", "plan"))
         for supplement in sorted((MUFREDAT / grade).glob("ek-soru-setleri-*.md")):
             unit_word = "Dokuz" if grade == "10-sinif" else "Altı"
             pages.append(
@@ -914,7 +914,7 @@ def discover() -> tuple[list[tuple[Path, Path, str, str]], list[tuple[str, list[
             ("unit", f"{label} Üniteleri"),
             ("worksheet", f"{label} Çalışma Kâğıtları"),
             ("supplement", f"{label} Ek Soru Setleri"),
-            ("plan", f"{label} Haftalik Ders Planlari"),
+            ("plan", f"{label} Haftalık Ders Planları"),
         ):
             items = [
                 (page_href(output), card_title(source, page_kind, grade), subtitle, grade.split("-")[0], KIND_TR[page_kind])
