@@ -47,7 +47,7 @@
 
 **Yöntem ve teknikler:** Ünite dosyasındaki etkinlik tanımlarında belirtilen yöntem ve teknikler (iş birlikli çalışma, tartışma, bireysel yazım, karşılaştırma tablosu vb.) uygulanır.
 
-**Araç-gereç:** Ünite dosyasındaki etkinlik materyalleri ve [çalışma kâğıdı](../calisma-kagitlari/02-felsefe-mantik-argumantasyon-ck.md).
+**Araç-gereç:** Ünite dosyasındaki etkinlik materyalleri ve [çalışma kâğıdı](../calisma-kagitlari/02-mantik-argumantasyon-ck.md).
 
 ## 3. Ölçme ve Değerlendirme (Süreç Odaklı)
 
@@ -67,5 +67,5 @@ Değerlendirme formları: [ortak değerlendirme formları](../../ortak-materyall
 ## 5. Kaynak ve Materyal Bağlantıları
 
 - [Ünite materyali: 2. Felsefe, Mantık ve Argümantasyon](../02-felsefe-mantik-argumantasyon.md)
-- [Çalışma kâğıdı ve cevap anahtarı](../calisma-kagitlari/02-felsefe-mantik-argumantasyon-ck.md)
+- [Çalışma kâğıdı ve cevap anahtarı](../calisma-kagitlari/02-mantik-argumantasyon-ck.md)
 - MEB Felsefe Dersi Öğretim Programı (2026): resmî öğrenme çıktısı ve süreç bileşenleri bu programdan alınmıştır.

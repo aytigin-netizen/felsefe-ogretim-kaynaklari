@@ -5,10 +5,13 @@ URET_EXIT_CODE=0
 Haftalık planlar güncel: 72 dosya üretimle birebir aynı.
 CHECK_EXIT_CODE=0
 === yapisal kalite ===
-Yapısal kalite denetimi BAŞARISIZ.
-- mufredat/10-sinif/gunluk-planlar/hafta-01-felsefe-mantik-argumantasyon.md → ../calisma-kagitlari/02-felsefe-mantik-argumantasyon-ck.md: hedef bulunamadı
-- mufredat/10-sinif/gunluk-planlar/hafta-02-felsefe-mantik-argumantasyon.md → ../calisma-kagitlari/02-felsefe-mantik-argumantasyon-ck.md: hedef bulunamadı
-- mufredat/10-sinif/gunluk-planlar/hafta-03-felsefe-mantik-argumantasyon.md → ../calisma-kagitlari/02-felsefe-mantik-argumantasyon-ck.md: hedef bulunamadı
+Yapısal kalite denetimi BAŞARILI.
+- 10. sınıf: 9 ünite ve 9 çalışma kâğıdı
+- 11. sınıf: 6 ünite ve 6 çalışma kâğıdı
+- Her ünitede ders saati, öğrenme çıktısı kodu ve 100 puanlık ölçme yapısı doğrulandı
+- Her sınıf düzeyinde ek soru setleri tüm üniteleri kurgu, soru ve öğretmen notuyla kapsıyor
+- Depo kapsamındaki Markdown dosyalarında bozuk yerel bağlantı bulunmadı
+- Statik sitedeki 44 sayfanın yerel ve depo bağlantıları doğrulandı
 === dosya listesi ===
 mufredat/10-sinif/gunluk-planlar/hafta-01-ahlak-felsefesi.md
 mufredat/10-sinif/gunluk-planlar/hafta-01-bilgi-felsefesi.md
